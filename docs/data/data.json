@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T18:21:43+00:00",
+  "generatedAt": "2026-09-20T18:46:59+00:00",
   "date": "2026-09-20",
   "etf": {
     "sym": "QTUM",
@@ -527,92 +527,355 @@
       ],
       "asOf": "2026-09-18",
       "stale": false
+    },
+    {
+      "sym": "QNT",
+      "name": "Quantinuum",
+      "approach": "Trapped ion",
+      "group": "emerging",
+      "core": [
+        "hw",
+        "ec",
+        "sw"
+      ],
+      "part": [],
+      "price": 51.58,
+      "chgPct": -5.36,
+      "series": [
+        58.71,
+        56.59,
+        56.06,
+        71.74,
+        68.5,
+        63.59,
+        66.01,
+        59.5,
+        56.0,
+        54.9,
+        56.6,
+        52.07,
+        53.89,
+        53.29,
+        54.0,
+        49.92,
+        50.1,
+        47.66,
+        48.0,
+        48.7,
+        49.65,
+        50.47,
+        48.89,
+        48.67,
+        49.03,
+        49.1,
+        48.65,
+        52.01,
+        54.5,
+        51.58
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "XNDU",
+      "name": "Xanadu",
+      "approach": "Photonic",
+      "group": "emerging",
+      "core": [
+        "hw",
+        "sw"
+      ],
+      "part": [
+        "ec"
+      ],
+      "price": 7.42,
+      "chgPct": -3.13,
+      "series": [
+        11.0,
+        10.55,
+        10.34,
+        10.62,
+        10.78,
+        11.53,
+        11.25,
+        10.46,
+        10.37,
+        10.11,
+        10.95,
+        10.45,
+        10.62,
+        10.26,
+        10.38,
+        10.51,
+        10.76,
+        9.93,
+        9.94,
+        10.02,
+        9.72,
+        9.59,
+        9.05,
+        8.98,
+        8.62,
+        8.02,
+        7.8,
+        7.5,
+        7.66,
+        7.42
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "INFQ",
+      "name": "Infleqtion",
+      "approach": "Neutral atom",
+      "group": "emerging",
+      "core": [
+        "hw",
+        "sen"
+      ],
+      "part": [
+        "sw"
+      ],
+      "price": 13.23,
+      "chgPct": -4.55,
+      "series": [
+        11.91,
+        11.69,
+        11.82,
+        12.36,
+        12.18,
+        12.86,
+        13.41,
+        12.91,
+        12.5,
+        12.55,
+        14.12,
+        13.05,
+        13.83,
+        13.53,
+        14.32,
+        12.8,
+        13.07,
+        12.69,
+        12.65,
+        12.66,
+        12.85,
+        13.66,
+        13.26,
+        12.96,
+        13.12,
+        12.6,
+        12.67,
+        12.84,
+        13.86,
+        13.23
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "HQ",
+      "name": "Horizon Quantum",
+      "approach": "Quantum software",
+      "group": "emerging",
+      "core": [
+        "sw"
+      ],
+      "part": [],
+      "price": 13.54,
+      "chgPct": 0.22,
+      "series": [
+        14.13,
+        12.56,
+        12.49,
+        14.93,
+        16.67,
+        16.99,
+        16.8,
+        16.77,
+        16.82,
+        17.4,
+        19.93,
+        19.44,
+        19.38,
+        17.65,
+        16.47,
+        15.18,
+        14.81,
+        14.59,
+        17.5,
+        15.79,
+        15.56,
+        16.14,
+        16.07,
+        15.45,
+        15.22,
+        10.34,
+        13.2,
+        13.56,
+        13.51,
+        13.54
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "PSQL",
+      "name": "Pasqal",
+      "approach": "Neutral atom",
+      "group": "emerging",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "sw"
+      ],
+      "price": 7.64,
+      "chgPct": -3.41,
+      "series": [
+        19.11,
+        17.3,
+        15.56,
+        12.19,
+        9.75,
+        7.96,
+        8.04,
+        8.21,
+        7.79,
+        7.98,
+        8.31,
+        7.77,
+        7.45,
+        7.91,
+        7.64
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "IQMX",
+      "name": "IQM Quantum Computers",
+      "approach": "Superconducting",
+      "group": "emerging",
+      "core": [
+        "hw"
+      ],
+      "part": [],
+      "price": 9.54,
+      "chgPct": 7.92,
+      "series": [
+        9.35,
+        9.46,
+        9.16,
+        9.11,
+        9.82,
+        9.9,
+        9.92,
+        9.8,
+        10.07,
+        9.68,
+        11.11,
+        10.44,
+        10.7,
+        10.99,
+        10.81,
+        10.59,
+        10.49,
+        10.48,
+        10.94,
+        10.8,
+        10.8,
+        10.49,
+        10.4,
+        10.23,
+        10.32,
+        9.82,
+        9.31,
+        9.33,
+        8.84,
+        9.54
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
     }
   ],
   "brief": {
-    "headline": "IonQ surged 22% on a big European quantum-key-distribution deal as physicists confirmed entanglement in the LHC's heaviest particles.",
-    "summary": "IonQ's stock jumped after it deployed one of Europe's largest quantum key distribution networks, while Rigetti and D-Wave had mixed days amid funding news, legal scrutiny, and a broader sector rally tied to government interest. In the lab, physicists confirmed quantum entanglement among top quarks at the LHC and Stuttgart researchers set new stability records for Rydberg atoms, both incremental s…"
+    "headline": "Quantum stocks fell on Friday's close even as IonQ launched a commercial quantum computer in Chattanooga and physicists set new qubit-stability records.",
+    "summary": "IonQ's EPB-backed Forte Enterprise quantum computer went live in Chattanooga just as quantum stocks broadly closed lower on the last trading day, highlighting a gap between commercial momentum and market sentiment. In the lab, researchers unveiled a new cross-platform benchmark exposing today's hardware limits alongside record-stable Rydberg atoms and diamond sensors that can read the heart's mag…"
   },
   "marketNews": [
-    {
-      "source": "Stocktwits",
-      "published": "2026-09-20T06:26+00:00",
-      "ticker": "IONQ",
-      "title": "IONQ Stock Soars 22% As Company Deploys One Of Europe’s Largest Operational Quantum Key Distribution Networks - Stocktwits",
-      "summary": "IonQ shares jumped 22% after the company deployed one of Europe's largest operational quantum key distribution networks, a real commercial deployment rather than just a lab demo.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaEQ5OEVlRjFGNGppMHVKZmNOOHNpQUFtNFIzYkVLUXJMeTdHSHotdFFKazMzU2pPUzNzcTlkYy1UXy0za0JORFVPVVpfSHJtelRhak4tbkVZUWc5RklNenp1X1JIeFlHVDJBbFk5TUpqMEJZZWVaX2VVMmRKQl84WUhLOW9RZGVQeW02alhzS0xvUXM3T3NKTlprU21KVkI2XzBtLWxSMVZwUk9rWlJPVDY5cmxsWW95ZHBTdkJzd1prWU45aU5oM01ubWxRMFM5a2xLT09CUzk?oc=5"
-    },
-    {
-      "source": "Quantum Zeitgeist",
-      "published": "2026-09-19T09:29+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Gains Control Of Chip Supply With SkyWater Foundry Deal - Quantum Zeitgeist",
-      "summary": "IonQ's SkyWater foundry deal gives it more control over its own chip supply chain, reducing reliance on outside manufacturers as it scales hardware production.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZ0NKeUlzM2ota1h3TjVhb2lncFh6NUp0ZjRjaXNnNnhJNXJOT2pheHhFSTZEOTREYUFjdTlaZnh4czlkdDR4VUFzT191MWNTbGRiM0NlazV0d1A3RlJDR0ZSX25Yd2NwZEpJUzIySmk?oc=5"
-    },
     {
       "source": "simplywall.st",
       "published": "2026-09-19T22:02+00:00",
       "ticker": "RGTI",
       "title": "Rigetti Computing (RGTI) Stock Trades At A Premium After Fresh Funding - simplywall.st",
-      "summary": "Rigetti's stock is trading at a premium valuation after fresh funding, showing investors are betting on its growth despite no matching jump in fundamentals yet.",
+      "summary": "Rigetti's stock is trading at a rich valuation after a fresh funding round, raising the question of how much growth is already priced in.",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjlZcVM1V2pibVl0MDctWVF4anVjb0pwT2FrQ3psRFQxZTJnRWRGX1ZsQWhVSlp4Z09neGpuT0hka2NMcWtPQURkX3otUXlPLWVBWTdqZjcwWjFZRnR2eTZRWXMxM1JYdzYtTVJPM2Q1a0MyTHFzSW9sR0VScGlNc3Y3WkZJNzZuX2g5YUtmRFFqOHV6LWlGb3NSUklRU0FSZHZxS2Q3RGhBRUc4SW54VUFUcWNua25wWFZnT2hMMzdEWTdOLWdlYXcyRUVoeVpQZVZGcGlBVTY2Z9IB3wFBVV95cUxOMXRFSmVIdzg3MjdiZjhjNzZSNTMyVHZzWTY2dFBLMEY3SXdQdjU2ci1WaGl5VGFFNEozSjZlUUJLZFluS2UzTHdFY2JmRnUwMngydF9IbUZUS3VBWTFDcVNfSTNzRl9fS2g2QUUtQXU5NnV1VVdPY3IxV2hMSmFVU3hvUTljLTE5bEVlTzJYVWt5b3BxWW95UkV6eWNFVzhFNm9OS3JYdjA2YzJJSjkxbk1oMU0tb2NpR1RfVWk3d2prNUprWFBRMDYzWnFVT2YxT0tDbGw5a2E3VmZGODc0?oc=5"
     },
     {
-      "source": "AD HOC NEWS",
+      "source": "ad-hoc-news.de",
       "published": "2026-09-20T15:30+00:00",
       "ticker": "QBTS",
-      "title": "D-Wave Quantum: A Federal Share Block, a CFO Transition, and Two Conference Stages - AD HOC NEWS",
-      "summary": "D-Wave faces a federal share block and a CFO transition, adding leadership and regulatory uncertainty right as it's trying to expand its conference presence.",
+      "title": "D-Wave Quantum: A Federal Share Block, a CFO Transition, and Two Conference Stages - ad-hoc-news.de",
+      "summary": "D-Wave is navigating a federal share block and a CFO transition even while appearing at two industry conferences, adding uncertainty for holders.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNME5lWDNUMmdhZFNMWkphX2kwM1I5OElRc3IzbW05QUVmOXFIZTU3Wl9NNjRSVFdvWjFITE9jOTB3cmdxaFltUGxnSUlMOGd4ako4T29lejBkMldqd0VsV3NnZVlYODJEOVNZUENIS3hRMXl3X0l5bERmck5zeWpVNE5QemV3eVREUFV6OFJzM2tDWkFEZnFTTFhVYWFQb2ZKZ21JbFpHRlhOYkx4UDJwOHE2Y2xOWHJPYkhfTGs0M0w2eVdIb0xJRHVMdHdrdw?oc=5"
     },
     {
       "source": "Stocktwits",
-      "published": "2026-09-19T22:17+00:00",
+      "published": "2026-09-20T06:05+00:00",
+      "ticker": "INFQ",
+      "title": "RGTI, INFQ Stocks Gain Overnight: Bernstein Thinks Rigetti And Infleqtion Could Be Early Winners In Quantum Race - Stocktwits",
+      "summary": "Bernstein analysts named Rigetti and Infleqtion as potential early winners in the quantum computing race, lifting sentiment around Infleqtion.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTHAzMWNnMDJQU3FiVW1lc091UDBERElMOUFQX2VNbVBiS09CMW5ERDIxazR5VE1YVzhNZEpKemZqT25URmJoa3hwUWlXd292bDIzank4TVZkdUtrbFR5OENpbTFuaVZiajIzUDdMZXo5ZEF2U3RIeXNEUU1mdDBNaHFOODA2YUxMcTJudm5Ba05UVlpDVHRkTGxGcVJ4aEdNTlFFTXJPR0FzSUZjYUVGZnZtbzVEYU9TaG1ZRVdCNXI2MFBQZzZPVEhEc1Z1S05LS05rc0s2T1R1OGJpbTVxU1NxTXRSZmQ4RkJYU0NITlAyN3RzcENJajVCNFR4QXlWMTBkMw?oc=5"
+    },
+    {
+      "source": "Stocktwits",
+      "published": "2026-09-19T19:18+00:00",
       "ticker": "QTUM",
-      "title": "QBTS, INFQ, RGTI Stocks Explode: Quantum Rally Adds Nearly $5B In Market Cap On Trump Admin’s Major Bet — But Retail Is Very Divided - Stocktwits",
-      "summary": "Quantum stocks broadly rallied, adding nearly $5B in market cap on optimism about a Trump administration push into the sector, though retail investors remain split on whether the rally is justified.",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQb3lLb3hMZV96TEVCdWcyVVI3Uk5wNHE2U05ZdGJTUGFNQUdtWkh5UDBIV3c1cVJmeTdPemlONlN0T1NjRXVwZTVUcWZNLWVzVmFKR0xCSUJXb2NENFpjY05JdjA1TVQwUGl1SXBIcGRUSEtWLXRjd1I4V2ZEbFQwaVFmYVIzd0xpZ3pxb3lfZE0wQjJ1YVFkM1Iwbk04NGVNUDRnSTl2UzdnbVlRTm95VWZqZnREeHkxdFliVjFoMWppMXdFOTBGcEM5N2JwbTF0dHhEYmwtbldVR0pQSWNjeHNaNDY2NFJ4ckFkUW90WWtzb1ZxWlFnUHZNOGRoYk9NSmNxMnBlRENRdmNkZ0E0UGhUN0JjNU5hMWg0?oc=5"
+      "title": "RGTI Vs QBTS Vs INFQ Vs IONQ: Which Quantum Computing Stock Is Retail Most Bullish On? - Stocktwits",
+      "summary": "A retail-sentiment survey across Rigetti, D-Wave, Infleqtion and IonQ shows investors remain split on which quantum stock has the most upside.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRFhHZWM5c2RUcXlkUkNYcHhKVVhoWXBHZUdoXzh2eWxtYUVfaFJSdThWMlZfWWtTeWVfaE1pNVEwaDIyT0txTVNGd2JZaU5TXy1OcUJTcHg2bTJGYWVnT0MyNUFnS1FHcnpmRGRNekNuTnhEYjFNaW05aUtOWUpkZ2kzWUx3b24zanRwTnFrbjdBMHVkWnRyQlZhN1dzRGRxZUxYVG1SdHRlVzRWc1FHeG5Fa0J4T29Yc2dn?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "hw",
-      "title": "Rydberg Atoms Set New Stability Records",
-      "summary": "Researchers at the University of Stuttgart created circular Rydberg atoms, a specialized atomic state where the electron orbits in a wide, stable ring, and set new records for how long, how large, and how stable these atoms can be, keeping one intact for 11 milliseconds. That matters because circular Rydberg atoms are considered promising building blocks for future quantum computers and simulators, and longer-lived…",
+      "tag": "sw",
+      "title": "A new benchmark lets scientists compare quantum computers head-to-head",
+      "summary": "Researchers built a standardized benchmark that tests different quantum computers on the same problems rather than relying on vendor-specific claims. This gives the field a common yardstick to track real progress toward solving financial, chemical and logistics problems that classical computers struggle with. The results also exposed how far current machines still are from beating classical computers on practically…",
       "source": "Phys.org",
-      "published": "2026-09-16T19:20+00:00",
-      "url": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html"
+      "published": "2026-09-17T17:10+00:00",
+      "url": "https://phys.org/news/2026-09-benchmark-quantum-reveals-limitations.html"
     },
     "items": [
       {
-        "tag": "en",
-        "title": "Entanglement Confirmed in the LHC's Heaviest Particles",
-        "summary": "Physicists at the University of Oxford helped confirm that quantum entanglement occurs even between top quarks, some of the heaviest and most short-lived particles ever created, using data from CERN's Large Hadron Collider.",
+        "tag": "hw",
+        "title": "Circular Rydberg atoms set new stability records",
+        "summary": "Stuttgart physicists made circular Rydberg atoms, a candidate quantum computing building block, last a record 11 milliseconds while also breaking records for size and storage time.",
         "source": "Phys.org",
-        "published": "2026-09-14T14:12+00:00",
-        "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html"
-      },
-      {
-        "tag": "sen",
-        "title": "First Real-Time 'Quantum Jump' of Sound Observed",
-        "summary": "A Stanford team directly observed a mechanical resonator suddenly switching between vibrational energy states, capturing a quantum jump of sound for the first time after a century of theory.",
-        "source": "Phys.org",
-        "published": "2026-09-17T18:00+00:00",
-        "url": "https://phys.org/news/2026-09-real-quantum.html"
+        "published": "2026-09-16T19:20+00:00",
+        "url": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html"
       },
       {
         "tag": "nw",
-        "title": "A New Way to Link Quantum Computers With Light",
-        "summary": "City College of New York physicists used magnetic waves in a layered 2D magnet to convert microwave signals into light, a potential building block for connecting quantum computers over optical networks.",
+        "title": "A new bridge could link quantum computers over light",
+        "summary": "City College of New York physicists converted microwave signals into light using magnetic waves in a 2D material, a step toward connecting quantum computers through optical networks.",
         "source": "Phys.org",
         "published": "2026-09-17T20:30+00:00",
         "url": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html"
       },
       {
+        "tag": "sen",
+        "title": "Diamond sensors can read your heartbeat's magnetism from a distance",
+        "summary": "Mainz researchers built diamond-based quantum sensors that detect the heart's magnetic field at room temperature without touching the skin, pointing to new medical applications.",
+        "source": "Phys.org",
+        "published": "2026-09-17T15:40+00:00",
+        "url": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html"
+      },
+      {
         "tag": "ec",
-        "title": "Underground Test Rules Out a Popular Decoherence Theory",
-        "summary": "An underground experiment found no evidence for a gravity-based explanation of why quantum superpositions like Schrödinger's cat break down at everyday scales, ruling out one leading model.",
+        "title": "Underground experiment rules out one theory of why quantum effects fade",
+        "summary": "A deep-underground test ruled out a gravity-based explanation for why quantum behavior disappears in larger objects, narrowing the search for the real cause of decoherence.",
         "source": "Phys.org",
         "published": "2026-09-17T19:00+00:00",
         "url": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html"
@@ -625,24 +888,24 @@
   },
   "sentiment": {
     "today": {
-      "science": 68,
-      "stock": 9,
+      "science": 79,
+      "stock": 12,
       "nScience": 25,
       "nStock": 30,
-      "headlineScore": 20,
+      "headlineScore": 25,
       "momentumScore": -18,
-      "reasonScience": "Today's science news skewed positive, with milestone results in entanglement detection, atomic stability, and quantum acoustics, alongside one hypothesis-narrowing null result on decoherence.",
-      "reasonStock": "Quantum stocks were volatile today, with IonQ's networking deal and a sector-wide rally linked to government attention driving gains while D-Wave's legal troubles and CFO exit weighed on sentiment."
+      "reasonScience": "Today's research news skews positive, with new records for qubit-building-block stability, a fresh cross-platform benchmark, and quantum sensors reaching into medicine.",
+      "reasonStock": "Quantum stocks broadly closed lower on the last trading day despite a steady stream of contract, funding, and deployment headlines from IonQ, Rigetti, D-Wave, and Infleqtion."
     },
     "monthly": [
       {
         "month": "2026-09",
-        "science": 68,
-        "stock": 9,
+        "science": 79,
+        "stock": 12,
         "articlesScience": 25,
         "articlesStock": 30,
-        "reasonScience": "It's early in the month, but September has opened with strong quantum research momentum, headlined by entanglement confirmation at the LHC and new atomic-stability records.",
-        "reasonStock": "With today as the first data point this month, quantum stocks are showing an active but mixed picture, led by IonQ's commercial deals against a backdrop of legal and governance concerns at rivals like D-Wave."
+        "reasonScience": "With no prior days logged this month, today's mix of hardware milestones, a new benchmark, and sensing and networking advances sets an early tone of broad, incremental quantum progress.",
+        "reasonStock": "As the first tracked trading day this month, quantum stocks are starting September in the red even as deployment and funding news keeps flowing across the sector."
       }
     ],
     "method": {
@@ -651,23 +914,6 @@
     }
   },
   "upcoming": [
-    {
-      "name": "Quantinuum",
-      "note": "Trapped ion · Honeywell majority owner",
-      "route": "Newly listed",
-      "status": "Completed a traditional IPO on Nasdaq, pricing at $60/share and raising $1.68 billion. Honeywell and Cambridge Quantum retain roughly 82% ownership post-IPO.",
-      "core": [
-        "hw",
-        "ec",
-        "sw"
-      ],
-      "part": [],
-      "expectedListing": "Listed 2026-06-04",
-      "latestFunding": "$1.68B IPO, June 2026",
-      "checked": "2026-09-20",
-      "source": "https://www.quantinuum.com/press-releases/quantinuum-announces-pricing-of-upsized-initial-public-offering",
-      "ticker": "QNT"
-    },
     {
       "name": "PsiQuantum",
       "note": "Photonic · utility-scale focus",
@@ -684,91 +930,6 @@
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
       "checked": "2026-09-20",
       "source": "https://www.smartcompany.com.au/startupsmart/psiquantum-valuation-skyrockets-10-5-billion-1-5-billion-series-e-raise/"
-    },
-    {
-      "name": "Xanadu",
-      "note": "Photonic · maker of PennyLane software",
-      "route": "Newly listed",
-      "status": "SPAC merger with Crane Harbor Acquisition Corp closed; began trading on Nasdaq and the TSX on March 27, 2026, as the first publicly listed photonic quantum company.",
-      "core": [
-        "hw",
-        "sw"
-      ],
-      "part": [
-        "ec"
-      ],
-      "expectedListing": "Listed 2026-03-27",
-      "latestFunding": "$301.6M gross (PIPE + SPAC trust), March 2026",
-      "checked": "2026-09-20",
-      "source": "https://thequantuminsider.com/2026/03/27/xanadu-becomes-first-pure-play-photonic-quantum-computing-company-to-go-public/",
-      "ticker": "XNDU"
-    },
-    {
-      "name": "Infleqtion",
-      "note": "Neutral atom · quantum sensing",
-      "route": "Newly listed",
-      "status": "SPAC merger with Churchill Capital Corp X closed; began trading on the NYSE under INFQ on February 17, 2026, becoming the first publicly listed neutral-atom quantum company.",
-      "core": [
-        "hw",
-        "sen"
-      ],
-      "part": [
-        "sw"
-      ],
-      "expectedListing": "Listed 2026-02-17",
-      "latestFunding": "$528.2M gross (trust + PIPE), February 2026",
-      "checked": "2026-09-20",
-      "source": "https://www.datacenterdynamics.com/en/news/quantum-computing-firm-infleqtion-begins-trading-on-nasdaq-following-spac-merger/",
-      "ticker": "INFQ"
-    },
-    {
-      "name": "Horizon Quantum",
-      "note": "Hardware-agnostic quantum software · Singapore",
-      "route": "Newly listed",
-      "status": "SPAC merger with dMY Squared Technology Group closed; began trading on Nasdaq under HQ on March 20, 2026.",
-      "core": [
-        "sw"
-      ],
-      "part": [],
-      "expectedListing": "Listed 2026-03-20",
-      "latestFunding": "$120M gross proceeds, March 2026",
-      "checked": "2026-09-20",
-      "source": "https://quantumcomputingreport.com/horizon-quantum-computing-completes-merger-with-dmy-squared-set-to-trade-on-nasdaq/",
-      "ticker": "HQ"
-    },
-    {
-      "name": "Pasqal",
-      "note": "Neutral atom · France",
-      "route": "Newly listed",
-      "status": "Completed its SPAC merger with Bleichroeder Acquisition Corp II; began trading on Nasdaq under PSQL on August 28, 2026, with ~$360M in cash. A Euronext Paris dual listing is planned to follow.",
-      "core": [
-        "hw"
-      ],
-      "part": [
-        "sw"
-      ],
-      "expectedListing": "Listed 2026-08-28",
-      "latestFunding": "€340M pre-listing round + SPAC proceeds, 2026",
-      "checked": "2026-09-20",
-      "source": "https://thequantuminsider.com/2026/08/28/pasqal-completes-spac-merger-with-360-million-in-cash/",
-      "ticker": "PSQL"
-    },
-    {
-      "name": "IQM Quantum Computers",
-      "note": "Superconducting · Finland",
-      "route": "Newly listed",
-      "status": "SPAC merger with Real Asset Acquisition Corp closed; ADSs began trading on Nasdaq under IQMX on July 2, 2026, the first European quantum computing company on a major US exchange.",
-      "core": [
-        "hw"
-      ],
-      "part": [
-        "sw"
-      ],
-      "expectedListing": "Listed 2026-07-02",
-      "latestFunding": "~$233.5M net proceeds, July 2026",
-      "checked": "2026-09-20",
-      "source": "https://www.nasdaq.com/press-release/iqm-quantum-computers-and-real-asset-acquisition-corp-complete-combination-trading",
-      "ticker": "IQMX"
     },
     {
       "name": "EigenQ",
@@ -789,5 +950,7 @@
       "source": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-definitive-business-combination-agreement-to-create-a-publicly-traded-quantum-technology-company-302802896.html"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "upcoming update failed, kept previous list: implausible update rejected (added 6, removed 0)"
+  ]
 }
