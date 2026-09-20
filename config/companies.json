@@ -1,6 +1,8 @@
 {
-  "etf": { "sym": "QTUM", "name": "Defiance Quantum ETF" },
-
+  "etf": {
+    "sym": "QTUM",
+    "name": "Defiance Quantum ETF"
+  },
   "segments": {
     "hw": "Hardware",
     "ec": "Error correction",
@@ -10,37 +12,236 @@
     "sen": "Sensing",
     "en": "Enabling tech"
   },
-
   "stocks": [
-    { "sym": "IONQ", "name": "IonQ", "approach": "Trapped ion", "group": "established", "core": ["hw", "nw"], "part": ["ec", "sw", "sec", "sen"] },
-    { "sym": "RGTI", "name": "Rigetti", "approach": "Superconducting", "group": "established", "core": ["hw"], "part": ["ec", "sw"] },
-    { "sym": "QBTS", "name": "D-Wave", "approach": "Annealing", "group": "established", "core": ["hw"], "part": ["sw"] },
-    { "sym": "QUBT", "name": "Quantum Computing Inc.", "approach": "Photonic chips", "group": "established", "core": ["en"], "part": ["hw", "sen"] },
-    { "sym": "IBM", "name": "IBM", "approach": "Superconducting", "group": "established", "core": ["hw", "ec", "sw"], "part": ["nw"] },
-    { "sym": "GOOGL", "name": "Alphabet", "approach": "Superconducting", "group": "established", "core": ["hw", "ec"], "part": ["sw"] },
-    { "sym": "QNC", "name": "Quantum eMotion", "approach": "Quantum-safe security", "group": "emerging", "core": ["sec"], "part": [] },
-    { "sym": "LAES", "name": "SEALSQ", "approach": "Post-quantum chips", "group": "emerging", "core": ["sec"], "part": ["en"] },
-    { "sym": "ARQQ", "name": "Arqit", "approach": "Post-quantum encryption", "group": "emerging", "core": ["sec", "sw"], "part": [] },
-    { "sym": "BTQ", "name": "BTQ Technologies", "approach": "Post-quantum cryptography", "group": "emerging", "core": ["sec"], "part": ["sw"] }
+    {
+      "sym": "IONQ",
+      "name": "IonQ",
+      "approach": "Trapped ion",
+      "group": "established",
+      "core": [
+        "hw",
+        "nw"
+      ],
+      "part": [
+        "ec",
+        "sw",
+        "sec",
+        "sen"
+      ]
+    },
+    {
+      "sym": "RGTI",
+      "name": "Rigetti",
+      "approach": "Superconducting",
+      "group": "established",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "ec",
+        "sw"
+      ]
+    },
+    {
+      "sym": "QBTS",
+      "name": "D-Wave",
+      "approach": "Annealing",
+      "group": "established",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "sw"
+      ]
+    },
+    {
+      "sym": "QUBT",
+      "name": "Quantum Computing Inc.",
+      "approach": "Photonic chips",
+      "group": "established",
+      "core": [
+        "en"
+      ],
+      "part": [
+        "hw",
+        "sen"
+      ]
+    },
+    {
+      "sym": "IBM",
+      "name": "IBM",
+      "approach": "Superconducting",
+      "group": "established",
+      "core": [
+        "hw",
+        "ec",
+        "sw"
+      ],
+      "part": [
+        "nw"
+      ]
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "approach": "Superconducting",
+      "group": "established",
+      "core": [
+        "hw",
+        "ec"
+      ],
+      "part": [
+        "sw"
+      ]
+    },
+    {
+      "sym": "QNC",
+      "name": "Quantum eMotion",
+      "approach": "Quantum-safe security",
+      "group": "emerging",
+      "core": [
+        "sec"
+      ],
+      "part": []
+    },
+    {
+      "sym": "LAES",
+      "name": "SEALSQ",
+      "approach": "Post-quantum chips",
+      "group": "emerging",
+      "core": [
+        "sec"
+      ],
+      "part": [
+        "en"
+      ]
+    },
+    {
+      "sym": "ARQQ",
+      "name": "Arqit",
+      "approach": "Post-quantum encryption",
+      "group": "emerging",
+      "core": [
+        "sec",
+        "sw"
+      ],
+      "part": []
+    },
+    {
+      "sym": "BTQ",
+      "name": "BTQ Technologies",
+      "approach": "Post-quantum cryptography",
+      "group": "emerging",
+      "core": [
+        "sec"
+      ],
+      "part": [
+        "sw"
+      ]
+    },
+    {
+      "sym": "QNT",
+      "name": "Quantinuum",
+      "approach": "Trapped ion",
+      "group": "emerging",
+      "core": [
+        "hw",
+        "ec",
+        "sw"
+      ],
+      "part": []
+    },
+    {
+      "sym": "XNDU",
+      "name": "Xanadu",
+      "approach": "Photonic",
+      "group": "emerging",
+      "core": [
+        "hw",
+        "sw"
+      ],
+      "part": [
+        "ec"
+      ]
+    },
+    {
+      "sym": "INFQ",
+      "name": "Infleqtion",
+      "approach": "Neutral atom",
+      "group": "emerging",
+      "core": [
+        "hw",
+        "sen"
+      ],
+      "part": [
+        "sw"
+      ]
+    },
+    {
+      "sym": "HQ",
+      "name": "Horizon Quantum",
+      "approach": "Quantum software",
+      "group": "emerging",
+      "core": [
+        "sw"
+      ],
+      "part": []
+    },
+    {
+      "sym": "PSQL",
+      "name": "Pasqal",
+      "approach": "Neutral atom",
+      "group": "emerging",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "sw"
+      ]
+    },
+    {
+      "sym": "IQMX",
+      "name": "IQM Quantum Computers",
+      "approach": "Superconducting",
+      "group": "emerging",
+      "core": [
+        "hw"
+      ],
+      "part": []
+    }
   ],
-
   "upcoming_seed": [
-    { "name": "Quantinuum", "note": "Trapped ion · Honeywell majority owner", "route": "IPO planned", "status": "Company has signalled a public listing. Timing and venue not yet confirmed.", "core": ["hw", "ec", "sw"], "part": [] },
-    { "name": "PsiQuantum", "note": "Photonic · utility-scale focus", "route": "Private", "status": "Venture-funded and private after a large recent round. No listing announced.", "core": ["hw"], "part": ["ec", "en"] },
-    { "name": "Xanadu", "note": "Photonic · maker of PennyLane software", "route": "SPAC merger", "status": "Merger with a listed shell company announced. Closing subject to shareholder and regulatory approval.", "core": ["hw", "sw"], "part": ["ec"] },
-    { "name": "Infleqtion", "note": "Neutral atom · quantum sensing", "route": "SPAC merger", "status": "Merger with a listed shell company announced. Closing subject to shareholder and regulatory approval.", "core": ["hw", "sen"], "part": ["sw"] },
-    { "name": "Horizon Quantum", "note": "Quantum software", "route": "SPAC merger", "status": "Merger with a listed shell company announced. Closing subject to shareholder and regulatory approval.", "core": ["sw"], "part": [] },
-    { "name": "Pasqal", "note": "Neutral atom · France", "route": "Private", "status": "Venture-funded and private. No listing announced.", "core": ["hw"], "part": ["sw"] }
+    {
+      "name": "PsiQuantum",
+      "note": "Photonic · utility-scale focus",
+      "route": "Private",
+      "status": "Venture-funded and private after a large recent round. No listing announced.",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "ec",
+        "en"
+      ]
+    }
   ],
-
   "feeds": {
     "arxiv": "https://rss.arxiv.org/rss/quant-ph",
     "science": [
-      { "source": "Phys.org", "url": "https://phys.org/rss-feed/physics-news/quantum-physics/" },
-      { "source": "The Quantum Insider", "url": "https://thequantuminsider.com/feed/" }
+      {
+        "source": "Phys.org",
+        "url": "https://phys.org/rss-feed/physics-news/quantum-physics/"
+      },
+      {
+        "source": "The Quantum Insider",
+        "url": "https://thequantuminsider.com/feed/"
+      }
     ],
     "market": [
-      { "source": "Google News", "url": "https://news.google.com/rss/search?q=%28IonQ+OR+Rigetti+OR+%22D-Wave+Quantum%22+OR+%22Quantum+Computing+Inc%22+OR+%22quantum+computing+stock%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen" }
+      {
+        "source": "Google News",
+        "url": "https://news.google.com/rss/search?q=%28IonQ+OR+Rigetti+OR+%22D-Wave+Quantum%22+OR+%22Quantum+Computing+Inc%22+OR+%22quantum+computing+stock%22%29+when%3A2d&hl=en-US&gl=US&ceid=US%3Aen"
+      }
     ]
   }
 }
