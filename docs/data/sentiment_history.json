@@ -1,0 +1,20 @@
+{
+  "days": {
+    "2026-09-20": {
+      "science": 68,
+      "stock": 9,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": 20,
+      "momentumScore": -18,
+      "reasonScience": "Today's science news skewed positive, with milestone results in entanglement detection, atomic stability, and quantum acoustics, alongside one hypothesis-narrowing null result on decoherence.",
+      "reasonStock": "Quantum stocks were volatile today, with IonQ's networking deal and a sector-wide rally linked to government attention driving gains while D-Wave's legal troubles and CFO exit weighed on sentiment."
+    }
+  },
+  "monthReasons": {
+    "2026-09": {
+      "science": "It's early in the month, but September has opened with strong quantum research momentum, headlined by entanglement confirmation at the LHC and new atomic-stability records.",
+      "stock": "With today as the first data point this month, quantum stocks are showing an active but mixed picture, led by IonQ's commercial deals against a backdrop of legal and governance concerns at rivals like D-Wave."
+    }
+  }
+}

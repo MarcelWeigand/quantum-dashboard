@@ -1,0 +1,793 @@
+{
+  "generatedAt": "2026-09-20T18:21:43+00:00",
+  "date": "2026-09-20",
+  "etf": {
+    "sym": "QTUM",
+    "name": "Defiance Quantum ETF",
+    "price": 147.79,
+    "chgPct": 0.71,
+    "series": [
+      153.46,
+      151.69,
+      153.0,
+      156.85,
+      158.24,
+      158.68,
+      158.22,
+      152.16,
+      150.2,
+      149.19,
+      150.47,
+      146.94,
+      148.79,
+      148.78,
+      150.96,
+      148.23,
+      147.94,
+      144.56,
+      144.72,
+      146.12,
+      147.89,
+      148.91,
+      147.81,
+      145.61,
+      147.41,
+      142.8,
+      142.74,
+      143.27,
+      146.75,
+      147.79
+    ],
+    "asOf": "2026-09-18",
+    "stale": false
+  },
+  "stocks": [
+    {
+      "sym": "IONQ",
+      "name": "IonQ",
+      "approach": "Trapped ion",
+      "group": "established",
+      "core": [
+        "hw",
+        "nw"
+      ],
+      "part": [
+        "ec",
+        "sw",
+        "sec",
+        "sen"
+      ],
+      "price": 39.13,
+      "chgPct": -3.0,
+      "series": [
+        44.43,
+        42.53,
+        43.44,
+        45.2,
+        44.98,
+        46.26,
+        46.84,
+        44.12,
+        43.36,
+        41.53,
+        44.86,
+        41.06,
+        42.05,
+        40.03,
+        42.46,
+        39.2,
+        39.31,
+        37.78,
+        37.64,
+        39.02,
+        39.52,
+        40.47,
+        38.14,
+        36.84,
+        36.75,
+        37.5,
+        37.05,
+        36.84,
+        40.34,
+        39.13
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "RGTI",
+      "name": "Rigetti",
+      "approach": "Superconducting",
+      "group": "established",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "ec",
+        "sw"
+      ],
+      "price": 15.76,
+      "chgPct": -1.44,
+      "series": [
+        17.94,
+        17.65,
+        18.09,
+        18.42,
+        18.62,
+        18.82,
+        18.67,
+        17.71,
+        17.0,
+        16.07,
+        17.91,
+        16.37,
+        16.94,
+        15.94,
+        16.44,
+        15.59,
+        15.66,
+        14.99,
+        14.87,
+        15.18,
+        15.2,
+        15.81,
+        15.24,
+        15.16,
+        15.27,
+        15.27,
+        15.09,
+        14.79,
+        15.99,
+        15.76
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "QBTS",
+      "name": "D-Wave",
+      "approach": "Annealing",
+      "group": "established",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "sw"
+      ],
+      "price": 17.11,
+      "chgPct": -3.28,
+      "series": [
+        20.76,
+        20.19,
+        20.23,
+        20.74,
+        20.9,
+        21.17,
+        20.87,
+        19.53,
+        19.32,
+        18.8,
+        20.39,
+        18.68,
+        19.35,
+        17.51,
+        17.9,
+        16.99,
+        17.2,
+        16.54,
+        16.49,
+        16.82,
+        16.58,
+        17.67,
+        17.12,
+        16.66,
+        16.8,
+        16.83,
+        16.41,
+        16.27,
+        17.69,
+        17.11
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "QUBT",
+      "name": "Quantum Computing Inc.",
+      "approach": "Photonic chips",
+      "group": "established",
+      "core": [
+        "en"
+      ],
+      "part": [
+        "hw",
+        "sen"
+      ],
+      "price": 8.7,
+      "chgPct": 3.08,
+      "series": [
+        9.18,
+        8.93,
+        8.95,
+        8.92,
+        8.92,
+        9.01,
+        9.05,
+        8.52,
+        8.42,
+        8.14,
+        8.92,
+        8.24,
+        8.46,
+        8.35,
+        8.65,
+        8.15,
+        8.23,
+        7.9,
+        7.84,
+        7.96,
+        8.01,
+        8.22,
+        8.04,
+        7.82,
+        7.99,
+        7.97,
+        7.84,
+        8.0,
+        8.44,
+        8.7
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "IBM",
+      "name": "IBM",
+      "approach": "Superconducting",
+      "group": "established",
+      "core": [
+        "hw",
+        "ec",
+        "sw"
+      ],
+      "part": [
+        "nw"
+      ],
+      "price": 229.55,
+      "chgPct": -3.45,
+      "series": [
+        237.28,
+        236.31,
+        238.42,
+        235.98,
+        237.14,
+        234.32,
+        228.85,
+        232.67,
+        237.16,
+        233.69,
+        235.68,
+        231.04,
+        234.19,
+        229.87,
+        238.79,
+        235.59,
+        233.87,
+        231.4,
+        231.7,
+        234.71,
+        234.89,
+        232.09,
+        239.94,
+        234.02,
+        243.29,
+        249.09,
+        248.37,
+        237.49,
+        237.75,
+        229.55
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "approach": "Superconducting",
+      "group": "established",
+      "core": [
+        "hw",
+        "ec"
+      ],
+      "part": [
+        "sw"
+      ],
+      "price": 349.54,
+      "chgPct": 0.64,
+      "series": [
+        354.3,
+        357.52,
+        343.8,
+        343.54,
+        346.36,
+        345.9,
+        344.0,
+        344.2,
+        344.72,
+        340.67,
+        344.82,
+        348.06,
+        346.96,
+        342.0,
+        340.65,
+        346.59,
+        339.35,
+        335.02,
+        337.12,
+        342.48,
+        338.46,
+        338.36,
+        330.65,
+        332.6,
+        338.5,
+        349.39,
+        344.98,
+        342.87,
+        347.33,
+        349.54
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "QNC",
+      "name": "Quantum eMotion",
+      "approach": "Quantum-safe security",
+      "group": "emerging",
+      "core": [
+        "sec"
+      ],
+      "part": [],
+      "price": 1.67,
+      "chgPct": -1.76,
+      "series": [
+        2.23,
+        2.23,
+        2.29,
+        2.41,
+        2.39,
+        2.43,
+        2.23,
+        2.2,
+        2.23,
+        2.17,
+        2.13,
+        2.04,
+        2.04,
+        2.09,
+        2.06,
+        2.03,
+        2.03,
+        1.96,
+        1.88,
+        1.75,
+        1.72,
+        1.82,
+        1.76,
+        1.71,
+        1.7,
+        1.91,
+        1.8,
+        1.7,
+        1.7,
+        1.67
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "LAES",
+      "name": "SEALSQ",
+      "approach": "Post-quantum chips",
+      "group": "emerging",
+      "core": [
+        "sec"
+      ],
+      "part": [
+        "en"
+      ],
+      "price": 2.24,
+      "chgPct": -2.61,
+      "series": [
+        2.57,
+        2.56,
+        2.55,
+        2.66,
+        2.84,
+        3.01,
+        2.9,
+        2.74,
+        2.6,
+        2.5,
+        2.54,
+        2.48,
+        2.54,
+        2.48,
+        2.61,
+        2.48,
+        2.49,
+        2.39,
+        2.36,
+        2.4,
+        2.42,
+        2.45,
+        2.4,
+        2.38,
+        2.38,
+        2.32,
+        2.3,
+        2.19,
+        2.3,
+        2.24
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "ARQQ",
+      "name": "Arqit",
+      "approach": "Post-quantum encryption",
+      "group": "emerging",
+      "core": [
+        "sec",
+        "sw"
+      ],
+      "part": [],
+      "price": 20.13,
+      "chgPct": 3.12,
+      "series": [
+        22.9,
+        22.61,
+        24.39,
+        23.72,
+        23.75,
+        24.36,
+        24.35,
+        21.98,
+        21.53,
+        20.94,
+        21.14,
+        20.13,
+        20.42,
+        20.36,
+        21.46,
+        20.04,
+        19.88,
+        18.9,
+        20.54,
+        20.62,
+        21.37,
+        22.59,
+        21.64,
+        20.58,
+        20.05,
+        16.29,
+        18.27,
+        19.01,
+        19.52,
+        20.13
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    },
+    {
+      "sym": "BTQ",
+      "name": "BTQ Technologies",
+      "approach": "Post-quantum cryptography",
+      "group": "emerging",
+      "core": [
+        "sec"
+      ],
+      "part": [
+        "sw"
+      ],
+      "price": 2.61,
+      "chgPct": -3.33,
+      "series": [
+        4.1,
+        3.94,
+        4.43,
+        4.35,
+        4.11,
+        4.06,
+        3.85,
+        3.7,
+        3.59,
+        3.48,
+        3.52,
+        3.29,
+        3.41,
+        3.33,
+        3.67,
+        3.33,
+        3.04,
+        2.99,
+        3.27,
+        2.98,
+        3.02,
+        3.01,
+        2.95,
+        2.72,
+        2.83,
+        2.83,
+        2.64,
+        2.63,
+        2.7,
+        2.61
+      ],
+      "asOf": "2026-09-18",
+      "stale": false
+    }
+  ],
+  "brief": {
+    "headline": "IonQ surged 22% on a big European quantum-key-distribution deal as physicists confirmed entanglement in the LHC's heaviest particles.",
+    "summary": "IonQ's stock jumped after it deployed one of Europe's largest quantum key distribution networks, while Rigetti and D-Wave had mixed days amid funding news, legal scrutiny, and a broader sector rally tied to government interest. In the lab, physicists confirmed quantum entanglement among top quarks at the LHC and Stuttgart researchers set new stability records for Rydberg atoms, both incremental s…"
+  },
+  "marketNews": [
+    {
+      "source": "Stocktwits",
+      "published": "2026-09-20T06:26+00:00",
+      "ticker": "IONQ",
+      "title": "IONQ Stock Soars 22% As Company Deploys One Of Europe’s Largest Operational Quantum Key Distribution Networks - Stocktwits",
+      "summary": "IonQ shares jumped 22% after the company deployed one of Europe's largest operational quantum key distribution networks, a real commercial deployment rather than just a lab demo.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPaEQ5OEVlRjFGNGppMHVKZmNOOHNpQUFtNFIzYkVLUXJMeTdHSHotdFFKazMzU2pPUzNzcTlkYy1UXy0za0JORFVPVVpfSHJtelRhak4tbkVZUWc5RklNenp1X1JIeFlHVDJBbFk5TUpqMEJZZWVaX2VVMmRKQl84WUhLOW9RZGVQeW02alhzS0xvUXM3T3NKTlprU21KVkI2XzBtLWxSMVZwUk9rWlJPVDY5cmxsWW95ZHBTdkJzd1prWU45aU5oM01ubWxRMFM5a2xLT09CUzk?oc=5"
+    },
+    {
+      "source": "Quantum Zeitgeist",
+      "published": "2026-09-19T09:29+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Gains Control Of Chip Supply With SkyWater Foundry Deal - Quantum Zeitgeist",
+      "summary": "IonQ's SkyWater foundry deal gives it more control over its own chip supply chain, reducing reliance on outside manufacturers as it scales hardware production.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZ0NKeUlzM2ota1h3TjVhb2lncFh6NUp0ZjRjaXNnNnhJNXJOT2pheHhFSTZEOTREYUFjdTlaZnh4czlkdDR4VUFzT191MWNTbGRiM0NlazV0d1A3RlJDR0ZSX25Yd2NwZEpJUzIySmk?oc=5"
+    },
+    {
+      "source": "simplywall.st",
+      "published": "2026-09-19T22:02+00:00",
+      "ticker": "RGTI",
+      "title": "Rigetti Computing (RGTI) Stock Trades At A Premium After Fresh Funding - simplywall.st",
+      "summary": "Rigetti's stock is trading at a premium valuation after fresh funding, showing investors are betting on its growth despite no matching jump in fundamentals yet.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjlZcVM1V2pibVl0MDctWVF4anVjb0pwT2FrQ3psRFQxZTJnRWRGX1ZsQWhVSlp4Z09neGpuT0hka2NMcWtPQURkX3otUXlPLWVBWTdqZjcwWjFZRnR2eTZRWXMxM1JYdzYtTVJPM2Q1a0MyTHFzSW9sR0VScGlNc3Y3WkZJNzZuX2g5YUtmRFFqOHV6LWlGb3NSUklRU0FSZHZxS2Q3RGhBRUc4SW54VUFUcWNua25wWFZnT2hMMzdEWTdOLWdlYXcyRUVoeVpQZVZGcGlBVTY2Z9IB3wFBVV95cUxOMXRFSmVIdzg3MjdiZjhjNzZSNTMyVHZzWTY2dFBLMEY3SXdQdjU2ci1WaGl5VGFFNEozSjZlUUJLZFluS2UzTHdFY2JmRnUwMngydF9IbUZUS3VBWTFDcVNfSTNzRl9fS2g2QUUtQXU5NnV1VVdPY3IxV2hMSmFVU3hvUTljLTE5bEVlTzJYVWt5b3BxWW95UkV6eWNFVzhFNm9OS3JYdjA2YzJJSjkxbk1oMU0tb2NpR1RfVWk3d2prNUprWFBRMDYzWnFVT2YxT0tDbGw5a2E3VmZGODc0?oc=5"
+    },
+    {
+      "source": "AD HOC NEWS",
+      "published": "2026-09-20T15:30+00:00",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum: A Federal Share Block, a CFO Transition, and Two Conference Stages - AD HOC NEWS",
+      "summary": "D-Wave faces a federal share block and a CFO transition, adding leadership and regulatory uncertainty right as it's trying to expand its conference presence.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNME5lWDNUMmdhZFNMWkphX2kwM1I5OElRc3IzbW05QUVmOXFIZTU3Wl9NNjRSVFdvWjFITE9jOTB3cmdxaFltUGxnSUlMOGd4ako4T29lejBkMldqd0VsV3NnZVlYODJEOVNZUENIS3hRMXl3X0l5bERmck5zeWpVNE5QemV3eVREUFV6OFJzM2tDWkFEZnFTTFhVYWFQb2ZKZ21JbFpHRlhOYkx4UDJwOHE2Y2xOWHJPYkhfTGs0M0w2eVdIb0xJRHVMdHdrdw?oc=5"
+    },
+    {
+      "source": "Stocktwits",
+      "published": "2026-09-19T22:17+00:00",
+      "ticker": "QTUM",
+      "title": "QBTS, INFQ, RGTI Stocks Explode: Quantum Rally Adds Nearly $5B In Market Cap On Trump Admin’s Major Bet — But Retail Is Very Divided - Stocktwits",
+      "summary": "Quantum stocks broadly rallied, adding nearly $5B in market cap on optimism about a Trump administration push into the sector, though retail investors remain split on whether the rally is justified.",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQb3lLb3hMZV96TEVCdWcyVVI3Uk5wNHE2U05ZdGJTUGFNQUdtWkh5UDBIV3c1cVJmeTdPemlONlN0T1NjRXVwZTVUcWZNLWVzVmFKR0xCSUJXb2NENFpjY05JdjA1TVQwUGl1SXBIcGRUSEtWLXRjd1I4V2ZEbFQwaVFmYVIzd0xpZ3pxb3lfZE0wQjJ1YVFkM1Iwbk04NGVNUDRnSTl2UzdnbVlRTm95VWZqZnREeHkxdFliVjFoMWppMXdFOTBGcEM5N2JwbTF0dHhEYmwtbldVR0pQSWNjeHNaNDY2NFJ4ckFkUW90WWtzb1ZxWlFnUHZNOGRoYk9NSmNxMnBlRENRdmNkZ0E0UGhUN0JjNU5hMWg0?oc=5"
+    }
+  ],
+  "science": {
+    "featured": {
+      "tag": "hw",
+      "title": "Rydberg Atoms Set New Stability Records",
+      "summary": "Researchers at the University of Stuttgart created circular Rydberg atoms, a specialized atomic state where the electron orbits in a wide, stable ring, and set new records for how long, how large, and how stable these atoms can be, keeping one intact for 11 milliseconds. That matters because circular Rydberg atoms are considered promising building blocks for future quantum computers and simulators, and longer-lived…",
+      "source": "Phys.org",
+      "published": "2026-09-16T19:20+00:00",
+      "url": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html"
+    },
+    "items": [
+      {
+        "tag": "en",
+        "title": "Entanglement Confirmed in the LHC's Heaviest Particles",
+        "summary": "Physicists at the University of Oxford helped confirm that quantum entanglement occurs even between top quarks, some of the heaviest and most short-lived particles ever created, using data from CERN's Large Hadron Collider.",
+        "source": "Phys.org",
+        "published": "2026-09-14T14:12+00:00",
+        "url": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html"
+      },
+      {
+        "tag": "sen",
+        "title": "First Real-Time 'Quantum Jump' of Sound Observed",
+        "summary": "A Stanford team directly observed a mechanical resonator suddenly switching between vibrational energy states, capturing a quantum jump of sound for the first time after a century of theory.",
+        "source": "Phys.org",
+        "published": "2026-09-17T18:00+00:00",
+        "url": "https://phys.org/news/2026-09-real-quantum.html"
+      },
+      {
+        "tag": "nw",
+        "title": "A New Way to Link Quantum Computers With Light",
+        "summary": "City College of New York physicists used magnetic waves in a layered 2D magnet to convert microwave signals into light, a potential building block for connecting quantum computers over optical networks.",
+        "source": "Phys.org",
+        "published": "2026-09-17T20:30+00:00",
+        "url": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html"
+      },
+      {
+        "tag": "ec",
+        "title": "Underground Test Rules Out a Popular Decoherence Theory",
+        "summary": "An underground experiment found no evidence for a gravity-based explanation of why quantum superpositions like Schrödinger's cat break down at everyday scales, ruling out one leading model.",
+        "source": "Phys.org",
+        "published": "2026-09-17T19:00+00:00",
+        "url": "https://phys.org/news/2026-09-schrdinger-cat-underground-gravity-quantum.html"
+      }
+    ]
+  },
+  "arxiv": {
+    "total": 0,
+    "picked": 0
+  },
+  "sentiment": {
+    "today": {
+      "science": 68,
+      "stock": 9,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": 20,
+      "momentumScore": -18,
+      "reasonScience": "Today's science news skewed positive, with milestone results in entanglement detection, atomic stability, and quantum acoustics, alongside one hypothesis-narrowing null result on decoherence.",
+      "reasonStock": "Quantum stocks were volatile today, with IonQ's networking deal and a sector-wide rally linked to government attention driving gains while D-Wave's legal troubles and CFO exit weighed on sentiment."
+    },
+    "monthly": [
+      {
+        "month": "2026-09",
+        "science": 68,
+        "stock": 9,
+        "articlesScience": 25,
+        "articlesStock": 30,
+        "reasonScience": "It's early in the month, but September has opened with strong quantum research momentum, headlined by entanglement confirmation at the LHC and new atomic-stability records.",
+        "reasonStock": "With today as the first data point this month, quantum stocks are showing an active but mixed picture, led by IonQ's commercial deals against a backdrop of legal and governance concerns at rivals like D-Wave."
+      }
+    ],
+    "method": {
+      "headlineWeight": 0.7,
+      "momentumWeight": 0.3
+    }
+  },
+  "upcoming": [
+    {
+      "name": "Quantinuum",
+      "note": "Trapped ion · Honeywell majority owner",
+      "route": "Newly listed",
+      "status": "Completed a traditional IPO on Nasdaq, pricing at $60/share and raising $1.68 billion. Honeywell and Cambridge Quantum retain roughly 82% ownership post-IPO.",
+      "core": [
+        "hw",
+        "ec",
+        "sw"
+      ],
+      "part": [],
+      "expectedListing": "Listed 2026-06-04",
+      "latestFunding": "$1.68B IPO, June 2026",
+      "checked": "2026-09-20",
+      "source": "https://www.quantinuum.com/press-releases/quantinuum-announces-pricing-of-upsized-initial-public-offering",
+      "ticker": "QNT"
+    },
+    {
+      "name": "PsiQuantum",
+      "note": "Photonic · utility-scale focus",
+      "route": "Private",
+      "status": "Closed a $1.5 billion Series E in May 2026, lifting its valuation to $10.5 billion. Remains venture-funded with no public listing announced.",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "ec",
+        "en"
+      ],
+      "expectedListing": "",
+      "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
+      "checked": "2026-09-20",
+      "source": "https://www.smartcompany.com.au/startupsmart/psiquantum-valuation-skyrockets-10-5-billion-1-5-billion-series-e-raise/"
+    },
+    {
+      "name": "Xanadu",
+      "note": "Photonic · maker of PennyLane software",
+      "route": "Newly listed",
+      "status": "SPAC merger with Crane Harbor Acquisition Corp closed; began trading on Nasdaq and the TSX on March 27, 2026, as the first publicly listed photonic quantum company.",
+      "core": [
+        "hw",
+        "sw"
+      ],
+      "part": [
+        "ec"
+      ],
+      "expectedListing": "Listed 2026-03-27",
+      "latestFunding": "$301.6M gross (PIPE + SPAC trust), March 2026",
+      "checked": "2026-09-20",
+      "source": "https://thequantuminsider.com/2026/03/27/xanadu-becomes-first-pure-play-photonic-quantum-computing-company-to-go-public/",
+      "ticker": "XNDU"
+    },
+    {
+      "name": "Infleqtion",
+      "note": "Neutral atom · quantum sensing",
+      "route": "Newly listed",
+      "status": "SPAC merger with Churchill Capital Corp X closed; began trading on the NYSE under INFQ on February 17, 2026, becoming the first publicly listed neutral-atom quantum company.",
+      "core": [
+        "hw",
+        "sen"
+      ],
+      "part": [
+        "sw"
+      ],
+      "expectedListing": "Listed 2026-02-17",
+      "latestFunding": "$528.2M gross (trust + PIPE), February 2026",
+      "checked": "2026-09-20",
+      "source": "https://www.datacenterdynamics.com/en/news/quantum-computing-firm-infleqtion-begins-trading-on-nasdaq-following-spac-merger/",
+      "ticker": "INFQ"
+    },
+    {
+      "name": "Horizon Quantum",
+      "note": "Hardware-agnostic quantum software · Singapore",
+      "route": "Newly listed",
+      "status": "SPAC merger with dMY Squared Technology Group closed; began trading on Nasdaq under HQ on March 20, 2026.",
+      "core": [
+        "sw"
+      ],
+      "part": [],
+      "expectedListing": "Listed 2026-03-20",
+      "latestFunding": "$120M gross proceeds, March 2026",
+      "checked": "2026-09-20",
+      "source": "https://quantumcomputingreport.com/horizon-quantum-computing-completes-merger-with-dmy-squared-set-to-trade-on-nasdaq/",
+      "ticker": "HQ"
+    },
+    {
+      "name": "Pasqal",
+      "note": "Neutral atom · France",
+      "route": "Newly listed",
+      "status": "Completed its SPAC merger with Bleichroeder Acquisition Corp II; began trading on Nasdaq under PSQL on August 28, 2026, with ~$360M in cash. A Euronext Paris dual listing is planned to follow.",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "sw"
+      ],
+      "expectedListing": "Listed 2026-08-28",
+      "latestFunding": "€340M pre-listing round + SPAC proceeds, 2026",
+      "checked": "2026-09-20",
+      "source": "https://thequantuminsider.com/2026/08/28/pasqal-completes-spac-merger-with-360-million-in-cash/",
+      "ticker": "PSQL"
+    },
+    {
+      "name": "IQM Quantum Computers",
+      "note": "Superconducting · Finland",
+      "route": "Newly listed",
+      "status": "SPAC merger with Real Asset Acquisition Corp closed; ADSs began trading on Nasdaq under IQMX on July 2, 2026, the first European quantum computing company on a major US exchange.",
+      "core": [
+        "hw"
+      ],
+      "part": [
+        "sw"
+      ],
+      "expectedListing": "Listed 2026-07-02",
+      "latestFunding": "~$233.5M net proceeds, July 2026",
+      "checked": "2026-09-20",
+      "source": "https://www.nasdaq.com/press-release/iqm-quantum-computers-and-real-asset-acquisition-corp-complete-combination-trading",
+      "ticker": "IQMX"
+    },
+    {
+      "name": "EigenQ",
+      "note": "Quantum-resilient security & trusted infrastructure · defense focus",
+      "route": "SPAC merger",
+      "status": "Announced a definitive business combination with Silicon Valley Acquisition Corp at an estimated $3 billion enterprise value, plus ~$45M committed financing announced Sept 2026. Closing expected Q4 2026, pending shareholder and regulatory approval.",
+      "core": [
+        "sec"
+      ],
+      "part": [
+        "sw",
+        "sen",
+        "nw"
+      ],
+      "expectedListing": "Q4 2026 (planned)",
+      "latestFunding": "~$45M committed financing, September 2026",
+      "checked": "2026-09-20",
+      "source": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-definitive-business-combination-agreement-to-create-a-publicly-traded-quantum-technology-company-302802896.html"
+    }
+  ],
+  "warnings": []
+}

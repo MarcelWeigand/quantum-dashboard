@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Quantinuum",
+    "note": "Trapped ion · Honeywell majority owner",
+    "route": "Newly listed",
+    "status": "Completed a traditional IPO on Nasdaq, pricing at $60/share and raising $1.68 billion. Honeywell and Cambridge Quantum retain roughly 82% ownership post-IPO.",
+    "core": [
+      "hw",
+      "ec",
+      "sw"
+    ],
+    "part": [],
+    "expectedListing": "Listed 2026-06-04",
+    "latestFunding": "$1.68B IPO, June 2026",
+    "checked": "2026-09-20",
+    "source": "https://www.quantinuum.com/press-releases/quantinuum-announces-pricing-of-upsized-initial-public-offering",
+    "ticker": "QNT"
+  },
+  {
+    "name": "PsiQuantum",
+    "note": "Photonic · utility-scale focus",
+    "route": "Private",
+    "status": "Closed a $1.5 billion Series E in May 2026, lifting its valuation to $10.5 billion. Remains venture-funded with no public listing announced.",
+    "core": [
+      "hw"
+    ],
+    "part": [
+      "ec",
+      "en"
+    ],
+    "expectedListing": "",
+    "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
+    "checked": "2026-09-20",
+    "source": "https://www.smartcompany.com.au/startupsmart/psiquantum-valuation-skyrockets-10-5-billion-1-5-billion-series-e-raise/"
+  },
+  {
+    "name": "Xanadu",
+    "note": "Photonic · maker of PennyLane software",
+    "route": "Newly listed",
+    "status": "SPAC merger with Crane Harbor Acquisition Corp closed; began trading on Nasdaq and the TSX on March 27, 2026, as the first publicly listed photonic quantum company.",
+    "core": [
+      "hw",
+      "sw"
+    ],
+    "part": [
+      "ec"
+    ],
+    "expectedListing": "Listed 2026-03-27",
+    "latestFunding": "$301.6M gross (PIPE + SPAC trust), March 2026",
+    "checked": "2026-09-20",
+    "source": "https://thequantuminsider.com/2026/03/27/xanadu-becomes-first-pure-play-photonic-quantum-computing-company-to-go-public/",
+    "ticker": "XNDU"
+  },
+  {
+    "name": "Infleqtion",
+    "note": "Neutral atom · quantum sensing",
+    "route": "Newly listed",
+    "status": "SPAC merger with Churchill Capital Corp X closed; began trading on the NYSE under INFQ on February 17, 2026, becoming the first publicly listed neutral-atom quantum company.",
+    "core": [
+      "hw",
+      "sen"
+    ],
+    "part": [
+      "sw"
+    ],
+    "expectedListing": "Listed 2026-02-17",
+    "latestFunding": "$528.2M gross (trust + PIPE), February 2026",
+    "checked": "2026-09-20",
+    "source": "https://www.datacenterdynamics.com/en/news/quantum-computing-firm-infleqtion-begins-trading-on-nasdaq-following-spac-merger/",
+    "ticker": "INFQ"
+  },
+  {
+    "name": "Horizon Quantum",
+    "note": "Hardware-agnostic quantum software · Singapore",
+    "route": "Newly listed",
+    "status": "SPAC merger with dMY Squared Technology Group closed; began trading on Nasdaq under HQ on March 20, 2026.",
+    "core": [
+      "sw"
+    ],
+    "part": [],
+    "expectedListing": "Listed 2026-03-20",
+    "latestFunding": "$120M gross proceeds, March 2026",
+    "checked": "2026-09-20",
+    "source": "https://quantumcomputingreport.com/horizon-quantum-computing-completes-merger-with-dmy-squared-set-to-trade-on-nasdaq/",
+    "ticker": "HQ"
+  },
+  {
+    "name": "Pasqal",
+    "note": "Neutral atom · France",
+    "route": "Newly listed",
+    "status": "Completed its SPAC merger with Bleichroeder Acquisition Corp II; began trading on Nasdaq under PSQL on August 28, 2026, with ~$360M in cash. A Euronext Paris dual listing is planned to follow.",
+    "core": [
+      "hw"
+    ],
+    "part": [
+      "sw"
+    ],
+    "expectedListing": "Listed 2026-08-28",
+    "latestFunding": "€340M pre-listing round + SPAC proceeds, 2026",
+    "checked": "2026-09-20",
+    "source": "https://thequantuminsider.com/2026/08/28/pasqal-completes-spac-merger-with-360-million-in-cash/",
+    "ticker": "PSQL"
+  },
+  {
+    "name": "IQM Quantum Computers",
+    "note": "Superconducting · Finland",
+    "route": "Newly listed",
+    "status": "SPAC merger with Real Asset Acquisition Corp closed; ADSs began trading on Nasdaq under IQMX on July 2, 2026, the first European quantum computing company on a major US exchange.",
+    "core": [
+      "hw"
+    ],
+    "part": [
+      "sw"
+    ],
+    "expectedListing": "Listed 2026-07-02",
+    "latestFunding": "~$233.5M net proceeds, July 2026",
+    "checked": "2026-09-20",
+    "source": "https://www.nasdaq.com/press-release/iqm-quantum-computers-and-real-asset-acquisition-corp-complete-combination-trading",
+    "ticker": "IQMX"
+  },
+  {
+    "name": "EigenQ",
+    "note": "Quantum-resilient security & trusted infrastructure · defense focus",
+    "route": "SPAC merger",
+    "status": "Announced a definitive business combination with Silicon Valley Acquisition Corp at an estimated $3 billion enterprise value, plus ~$45M committed financing announced Sept 2026. Closing expected Q4 2026, pending shareholder and regulatory approval.",
+    "core": [
+      "sec"
+    ],
+    "part": [
+      "sw",
+      "sen",
+      "nw"
+    ],
+    "expectedListing": "Q4 2026 (planned)",
+    "latestFunding": "~$45M committed financing, September 2026",
+    "checked": "2026-09-20",
+    "source": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-definitive-business-combination-agreement-to-create-a-publicly-traded-quantum-technology-company-302802896.html"
+  }
+]
