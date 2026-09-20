@@ -3,7 +3,7 @@
     "name": "PsiQuantum",
     "note": "Photonic · utility-scale focus",
     "route": "Private",
-    "status": "Closed a $1.5 billion Series E in May 2026, lifting its valuation to $10.5 billion. Remains venture-funded with no public listing announced.",
+    "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and it finalized a definitive $100M CHIPS Act R&D award with the U.S. Department of Commerce on September 8, 2026.",
     "core": [
       "hw"
     ],
@@ -14,13 +14,13 @@
     "expectedListing": "",
     "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
     "checked": "2026-09-20",
-    "source": "https://www.smartcompany.com.au/startupsmart/psiquantum-valuation-skyrockets-10-5-billion-1-5-billion-series-e-raise/"
+    "source": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/"
   },
   {
     "name": "EigenQ",
     "note": "Quantum-resilient security & trusted infrastructure · defense focus",
     "route": "SPAC merger",
-    "status": "Announced a definitive business combination with Silicon Valley Acquisition Corp at an estimated $3 billion enterprise value, plus ~$45M committed financing announced Sept 2026. Closing expected Q4 2026, pending shareholder and regulatory approval.",
+    "status": "Silicon Valley Acquisition Corp finalized a $45M convertible note financing on September 18, 2026 (half funded immediately, rest at closing) to accelerate commercialization ahead of the planned merger. Closing is still expected Q4 2026, after which the combined company plans to list on Nasdaq as 'E…",
     "core": [
       "sec"
     ],
@@ -30,8 +30,25 @@
       "nw"
     ],
     "expectedListing": "Q4 2026 (planned)",
-    "latestFunding": "~$45M committed financing, September 2026",
+    "latestFunding": "$45M convertible note (financing finalized), September 18,…",
     "checked": "2026-09-20",
-    "source": "https://www.prnewswire.com/news-releases/eigenq-and-silicon-valley-acquisition-corp-announce-definitive-business-combination-agreement-to-create-a-publicly-traded-quantum-technology-company-302802896.html"
+    "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
+  },
+  {
+    "name": "Terra Quantum",
+    "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
+    "route": "SPAC merger",
+    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXINU) on May 26, 2026 at a $3.5 billion equity valuation (~$3.6B pro forma enterprise value), targeting up to $190M in gross proceeds. Closing is targeted for H2 2026, after which it plans to tra…",
+    "core": [
+      "sw"
+    ],
+    "part": [
+      "sec",
+      "hw"
+    ],
+    "expectedListing": "H2 2026 (planned)",
+    "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
+    "checked": "2026-09-20",
+    "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
   }
 ]

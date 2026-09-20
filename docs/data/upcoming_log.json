@@ -11,5 +11,14 @@
       "Added IQM Quantum Computers: completed SPAC merger with Real Asset Acquisition Corp, trading on Nasdaq as IQMX since July 2, 2026",
       "Added EigenQ: announced SPAC merger with Silicon Valley Acquisition Corp ($3B enterprise value), expected to close Q4 2026"
     ]
+  },
+  {
+    "date": "2026-09-20",
+    "changes": [
+      "Updated PsiQuantum: added Sept 8, 2026 finalization of $100M CHIPS Act award with U.S. Dept. of Commerce; still private, no IPO announced",
+      "Updated EigenQ: SVAQ finalized the $45M convertible note financing on Sept 18, 2026; confirmed planned Nasdaq ticker EIGQ, close still targeted Q4 2026",
+      "Added Terra Quantum: pending SPAC merger with Axiom Intelligence Acquisition Corp 1 at $3.5B valuation, targeting Nasdaq listing as 'TQ' in H2 2026 (not yet completed, so not excluded as an already-l…",
+      "Checked but did not add: Pasqal, Quantinuum, IQM, Infleqtion, Horizon Quantum, and Xanadu have all completed their listings (PSQL, QNT, IQMX, INFQ, HQ, XNDU) and are already excluded; SEEQC's SPAC de…"
+    ]
   }
 ]

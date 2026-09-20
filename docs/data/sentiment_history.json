@@ -1,20 +1,20 @@
 {
   "days": {
     "2026-09-20": {
-      "science": 79,
-      "stock": 12,
+      "science": 78,
+      "stock": 4,
       "nScience": 25,
       "nStock": 30,
-      "headlineScore": 25,
+      "headlineScore": 14,
       "momentumScore": -18,
-      "reasonScience": "Today's research news skews positive, with new records for qubit-building-block stability, a fresh cross-platform benchmark, and quantum sensors reaching into medicine.",
-      "reasonStock": "Quantum stocks broadly closed lower on the last trading day despite a steady stream of contract, funding, and deployment headlines from IonQ, Rigetti, D-Wave, and Infleqtion."
+      "reasonScience": "Today's quantum science news leans toward hardware and networking progress, headlined by a new benchmark exposing how far current quantum computers still have to go.",
+      "reasonStock": "Quantum stocks saw no new trading over the weekend, but bullish network, chip-supply and funding news for IonQ, Rigetti and Infleqtion contrasted with D-Wave's legal and leadership troubles."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "With no prior days logged this month, today's mix of hardware milestones, a new benchmark, and sensing and networking advances sets an early tone of broad, incremental quantum progress.",
-      "stock": "As the first tracked trading day this month, quantum stocks are starting September in the red even as deployment and funding news keeps flowing across the sector."
+      "science": "With no earlier days logged yet, today's mix of networking, sensing and benchmarking results marks the start of this month's quantum-science coverage.",
+      "stock": "As the first tracked day this month, quantum stocks closed broadly lower in Friday's session (IONQ, RGTI, QBTS, IBM all down) even as deal and funding headlines stayed upbeat."
     }
   }
 }
