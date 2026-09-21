@@ -9,12 +9,22 @@
       "momentumScore": -18,
       "reasonScience": "Today's quantum science news leans toward hardware and networking progress, headlined by a new benchmark exposing how far current quantum computers still have to go.",
       "reasonStock": "Quantum stocks saw no new trading over the weekend, but bullish network, chip-supply and funding news for IonQ, Rigetti and Infleqtion contrasted with D-Wave's legal and leadership troubles."
+    },
+    "2026-09-21": {
+      "science": 70,
+      "stock": 6,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 17,
+      "momentumScore": -18,
+      "reasonScience": "Today's quantum science news leans toward hardware and networking advances, led by record-stable circular Rydberg atoms and new microwave-to-light and photon-shaping links for quantum networks.",
+      "reasonStock": "Quantum stocks moved on company-specific news rather than a fresh trading session, with IonQ closing its SkyWater acquisition and D-Wave landing new funding and a board hire alongside lingering governance concerns."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "With no earlier days logged yet, today's mix of networking, sensing and benchmarking results marks the start of this month's quantum-science coverage.",
-      "stock": "As the first tracked day this month, quantum stocks closed broadly lower in Friday's session (IONQ, RGTI, QBTS, IBM all down) even as deal and funding headlines stayed upbeat."
+      "science": "This month's quantum science has run from a landmark cross-platform benchmark exposing current hardware limits to steady hardware and networking milestones like today's Rydberg atom stability records.",
+      "stock": "Quantum stocks have swung all month on good news for IonQ, Rigetti and Infleqtion around chips, funding and contracts, set against persistent leadership and legal troubles at D-Wave, a pattern still visible today."
     }
   }
 }

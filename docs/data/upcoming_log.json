@@ -20,5 +20,14 @@
       "Added Terra Quantum: pending SPAC merger with Axiom Intelligence Acquisition Corp 1 at $3.5B valuation, targeting Nasdaq listing as 'TQ' in H2 2026 (not yet completed, so not excluded as an already-l…",
       "Checked but did not add: Pasqal, Quantinuum, IQM, Infleqtion, Horizon Quantum, and Xanadu have all completed their listings (PSQL, QNT, IQMX, INFQ, HQ, XNDU) and are already excluded; SEEQC's SPAC de…"
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "changes": [
+      "PsiQuantum: added note on Sept 2-3, 2026 Brookhaven National Laboratory collaboration; no listing status change",
+      "EigenQ: updated status with August 19, 2026 confidential Form S-4 submission (advancing ~$3.0B pro forma deal) alongside the previously noted $45M financing; still targeting Q4 2026 Nasdaq close as '…",
+      "Terra Quantum: clarified ticker/exchange details (Nasdaq: AXIN, planned ticker 'TQ'); no change to H2 2026 timeline, no shareholder vote date set yet",
+      "Searched for new quantum companies going public (QuEra, SandboxAQ, Atom Computing, and general SPAC/IPO announcements) — found none with confirmed listing plans; Quantinuum, Pasqal, Horizon Quantum,…"
+    ]
   }
 ]
