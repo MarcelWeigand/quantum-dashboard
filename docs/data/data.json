@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-09-21T12:01:00+00:00",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-22T10:58:38+00:00",
+  "date": "2026-09-22",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
-    "price": 147.79,
-    "chgPct": 0.71,
+    "price": 153.04,
+    "chgPct": 3.55,
     "series": [
-      153.46,
       151.69,
       153.0,
       156.85,
@@ -36,9 +35,10 @@
       142.74,
       143.27,
       146.75,
-      147.79
+      147.79,
+      153.04
     ],
-    "asOf": "2026-09-18",
+    "asOf": "2026-09-21",
     "stale": false
   },
   "stocks": [
@@ -57,10 +57,9 @@
         "sec",
         "sen"
       ],
-      "price": 39.13,
-      "chgPct": -3.0,
+      "price": 40.51,
+      "chgPct": 3.53,
       "series": [
-        44.43,
         42.53,
         43.44,
         45.2,
@@ -89,9 +88,10 @@
         37.05,
         36.84,
         40.34,
-        39.13
+        39.13,
+        40.51
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -106,10 +106,9 @@
         "ec",
         "sw"
       ],
-      "price": 15.76,
-      "chgPct": -1.44,
+      "price": 16.53,
+      "chgPct": 4.89,
       "series": [
-        17.94,
         17.65,
         18.09,
         18.42,
@@ -138,9 +137,10 @@
         15.09,
         14.79,
         15.99,
-        15.76
+        15.76,
+        16.53
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -154,10 +154,9 @@
       "part": [
         "sw"
       ],
-      "price": 17.11,
-      "chgPct": -3.28,
+      "price": 17.7,
+      "chgPct": 3.45,
       "series": [
-        20.76,
         20.19,
         20.23,
         20.74,
@@ -186,9 +185,10 @@
         16.41,
         16.27,
         17.69,
-        17.11
+        17.11,
+        17.7
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -203,10 +203,9 @@
         "hw",
         "sen"
       ],
-      "price": 8.7,
-      "chgPct": 3.08,
+      "price": 8.96,
+      "chgPct": 2.99,
       "series": [
-        9.18,
         8.93,
         8.95,
         8.92,
@@ -235,9 +234,10 @@
         7.84,
         8.0,
         8.44,
-        8.7
+        8.7,
+        8.96
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -253,10 +253,9 @@
       "part": [
         "nw"
       ],
-      "price": 229.55,
-      "chgPct": -3.45,
+      "price": 231.93,
+      "chgPct": 1.04,
       "series": [
-        237.28,
         236.31,
         238.42,
         235.98,
@@ -285,9 +284,10 @@
         248.37,
         237.49,
         237.75,
-        229.55
+        229.55,
+        231.93
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -302,10 +302,9 @@
       "part": [
         "sw"
       ],
-      "price": 349.54,
-      "chgPct": 0.64,
+      "price": 354.97,
+      "chgPct": 1.55,
       "series": [
-        354.3,
         357.52,
         343.8,
         343.54,
@@ -334,9 +333,10 @@
         344.98,
         342.87,
         347.33,
-        349.54
+        349.54,
+        354.97
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -348,10 +348,9 @@
         "sec"
       ],
       "part": [],
-      "price": 1.67,
-      "chgPct": -1.76,
+      "price": 1.77,
+      "chgPct": 5.99,
       "series": [
-        2.23,
         2.23,
         2.29,
         2.41,
@@ -380,9 +379,10 @@
         1.8,
         1.7,
         1.7,
-        1.67
+        1.67,
+        1.77
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -396,10 +396,9 @@
       "part": [
         "en"
       ],
-      "price": 2.24,
-      "chgPct": -2.61,
+      "price": 2.36,
+      "chgPct": 5.36,
       "series": [
-        2.57,
         2.56,
         2.55,
         2.66,
@@ -428,9 +427,10 @@
         2.3,
         2.19,
         2.3,
-        2.24
+        2.24,
+        2.36
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -443,10 +443,9 @@
         "sw"
       ],
       "part": [],
-      "price": 20.13,
-      "chgPct": 3.12,
+      "price": 23.53,
+      "chgPct": 16.89,
       "series": [
-        22.9,
         22.61,
         24.39,
         23.72,
@@ -475,9 +474,10 @@
         18.27,
         19.01,
         19.52,
-        20.13
+        20.13,
+        23.53
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -491,10 +491,9 @@
       "part": [
         "sw"
       ],
-      "price": 2.61,
-      "chgPct": -3.33,
+      "price": 2.87,
+      "chgPct": 9.96,
       "series": [
-        4.1,
         3.94,
         4.43,
         4.35,
@@ -523,9 +522,10 @@
         2.64,
         2.63,
         2.7,
-        2.61
+        2.61,
+        2.87
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -539,10 +539,9 @@
         "sw"
       ],
       "part": [],
-      "price": 51.58,
-      "chgPct": -5.36,
+      "price": 51.15,
+      "chgPct": -0.83,
       "series": [
-        58.71,
         56.59,
         56.06,
         71.74,
@@ -571,9 +570,10 @@
         48.65,
         52.01,
         54.5,
-        51.58
+        51.58,
+        51.15
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -588,10 +588,9 @@
       "part": [
         "ec"
       ],
-      "price": 7.42,
-      "chgPct": -3.13,
+      "price": 7.37,
+      "chgPct": -0.67,
       "series": [
-        11.0,
         10.55,
         10.34,
         10.62,
@@ -620,9 +619,10 @@
         7.8,
         7.5,
         7.66,
-        7.42
+        7.42,
+        7.37
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -637,10 +637,9 @@
       "part": [
         "sw"
       ],
-      "price": 13.23,
-      "chgPct": -4.55,
+      "price": 13.96,
+      "chgPct": 5.52,
       "series": [
-        11.91,
         11.69,
         11.82,
         12.36,
@@ -669,9 +668,10 @@
         12.67,
         12.84,
         13.86,
-        13.23
+        13.23,
+        13.96
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -683,10 +683,9 @@
         "sw"
       ],
       "part": [],
-      "price": 13.54,
-      "chgPct": 0.22,
+      "price": 15.4,
+      "chgPct": 13.74,
       "series": [
-        14.13,
         12.56,
         12.49,
         14.93,
@@ -715,9 +714,10 @@
         13.2,
         13.56,
         13.51,
-        13.54
+        13.54,
+        15.4
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -731,8 +731,8 @@
       "part": [
         "sw"
       ],
-      "price": 7.64,
-      "chgPct": -3.41,
+      "price": 7.31,
+      "chgPct": -4.32,
       "series": [
         19.11,
         17.3,
@@ -748,9 +748,10 @@
         7.77,
         7.45,
         7.91,
-        7.64
+        7.64,
+        7.31
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     },
     {
@@ -762,10 +763,9 @@
         "hw"
       ],
       "part": [],
-      "price": 9.54,
-      "chgPct": 7.92,
+      "price": 10.26,
+      "chgPct": 7.55,
       "series": [
-        9.35,
         9.46,
         9.16,
         9.11,
@@ -794,126 +794,127 @@
         9.31,
         9.33,
         8.84,
-        9.54
+        9.54,
+        10.26
       ],
-      "asOf": "2026-09-18",
+      "asOf": "2026-09-21",
       "stale": false
     }
   ],
   "brief": {
-    "headline": "IonQ closed its SkyWater deal and D-Wave landed $100M funding, while physicists set new stability records for Rydberg atom qubits.",
-    "summary": "IonQ closed its SkyWater acquisition and D-Wave landed $100M in funding, both building out quantum hardware ambitions. Stuttgart physicists meanwhile set stability records for circular Rydberg atoms, a small but real step toward more durable qubits."
+    "headline": "IonQ's Korea deal and dilution warnings shake quantum stocks as scientists extend room-temp entanglement 240-fold.",
+    "summary": "IonQ led market news with a new South Korea partnership and raised revenue guidance, though an $895 million warning flagged heavy dilution across quantum stocks. Separately, USTC researchers extended room-temperature entanglement lifetimes up to 240-fold using nuclear-spin swaps."
   },
   "marketNews": [
     {
-      "source": "Dealroom",
-      "published": "2026-09-19T20:10+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ completes SkyWater Technology acquisition (close Dig Jan→Jul 2026) - Dealroom",
-      "summary": "IonQ finalized its acquisition of chipmaker SkyWater Technology, expanding its in-house hardware manufacturing capability.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU2ZUZEpFWUpiODVRaUE0NVVKblBPMEJxeVNha0U0NEJITUt2Qy01NG9iWHRrQkxzWmpiUnhpQ2hyeTJncjExaHhxSk5MbndDVDk1RTM3My0xdGxXNWpvVEVtRUhmYVRIb19oNnJjY0prYkJDSktwSVFlVXM5X2pXaWs5YmtRTWxZQmsyRVhRNTExT0N4LVYwZlRBQ0dDWmZTVmxfTGxR?oc=5"
+      "source": "Yahoo Finance",
+      "published": "2026-09-22T09:26+00:00",
+      "ticker": "QTUM",
+      "title": "IonQ, Rigetti Computing, D-Wave Quantum, and Quantum Computing Inc. Are Sending Shockwaves Through Wall Street With This $895 Million Warning - Yahoo Finance",
+      "summary": "A sector-wide $895 million warning tied to dilution and cash burn rattled IonQ, Rigetti, D-Wave and Quantum Computing Inc.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMmhaUzlFbzh3Y1NfN001YkVDSDVJOGZPU1VXcVE2aElPVGwyTUlCRVlVSVR0eW4ySFdLMkNXbXl6Z2RhS243cmppaXBQMzVkTUZLLVpVTFJUREo4VmRNVUZXMm42eVNrMC1WeHNsZVVMdWRGS1dTNTJ1ZlZlQThyZHpfSkFPR0JDc2FBUFVsUURRdV8tdHFQZzJ3?oc=5"
     },
     {
-      "source": "AD HOC NEWS",
-      "published": "2026-09-20T14:10+00:00",
+      "source": "Business Wire",
+      "published": "2026-09-21T22:31+00:00",
       "ticker": "IONQ",
-      "title": "IonQ stock slips after guidance raise highlights quantum growth and risks - AD HOC NEWS",
-      "summary": "IonQ shares slipped even after the company raised its growth guidance, as investors weighed near-term risks alongside the upside.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmFTTUxJekFWVFBYWkJwQk40WnNHOFRzUmIyUDdjNXEtclNPU2daNnI5WjZGakYxaGxZZmRDRWZjMVlZcjlKWi1TSlg5bGEwd1pRcVk3LTJXTy1kSTZHaGdYakRJMjZHTm14RlFEdzZVNFlTcG81ZUpKVDFUYUdESGU3ejJfY0RBeDFPbTViTjJmZzdnbWVpalNJSGxJaTNBaTBhLUFEeHIwVEtLclNzajhSWDVzZFRlSVBiWVoyS3VSNDFPeEk4XzFfcmg?oc=5"
+      "title": "IonQ and SDT Announce the First Strategic Partnership to Bring Both Advanced Quantum Computing and Quantum Networking to the Asia-Pacific Region - Business Wire",
+      "summary": "IonQ and South Korea's SDT signed a multi-year deal to deploy IonQ's Superion 256 quantum computer and quantum-memory hardware in Asia-Pacific.",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR3l5MnhHdkljM3lSMmFPclgyWlFmTEVQWXV0eXVzSnppSHl0ZzY5ZHdzNXJDYVFEcUdqaW1lQmhyQmV5dlg3V0JQZFA4MXZzTjVVSDlwdzFlQnlpdldFdW9INmlFZGt5c0lRY0JYN2FjTDBwS1RuYXYycjMxcEoxRnJGQnpJT1dNMVA0d0lVbVg1TUhOdVJUeERhcG5HQkQxdDMxVXIwMVVQRThhS05Fd2R6M2hGZ3RsaERfRUZBSkZHWG1ySHFoSkZpWGVnUE9NejVOZ0xMWnY4Wi1LckZfYmNLYllkNzhubm12NFhScWdhZ21Yc0k5V191Q3hLemxTVkx2MlUxeDBOZ1phdmpWY1ZKbU5uUUpsSHZXY0V2NzNIYnlpTzR1ZA?oc=5"
     },
     {
-      "source": "scanx.trade",
-      "published": "2026-09-20T06:19+00:00",
+      "source": "TIKR.com",
+      "published": "2026-09-22T10:04+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Just Diluted Shareholders by 71%. Here’s Why the Math Still Works Out - TIKR.com",
+      "summary": "A report says IonQ diluted existing shareholders by 71% to fund growth, though the piece argues the raised capital still makes the math work.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ2NkSm9rRFRqZ2lzaWdIUHdOUV9ERHBheHVzX1EweW8xbG5RNnNYM0tibFlKeTBvZXB0Ykw2VWpCYWpLLTNXTjVUT0dwQkhOcXRvOVZFa2ZNMVFpN0JVVzN4cTZiNm9ZRGYzYlQxOTNGMFFJcnZCZ0pTN212V1BvMUZVYnhNeHBxMTdnT3NTckVzU3VSMlJwT2ZTenlKWlE?oc=5"
+    },
+    {
+      "source": "Stocktwits",
+      "published": "2026-09-22T01:11+00:00",
       "ticker": "QBTS",
-      "title": "D-Wave Quantum secures $100 million US funding for quantum systems - scanx.trade",
-      "summary": "D-Wave secured $100 million in US funding to build out quantum systems, adding cash to fund its roadmap.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUxCNlA5NmtOSkNPWU9BNktRSUNHQzVucUxQR0hGMF9GNnF3VWR2Z0tNSHVDQlM5OHRDLUhKcVpyQkVwT1RkdEl6bmEzTGQ1UGdfWU9sT0M1WHJCQVhjdndXLU1VbEhsaTFmUHdSbGRSOUktZ2w1eXZhbFFFMnE3TnJXZFdHY19SdjBzQzFGOXhzc09uSjd6dnFNODZfQlRBWHk5VmpVUlM1WjM0UUJ4dWJWMVgtT1dOdWc?oc=5"
+      "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits",
+      "summary": "D-Wave's quantum technology was selected by Nasdaq Verafin for financial-crime detection, a new commercial win for its annealing platform.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWFFbE9QWTNnTEZzUS1mTHg4Sm5nN01GSlZYSm9tNFVDWGFXaG9ac2JoeDZ1NWFsQ1Y2bUtPUWx4UzFRRWM5NVpobHhoWjNMN1pjWEU2eXdjb21KYmt5Y2RrVVlJMXE1cUd5RXpYVnRGZXprUldsMWoyYUY1SVE3YmZTOW8xU2NSOWZpM2QxUTY3M2c1LXh1bHo1bWcyenJQM2RQLVI1Wm56cVlCRVVqUzhIa0hyUlRneS1fN0pNWl8xZ1RkZHN1VGFOY0VyX09RRUljQUNFZWZLbFE?oc=5"
     },
     {
-      "source": "simplywall.st",
-      "published": "2026-09-19T22:02+00:00",
+      "source": "GuruFocus",
+      "published": "2026-09-22T00:57+00:00",
       "ticker": "RGTI",
-      "title": "Rigetti Computing (RGTI) Stock Trades At A Premium After Fresh Funding - simplywall.st",
-      "summary": "Rigetti's stock is trading at a premium following a fresh funding round, raising questions about valuation versus fundamentals.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjlZcVM1V2pibVl0MDctWVF4anVjb0pwT2FrQ3psRFQxZTJnRWRGX1ZsQWhVSlp4Z09neGpuT0hka2NMcWtPQURkX3otUXlPLWVBWTdqZjcwWjFZRnR2eTZRWXMxM1JYdzYtTVJPM2Q1a0MyTHFzSW9sR0VScGlNc3Y3WkZJNzZuX2g5YUtmRFFqOHV6LWlGb3NSUklRU0FSZHZxS2Q3RGhBRUc4SW54VUFUcWNua25wWFZnT2hMMzdEWTdOLWdlYXcyRUVoeVpQZVZGcGlBVTY2Z9IB3wFBVV95cUxOMXRFSmVIdzg3MjdiZjhjNzZSNTMyVHZzWTY2dFBLMEY3SXdQdjU2ci1WaGl5VGFFNEozSjZlUUJLZFluS2UzTHdFY2JmRnUwMngydF9IbUZUS3VBWTFDcVNfSTNzRl9fS2g2QUUtQXU5NnV1VVdPY3IxV2hMSmFVU3hvUTljLTE5bEVlTzJYVWt5b3BxWW95UkV6eWNFVzhFNm9OS3JYdjA2YzJJSjkxbk1oMU0tb2NpR1RfVWk3d2prNUprWFBRMDYzWnFVT2YxT0tDbGw5a2E3VmZGODc0?oc=5"
-    },
-    {
-      "source": "TradingView",
-      "published": "2026-09-21T11:03+00:00",
-      "ticker": "QBTS",
-      "title": "Bernard Gavgani appointed to D-Wave Quantum board, joins Cybersecurity Committee - TradingView",
-      "summary": "D-Wave added veteran tech executive Bernard Gavgani to its board and Cybersecurity Committee, bolstering governance credibility.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFNhc09FZ0RoQVFjaVFybTNQUHdOOF9YdVNzWlJiN3EwMU9wTWNnb0tKbjVpZHRfTXc5c0xWN1NsWGQwTkNzb3dNdkF1RGtJREhQNGs3RHZadlktTG81aDZReEQ4YTRVeGJzU0xtSVNEWGtYY25iYVd1cXJINmRHbjJfTDBPQzVBNUNydGl5WXVFSGhoLTZRbEdWVlZNejc4eXVuUFppUVBrRFZjY19raTVxUXpNS1dnY2tQRjZHQ3hJejVzWmZYTS1zb2dISzV3emlzTUk3SHM?oc=5"
+      "title": "Rigetti Computing Inc (RGTI) Stock Up 4.9% but GF Value Says Ove - GuruFocus",
+      "summary": "Rigetti shares rose 4.9% on the day even as valuation models flagged the stock as overpriced relative to fair value.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3B2a2tPX1FMd0lfb2Q5RTdRQ19PclpRTzE2cUVVcFRGTFlxQl9sTlBEQ3FfWmVvUHFQUmJuanlHY2pSMnE4UmdNV1BMQmxpSFpDeGJqaWFrUVJFTVJQeEFmYTZMZ1VaRzNvLUF0bVY2dk5vN2xwMFp5NWY0OUI1d2dyemJzMTRsT2dKQTVvcEo5blZ3OUxoRUVfaWNZeUVlZzhWMXQ5VUk1NjJjRV8tU2F2RXR3ZEs1NV9Ea19n?oc=5"
     }
   ],
   "science": {
     "featured": {
       "tag": "hw",
-      "title": "Circular Rydberg atoms set new stability records",
-      "summary": "Physicists at the University of Stuttgart created circular Rydberg atoms — a special high-angular-momentum atomic state — that stayed stable for a record 11 milliseconds, alongside record size and storage time. Longer-lived, larger circular Rydberg states make them more practical building blocks for quantum computers and simulators, since decoherence has long limited their use. The atoms remain a laboratory achievement, still far from being wired into a working large-scale quantum processor.",
+      "title": "Room-temperature entanglement made to last 240 times longer",
+      "summary": "Researchers led by USTC's Shuo Ren and Rui-Jian Liang transferred entangled states from electron spins in solid-state defects to nearby atomic nuclei, which resist noise far better. This nuclear-spin swap extended entanglement lifetime at room temperature by up to 240 times. The result points toward sturdier room-temperature quantum memories, but it remains a single-defect lab demonstration far from a usable device.",
       "source": "Phys.org",
-      "published": "2026-09-16T19:20+00:00",
-      "url": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html"
+      "published": "2026-09-21T16:40+00:00",
+      "url": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html"
     },
     "items": [
       {
+        "tag": "nw",
+        "title": "Quantum states teleported across 100 optical channels at once",
+        "summary": "Physicists teleported quantum states through 100 parallel optical channels simultaneously, a step toward higher-capacity quantum networks.",
+        "source": "Phys.org",
+        "published": "2026-09-21T15:20+00:00",
+        "url": "https://phys.org/news/2026-09-scientists-teleport-quantum-states-parallel.html"
+      },
+      {
+        "tag": "hw",
+        "title": "Circular Rydberg atoms set new stability records",
+        "summary": "Stuttgart researchers kept circular Rydberg atoms stable for a record 11 milliseconds, a useful building block for future quantum computers and simulators.",
+        "source": "Phys.org",
+        "published": "2026-09-16T19:20+00:00",
+        "url": "https://phys.org/news/2026-09-circular-rydberg-atoms-staying-stable.html"
+      },
+      {
         "tag": "sen",
-        "title": "Diamond sensors pick up heartbeats without touching skin",
-        "summary": "Mainz physicists showed diamond quantum sensors can detect the heart's faint magnetic signals at room temperature without skin contact.",
+        "title": "Diamond sensors read the heart's magnetism without touching skin",
+        "summary": "Mainz physicists showed diamond quantum sensors can detect the heart's faint magnetic signals at room temperature without any skin contact.",
         "source": "Phys.org",
         "published": "2026-09-17T15:40+00:00",
         "url": "https://phys.org/news/2026-09-diamond-quantum-sensors-heart-magnetism.html"
       },
       {
-        "tag": "nw",
-        "title": "Magnets could help quantum computers talk to each other",
-        "summary": "A Northeastern researcher's small-scale magnetic systems could let separate quantum computers exchange information more power-efficiently.",
-        "source": "Phys.org",
-        "published": "2026-09-15T20:00+00:00",
-        "url": "https://phys.org/news/2026-09-magnets-quantum.html"
-      },
-      {
-        "tag": "ec",
-        "title": "New error-correction layout needs fewer qubits",
-        "summary": "Researchers designed denser 'color code' error-correction circuits that preserve full error protection while using up to a third fewer physical qubits.",
-        "source": "arXiv",
-        "published": "2026-09-21T04:00+00:00",
-        "url": "https://arxiv.org/abs/2609.21376"
-      },
-      {
         "tag": "sw",
-        "title": "A cleaner proof of quantum advantage from a classic test",
-        "summary": "Physicists devised a two-round version of the CHSH test that rules out a simple classical strategy, giving a more unconditional proof of quantum advantage.",
-        "source": "arXiv",
-        "published": "2026-09-21T04:00+00:00",
-        "url": "https://arxiv.org/abs/2609.21237"
+        "title": "New benchmark measures how quantum computers stack up",
+        "summary": "A new benchmark lets researchers compare different quantum computers on a common scale, exposing how far today's machines still have to go.",
+        "source": "Phys.org",
+        "published": "2026-09-17T17:10+00:00",
+        "url": "https://phys.org/news/2026-09-benchmark-quantum-reveals-limitations.html"
       }
     ]
   },
   "arxiv": {
-    "total": 97,
-    "picked": 2
+    "total": 257,
+    "picked": 0
   },
   "sentiment": {
     "today": {
-      "science": 70,
-      "stock": 6,
+      "science": 71,
+      "stock": 44,
       "nScience": 50,
       "nStock": 30,
-      "headlineScore": 17,
-      "momentumScore": -18,
-      "reasonScience": "Today's quantum science news leans toward hardware and networking advances, led by record-stable circular Rydberg atoms and new microwave-to-light and photon-shaping links for quantum networks.",
-      "reasonStock": "Quantum stocks moved on company-specific news rather than a fresh trading session, with IonQ closing its SkyWater acquisition and D-Wave landing new funding and a board hire alongside lingering governance concerns."
+      "headlineScore": 61,
+      "momentumScore": 4,
+      "reasonScience": "Today's quantum science news centers on communication and sensing breakthroughs, led by a 240-fold extension of room-temperature entanglement lifetime and teleportation across 100 parallel optical channels.",
+      "reasonStock": "Quantum stocks closed higher Monday, with IonQ's new South Korea partnership and raised revenue guidance offsetting concerns about heavy share dilution and an $895 million sector warning."
     },
     "monthly": [
       {
         "month": "2026-09",
-        "science": 73,
-        "stock": 5,
-        "articlesScience": 75,
-        "articlesStock": 60,
-        "reasonScience": "This month's quantum science has run from a landmark cross-platform benchmark exposing current hardware limits to steady hardware and networking milestones like today's Rydberg atom stability records.",
-        "reasonStock": "Quantum stocks have swung all month on good news for IonQ, Rigetti and Infleqtion around chips, funding and contracts, set against persistent leadership and legal troubles at D-Wave, a pattern still visible today."
+        "science": 72,
+        "stock": 18,
+        "articlesScience": 125,
+        "articlesStock": 90,
+        "reasonScience": "This month's quantum science coverage has consistently favored hardware and networking progress, from record-stable Rydberg atoms and microwave-to-light links to today's major entanglement-lifetime and teleportation results.",
+        "reasonStock": "Quantum stocks have moved all month on company-specific catalysts—chip-supply deals, funding, acquisitions and now IonQ's Korea expansion—even as dilution and governance concerns persist."
       }
     ],
     "method": {
@@ -926,7 +927,7 @@
       "name": "PsiQuantum",
       "note": "Photonic · utility-scale focus",
       "route": "Private",
-      "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and it finalized a definitive $100M CHIPS Act R&D award with the U.S. Department of Commerce on September 8, 2026. On September 2-3, 2026 it also announced a collaboration with DOE's Bro…",
+      "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and it finalized a definitive $100M CHIPS Act R&D award with the U.S. Department of Commerce on September 8, 2026. It also holds a $125M DARPA agreement (signed July 22, 2026) and a DOE…",
       "core": [
         "hw"
       ],
@@ -936,14 +937,14 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-09-21",
+      "checked": "2026-09-22",
       "source": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/"
     },
     {
       "name": "EigenQ",
       "note": "Quantum-resilient security & trusted infrastructure · defense focus",
       "route": "SPAC merger",
-      "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) confidentially submitted a draft Form S-4 to the SEC on August 19, 2026, advancing their ~$3.0B pro forma business combination, and on September 18, 2026 EigenQ secured about $45M in convertible-note financing (half funded upfront) to fund c…",
+      "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma business combination (backed by ~$215M in SVAQ trust cash) after confidentially submitting a draft Form S-4 on August 19, 2026; the combined company plans to list on Nasdaq as \"EIGQ.\" On September 18, 202…",
       "core": [
         "sec"
       ],
@@ -954,14 +955,14 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-09-21",
-      "source": "https://quantumcomputingreport.com/eigenq-and-silicon-valley-acquisition-corp-advance-3b-spac-merger-via-form-s-4-submission/"
+      "checked": "2026-09-22",
+      "source": "https://quantumcomputingreport.com/eigenq-to-go-public-via-3-billion-spac-merger-with-silicon-valley-acquisition-corp/"
     },
     {
       "name": "Terra Quantum",
       "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
       "route": "SPAC merger",
-      "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, targeting up to $190M in gross proceeds from Axiom's trust account. Closing is still targeted for H2 2026 with no shareholder vote date ye…",
+      "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" and existing Terra Quantum shareholders retaining about 92% of the combined company. Closing is still targeted…",
       "core": [
         "sw"
       ],
@@ -971,7 +972,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-09-21",
+      "checked": "2026-09-22",
       "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
     }
   ],

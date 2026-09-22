@@ -29,5 +29,14 @@
       "Terra Quantum: clarified ticker/exchange details (Nasdaq: AXIN, planned ticker 'TQ'); no change to H2 2026 timeline, no shareholder vote date set yet",
       "Searched for new quantum companies going public (QuEra, SandboxAQ, Atom Computing, and general SPAC/IPO announcements) — found none with confirmed listing plans; Quantinuum, Pasqal, Horizon Quantum,…"
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "changes": [
+      "PsiQuantum: added DARPA $125M agreement (July 22, 2026) to status; no listing announced, route/funding unchanged",
+      "EigenQ: added planned ticker \"EIGQ\" and ~$215M SVAQ trust cash figure to status; route/route timing unchanged",
+      "Terra Quantum: added planned ticker \"TQ\" and ~92%/8% ownership split to status; no new SEC filing found since May 2026 announcement",
+      "Checked for new quantum companies announcing/filing to go public: none found — Horizon Quantum (HQ), Xanadu (XNDU), IQM (IQMX), Pasqal (PSQL), Infleqtion (INFQ) and Quantinuum (QNT) all completed lis…"
+    ]
   }
 ]
