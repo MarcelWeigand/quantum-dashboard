@@ -38,5 +38,12 @@
       "Terra Quantum: added planned ticker \"TQ\" and ~92%/8% ownership split to status; no new SEC filing found since May 2026 announcement",
       "Checked for new quantum companies announcing/filing to go public: none found — Horizon Quantum (HQ), Xanadu (XNDU), IQM (IQMX), Pasqal (PSQL), Infleqtion (INFQ) and Quantinuum (QNT) all completed lis…"
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "changes": [
+      "No material changes found for PsiQuantum, EigenQ, or Terra Quantum since last check — only checked date refreshed to 2026-09-23",
+      "No new quantum-computing companies found that have announced or filed to go public (checked QuEra Computing, SandboxAQ, Multiverse Computing, Atom Computing — all remain private with no IPO/SPAC acti…"
+    ]
   }
 ]

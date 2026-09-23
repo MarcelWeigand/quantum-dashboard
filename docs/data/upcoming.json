@@ -3,7 +3,7 @@
     "name": "PsiQuantum",
     "note": "Photonic · utility-scale focus",
     "route": "Private",
-    "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and it finalized a definitive $100M CHIPS Act R&D award with the U.S. Department of Commerce on September 8, 2026. It also holds a $125M DARPA agreement (signed July 22, 2026) and a DOE…",
+    "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and it finalized a definitive $100M CHIPS Act R&D award with the U.S. Department of Commerce on September 8, 2026. It also holds a $125M DARPA agreement (signed July 22, 2026); company r…",
     "core": [
       "hw"
     ],
@@ -13,7 +13,7 @@
     ],
     "expectedListing": "",
     "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-    "checked": "2026-09-22",
+    "checked": "2026-09-23",
     "source": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/"
   },
   {
@@ -31,14 +31,14 @@
     ],
     "expectedListing": "Q4 2026 (planned)",
     "latestFunding": "$45M convertible note financing, September 18, 2026",
-    "checked": "2026-09-22",
-    "source": "https://quantumcomputingreport.com/eigenq-to-go-public-via-3-billion-spac-merger-with-silicon-valley-acquisition-corp/"
+    "checked": "2026-09-23",
+    "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
   },
   {
     "name": "Terra Quantum",
     "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
     "route": "SPAC merger",
-    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" and existing Terra Quantum shareholders retaining about 92% of the combined company. Closing is still targeted…",
+    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" and existing Terra Quantum shareholders retaining about 92% of the combined company. Axiom intends to file a Fo…",
     "core": [
       "sw"
     ],
@@ -48,7 +48,7 @@
     ],
     "expectedListing": "H2 2026 (planned)",
     "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-    "checked": "2026-09-22",
+    "checked": "2026-09-23",
     "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
   }
 ]
