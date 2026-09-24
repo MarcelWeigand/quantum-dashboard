@@ -13,14 +13,14 @@
     ],
     "expectedListing": "",
     "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-    "checked": "2026-09-23",
+    "checked": "2026-09-24",
     "source": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/"
   },
   {
     "name": "EigenQ",
     "note": "Quantum-resilient security & trusted infrastructure · defense focus",
     "route": "SPAC merger",
-    "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma business combination (backed by ~$215M in SVAQ trust cash) after confidentially submitting a draft Form S-4 on August 19, 2026; the combined company plans to list on Nasdaq as \"EIGQ.\" On September 18, 202…",
+    "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a draft Form S-4 submitted August 19, 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a ~$45M convertible note financing (about $22.5M funded upf…",
     "core": [
       "sec"
     ],
@@ -31,14 +31,14 @@
     ],
     "expectedListing": "Q4 2026 (planned)",
     "latestFunding": "$45M convertible note financing, September 18, 2026",
-    "checked": "2026-09-23",
+    "checked": "2026-09-24",
     "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
   },
   {
     "name": "Terra Quantum",
     "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
     "route": "SPAC merger",
-    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" and existing Terra Quantum shareholders retaining about 92% of the combined company. Axiom intends to file a Fo…",
+    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" pending regulatory approvals; existing Terra Quantum shareholders would retain about 92% of the combined compan…",
     "core": [
       "sw"
     ],
@@ -48,7 +48,21 @@
     ],
     "expectedListing": "H2 2026 (planned)",
     "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-    "checked": "2026-09-23",
+    "checked": "2026-09-24",
     "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
+  },
+  {
+    "name": "SeeQC",
+    "note": "Superconducting digital quantum control chips & foundry · US/UK/Italy",
+    "route": "SPAC merger",
+    "status": "SeeQC is pursuing a dual-track listing: a definitive merger agreement with Allegro Merger Corp. (announced January 16, 2026, ~$1B valuation, $65M PIPE) is running alongside a Form S-1 filed June 29, 2026 for a direct Nasdaq Global Market listing under ticker \"SEQC.\" As of the most recent filings, s…",
+    "core": [
+      "hw"
+    ],
+    "part": [],
+    "expectedListing": "TBD (targeted 2026)",
+    "latestFunding": "$65M PIPE financing tied to Allegro Merger Corp. deal, anno…",
+    "checked": "2026-09-24",
+    "source": "https://thequantuminsider.com/2026/06/30/seeqc-files-registration-statement-for-proposed-initial-public-offering/"
   }
 ]

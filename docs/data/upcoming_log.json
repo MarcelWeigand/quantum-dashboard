@@ -45,5 +45,15 @@
       "No material changes found for PsiQuantum, EigenQ, or Terra Quantum since last check — only checked date refreshed to 2026-09-23",
       "No new quantum-computing companies found that have announced or filed to go public (checked QuEra Computing, SandboxAQ, Multiverse Computing, Atom Computing — all remain private with no IPO/SPAC acti…"
     ]
+  },
+  {
+    "date": "2026-09-24",
+    "changes": [
+      "Added SeeQC: superconducting quantum-control chip maker pursuing dual-track Nasdaq listing (S-1 filed June 29, 2026, ticker SEQC reserved) alongside its pending Allegro Merger Corp. SPAC deal (~$1B v…",
+      "Confirmed Pasqal (PSQL), Horizon Quantum (HQ), Infleqtion (INFQ), IQM (IQMX), Xanadu (XNDU), and Quantinuum (QNT) have all completed their listings and are correctly excluded as already-tracked ticke…",
+      "PsiQuantum: no new material news beyond existing entry; DARPA/CHIPS award details reconfirmed, no new funding round or listing plans found.",
+      "Terra Quantum: no material change; SPAC merger with Axiom Intelligence Acquisition Corp 1 remains on track for H2 2026 close as \"TQ.\"",
+      "EigenQ: refreshed with September 18, 2026 $45M convertible note financing detail (entry content unchanged in substance from prior check)."
+    ]
   }
 ]

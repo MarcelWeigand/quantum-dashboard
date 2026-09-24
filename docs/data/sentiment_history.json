@@ -39,12 +39,22 @@
       "momentumScore": 5,
       "reasonScience": "Today's quantum science news is led by IonQ's real-time error-correction decoder alongside a wave of infrastructure news, including Cisco's quantum-safe routers, an in-orbit photonic processor, and new quantum hubs in Maryland and Virginia.",
       "reasonStock": "Quantum stocks were mixed, with IonQ surging in pre-market and after-hours trading on its error-decoder milestone while D-Wave and Rigetti faced cash-burn and valuation scrutiny despite new partnerships."
+    },
+    "2026-09-24": {
+      "science": 55,
+      "stock": 47,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 73,
+      "momentumScore": -14,
+      "reasonScience": "Today's science news is led by a record-accuracy atomic clock from Singapore and a 240-fold extension of room-temperature entanglement lifetime, alongside quantum-safe Bitcoin and device-location-verification progress.",
+      "reasonStock": "Quantum stocks were mixed as IonQ closed up 4.4% on its NVIDIA partnership and error-correction breakthrough while Rigetti, D-Wave and most other quantum names fell."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "This month's quantum science has moved from record-stable atoms and networking links, through entanglement-lifetime and teleportation breakthroughs on Sept 22, to today's error-correction and infrastructure push.",
-      "stock": "September's quantum stocks have swung mostly on company-specific news, from IonQ's SkyWater deal and Korea partnership to today's decoder-driven surge, while D-Wave has drawn scrutiny over governance, cash burn and stretched valuations."
+      "science": "This month's science news has run from record Rydberg-atom stability and 240-fold entanglement-lifetime gains to teleportation across 100 optical channels and now a record-accuracy atomic clock, with steady progress across hardware, networking and sensing.",
+      "stock": "Quantum stocks have swung on company-specific news all month, from IonQ's SkyWater deal and Korea partnership to today's NVIDIA tie-up and error-decoder milestone, even as D-Wave and Rigetti faced recurring dilution, cash-burn and valuation concerns."
     }
   }
 }
