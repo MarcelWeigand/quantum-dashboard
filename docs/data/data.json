@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-09-24T11:07:36+00:00",
-  "date": "2026-09-24",
+  "generatedAt": "2026-09-25T11:10:05+00:00",
+  "date": "2026-09-25",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
-    "price": 152.45,
-    "chgPct": -1.28,
+    "price": 152.47,
+    "chgPct": 0.01,
     "series": [
-      156.85,
       158.24,
       158.68,
       158.22,
@@ -36,9 +35,10 @@
       147.79,
       153.04,
       154.43,
-      152.45
+      152.45,
+      152.47
     ],
-    "asOf": "2026-09-23",
+    "asOf": "2026-09-24",
     "stale": false
   },
   "stocks": [
@@ -57,10 +57,9 @@
         "sec",
         "sen"
       ],
-      "price": 42.54,
-      "chgPct": 4.42,
+      "price": 44.98,
+      "chgPct": 5.74,
       "series": [
-        45.2,
         44.98,
         46.26,
         46.84,
@@ -89,9 +88,10 @@
         39.13,
         40.51,
         40.74,
-        42.54
+        42.54,
+        44.98
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -106,10 +106,9 @@
         "ec",
         "sw"
       ],
-      "price": 16.0,
-      "chgPct": -3.12,
+      "price": 16.5,
+      "chgPct": 3.09,
       "series": [
-        18.42,
         18.62,
         18.82,
         18.67,
@@ -138,9 +137,10 @@
         15.76,
         16.53,
         16.52,
-        16.0
+        16.0,
+        16.5
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -154,10 +154,9 @@
       "part": [
         "sw"
       ],
-      "price": 16.81,
-      "chgPct": -4.27,
+      "price": 17.48,
+      "chgPct": 3.99,
       "series": [
-        20.74,
         20.9,
         21.17,
         20.87,
@@ -186,9 +185,10 @@
         17.11,
         17.7,
         17.56,
-        16.81
+        16.81,
+        17.48
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -203,10 +203,9 @@
         "hw",
         "sen"
       ],
-      "price": 9.12,
+      "price": 9.16,
       "chgPct": 0.44,
       "series": [
-        8.92,
         8.92,
         9.01,
         9.05,
@@ -235,9 +234,10 @@
         8.7,
         8.96,
         9.08,
-        9.12
+        9.12,
+        9.16
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -253,10 +253,9 @@
       "part": [
         "nw"
       ],
-      "price": 232.76,
-      "chgPct": 0.6,
+      "price": 227.06,
+      "chgPct": -2.45,
       "series": [
-        235.98,
         237.14,
         234.32,
         228.85,
@@ -285,9 +284,10 @@
         229.55,
         231.93,
         231.38,
-        232.76
+        232.76,
+        227.06
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -302,10 +302,9 @@
       "part": [
         "sw"
       ],
-      "price": 337.83,
-      "chgPct": -3.8,
+      "price": 342.36,
+      "chgPct": 1.34,
       "series": [
-        343.54,
         346.36,
         345.9,
         344.0,
@@ -334,9 +333,10 @@
         349.54,
         354.97,
         351.16,
-        337.83
+        337.83,
+        342.36
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -348,10 +348,9 @@
         "sec"
       ],
       "part": [],
-      "price": 2.03,
-      "chgPct": 15.34,
+      "price": 1.89,
+      "chgPct": -6.9,
       "series": [
-        2.41,
         2.39,
         2.43,
         2.23,
@@ -380,9 +379,10 @@
         1.67,
         1.77,
         1.76,
-        2.03
+        2.03,
+        1.89
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -396,10 +396,9 @@
       "part": [
         "en"
       ],
-      "price": 2.3,
-      "chgPct": -2.13,
+      "price": 2.32,
+      "chgPct": 0.87,
       "series": [
-        2.66,
         2.84,
         3.01,
         2.9,
@@ -428,9 +427,10 @@
         2.24,
         2.36,
         2.35,
-        2.3
+        2.3,
+        2.32
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -443,10 +443,9 @@
         "sw"
       ],
       "part": [],
-      "price": 22.54,
-      "chgPct": -2.17,
+      "price": 23.12,
+      "chgPct": 2.57,
       "series": [
-        23.72,
         23.75,
         24.36,
         24.35,
@@ -475,9 +474,10 @@
         20.13,
         23.53,
         23.04,
-        22.54
+        22.54,
+        23.12
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -491,10 +491,9 @@
       "part": [
         "sw"
       ],
-      "price": 2.73,
-      "chgPct": 1.87,
+      "price": 2.79,
+      "chgPct": 2.2,
       "series": [
-        4.35,
         4.11,
         4.06,
         3.85,
@@ -523,9 +522,10 @@
         2.61,
         2.87,
         2.68,
-        2.73
+        2.73,
+        2.79
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -539,10 +539,9 @@
         "sw"
       ],
       "part": [],
-      "price": 50.11,
-      "chgPct": -2.49,
+      "price": 49.39,
+      "chgPct": -1.44,
       "series": [
-        71.74,
         68.5,
         63.59,
         66.01,
@@ -571,9 +570,10 @@
         51.58,
         51.15,
         51.39,
-        50.11
+        50.11,
+        49.39
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -588,10 +588,9 @@
       "part": [
         "ec"
       ],
-      "price": 5.33,
-      "chgPct": -7.79,
+      "price": 5.1,
+      "chgPct": -4.32,
       "series": [
-        10.62,
         10.78,
         11.53,
         11.25,
@@ -620,9 +619,10 @@
         7.42,
         7.37,
         5.78,
-        5.33
+        5.33,
+        5.1
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -637,10 +637,9 @@
       "part": [
         "sw"
       ],
-      "price": 13.83,
-      "chgPct": -1.64,
+      "price": 14.3,
+      "chgPct": 3.4,
       "series": [
-        12.36,
         12.18,
         12.86,
         13.41,
@@ -669,9 +668,10 @@
         13.23,
         13.96,
         14.06,
-        13.83
+        13.83,
+        14.3
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -683,10 +683,9 @@
         "sw"
       ],
       "part": [],
-      "price": 14.87,
-      "chgPct": -5.53,
+      "price": 15.8,
+      "chgPct": 6.25,
       "series": [
-        14.93,
         16.67,
         16.99,
         16.8,
@@ -715,9 +714,10 @@
         13.54,
         15.4,
         15.74,
-        14.87
+        14.87,
+        15.8
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -731,8 +731,8 @@
       "part": [
         "sw"
       ],
-      "price": 7.47,
-      "chgPct": 0.95,
+      "price": 7.34,
+      "chgPct": -1.74,
       "series": [
         19.11,
         17.3,
@@ -751,9 +751,10 @@
         7.64,
         7.31,
         7.4,
-        7.47
+        7.47,
+        7.34
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     },
     {
@@ -765,10 +766,9 @@
         "hw"
       ],
       "part": [],
-      "price": 10.29,
-      "chgPct": -3.92,
+      "price": 10.45,
+      "chgPct": 1.55,
       "series": [
-        9.11,
         9.82,
         9.9,
         9.92,
@@ -797,126 +797,127 @@
         9.54,
         10.26,
         10.71,
-        10.29
+        10.29,
+        10.45
       ],
-      "asOf": "2026-09-23",
+      "asOf": "2026-09-24",
       "stale": false
     }
   ],
   "brief": {
-    "headline": "IonQ closed up 4.4% on an NVIDIA deal and error-correction breakthrough as Rigetti and D-Wave fell.",
-    "summary": "IonQ closed up 4.4% on an NVIDIA partnership and a real-time quantum error-decoder milestone, while Rigetti and D-Wave slid. In the lab, Singapore scientists unveiled a record-accuracy atomic clock and a Chinese team extended room-temperature entanglement lifetime 240-fold."
+    "headline": "IonQ rallied further on new Nvidia and FIU deals as IBM reported quantum advantage on a 120-qubit chip.",
+    "summary": "IonQ's stock kept climbing on new Nvidia and Florida International University deals plus fresh quantum-AI research. IBM separately reported quantum computational advantage in random-circuit sampling on its 120-qubit Nighthawk chip, a step toward validating real-world performance."
   },
   "marketNews": [
     {
-      "source": "IonQ",
-      "published": "2026-09-23T12:00+00:00",
+      "source": "CNBC",
+      "published": "2026-09-23T12:35+00:00",
       "ticker": "IONQ",
-      "title": "IonQ Superion 256 to Power NVIDIA Quantum Research Center - IonQ",
-      "summary": "IonQ's Superion 256 system was selected to power a new NVIDIA Quantum Research Center, cementing a flagship hardware partnership that lifted the stock.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSzNPRzNIdXAxNEJEcVIyc1RFQ1I5akxCME5jb0c3VHhSNm1fZ1ctdHd1MnItckd2LVFQNjEwaVRMck5VUGx2c1d3ajRuNWdqdnlIYUdwaW1nVXJLbU95eHJSbEFCS09VUlpIYm5qaXluUlpfUnMxb2pFMjZBMEh4eXlKV1ZzZ3RVWXVOalI4blpHUnVlRVM0azRYRkd4TlUtSFhETXFuQW1hQzVMT2tEeTYxMzRDSE5taDJkckx2bGlXUVMyRnVGMmh0OE8?oc=5"
-    },
-    {
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T00:56+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Demonstrates End-to-End Real-Time Quantum Error Decoder - The Quantum Insider",
-      "summary": "IonQ demonstrated an end-to-end real-time quantum error decoder, a technical milestone that added to the day's rally alongside the NVIDIA news.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmZrLXA4LTdpQVYzNWRNdjFXOG5ITHB0X1U4UVhEME9uc0dyVm44NkVHcy0zalZOdnVFWU9ybHRqamZvVXVoaThJQkYzQVdxdTBGa2ljdEVWeno2WmIyaHRoT21lS3p6MHQ4Z2JHaFZNbkZSQzNoOWtEM2hqdmI5MmktTnBmelNQX1ZtbEUxLUE2SExGd2FaRlFpZktYRmZkbnZRdmN4Q3ZJeGxPbEV6Y09WVDROQjNOVHc?oc=5"
-    },
-    {
-      "source": "TIKR.com",
-      "published": "2026-09-24T11:01+00:00",
-      "ticker": "RGTI",
-      "title": "Rigetti Stock Is Down 49% This Year. Here’s What the Street’s Target Looks Like Now. - TIKR.com",
-      "summary": "Rigetti shares are down 49% this year and analysts are revisiting price targets, underscoring the stock's weak 2026 performance.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2NRNURrTnd2eC1zYU9RbXQ2UlV4clZkbmJJN2tuLU1mTXBCQ1BkbjVqVFdVdGwwajFVQ1RpR0RZZ2tEdXU1UEloTXFCSXZWQjVRUVVHOWc3aWs0eExsb0tfMjVZNFNaazVzUkRhcUNjdGtLQnozRVJ2SWZpcGxiZE1SczBEZVBtdDVuRUVqaVZDeDBYN0lMa3I2TzIxVVFVQVdSS2MxeUU?oc=5"
-    },
-    {
-      "source": "The Quantum Insider",
-      "published": "2026-09-23T21:08+00:00",
-      "ticker": "QBTS",
-      "title": "CGI And D-Wave Quantum Partner to Advance Enterprise Quantum Adoption - The Quantum Insider",
-      "summary": "D-Wave partnered with IT consultancy CGI to help enterprise clients adopt quantum computing, a new commercial channel even as the stock fell on the day.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkUxVjUzQWZMV0dsR1cwbjhZZEV3QkxOYTNBbUxWU1ZCMVg5b3phYjBGS21XZk1xaTNHQnFJcDlxaEc4elVZRzhfX2dTczMyeGhpSEZWTjU1QmNSTVhZQWdBMF9jZnJ6S1JrRnR2SEZ4VzdROFcwVm9PdjNSZUpsWjQ2Y2c1SXpxWGFERDk2Ujd3QnNvNlRSZkdUUnhYaExEXzNlQ1N3?oc=5"
+      "title": "IonQ shares rise after company says it made a major quantum computing breakthrough - CNBC",
+      "summary": "IonQ shares rose after the company announced a major quantum computing breakthrough, fueling investor buying.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVUzSHNCT1dLMXhkUVZrYTZ2d09JeXdJYVhYdDJQdlBvWEJ3d3I5RXhkaUkwa3hOZ3FVZk1wOWl3RjJGbVNjdWd4bmFFeS1XV2xXR1kxempGTXRuaW5ES2Q4TktWSXJTTjVDWFJRUWltcnBiUW9BcTE2R2VwVlRzMlJORDg4QmtOcFR1X2RvZU1SdWRmYWZyeFJyaUhSc0d3MC16ejEtOGlzY0I4OTAtYnF5NnppekFKd0hGU9IBwgFBVV95cUxNV3ROMmMwZHY2RWJmVk53RERZYmlKSTZmTEFNQlFWWDc0WlZXRTdQZWRGSDlkS2pwam9CV1dHV3B6MDFoOExjZWd6QnJibjhGQk1JWG8yTnFfNkhCYTZocldIRDdFYl9CTzFzY0lfYnVkQzU3S19OU0l1alU2c3U1S2ZfNGtsLWtEWmJmOUVUMlhNVmZlQzBCR0plcVd0Vy0zSlBGX2RCbTJnQnY5RXAxM1JrU1JEaGYtbXlCSGFBS3hudw?oc=5"
     },
     {
       "source": "Barron's",
-      "published": "2026-09-23T20:33+00:00",
-      "ticker": "QTUM",
-      "title": "Palantir, IonQ, Royal Caribbean, Paychex, McDonald’s, and More Stocks That Explain Today’s Market - Barron's",
-      "summary": "IonQ was called out among the stocks driving broader market moves, reflecting how much attention the NVIDIA deal and breakthrough news drew from investors.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IVW55a1VLWTRhTjhObmV3V2xVLXY4ZXpQT0ZoVFJYZjJweElpWnA1bGpSVDd1bEZWbUNQRnlpLWtNbXVXdWtfU0dtY2hpRkZsUlh1ZGp3Rml2RHVOWFpraG9SQzc?oc=5"
+      "published": "2026-09-23T21:25+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
+      "summary": "IonQ stock surged further after signing a new quantum computing deal with Nvidia for an on-prem system.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
+    },
+    {
+      "source": "finance.yahoo.com",
+      "published": "2026-09-24T19:38+00:00",
+      "ticker": "IONQ",
+      "title": "Update: IonQ Shares Rise After Signing Quantum Computer Contract With Florida International University - finance.yahoo.com",
+      "summary": "IonQ shares also gained on news of a new Superion 256 hardware contract with Florida International University.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVlHc0NBbU9ob0cxUkJCdXYzOGpKR1lacWFZSGJlXzJfV29EdTc0ZF9SVzQ2cUd2djJ3VmtNWnhwenVlbkZIVTFoWGh6b2lDZDUxMnJpN0NRNkxQV1JickNnc2syT0ZWdUNJVk5PYkNSUjNfTHJyVDExMXNJXzFUNlUySXpEUjUwOVpGeElyZkt6eGJpQU1vejdhS2Mydw?oc=5"
+    },
+    {
+      "source": "simplywall.st",
+      "published": "2026-09-25T02:51+00:00",
+      "ticker": "RGTI",
+      "title": "Rigetti Computing (RGTI) Secures CHIPS Act Support, Is The Upside Already Priced In? - simplywall.st",
+      "summary": "Rigetti secured CHIPS Act support, though analysts question whether the boost is already priced into the stock.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTlSanduZGR3b0R1bk92MUxBTVM1Z3JCSUsxbnY1V2pKc1QxLU91QXdGTDRnS2VXQXJYOC1DRUhnbFdNQmcwRFExaUdycDkwMnZxZVBFaXBaZXgtQ093ZjVVa2VXN0hDWEZDcVJFV1NGNDBmNTZGdTVPOE85dU41UXlsNk5jUDJVOXhwM2hxdk11ZEpBUU4ya1hqOWRWTTlkZXE4ZGxTTTVHblhTcUtLZWR4Vi1PeXQxWDNDTEEtb2dLcV9RZTBFQkRyZTJmaDF5dzZ0UEN0cXZjRF9KVnMw0gHfAUFVX3lxTE0xOVJqd25kZHdvRHVuT3YxTEFNUzVnckJJSzFudjVXakpzVDEtT3VBd0ZMNGdLZVdBclg4LUNFSGdsV01CZzBEUTFpR3JwOTAydnFlUEVpcFpleC1DT3dmNVVrZVc3SENYRkNxUkVXU0Y0MGY1NkZ1NU84Tzl1TjVReWw2TmNQMlU5eHAzaHF2TXVkSkFRTjJrWGo5ZFZNOWRlcThkbFNNNUduWFNxS0tlZHhWLU95dDFYM0NMQS1vZ0txX1FlMEVCRHJlMmZoMXl3NnRQQ3RxdmNEX0pWczA?oc=5"
+    },
+    {
+      "source": "finance.yahoo.com",
+      "published": "2026-09-24T10:12+00:00",
+      "ticker": "QBTS",
+      "title": "What Does D Wave Quantum (QBTS) Gain From Its New Enterprise Partnership? - finance.yahoo.com",
+      "summary": "D-Wave's new enterprise partnership raises questions about what concrete benefit it brings the company.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm1EUkhSTWdTR0ZmUDN4cy1yVzVzRmw1bW5iLUFkT3hNaklEODBONVFnQUJTT0JtV0I1LWVHem5mZno4dmxnZ2JJTXp6TEJJV1RscnVnQmUtWUstaVR0ZjNySmx2bW1NenlaQ3lNemhCVGZzRHg2d0RNNXFRTEt1a0RhemdYbGpMVmpQczBkNk1Idw?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "sen",
-      "title": "Singapore team builds world's most accurate atomic clock",
-      "summary": "Physicists at Singapore's Centre for Quantum Technologies built an atomic clock with record-setting timekeeping accuracy, with results published in Nature on September 23. Splitting a second into trillions of measured moments marks a step forward in quantum-based precision timekeeping. The report does not say when or how such record accuracy might move from the lab into practical, portable use.",
-      "source": "Phys.org",
-      "published": "2026-09-23T20:20+00:00",
-      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html"
+      "tag": "hw",
+      "title": "IBM shows quantum computational advantage on a 120-qubit chip",
+      "summary": "IBM researchers ran random-circuit sampling on a 120-qubit Nighthawk r2 processor using 61 qubits and standard cloud tools, then checked fidelity with independent estimators. It's a step toward showing quantum advantage under everyday, non-cherry-picked conditions. The test used only a fraction of the chip's qubits, so proving advantage at larger, more useful scales remains ahead.",
+      "source": "arXiv",
+      "published": "2026-09-25T04:00+00:00",
+      "url": "https://arxiv.org/abs/2609.28657"
     },
     "items": [
       {
         "tag": "hw",
-        "title": "Nuclear-spin swap makes room-temperature entanglement last 240 times longer",
-        "summary": "A USTC-led team transferred entangled states from electron spins to more noise-resistant atomic nuclei, extending entanglement lifetime in a solid-state system up to 240-fold.",
-        "source": "Phys.org",
-        "published": "2026-09-21T16:40+00:00",
-        "url": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html"
+        "title": "Quantum 'chaos' shows up earlier than expected in superconducting circuits",
+        "summary": "Experiments on a programmable superconducting processor found universal chaotic behavior even in shallow, low-depth circuits.",
+        "source": "arXiv",
+        "published": "2026-09-25T04:00+00:00",
+        "url": "https://arxiv.org/abs/2609.28623"
       },
       {
-        "tag": "hw",
-        "title": "Quantum simulator watches matter 'pop into existence'",
-        "summary": "Duke Quantum Center researchers used a quantum simulator to observe string-breaking dynamics tied to particle-antiparticle formation, among the first such observations in quantum physics.",
-        "source": "Phys.org",
-        "published": "2026-09-23T13:40+00:00",
-        "url": "https://phys.org/news/2026-09-quantum-device-simulates.html"
+        "tag": "ec",
+        "title": "New mathematical recipe for controlling logical gates via holonomy",
+        "summary": "A theoretical framework shows how closed control paths can universally enact logical gates on structured qubit blocks.",
+        "source": "arXiv",
+        "published": "2026-09-25T04:00+00:00",
+        "url": "https://arxiv.org/abs/2609.28662"
       },
       {
-        "tag": "sec",
-        "title": "New protocol verifies where a device really is, using quantum physics",
-        "summary": "Researchers demonstrated a quantum protocol that securely verifies a device's location using stations 2 km apart, a step toward quantum-secured authorization for sensitive transactions.",
-        "source": "Phys.org",
-        "published": "2026-09-22T13:40+00:00",
-        "url": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html"
+        "tag": "sen",
+        "title": "Densely packed molecular crystal keeps quantum sensing spins coherent at room temperature",
+        "summary": "A pentacene cocrystal packed with addressable spins kept coherent control at room temperature, aiding future quantum sensors.",
+        "source": "arXiv",
+        "published": "2026-09-25T04:00+00:00",
+        "url": "https://arxiv.org/abs/2609.28912"
       },
       {
-        "tag": "sec",
-        "title": "Quantum-safe Bitcoin transactions get cheaper, fast",
-        "summary": "A quantum-safe Bitcoin transaction now costs about $67 in GPU compute, down sharply from the roughly $320 cost of the first such transaction mined a month earlier.",
+        "tag": "sw",
+        "title": "IonQ tests quantum AI on real satellite radar images",
+        "summary": "IonQ researchers found quantum generative models show promise for spotting changes in satellite radar data too sparse for classical methods.",
         "source": "The Quantum Insider",
-        "published": "2026-09-24T10:58+00:00",
-        "url": "https://thequantuminsider.com/2026/09/24/developers-push-quantum-safe-bitcoin-transaction-cost-below-70/"
+        "published": "2026-09-25T07:56+00:00",
+        "url": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/"
       }
     ]
   },
   "arxiv": {
-    "total": 155,
-    "picked": 0
+    "total": 137,
+    "picked": 4
   },
   "sentiment": {
     "today": {
-      "science": 55,
-      "stock": 47,
+      "science": 52,
+      "stock": 51,
       "nScience": 50,
       "nStock": 30,
-      "headlineScore": 73,
-      "momentumScore": -14,
-      "reasonScience": "Today's science news is led by a record-accuracy atomic clock from Singapore and a 240-fold extension of room-temperature entanglement lifetime, alongside quantum-safe Bitcoin and device-location-verification progress.",
-      "reasonStock": "Quantum stocks were mixed as IonQ closed up 4.4% on its NVIDIA partnership and error-correction breakthrough while Rigetti, D-Wave and most other quantum names fell."
+      "headlineScore": 80,
+      "momentumScore": -18,
+      "reasonScience": "Today's quantum science news is led by IBM's random-circuit sampling result on a 120-qubit chip, alongside new work on quantum chaos, holonomic gate control, and room-temperature sensing materials.",
+      "reasonStock": "Quantum stocks were broadly higher, led by IonQ's continued surge on Nvidia and FIU contract news while Rigetti and D-Wave also gained on partnership and funding news."
     },
     "monthly": [
       {
         "month": "2026-09",
-        "science": 70,
-        "stock": 27,
-        "articlesScience": 225,
-        "articlesStock": 149,
-        "reasonScience": "This month's science news has run from record Rydberg-atom stability and 240-fold entanglement-lifetime gains to teleportation across 100 optical channels and now a record-accuracy atomic clock, with steady progress across hardware, networking and sensing.",
-        "reasonStock": "Quantum stocks have swung on company-specific news all month, from IonQ's SkyWater deal and Korea partnership to today's NVIDIA tie-up and error-decoder milestone, even as D-Wave and Rigetti faced recurring dilution, cash-burn and valuation concerns."
+        "science": 67,
+        "stock": 31,
+        "articlesScience": 275,
+        "articlesStock": 179,
+        "reasonScience": "This month's quantum science news has run from record-setting atomic clocks and 240-fold entanglement-lifetime extensions to today's IBM quantum-advantage demonstration, showing steady progress across hardware, sensing and networking.",
+        "reasonStock": "Quantum stocks have been volatile all month, swinging on dilution and governance worries early on before IonQ's Nvidia partnership, error-decoder breakthrough and new contracts drove a sustained rally into this week."
       }
     ],
     "method": {
@@ -992,5 +993,7 @@
       "source": "https://thequantuminsider.com/2026/06/30/seeqc-files-registration-statement-for-proposed-initial-public-offering/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "upcoming update failed, kept previous list: claude exited 1: {\"duration_api_ms\":209102,\"stop_reason\":\"tool_use\",\"session_id\":\"edab355a-40d6-429f-bb50-63a383b7cb73\",\"total_cost_usd\":0.7912831999999999,\"usage\":{\"input_tokens\":24,\"cache_creation_…"
+  ]
 }

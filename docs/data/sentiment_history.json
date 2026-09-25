@@ -49,12 +49,22 @@
       "momentumScore": -14,
       "reasonScience": "Today's science news is led by a record-accuracy atomic clock from Singapore and a 240-fold extension of room-temperature entanglement lifetime, alongside quantum-safe Bitcoin and device-location-verification progress.",
       "reasonStock": "Quantum stocks were mixed as IonQ closed up 4.4% on its NVIDIA partnership and error-correction breakthrough while Rigetti, D-Wave and most other quantum names fell."
+    },
+    "2026-09-25": {
+      "science": 52,
+      "stock": 51,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 80,
+      "momentumScore": -18,
+      "reasonScience": "Today's quantum science news is led by IBM's random-circuit sampling result on a 120-qubit chip, alongside new work on quantum chaos, holonomic gate control, and room-temperature sensing materials.",
+      "reasonStock": "Quantum stocks were broadly higher, led by IonQ's continued surge on Nvidia and FIU contract news while Rigetti and D-Wave also gained on partnership and funding news."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "This month's science news has run from record Rydberg-atom stability and 240-fold entanglement-lifetime gains to teleportation across 100 optical channels and now a record-accuracy atomic clock, with steady progress across hardware, networking and sensing.",
-      "stock": "Quantum stocks have swung on company-specific news all month, from IonQ's SkyWater deal and Korea partnership to today's NVIDIA tie-up and error-decoder milestone, even as D-Wave and Rigetti faced recurring dilution, cash-burn and valuation concerns."
+      "science": "This month's quantum science news has run from record-setting atomic clocks and 240-fold entanglement-lifetime extensions to today's IBM quantum-advantage demonstration, showing steady progress across hardware, sensing and networking.",
+      "stock": "Quantum stocks have been volatile all month, swinging on dilution and governance worries early on before IonQ's Nvidia partnership, error-decoder breakthrough and new contracts drove a sustained rally into this week."
     }
   }
 }
