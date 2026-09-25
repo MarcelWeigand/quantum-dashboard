@@ -1,0 +1,96 @@
+{
+  "weekEnding": "2026-09-24",
+  "generatedAt": "2026-09-25T19:26:55+00:00",
+  "summary": {
+    "headline": "Quantum stocks rallied broadly this week, with QTUM up 6.4% as pure-plays like IONQ and ARQQ surged over 20% even as XNDU cratered 32%.",
+    "body": "Most quantum-computing names posted strong gains, led by IONQ (+22.1%) and ARQQ (+21.6%), with HQ (+16.5%), QUBT (+14.5%), RGTI (+11.6%), IQMX (+12.0%), INFQ (+11.4%) and QNC (+11.2%) also up double digits. The broader ETF QTUM rose a more modest 6.4%. XNDU was the week's outlier, plunging 32.0%, while large-cap tech laggards IBM (-4.4%), QNT (-5.0%), PSQL (-1.5%) and GOOGL (-0.1%) posted losses. No news items were collected this week to explain the specific drivers behind these moves."
+  },
+  "movers": [
+    {
+      "sym": "QTUM",
+      "name": "Defiance Quantum ETF",
+      "weekChgPct": 6.4
+    },
+    {
+      "sym": "IONQ",
+      "name": "IonQ",
+      "weekChgPct": 22.1
+    },
+    {
+      "sym": "RGTI",
+      "name": "Rigetti",
+      "weekChgPct": 11.6
+    },
+    {
+      "sym": "QBTS",
+      "name": "D-Wave",
+      "weekChgPct": 7.4
+    },
+    {
+      "sym": "QUBT",
+      "name": "Quantum Computing Inc.",
+      "weekChgPct": 14.5
+    },
+    {
+      "sym": "IBM",
+      "name": "IBM",
+      "weekChgPct": -4.4
+    },
+    {
+      "sym": "GOOGL",
+      "name": "Alphabet",
+      "weekChgPct": -0.1
+    },
+    {
+      "sym": "QNC",
+      "name": "Quantum eMotion",
+      "weekChgPct": 11.2
+    },
+    {
+      "sym": "LAES",
+      "name": "SEALSQ",
+      "weekChgPct": 5.9
+    },
+    {
+      "sym": "ARQQ",
+      "name": "Arqit",
+      "weekChgPct": 21.6
+    },
+    {
+      "sym": "BTQ",
+      "name": "BTQ Technologies",
+      "weekChgPct": 6.1
+    },
+    {
+      "sym": "QNT",
+      "name": "Quantinuum",
+      "weekChgPct": -5.0
+    },
+    {
+      "sym": "XNDU",
+      "name": "Xanadu",
+      "weekChgPct": -32.0
+    },
+    {
+      "sym": "INFQ",
+      "name": "Infleqtion",
+      "weekChgPct": 11.4
+    },
+    {
+      "sym": "HQ",
+      "name": "Horizon Quantum",
+      "weekChgPct": 16.5
+    },
+    {
+      "sym": "PSQL",
+      "name": "Pasqal",
+      "weekChgPct": -1.5
+    },
+    {
+      "sym": "IQMX",
+      "name": "IQM Quantum Computers",
+      "weekChgPct": 12.0
+    }
+  ],
+  "warnings": []
+}
