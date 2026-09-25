@@ -167,7 +167,33 @@ function lattice() {
   return `<svg width="100%" height="200" viewBox="0 0 640 200" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><g stroke="#7fd1c7" stroke-opacity="0.28" stroke-width="1.2">${lines.join('')}</g>${dots.join('')}</svg>`;
 }
 
-function renderOverview(d) {
+function weeklyMoveChip(m) {
+  return `<span class="tag" style="border-color:${dirColor(m.weekChgPct)};color:${dirColor(m.weekChgPct)}">${esc(m.sym)} ${arrow(m.weekChgPct)} ${fmtPct(m.weekChgPct)}</span>`;
+}
+
+function weeklyCard(weekly, etfSym) {
+  const hasMoves = weekly && (weekly.movers || []).some((m) => num(m.weekChgPct));
+  if (!weekly || (!weekly.summary && !hasMoves)) {
+    return `<section class="card-dashed col gap10">
+      <div class="row between"><span style="font-size:18px;font-weight:500">This week</span><span class="small">Weekly wrap</span></div>
+      <div class="body">The first weekly summary appears after the next Friday-night run, timed for Friday evening US time once markets close.</div>
+    </section>`;
+  }
+  const etfMove = (weekly.movers || []).find((m) => m.sym === etfSym);
+  const rest = (weekly.movers || []).filter((m) => m.sym !== etfSym && num(m.weekChgPct)).sort((a, b) => b.weekChgPct - a.weekChgPct);
+  const gainers = rest.slice(0, 3);
+  const gainerSyms = new Set(gainers.map((m) => m.sym));
+  const decliners = rest.slice(-3).reverse().filter((m) => !gainerSyms.has(m.sym));
+  const s = weekly.summary;
+  const etfNote = etfMove && num(etfMove.weekChgPct) ? ` · ${esc(etfMove.sym)} ${arrow(etfMove.weekChgPct)} ${fmtPct(etfMove.weekChgPct)}` : '';
+  return `<section class="card-lg col gap14">
+    <div class="card-head" style="margin:0"><h2 class="h2">This week</h2><span class="small">Week ending ${esc(fmtDay(weekly.weekEnding))} · 5-day price moves${etfNote}</span></div>
+    ${s ? `<div style="font-family:var(--serif);font-size:26px;line-height:1.25">${esc(s.headline)}</div><div class="body-lg">${esc(s.body)}</div>` : '<div class="body">Not enough price history yet to summarise the week in words.</div>'}
+    ${gainers.length || decliners.length ? `<div class="row wrap gap8">${gainers.map(weeklyMoveChip).join('')}${decliners.map(weeklyMoveChip).join('')}</div>` : ''}
+  </section>`;
+}
+
+function renderOverview(d, weekly) {
   const priced = d.stocks.filter((s) => num(s.chgPct)).sort((a, b) => b.chgPct - a.chgPct);
   const best = priced[0], worst = priced[priced.length - 1];
   const est = d.stocks.filter((s) => s.group === 'established');
@@ -213,6 +239,7 @@ function renderOverview(d) {
       <div class="card col gap10"><div class="stat-label">New on arXiv quant-ph</div><div class="stat-big">${arxiv ? arxiv.total : '—'}</div>
         <div class="stat-label" style="line-height:1.5">${arxiv ? `papers in the latest daily listing, ${arxiv.picked} picked as worth reading.` : 'arXiv publishes no listing at weekends.'}</div></div>
     </div>
+    ${weeklyCard(weekly, etf.sym)}
     <div class="grid g12">
       ${sentStripTile('Science & technology sentiment', 'science', SCI, d)}${sentStripTile('Stock market sentiment', 'stock', STK, d)}
       <div class="card-dashed col between s2 gap12"><div class="body">12-month trend, reasons and how the score is calculated.</div><a class="link-arrow" href="sentiment.html">Open sentiment →</a></div>
@@ -424,6 +451,15 @@ function renderIndustry(d) {
 const RENDER = { overview: renderOverview, markets: renderMarkets, sentiment: renderSentiment, industry: renderIndustry };
 const TITLES = { overview: 'Overview', markets: 'Markets', sentiment: 'Sentiment', industry: 'Industry map' };
 
+async function fetchJsonSafe(url) {
+  try {
+    const res = await fetch(url, { cache: 'no-store' });
+    return res.ok ? await res.json() : null;
+  } catch {
+    return null; // missing until the first Friday-night run, or offline: the page still renders
+  }
+}
+
 async function boot() {
   const page = document.body.dataset.page;
   const root = document.getElementById('app');
@@ -431,7 +467,8 @@ async function boot() {
     const res = await fetch('data/data.json', { cache: 'no-store' });
     if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
-    const draw = () => { root.innerHTML = RENDER[page](data); };
+    const weekly = page === 'overview' ? await fetchJsonSafe('data/weekly.json') : null;
+    const draw = () => { root.innerHTML = page === 'overview' ? renderOverview(data, weekly) : RENDER[page](data); };
     draw();
     document.title = 'Quantum Daily · ' + TITLES[page];
     if (page === 'markets') {

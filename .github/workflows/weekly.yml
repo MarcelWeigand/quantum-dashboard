@@ -1,21 +1,24 @@
-name: Daily data update
+name: Weekly market summary
 
+# 02:00 UTC Saturday = Friday 22:00 ET (EDT, summer) or Friday 21:00 ET (EST, winter) —
+# a fixed UTC cron can't shift with US daylight saving, but both land safely after the
+# 4pm ET market close, so it always runs Friday night US time.
 on:
   schedule:
-    - cron: "0 6 * * *" # 06:00 UTC every day; GitHub may start it a few minutes late
+    - cron: "0 2 * * 6"
   workflow_dispatch: # lets you run it by hand from the Actions tab
 
 permissions:
   contents: write
 
 concurrency:
-  group: quantum-dashboard-data # shared with weekly.yml so the two never push at once
+  group: quantum-dashboard-data # shared with daily.yml so the two never push at once
   cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -30,8 +33,8 @@ jobs:
       - name: Install Claude Code
         run: npm install -g @anthropic-ai/claude-code
 
-      - name: Fetch data and write docs/data
-        run: python scripts/fetch_data.py
+      - name: Build the weekly summary
+        run: python scripts/fetch_data.py --weekly
         env:
           ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -44,6 +47,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily data update $(date -u +%F)"
+            git commit -m "Weekly market summary $(date -u +%F)"
             git push
           fi
