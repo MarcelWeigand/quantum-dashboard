@@ -1,95 +1,95 @@
 {
-  "weekEnding": "2026-09-24",
-  "generatedAt": "2026-09-25T19:26:55+00:00",
+  "weekEnding": "2026-09-25",
+  "generatedAt": "2026-09-26T07:12:07+00:00",
   "summary": {
-    "headline": "Quantum stocks rallied broadly this week, with QTUM up 6.4% as pure-plays like IONQ and ARQQ surged over 20% even as XNDU cratered 32%.",
-    "body": "Most quantum-computing names posted strong gains, led by IONQ (+22.1%) and ARQQ (+21.6%), with HQ (+16.5%), QUBT (+14.5%), RGTI (+11.6%), IQMX (+12.0%), INFQ (+11.4%) and QNC (+11.2%) also up double digits. The broader ETF QTUM rose a more modest 6.4%. XNDU was the week's outlier, plunging 32.0%, while large-cap tech laggards IBM (-4.4%), QNT (-5.0%), PSQL (-1.5%) and GOOGL (-0.1%) posted losses. No news items were collected this week to explain the specific drivers behind these moves."
+    "headline": "Quantum stocks mostly rallied this week, led by explosive gains in smaller-cap names, though a few tickers saw steep losses.",
+    "body": "ARQQ (+26.0%), IQMX (+20.0%), HQ (+15.4%), and IONQ (+12.7%) posted the biggest gains, while XNDU (-35.0%) and PSQL (-11.6%) suffered sharp declines. The broader ETF QTUM rose 4.7%, and most other names in the space finished higher, but IBM (-5.1%) and QNT (-9.1%) lagged. No specific news drivers were captured this week, so the moves cannot be tied to particular catalysts."
   },
   "movers": [
     {
       "sym": "QTUM",
       "name": "Defiance Quantum ETF",
-      "weekChgPct": 6.4
+      "weekChgPct": 4.7
     },
     {
       "sym": "IONQ",
       "name": "IonQ",
-      "weekChgPct": 22.1
+      "weekChgPct": 12.7
     },
     {
       "sym": "RGTI",
       "name": "Rigetti",
-      "weekChgPct": 11.6
+      "weekChgPct": 4.2
     },
     {
       "sym": "QBTS",
       "name": "D-Wave",
-      "weekChgPct": 7.4
+      "weekChgPct": -1.6
     },
     {
       "sym": "QUBT",
       "name": "Quantum Computing Inc.",
-      "weekChgPct": 14.5
+      "weekChgPct": 6.2
     },
     {
       "sym": "IBM",
       "name": "IBM",
-      "weekChgPct": -4.4
+      "weekChgPct": -5.1
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "weekChgPct": -0.1
+      "weekChgPct": -1.0
     },
     {
       "sym": "QNC",
       "name": "Quantum eMotion",
-      "weekChgPct": 11.2
+      "weekChgPct": 10.6
     },
     {
       "sym": "LAES",
       "name": "SEALSQ",
-      "weekChgPct": 5.9
+      "weekChgPct": 2.2
     },
     {
       "sym": "ARQQ",
       "name": "Arqit",
-      "weekChgPct": 21.6
+      "weekChgPct": 26.0
     },
     {
       "sym": "BTQ",
       "name": "BTQ Technologies",
-      "weekChgPct": 6.1
+      "weekChgPct": 1.5
     },
     {
       "sym": "QNT",
       "name": "Quantinuum",
-      "weekChgPct": -5.0
+      "weekChgPct": -9.1
     },
     {
       "sym": "XNDU",
       "name": "Xanadu",
-      "weekChgPct": -32.0
+      "weekChgPct": -35.0
     },
     {
       "sym": "INFQ",
       "name": "Infleqtion",
-      "weekChgPct": 11.4
+      "weekChgPct": 4.7
     },
     {
       "sym": "HQ",
       "name": "Horizon Quantum",
-      "weekChgPct": 16.5
+      "weekChgPct": 15.4
     },
     {
       "sym": "PSQL",
       "name": "Pasqal",
-      "weekChgPct": -1.5
+      "weekChgPct": -11.6
     },
     {
       "sym": "IQMX",
       "name": "IQM Quantum Computers",
-      "weekChgPct": 12.0
+      "weekChgPct": 20.0
     }
   ],
   "warnings": []
