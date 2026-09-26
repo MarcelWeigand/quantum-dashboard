@@ -13,14 +13,14 @@
     ],
     "expectedListing": "",
     "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-    "checked": "2026-09-24",
+    "checked": "2026-09-26",
     "source": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/"
   },
   {
     "name": "EigenQ",
     "note": "Quantum-resilient security & trusted infrastructure · defense focus",
     "route": "SPAC merger",
-    "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a draft Form S-4 submitted August 19, 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a ~$45M convertible note financing (about $22.5M funded upf…",
+    "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a draft Form S-4 submitted August 19, 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a $45M convertible note financing (~$22.5M funded upfront,…",
     "core": [
       "sec"
     ],
@@ -31,14 +31,14 @@
     ],
     "expectedListing": "Q4 2026 (planned)",
     "latestFunding": "$45M convertible note financing, September 18, 2026",
-    "checked": "2026-09-24",
+    "checked": "2026-09-26",
     "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
   },
   {
     "name": "Terra Quantum",
     "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
     "route": "SPAC merger",
-    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" pending regulatory approvals; existing Terra Quantum shareholders would retain about 92% of the combined compan…",
+    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, targeting a listing as \"TQ\" in H2 2026; Terra Quantum shareholders would retain about 92% of the combined company. No SEC-approved registr…",
     "core": [
       "sw"
     ],
@@ -48,21 +48,38 @@
     ],
     "expectedListing": "H2 2026 (planned)",
     "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-    "checked": "2026-09-24",
+    "checked": "2026-09-26",
     "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
   },
   {
     "name": "SeeQC",
     "note": "Superconducting digital quantum control chips & foundry · US/UK/Italy",
     "route": "SPAC merger",
-    "status": "SeeQC is pursuing a dual-track listing: a definitive merger agreement with Allegro Merger Corp. (announced January 16, 2026, ~$1B valuation, $65M PIPE) is running alongside a Form S-1 filed June 29, 2026 for a direct Nasdaq Global Market listing under ticker \"SEQC.\" As of the most recent filings, s…",
+    "status": "SeeQC continues a dual-track listing: a definitive merger agreement with Allegro Merger Corp. (~$1B valuation, $65M PIPE) runs alongside its Form S-1 (filed June 29, 2026) for a direct Nasdaq Global Market listing under \"SEQC,\" with Cantor and BTIG as lead bookrunners. As of late September 2026 the…",
     "core": [
       "hw"
     ],
     "part": [],
     "expectedListing": "TBD (targeted 2026)",
     "latestFunding": "$65M PIPE financing tied to Allegro Merger Corp. deal, anno…",
-    "checked": "2026-09-24",
+    "checked": "2026-09-26",
     "source": "https://thequantuminsider.com/2026/06/30/seeqc-files-registration-statement-for-proposed-initial-public-offering/"
+  },
+  {
+    "name": "Naoris Quantum Protocol",
+    "note": "Post-quantum blockchain security & decentralized trust infrastructure",
+    "route": "IPO planned",
+    "status": "Filed a Form 1-A/A Reg A+ offering circular (amended filings through September 2026) to sell up to 6,000,000 Class A shares at $4.00 (max $24M, min $15M to close), applying to list on the Nasdaq Capital Market as \"QDY\"; the offering will only close if the minimum is raised and Nasdaq approves the l…",
+    "core": [
+      "sec"
+    ],
+    "part": [
+      "sw",
+      "nw"
+    ],
+    "expectedListing": "TBD (2026, pending Nasdaq approval)",
+    "latestFunding": "Reg A+ offering, up to $24M, filed August 2026",
+    "checked": "2026-09-26",
+    "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
   }
 ]

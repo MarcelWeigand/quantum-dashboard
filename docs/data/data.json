@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T07:12:07+00:00",
-  "date": "2026-09-25",
+  "generatedAt": "2026-09-26T10:49:37+00:00",
+  "date": "2026-09-26",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -806,92 +806,51 @@
     }
   ],
   "brief": {
-    "headline": "IonQ rallied further on new Nvidia and FIU deals as IBM reported quantum advantage on a 120-qubit chip.",
-    "summary": "IonQ's stock kept climbing on new Nvidia and Florida International University deals plus fresh quantum-AI research. IBM separately reported quantum computational advantage in random-circuit sampling on its 120-qubit Nighthawk chip, a step toward validating real-world performance."
+    "headline": "ARQQ surged 6.4% on post-quantum security buzz, while Singapore's CQT unveiled the world's most accurate atomic clock.",
+    "summary": "Arqit Quantum (ARQQ) jumped 6.4% in the latest session as a guest column argued post-quantum security could be quantum computing's first big market. Meanwhile Singapore's Centre for Quantum Technologies published a record-accuracy atomic clock in Nature, a sensing milestone for future quantum networks."
   },
-  "marketNews": [
-    {
-      "source": "CNBC",
-      "published": "2026-09-23T12:35+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ shares rise after company says it made a major quantum computing breakthrough - CNBC",
-      "summary": "IonQ shares rose after the company announced a major quantum computing breakthrough, fueling investor buying.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVUzSHNCT1dLMXhkUVZrYTZ2d09JeXdJYVhYdDJQdlBvWEJ3d3I5RXhkaUkwa3hOZ3FVZk1wOWl3RjJGbVNjdWd4bmFFeS1XV2xXR1kxempGTXRuaW5ES2Q4TktWSXJTTjVDWFJRUWltcnBiUW9BcTE2R2VwVlRzMlJORDg4QmtOcFR1X2RvZU1SdWRmYWZyeFJyaUhSc0d3MC16ejEtOGlzY0I4OTAtYnF5NnppekFKd0hGU9IBwgFBVV95cUxNV3ROMmMwZHY2RWJmVk53RERZYmlKSTZmTEFNQlFWWDc0WlZXRTdQZWRGSDlkS2pwam9CV1dHV3B6MDFoOExjZWd6QnJibjhGQk1JWG8yTnFfNkhCYTZocldIRDdFYl9CTzFzY0lfYnVkQzU3S19OU0l1alU2c3U1S2ZfNGtsLWtEWmJmOUVUMlhNVmZlQzBCR0plcVd0Vy0zSlBGX2RCbTJnQnY5RXAxM1JrU1JEaGYtbXlCSGFBS3hudw?oc=5"
-    },
-    {
-      "source": "Barron's",
-      "published": "2026-09-23T21:25+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Stock Surges After Inking Quantum Computing Deal With Nvidia - Barron's",
-      "summary": "IonQ stock surged further after signing a new quantum computing deal with Nvidia for an on-prem system.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRldVcFU5d2RFRUpmV3RyU19qRHVhOGxHUjM3UURzRXAxdWtmdVFZTGg5V082UTlSSjRFVTNSN0xwU3VwTHlBcW4zcXh0d0FtVGhCNy0tMm5Bd0tPTHpZc1I3b1g2a2duRGRxaTVDV0pNUXhLTXZEbV9yREdieklvRC11QTVPR2ZtOEk0Qm1jaVF5VGs?oc=5"
-    },
-    {
-      "source": "finance.yahoo.com",
-      "published": "2026-09-24T19:38+00:00",
-      "ticker": "IONQ",
-      "title": "Update: IonQ Shares Rise After Signing Quantum Computer Contract With Florida International University - finance.yahoo.com",
-      "summary": "IonQ shares also gained on news of a new Superion 256 hardware contract with Florida International University.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbVlHc0NBbU9ob0cxUkJCdXYzOGpKR1lacWFZSGJlXzJfV29EdTc0ZF9SVzQ2cUd2djJ3VmtNWnhwenVlbkZIVTFoWGh6b2lDZDUxMnJpN0NRNkxQV1JickNnc2syT0ZWdUNJVk5PYkNSUjNfTHJyVDExMXNJXzFUNlUySXpEUjUwOVpGeElyZkt6eGJpQU1vejdhS2Mydw?oc=5"
-    },
-    {
-      "source": "simplywall.st",
-      "published": "2026-09-25T02:51+00:00",
-      "ticker": "RGTI",
-      "title": "Rigetti Computing (RGTI) Secures CHIPS Act Support, Is The Upside Already Priced In? - simplywall.st",
-      "summary": "Rigetti secured CHIPS Act support, though analysts question whether the boost is already priced into the stock.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTlSanduZGR3b0R1bk92MUxBTVM1Z3JCSUsxbnY1V2pKc1QxLU91QXdGTDRnS2VXQXJYOC1DRUhnbFdNQmcwRFExaUdycDkwMnZxZVBFaXBaZXgtQ093ZjVVa2VXN0hDWEZDcVJFV1NGNDBmNTZGdTVPOE85dU41UXlsNk5jUDJVOXhwM2hxdk11ZEpBUU4ya1hqOWRWTTlkZXE4ZGxTTTVHblhTcUtLZWR4Vi1PeXQxWDNDTEEtb2dLcV9RZTBFQkRyZTJmaDF5dzZ0UEN0cXZjRF9KVnMw0gHfAUFVX3lxTE0xOVJqd25kZHdvRHVuT3YxTEFNUzVnckJJSzFudjVXakpzVDEtT3VBd0ZMNGdLZVdBclg4LUNFSGdsV01CZzBEUTFpR3JwOTAydnFlUEVpcFpleC1DT3dmNVVrZVc3SENYRkNxUkVXU0Y0MGY1NkZ1NU84Tzl1TjVReWw2TmNQMlU5eHAzaHF2TXVkSkFRTjJrWGo5ZFZNOWRlcThkbFNNNUduWFNxS0tlZHhWLU95dDFYM0NMQS1vZ0txX1FlMEVCRHJlMmZoMXl3NnRQQ3RxdmNEX0pWczA?oc=5"
-    },
-    {
-      "source": "finance.yahoo.com",
-      "published": "2026-09-24T10:12+00:00",
-      "ticker": "QBTS",
-      "title": "What Does D Wave Quantum (QBTS) Gain From Its New Enterprise Partnership? - finance.yahoo.com",
-      "summary": "D-Wave's new enterprise partnership raises questions about what concrete benefit it brings the company.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQm1EUkhSTWdTR0ZmUDN4cy1yVzVzRmw1bW5iLUFkT3hNaklEODBONVFnQUJTT0JtV0I1LWVHem5mZno4dmxnZ2JJTXp6TEJJV1RscnVnQmUtWUstaVR0ZjNySmx2bW1NenlaQ3lNemhCVGZzRHg2d0RNNXFRTEt1a0RhemdYbGpMVmpQczBkNk1Idw?oc=5"
-    }
-  ],
+  "marketNews": [],
   "science": {
     "featured": {
-      "tag": "hw",
-      "title": "IBM shows quantum computational advantage on a 120-qubit chip",
-      "summary": "IBM researchers ran random-circuit sampling on a 120-qubit Nighthawk r2 processor using 61 qubits and standard cloud tools, then checked fidelity with independent estimators. It's a step toward showing quantum advantage under everyday, non-cherry-picked conditions. The test used only a fraction of the chip's qubits, so proving advantage at larger, more useful scales remains ahead.",
-      "source": "arXiv",
-      "published": "2026-09-25T04:00+00:00",
-      "url": "https://arxiv.org/abs/2609.28657"
+      "tag": "sen",
+      "title": "Singapore team builds the world's most accurate atomic clock",
+      "summary": "Researchers at Singapore's Centre for Quantum Technologies built an atomic clock with record-setting timekeeping accuracy, published in Nature on September 23. Extreme timing precision underpins quantum sensing, secure communication and the synchronization future quantum networks will need. The clock is a laboratory result, not yet a deployable device, so turning this precision into everyday tools remains ahead.",
+      "source": "Phys.org",
+      "published": "2026-09-23T20:20+00:00",
+      "url": "https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html"
     },
     "items": [
       {
+        "tag": "nw",
+        "title": "Nuclear-spin trick makes room-temperature entanglement last 240 times longer",
+        "summary": "Chinese researchers extended room-temperature quantum entanglement lifetimes up to 240-fold by transferring the fragile state onto sturdier atomic nuclei, a step toward practical quantum memories.",
+        "source": "Phys.org",
+        "published": "2026-09-21T16:40+00:00",
+        "url": "https://phys.org/news/2026-09-nuclear-swap-room-temperature-entanglement.html"
+      },
+      {
+        "tag": "sec",
+        "title": "New protocol proves where a quantum device physically is",
+        "summary": "A quantum protocol verified a device's location using stations 2 km apart, pointing toward more secure ways to authorize sensitive transactions and communications.",
+        "source": "Phys.org",
+        "published": "2026-09-22T13:40+00:00",
+        "url": "https://phys.org/news/2026-09-quantum-protocol-device-position-stations.html"
+      },
+      {
         "tag": "hw",
-        "title": "Quantum 'chaos' shows up earlier than expected in superconducting circuits",
-        "summary": "Experiments on a programmable superconducting processor found universal chaotic behavior even in shallow, low-depth circuits.",
-        "source": "arXiv",
-        "published": "2026-09-25T04:00+00:00",
-        "url": "https://arxiv.org/abs/2609.28623"
+        "title": "Quantum processor gets its own version of computer RAM",
+        "summary": "A quantum processor demonstrated random-access memory, pulling information from one of seven storage cells without searching the rest, echoing classical RAM.",
+        "source": "Phys.org",
+        "published": "2026-09-25T12:00+00:00",
+        "url": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html"
       },
       {
-        "tag": "ec",
-        "title": "New mathematical recipe for controlling logical gates via holonomy",
-        "summary": "A theoretical framework shows how closed control paths can universally enact logical gates on structured qubit blocks.",
-        "source": "arXiv",
-        "published": "2026-09-25T04:00+00:00",
-        "url": "https://arxiv.org/abs/2609.28662"
-      },
-      {
-        "tag": "sen",
-        "title": "Densely packed molecular crystal keeps quantum sensing spins coherent at room temperature",
-        "summary": "A pentacene cocrystal packed with addressable spins kept coherent control at room temperature, aiding future quantum sensors.",
-        "source": "arXiv",
-        "published": "2026-09-25T04:00+00:00",
-        "url": "https://arxiv.org/abs/2609.28912"
-      },
-      {
-        "tag": "sw",
-        "title": "IonQ tests quantum AI on real satellite radar images",
-        "summary": "IonQ researchers found quantum generative models show promise for spotting changes in satellite radar data too sparse for classical methods.",
-        "source": "The Quantum Insider",
-        "published": "2026-09-25T07:56+00:00",
-        "url": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/"
+        "tag": "en",
+        "title": "Electrons split into quarter-charge pieces in an ultracold quantum state",
+        "summary": "Physicists cooled electrons into a two-dimensional quantum state where they behave as quasiparticles carrying just a quarter of an electron's charge, physics linked to topological quantum computing.",
+        "source": "Phys.org",
+        "published": "2026-09-25T13:00+00:00",
+        "url": "https://phys.org/news/2026-09-rare-quantum-state-reveals-particles.html"
       }
     ]
   },
@@ -901,24 +860,24 @@
   },
   "sentiment": {
     "today": {
-      "science": 52,
-      "stock": 51,
-      "nScience": 50,
-      "nStock": 30,
-      "headlineScore": 80,
-      "momentumScore": -18,
-      "reasonScience": "Today's quantum science news is led by IBM's random-circuit sampling result on a 120-qubit chip, alongside new work on quantum chaos, holonomic gate control, and room-temperature sensing materials.",
-      "reasonStock": "Quantum stocks were broadly higher, led by IonQ's continued surge on Nvidia and FIU contract news while Rigetti and D-Wave also gained on partnership and funding news."
+      "science": 82,
+      "stock": null,
+      "nScience": 25,
+      "nStock": 0,
+      "headlineScore": null,
+      "momentumScore": -16,
+      "reasonScience": "Today's quantum science news is led by a record-accuracy atomic clock from Singapore, alongside advances in quantum memory, entanglement lifetime and device-location security.",
+      "reasonStock": "Quantum stocks saw no new trading over the weekend, but ARQQ's post-quantum security narrative and fresh IonQ, DigiCert and Creotech announcements kept investor attention on quantum-safe security and networking plays."
     },
     "monthly": [
       {
         "month": "2026-09",
-        "science": 67,
+        "science": 68,
         "stock": 31,
-        "articlesScience": 275,
+        "articlesScience": 300,
         "articlesStock": 179,
-        "reasonScience": "This month's quantum science news has run from record-setting atomic clocks and 240-fold entanglement-lifetime extensions to today's IBM quantum-advantage demonstration, showing steady progress across hardware, sensing and networking.",
-        "reasonStock": "Quantum stocks have been volatile all month, swinging on dilution and governance worries early on before IonQ's Nvidia partnership, error-decoder breakthrough and new contracts drove a sustained rally into this week."
+        "reasonScience": "Quantum science this month has run from record atomic clocks, error-correction milestones and a 240-fold entanglement-lifetime extension to broader advances in quantum memory, sensing materials and fractional-charge quasiparticle physics.",
+        "reasonStock": "Quantum stocks have swung on company-specific catalysts all month, with IonQ's Nvidia and error-decoder news driving gains against D-Wave and Rigetti cash-burn worries, and today's ARQQ rally on post-quantum security keeping sentiment mixed but news-driven."
       }
     ],
     "method": {
@@ -941,14 +900,14 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-09-24",
+      "checked": "2026-09-26",
       "source": "https://thequantuminsider.com/2026/09/08/psiquantum-finalizes-100m-us-government-award-quantum-computing-rd/"
     },
     {
       "name": "EigenQ",
       "note": "Quantum-resilient security & trusted infrastructure · defense focus",
       "route": "SPAC merger",
-      "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a draft Form S-4 submitted August 19, 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a ~$45M convertible note financing (about $22.5M funded upf…",
+      "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a draft Form S-4 submitted August 19, 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a $45M convertible note financing (~$22.5M funded upfront,…",
       "core": [
         "sec"
       ],
@@ -959,14 +918,14 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-09-24",
+      "checked": "2026-09-26",
       "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
     },
     {
       "name": "Terra Quantum",
       "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
       "route": "SPAC merger",
-      "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, with plans to list as \"TQ\" pending regulatory approvals; existing Terra Quantum shareholders would retain about 92% of the combined compan…",
+      "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 26, 2026 at a $3.5 billion equity valuation, targeting a listing as \"TQ\" in H2 2026; Terra Quantum shareholders would retain about 92% of the combined company. No SEC-approved registr…",
       "core": [
         "sw"
       ],
@@ -976,25 +935,40 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-09-24",
+      "checked": "2026-09-26",
       "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
     },
     {
       "name": "SeeQC",
       "note": "Superconducting digital quantum control chips & foundry · US/UK/Italy",
       "route": "SPAC merger",
-      "status": "SeeQC is pursuing a dual-track listing: a definitive merger agreement with Allegro Merger Corp. (announced January 16, 2026, ~$1B valuation, $65M PIPE) is running alongside a Form S-1 filed June 29, 2026 for a direct Nasdaq Global Market listing under ticker \"SEQC.\" As of the most recent filings, s…",
+      "status": "SeeQC continues a dual-track listing: a definitive merger agreement with Allegro Merger Corp. (~$1B valuation, $65M PIPE) runs alongside its Form S-1 (filed June 29, 2026) for a direct Nasdaq Global Market listing under \"SEQC,\" with Cantor and BTIG as lead bookrunners. As of late September 2026 the…",
       "core": [
         "hw"
       ],
       "part": [],
       "expectedListing": "TBD (targeted 2026)",
       "latestFunding": "$65M PIPE financing tied to Allegro Merger Corp. deal, anno…",
-      "checked": "2026-09-24",
+      "checked": "2026-09-26",
       "source": "https://thequantuminsider.com/2026/06/30/seeqc-files-registration-statement-for-proposed-initial-public-offering/"
+    },
+    {
+      "name": "Naoris Quantum Protocol",
+      "note": "Post-quantum blockchain security & decentralized trust infrastructure",
+      "route": "IPO planned",
+      "status": "Filed a Form 1-A/A Reg A+ offering circular (amended filings through September 2026) to sell up to 6,000,000 Class A shares at $4.00 (max $24M, min $15M to close), applying to list on the Nasdaq Capital Market as \"QDY\"; the offering will only close if the minimum is raised and Nasdaq approves the l…",
+      "core": [
+        "sec"
+      ],
+      "part": [
+        "sw",
+        "nw"
+      ],
+      "expectedListing": "TBD (2026, pending Nasdaq approval)",
+      "latestFunding": "Reg A+ offering, up to $24M, filed August 2026",
+      "checked": "2026-09-26",
+      "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     }
   ],
-  "warnings": [
-    "upcoming update failed, kept previous list: claude exited 1: {\"duration_api_ms\":209102,\"stop_reason\":\"tool_use\",\"session_id\":\"edab355a-40d6-429f-bb50-63a383b7cb73\",\"total_cost_usd\":0.7912831999999999,\"usage\":{\"input_tokens\":24,\"cache_creation_…"
-  ]
+  "warnings": []
 }

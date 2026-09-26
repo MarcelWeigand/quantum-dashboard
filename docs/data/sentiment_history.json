@@ -59,12 +59,22 @@
       "momentumScore": -18,
       "reasonScience": "Today's quantum science news is led by IBM's random-circuit sampling result on a 120-qubit chip, alongside new work on quantum chaos, holonomic gate control, and room-temperature sensing materials.",
       "reasonStock": "Quantum stocks were broadly higher, led by IonQ's continued surge on Nvidia and FIU contract news while Rigetti and D-Wave also gained on partnership and funding news."
+    },
+    "2026-09-26": {
+      "science": 82,
+      "stock": null,
+      "nScience": 25,
+      "nStock": 0,
+      "headlineScore": null,
+      "momentumScore": -16,
+      "reasonScience": "Today's quantum science news is led by a record-accuracy atomic clock from Singapore, alongside advances in quantum memory, entanglement lifetime and device-location security.",
+      "reasonStock": "Quantum stocks saw no new trading over the weekend, but ARQQ's post-quantum security narrative and fresh IonQ, DigiCert and Creotech announcements kept investor attention on quantum-safe security and networking plays."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "This month's quantum science news has run from record-setting atomic clocks and 240-fold entanglement-lifetime extensions to today's IBM quantum-advantage demonstration, showing steady progress across hardware, sensing and networking.",
-      "stock": "Quantum stocks have been volatile all month, swinging on dilution and governance worries early on before IonQ's Nvidia partnership, error-decoder breakthrough and new contracts drove a sustained rally into this week."
+      "science": "Quantum science this month has run from record atomic clocks, error-correction milestones and a 240-fold entanglement-lifetime extension to broader advances in quantum memory, sensing materials and fractional-charge quasiparticle physics.",
+      "stock": "Quantum stocks have swung on company-specific catalysts all month, with IonQ's Nvidia and error-decoder news driving gains against D-Wave and Rigetti cash-burn worries, and today's ARQQ rally on post-quantum security keeping sentiment mixed but news-driven."
     }
   }
 }
