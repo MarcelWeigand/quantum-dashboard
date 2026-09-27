@@ -2,5 +2,35 @@
   {
     "date": "2026-09-26",
     "marketNews": []
+  },
+  {
+    "date": "2026-09-27",
+    "marketNews": [
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Just Landed Nvidia Less Than 2 Years After Jensen Huang’s 30-Year Quantum Warning - Yahoo Finance"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "IONQ",
+        "title": "IONQ Stock Falls Hard As Ballooning Losses Outweigh Record Sales, Raised Outlook — But Retail Bulls See Long-Term Value - Stocktwits"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "RGTI",
+        "title": "RGTI, INFQ Stocks Gain Overnight: Bernstein Thinks Rigetti And Infleqtion Could Be Early Winners In Quantum Race - Stocktwits"
+      },
+      {
+        "source": "NewMediaWire",
+        "ticker": "QBTS",
+        "title": "NASDAQ: QBTS Investigation: D-Wave Quantum Inc. Investors are Encouraged to Contact KTMC Law Firm - NewMediaWire"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QUBT",
+        "title": "Quantum Computing Stocks Tumble After Stunning Rally - Yahoo Finance"
+      }
+    ]
   }
 ]

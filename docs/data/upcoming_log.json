@@ -63,5 +63,17 @@
       "PsiQuantum, EigenQ, Terra Quantum, SeeQC: no material status change found since last check; refreshed checked date and confirmed no new filings beyond previously noted items",
       "Confirmed Pasqal (PSQL), IQM (IQMX), Xanadu (XNDU) and Quantinuum (QNT) have already completed their listings and remain correctly excluded as tracked tickers"
     ]
+  },
+  {
+    "date": "2026-09-27",
+    "changes": [
+      "PsiQuantum: no route change; confirmed the $100M CHIPS Act award finalized Sept 8, 2026 and $125M DARPA deal, still fully private.",
+      "EigenQ: reconfirmed on-track SPAC timeline (S-4 draft Aug 19, $45M note Sept 18); no change.",
+      "Terra Quantum: reconfirmed SPAC deal with Axiom Intelligence Acquisition Corp 1 remains on track for H2 2026; no change.",
+      "SeeQC: changed route from SPAC merger to IPO planned — the Allegro Merger Corp deal was mutually terminated Aug 25, 2026; SeeQC now solely pursuing its own S-1 (Amendment No. 2, Sept 11, 2026) at a $…",
+      "Naoris Quantum Protocol: no material change; Reg A+ offering for Nasdaq \"QDY\" listing remains pending.",
+      "Added TuringQ: Shanghai-based photonic quantum computing firm filed IPO tutoring registration with the CSRC for a STAR Market listing (filed August 5, 2026).",
+      "Confirmed Quantinuum (QNT), Pasqal (PSQL), and Xanadu (XNDU) have already completed their listings — excluded per the tracked-ticker list, not added as new entries."
+    ]
   }
 ]
