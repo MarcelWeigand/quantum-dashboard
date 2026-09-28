@@ -32,5 +32,35 @@
         "title": "Quantum Computing Stocks Tumble After Stunning Rally - Yahoo Finance"
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "marketNews": [
+      {
+        "source": "Seeking Alpha",
+        "ticker": "IONQ",
+        "title": "IonQ in focus as BofA starts with Buy rating (IONQ:NYSE) - Seeking Alpha"
+      },
+      {
+        "source": "AD HOC NEWS",
+        "ticker": "IONQ",
+        "title": "IonQ's Error-Correction Decoder Holds the Line on Plain Silicon as Superion 256 Lands Two New Homes - AD HOC NEWS"
+      },
+      {
+        "source": "TradingKey",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (RGTI) Stock: $2B Quantum Initiative Fuels Rally — Is Rigetti a Buy at $25.50? - TradingKey"
+      },
+      {
+        "source": "AD HOC NEWS",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum's Seoul Push Meets a $100 Million Share Overhang - AD HOC NEWS"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QUBT",
+        "title": "Engineers Gate Manager LP Cuts Stake in Quantum Computing Inc. $QUBT - MarketBeat"
+      }
+    ]
   }
 ]

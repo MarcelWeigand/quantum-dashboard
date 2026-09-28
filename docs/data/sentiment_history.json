@@ -79,12 +79,22 @@
       "momentumScore": -16,
       "reasonScience": "Today's quantum science news spans hardware, sensing, memory and security demonstrations, led by a lab-scale quantum protocol that verifies device location over 2 km.",
       "reasonStock": "With markets closed for the weekend, quantum-stock attention centered on IonQ's Nvidia deployment deal against D-Wave's shareholder investigation and lingering earnings-reaction jitters."
+    },
+    "2026-09-28": {
+      "science": 67,
+      "stock": 25,
+      "nScience": 49,
+      "nStock": 30,
+      "headlineScore": 42,
+      "momentumScore": -16,
+      "reasonScience": "Today's quantum science news is dominated by arXiv preprints on error correction, photonic hardware and sensing, headlined by molecular crystals grown in minutes for room-temperature quantum sensing.",
+      "reasonStock": "Quantum stocks got a lift from BofA's new Buy rating on IonQ and Rigetti's $2 billion initiative, while D-Wave and Quantum Computing Inc. faced share-overhang and stake-selling pressure."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "This month's quantum science has built steadily across error correction, networking and sensing, from IonQ's real-time decoder and a record-accuracy atomic clock to 240-fold longer entanglement lifetimes and now quantum-secured location verification and new quantum-memory designs.",
-      "stock": "Quantum stocks this month have been driven largely by IonQ's string of partnerships (SkyWater, South Korea, Nvidia) and guidance raises, while Rigetti and D-Wave swung on funding, governance and now legal scrutiny."
+      "science": "This month's quantum science has run from a record-accuracy atomic clock and a 240-fold longer room-temperature entanglement lifetime to today's wave of error-correction, photonic and sensing advances.",
+      "stock": "Quantum stocks have swung through September on IonQ's steady stream of Nvidia, SkyWater and partnership news and a fresh BofA Buy rating, even as Rigetti and D-Wave contended with dilution, governance and share-overhang concerns."
     }
   }
 }

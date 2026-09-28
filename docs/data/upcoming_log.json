@@ -75,5 +75,16 @@
       "Added TuringQ: Shanghai-based photonic quantum computing firm filed IPO tutoring registration with the CSRC for a STAR Market listing (filed August 5, 2026).",
       "Confirmed Quantinuum (QNT), Pasqal (PSQL), and Xanadu (XNDU) have already completed their listings — excluded per the tracked-ticker list, not added as new entries."
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "changes": [
+      "No new quantum-computing companies found moving toward a public listing this cycle; candidates surfaced in research (IQM/IQMX, Pasqal/PSQL, Quantinuum/QNT, Xanadu/XNDU, Infleqtion/INFQ, Horizon Quant…",
+      "Confirmed 'Quantum Space' (SPAC-bound space-tug company) is unrelated to quantum computing and was not added.",
+      "PsiQuantum: added mention of new (non-IPO) Brookhaven National Laboratory software collaboration; no change to route/funding.",
+      "SeeQC: confirmed and retained termination-agreement financial terms (up to $2M expenses + $6M stock to Allegro on a trigger transaction).",
+      "Naoris: confirmed Amendment No. 2 filing date as September 22, 2026 and reconfirmed Nasdaq/QDY listing contingency language.",
+      "All other entries (EigenQ, Terra Quantum, TuringQ) unchanged in substance; only 'checked' dates refreshed to 2026-09-28."
+    ]
   }
 ]

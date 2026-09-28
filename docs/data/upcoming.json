@@ -3,7 +3,7 @@
     "name": "PsiQuantum",
     "note": "Photonic · utility-scale focus",
     "route": "Private",
-    "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and the U.S. Department of Commerce finalized a $100M CHIPS Act R&D award on September 8, 2026. It also holds a $125M DARPA agreement signed July 22, 2026; no IPO or SPAC process has bee…",
+    "status": "Remains venture-funded with no public listing announced; its $1.5B Series E (May 2026, $10.5B valuation) stands, and the U.S. Department of Commerce finalized a $100M CHIPS Act R&D award on September 8, 2026. It also holds a $125M DARPA agreement signed July 22, 2026 and a new (unfunded) software c…",
     "core": [
       "hw"
     ],
@@ -13,14 +13,14 @@
     ],
     "expectedListing": "",
     "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-    "checked": "2026-09-27",
+    "checked": "2026-09-28",
     "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
   },
   {
     "name": "EigenQ",
     "note": "Quantum-resilient security & trusted infrastructure · defense focus",
     "route": "SPAC merger",
-    "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a confidential draft Form S-4 submitted August 19, 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a $45M convertible note financing (~$22.5M fun…",
+    "status": "EigenQ and Silicon Valley Acquisition Corp (Nasdaq: SVAQ) are advancing their ~$3.0B pro forma combination after a confidential draft Form S-4 submitted in August 2026, targeting a Q4 2026 Nasdaq listing as \"EIGQ.\" On September 18, 2026 EigenQ secured a $45M convertible note financing (~$22.5M fund…",
     "core": [
       "sec"
     ],
@@ -31,14 +31,14 @@
     ],
     "expectedListing": "Q4 2026 (planned)",
     "latestFunding": "$45M convertible note financing, September 18, 2026",
-    "checked": "2026-09-27",
+    "checked": "2026-09-28",
     "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
   },
   {
     "name": "Terra Quantum",
     "note": "Quantum algorithms, compute & security-as-a-service · Switzerland",
     "route": "SPAC merger",
-    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 25-26, 2026 at a $3.5 billion equity valuation, using a two-step Swiss PubCo/Cayman merger structure that could deliver up to $190M gross proceeds; targeted to list as \"TQ\" on Nasdaq…",
+    "status": "Signed a definitive business combination agreement with Axiom Intelligence Acquisition Corp 1 (Nasdaq: AXIN) on May 25-26, 2026 at a $3.5 billion equity valuation, using a two-step Swiss PubCo/Cayman merger structure; PubCo and Terra Quantum still intend to file the Form F-4 registration statement/…",
     "core": [
       "sw"
     ],
@@ -48,28 +48,28 @@
     ],
     "expectedListing": "H2 2026 (planned)",
     "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-    "checked": "2026-09-27",
-    "source": "https://thequantuminsider.com/2026/05/26/terra-quantum-and-axiom-intelligence-acquisition-corp-1-announce-definitive-business-combination-agreement-at-a-3-5-billion-equity-valuation/"
+    "checked": "2026-09-28",
+    "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
   },
   {
     "name": "SeeQC",
     "note": "Superconducting digital quantum control chips & foundry · US/UK/Italy",
     "route": "IPO planned",
-    "status": "SeeQC and Allegro Merger Corp mutually terminated their SPAC merger agreement effective August 25, 2026, freeing SeeQC to pursue alternative transactions before an October 31, 2026 deadline. SeeQC continues pursuing its own Form S-1 IPO (filed June 29, 2026; Amendment No. 2 filed September 11, 2026…",
+    "status": "SeeQC and Allegro Merger Corp mutually terminated their SPAC merger via a Settlement, Termination and Release Agreement effective August 25, 2026 (SeeQC owes Allegro up to $2M expenses plus $6M in stock if a trigger transaction closes). SeeQC continues pursuing its own Form S-1 IPO on Nasdaq (reser…",
     "core": [
       "hw"
     ],
     "part": [],
     "expectedListing": "TBD (2026)",
     "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026 ($1.3B pre-mon…",
-    "checked": "2026-09-27",
+    "checked": "2026-09-28",
     "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
   },
   {
     "name": "Naoris Quantum Protocol",
     "note": "Post-quantum blockchain security & decentralized trust infrastructure",
     "route": "IPO planned",
-    "status": "Continues its Form 1-A/A Reg A+ offering (initially filed August 5, 2026, amended through September 2026) to sell up to 6,000,000 Class A shares at $4.00 (max $24M, min $15M to close), applying to list on the Nasdaq Capital Market as \"QDY\"; the offering only closes if the minimum is raised and Nasd…",
+    "status": "Continues its Form 1-A Reg A+ offering (Amendment No. 2 filed September 22, 2026) to sell up to 6,000,000 Class A shares at $4.00 (max $24M, min $15M to close), applying to list on the Nasdaq Capital Market as \"QDY\"; the company states the offering will not close unless Nasdaq listing approval is s…",
     "core": [
       "sec"
     ],
@@ -78,22 +78,22 @@
       "nw"
     ],
     "expectedListing": "TBD (2026, pending Nasdaq approval)",
-    "latestFunding": "Reg A+ offering, up to $24M, filed August 2026",
-    "checked": "2026-09-27",
+    "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
+    "checked": "2026-09-28",
     "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
   },
   {
     "name": "TuringQ",
     "note": "Photonic quantum hardware · China · pursuing STAR Market listing",
     "route": "IPO planned",
-    "status": "TuringQ, a Shanghai-based photonic quantum computing firm, filed its IPO tutoring registration with the CSRC's Shanghai bureau on August 5, 2026, launching a STAR Market listing process aiming to become China's first public quantum computing stock. An April 2026 Series C round valued the company at…",
+    "status": "TuringQ signed an IPO tutoring agreement with Guotai Haitong Securities on July 24, 2026 and completed its tutoring filing with the CSRC's Shanghai bureau on August 5, 2026, launching a STAR Market listing process aiming to become China's first public quantum computing stock; as of late September 2…",
     "core": [
       "hw"
     ],
     "part": [],
     "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
     "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-    "checked": "2026-09-27",
+    "checked": "2026-09-28",
     "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
   }
 ]
