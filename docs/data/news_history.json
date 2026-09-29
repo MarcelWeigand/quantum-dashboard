@@ -62,5 +62,35 @@
         "title": "Engineers Gate Manager LP Cuts Stake in Quantum Computing Inc. $QUBT - MarketBeat"
       }
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "marketNews": [
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "BofA Securities Initiates IonQ With Buy Rating, $60 Price Target - Yahoo Finance"
+      },
+      {
+        "source": "W.Media",
+        "ticker": "IONQ",
+        "title": "IonQ to deploy Superion 256 quantum computer at Nvidia’s NVAQC facility - W.Media"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Lands First On Premise Superion 256 Deployment At Major US University - Yahoo Finance"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (NASDAQ:RGTI) Stock Falls 4.3% - Here's What Happened - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (NASDAQ:QBTS) Shares Down 3.6% - Should You Sell? - MarketBeat"
+      }
+    ]
   }
 ]

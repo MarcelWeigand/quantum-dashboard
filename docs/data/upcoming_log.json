@@ -86,5 +86,11 @@
       "Naoris: confirmed Amendment No. 2 filing date as September 22, 2026 and reconfirmed Nasdaq/QDY listing contingency language.",
       "All other entries (EigenQ, Terra Quantum, TuringQ) unchanged in substance; only 'checked' dates refreshed to 2026-09-28."
     ]
+  },
+  {
+    "date": "2026-09-29",
+    "changes": [
+      "No changes: searches found no new filings, listings, or new companies beyond the existing entries; some status and latestFunding text was restored from truncation in the input."
+    ]
   }
 ]
