@@ -99,12 +99,22 @@
       "momentumScore": -22,
       "reasonScience": "Today's science mood is upbeat, led by a programmable quantum photonic processor operating in orbit alongside steady progress in quantum memory and error mitigation.",
       "reasonStock": "Quantum stocks mostly fell on Monday, with IonQ down 2.0% despite BofA's new Buy rating and Rigetti and D-Wave lower, while QNC jumped 17.0%."
+    },
+    "2026-09-30": {
+      "science": 84,
+      "stock": 14,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 21,
+      "momentumScore": -1,
+      "reasonScience": "Today's science mood is upbeat, led by a quantum computer operating in space alongside progress in quantum memory, algorithms and NATO's sensing roadmap.",
+      "reasonStock": "Quantum stocks mostly slipped at the last close, with IonQ, D-Wave, Rigetti and QUBT all lower and QNC down sharply, despite BofA's bullish IonQ coverage."
     }
   },
   "monthReasons": {
     "2026-09": {
-      "science": "September's science news has centered on hardware and networking progress, including record-stable Rydberg atoms, longer-lived entanglement, IBM's 120-qubit sampling result, a record atomic clock and now a photonic processor in orbit.",
-      "stock": "September's quantum stocks have been driven by IonQ's run of news, including the SkyWater deal, Nvidia partnership and error-correction milestone, with D-Wave and Rigetti facing more dilution and valuation worries and a soft finish on Monday."
+      "science": "September's science news has centered on hardware and networking progress, including error-correction milestones, longer-lived entanglement and memory, precision clocks, and in-orbit quantum hardware.",
+      "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     }
   }
 }

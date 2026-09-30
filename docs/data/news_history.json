@@ -92,5 +92,35 @@
         "title": "D-Wave Quantum (NASDAQ:QBTS) Shares Down 3.6% - Should You Sell? - MarketBeat"
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "marketNews": [
+      {
+        "source": "MarketBeat",
+        "ticker": "IONQ",
+        "title": "IonQ (NYSE:IONQ) Stock Price Down 1.5% - Here's What Happened - MarketBeat"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "IONQ",
+        "title": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here’s Why That Split Matters - TIKR.com"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 2.1% - Should You Sell? - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (NASDAQ:RGTI) Stock Price Down 1.3% - Here's Why - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QUBT",
+        "title": "Bank of America Corp DE Acquires New Stake in Quantum Computing Inc. $QUBT - MarketBeat"
+      }
+    ]
   }
 ]

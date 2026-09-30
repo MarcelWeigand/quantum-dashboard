@@ -92,5 +92,13 @@
     "changes": [
       "No changes: searches found no new filings, listings, or new companies beyond the existing entries; some status and latestFunding text was restored from truncation in the input."
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "changes": [
+      "Naoris Quantum Protocol: restored truncated latestFunding text to full wording",
+      "TuringQ: restored truncated expectedListing text to full wording",
+      "No other changes: searches found no new listings, filings or funding beyond the current entries, and no new companies to add"
+    ]
   }
 ]
