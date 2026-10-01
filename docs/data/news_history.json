@@ -122,5 +122,35 @@
         "title": "Bank of America Corp DE Acquires New Stake in Quantum Computing Inc. $QUBT - MarketBeat"
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "marketNews": [
+      {
+        "source": "Seeking Alpha",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum unveils gate-model simulator beta program (QBTS:NASDAQ) - Seeking Alpha"
+      },
+      {
+        "source": "qz.com",
+        "ticker": "RGTI",
+        "title": "Rigetti Secures $100 Million CHIPS Award to Advance Quantum Scaling - qz.com"
+      },
+      {
+        "source": "stocktitan.net",
+        "ticker": "IONQ",
+        "title": "NYSE submits notice to delist IonQ (NYSE: IONQ) warrants exercisable at $11.50 per share. - stocktitan.net"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "IONQ",
+        "title": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here’s Why That Split Matters - TIKR.com"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum Gears Up for Seoul Stage as Legal Review and CFO Transition Test Investor Nerves - ad-hoc-news.de"
+      }
+    ]
   }
 ]

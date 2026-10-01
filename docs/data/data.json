@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-09-30T11:56:12+00:00",
-  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T12:27:23+00:00",
+  "date": "2026-10-01",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
-    "price": 151.87,
-    "chgPct": 0.34,
+    "price": 151.62,
+    "chgPct": -0.16,
     "series": [
-      152.16,
       150.2,
       149.19,
       150.47,
@@ -36,9 +35,10 @@
       152.47,
       153.72,
       151.36,
-      151.87
+      151.87,
+      151.62
     ],
-    "asOf": "2026-09-29",
+    "asOf": "2026-09-30",
     "stale": false
   },
   "stocks": [
@@ -57,10 +57,9 @@
         "sec",
         "sen"
       ],
-      "price": 43.91,
-      "chgPct": -1.5,
+      "price": 43.86,
+      "chgPct": -0.11,
       "series": [
-        44.12,
         43.36,
         41.53,
         44.86,
@@ -89,9 +88,10 @@
         44.98,
         45.48,
         44.58,
-        43.91
+        43.91,
+        43.86
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -107,9 +107,8 @@
         "sw"
       ],
       "price": 15.74,
-      "chgPct": -1.32,
+      "chgPct": 0.0,
       "series": [
-        17.71,
         17.0,
         16.07,
         17.91,
@@ -138,9 +137,10 @@
         16.5,
         16.66,
         15.95,
+        15.74,
         15.74
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -154,10 +154,9 @@
       "part": [
         "sw"
       ],
-      "price": 16.43,
-      "chgPct": -2.09,
+      "price": 16.57,
+      "chgPct": 0.85,
       "series": [
-        19.53,
         19.32,
         18.8,
         20.39,
@@ -186,9 +185,10 @@
         17.48,
         17.41,
         16.78,
-        16.43
+        16.43,
+        16.57
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -203,10 +203,9 @@
         "hw",
         "sen"
       ],
-      "price": 8.46,
-      "chgPct": -1.28,
+      "price": 8.45,
+      "chgPct": -0.12,
       "series": [
-        8.52,
         8.42,
         8.14,
         8.92,
@@ -235,9 +234,10 @@
         9.16,
         8.96,
         8.57,
-        8.46
+        8.46,
+        8.45
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -253,10 +253,9 @@
       "part": [
         "nw"
       ],
-      "price": 219.99,
-      "chgPct": -0.31,
+      "price": 219.93,
+      "chgPct": -0.03,
       "series": [
-        232.67,
         237.16,
         233.69,
         235.68,
@@ -285,9 +284,10 @@
         227.06,
         225.51,
         220.67,
-        219.99
+        219.99,
+        219.93
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -302,10 +302,9 @@
       "part": [
         "sw"
       ],
-      "price": 340.92,
-      "chgPct": -0.53,
+      "price": 344.08,
+      "chgPct": 0.93,
       "series": [
-        344.2,
         344.72,
         340.67,
         344.82,
@@ -334,9 +333,10 @@
         342.36,
         343.92,
         342.75,
-        340.92
+        340.92,
+        344.08
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -348,10 +348,9 @@
         "sec"
       ],
       "part": [],
-      "price": 1.75,
-      "chgPct": -20.45,
+      "price": 1.48,
+      "chgPct": -15.43,
       "series": [
-        2.2,
         2.23,
         2.17,
         2.13,
@@ -380,9 +379,10 @@
         1.89,
         1.88,
         2.2,
-        1.75
+        1.75,
+        1.48
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -396,10 +396,9 @@
       "part": [
         "en"
       ],
-      "price": 2.32,
-      "chgPct": 1.75,
+      "price": 2.34,
+      "chgPct": 0.86,
       "series": [
-        2.74,
         2.6,
         2.5,
         2.54,
@@ -428,9 +427,10 @@
         2.32,
         2.35,
         2.28,
-        2.32
+        2.32,
+        2.34
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -443,10 +443,9 @@
         "sw"
       ],
       "part": [],
-      "price": 24.12,
-      "chgPct": -2.11,
+      "price": 24.06,
+      "chgPct": -0.25,
       "series": [
-        21.98,
         21.53,
         20.94,
         21.14,
@@ -475,9 +474,10 @@
         23.12,
         24.6,
         24.64,
-        24.12
+        24.12,
+        24.06
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -491,10 +491,9 @@
       "part": [
         "sw"
       ],
-      "price": 2.84,
-      "chgPct": -0.7,
+      "price": 2.9,
+      "chgPct": 2.11,
       "series": [
-        3.7,
         3.59,
         3.48,
         3.52,
@@ -523,9 +522,10 @@
         2.79,
         2.74,
         2.86,
-        2.84
+        2.84,
+        2.9
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -539,10 +539,9 @@
         "sw"
       ],
       "part": [],
-      "price": 48.73,
-      "chgPct": -0.77,
+      "price": 48.06,
+      "chgPct": -1.37,
       "series": [
-        59.5,
         56.0,
         54.9,
         56.6,
@@ -571,9 +570,10 @@
         49.39,
         49.53,
         49.11,
-        48.73
+        48.73,
+        48.06
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -588,10 +588,9 @@
       "part": [
         "ec"
       ],
-      "price": 4.77,
-      "chgPct": 0.0,
+      "price": 4.58,
+      "chgPct": -3.98,
       "series": [
-        10.46,
         10.37,
         10.11,
         10.95,
@@ -620,9 +619,10 @@
         5.1,
         4.98,
         4.77,
-        4.77
+        4.77,
+        4.58
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -637,10 +637,9 @@
       "part": [
         "sw"
       ],
-      "price": 13.84,
-      "chgPct": -2.05,
+      "price": 13.47,
+      "chgPct": -2.67,
       "series": [
-        12.91,
         12.5,
         12.55,
         14.12,
@@ -669,9 +668,10 @@
         14.3,
         14.51,
         14.13,
-        13.84
+        13.84,
+        13.47
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -683,10 +683,9 @@
         "sw"
       ],
       "part": [],
-      "price": 14.18,
-      "chgPct": -0.63,
+      "price": 14.86,
+      "chgPct": 4.8,
       "series": [
-        16.77,
         16.82,
         17.4,
         19.93,
@@ -715,9 +714,10 @@
         15.8,
         15.59,
         14.27,
-        14.18
+        14.18,
+        14.86
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -731,8 +731,8 @@
       "part": [
         "sw"
       ],
-      "price": 6.14,
-      "chgPct": -8.36,
+      "price": 6.36,
+      "chgPct": 3.58,
       "series": [
         19.11,
         17.3,
@@ -755,9 +755,10 @@
         7.34,
         6.99,
         6.7,
-        6.14
+        6.14,
+        6.36
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     },
     {
@@ -770,9 +771,8 @@
       ],
       "part": [],
       "price": 10.37,
-      "chgPct": 1.17,
+      "chgPct": 0.0,
       "series": [
-        9.8,
         10.07,
         9.68,
         11.11,
@@ -801,116 +801,117 @@
         10.45,
         10.61,
         10.25,
+        10.37,
         10.37
       ],
-      "asOf": "2026-09-29",
+      "asOf": "2026-09-30",
       "stale": false
     }
   ],
   "brief": {
-    "headline": "Quantum stocks slipped on Tuesday's close while labs reported a space-based quantum computer and better quantum memory.",
-    "summary": "Quantum stocks mostly fell on the last trading day, with IonQ down 1.5% despite BofA's Buy rating. In the lab, a quantum computer was used in orbit for the first time, a hardware step that hints at future practical uses."
+    "headline": "Quantum stocks were mostly flat on 30 Sept, while a quantum computer's first trip to space and new error-correction work led the lab news.",
+    "summary": "Prices barely moved, though D-Wave edged up 0.8% as it opened a gate-model simulator beta. In the lab, a quantum computer flew in orbit for the first time and Alice & Bob reported a faster way to stabilise cat qubits."
   },
   "marketNews": [
     {
-      "source": "MarketBeat",
-      "published": "2026-09-29T21:32+00:00",
+      "source": "Seeking Alpha",
+      "published": "2026-10-01T11:27+00:00",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum unveils gate-model simulator beta program (QBTS:NASDAQ) - Seeking Alpha",
+      "summary": "D-Wave opened a beta program for its gate-model simulator, a step toward a second product line beyond annealing, and the stock edged up 0.8%.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZnZhQ1M5a19pbkxQbG53cUNaWEFLbjA5NTNLUDZKQWJ2VGRzY3dfMUV2OWxEZ3hyQmtpcmtCc1ZPZ2wtT1hyTFRxLTNDcjFQeUFadXVDNVhSRHdLUi1kZm1pWWdEeHJudjVtVmVEMGJ0eDNNWkc3ZGxEai1mQVZlTEZrWXZlekxieE9yNUt5c3ptc1N1dzRLZFlB?oc=5"
+    },
+    {
+      "source": "qz.com",
+      "published": "2026-09-29T13:41+00:00",
+      "ticker": "RGTI",
+      "title": "Rigetti Secures $100 Million CHIPS Award to Advance Quantum Scaling - qz.com",
+      "summary": "Rigetti was reported on 29 Sept to have secured a $100 million CHIPS award to scale its quantum chips, though the stock was flat on 30 Sept.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2JPUnpQeTUxNk1QUWRMemIxUHhBVEppMlpXY2w1NmRrRmZFVlFTS2kzbFZzNW9xUlNvS0I5MzlPVmpNaktoMGt2WVNLMDFVWE5xb0o2YWVIanRGcnhaUklHWjRiVF9uSW52bFB3YUxjZzU2ZnBCVEdsZUQtLXc3dk9KclRfMUtN?oc=5"
+    },
+    {
+      "source": "stocktitan.net",
+      "published": "2026-09-30T14:04+00:00",
       "ticker": "IONQ",
-      "title": "IonQ (NYSE:IONQ) Stock Price Down 1.5% - Here's What Happened - MarketBeat",
-      "summary": "IonQ shares fell 1.5% in the latest session, cooling a strong run this month.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdDJUdlE2TXZ0T2NXWGNRakxWQ0NuVlcxX1VRRG9mME9qaGdkUnMwdTdyamFSeWJ5RTVzN1dncUdjMWp3XzhqeXN0Q1hRODkxV052S0JhYktKUkZKNTA5NjZMZVJveXVDT0lSRmJtZmtwR3JzTjNaZ09lYmVyU0xQcndPS254S2ZtRWNHbTRMaDlkWTRMeG5jRUFId1VSeGMwWjdMdmJLMmpWUG1KQ2FzTFN4QU0?oc=5"
+      "title": "NYSE submits notice to delist IonQ (NYSE: IONQ) warrants exercisable at $11.50 per share. - stocktitan.net",
+      "summary": "The NYSE filed notice to delist IonQ's $11.50 warrants on 30 Sept, a housekeeping step on its securities, and the shares were little changed.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGEtWXFfU3lpeDNKWFloUTlCVDd6SGVIdGtrR2dRQzFmRzZlbTNxX2xSY2kzMFFvc1dPbDFMSkVJUlZ6d3pyYWY0SlE2bDRzcTRsbVlnN3BqNU1QWG16UmFZVlhvRXM1T3JROUFvaFMxMC1objdxblBSLUtEeWo5eEE1OVp0aVJfZkVodDRCUDgwZDg?oc=5"
     },
     {
       "source": "TIKR.com",
       "published": "2026-09-29T15:18+00:00",
       "ticker": "IONQ",
       "title": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here’s Why That Split Matters - TIKR.com",
-      "summary": "BofA rates IonQ a Buy at $60 but values its foundry business at only 2 times sales, a split that shapes how investors read the stock.",
+      "summary": "A 29 Sept analysis noted Bank of America rates IonQ a Buy with a $60 target while valuing its foundry business at only 2 times sales.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXktRmJGUkJwZlV4d0U2Wi1Ndk1ud1QzTGJiVmV1VExXRWhrZWdxZGQxOTBFTUQ4TEZqOXFWR2MzS2pnUHI4ZVZnbEZoVlBTUV8wVzU5emlYRXZMZnJnNGJkaHpGZUNHQXJDWU83ai1WT003QUgzaWRTTTRJSFktbjJwbEdJZ1dFQ3gtWnFCX3JKWkxyYVlkb0dRa0VmYjl4OEJCTUo2dWNhcThYb0NmNXZtRURiMDlrNkRRb2hGRQ?oc=5"
     },
     {
-      "source": "MarketBeat",
-      "published": "2026-09-29T21:26+00:00",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-01T10:50+00:00",
       "ticker": "QBTS",
-      "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 2.1% - Should You Sell? - MarketBeat",
-      "summary": "D-Wave shares slipped 2.1%, the biggest drop among the main quantum names.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTlxcDFmRWo2bktlVmtNNXZKRlNmNzl1TE9MbVphcWV5am5mX1FUV3RMSVpVSW5TbC1DYmNaelRLbnI5dGQ0NkY5SklrYTh0d2taSlQxY1BOSnNHR3Rxa3A5NlFoaGEzaThfSmpKdHExU0MxM1dDVFpXcC1sTmRiMDhzVlhmb25xcTFYNjVDYTN2eTYzbklmM0g2WS1FdVBaSUlQcVA2MmtxQkhWU2lFTVRoaGZTQjl6TFU4N3B0UQ?oc=5"
-    },
-    {
-      "source": "MarketBeat",
-      "published": "2026-09-29T21:26+00:00",
-      "ticker": "RGTI",
-      "title": "Rigetti Computing (NASDAQ:RGTI) Stock Price Down 1.3% - Here's Why - MarketBeat",
-      "summary": "Rigetti shares fell 1.3% as the stock dipped more than the broader market.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYl8tUkxIc1FEQWVtSUFKV2IwdURrYW0zQjZPSVBwdWJJNUFjVEVEUEc2TWdfQ1VsejlrbXhtQkF6ekRXTk0wVGc5UmI5M0Q2bXB5WjRKQ0xpOXo3UVlua0Y0aGIwQ25jU2pPUlpLSy1tdEZpOUc0RlcwWVAyTWttbWR6dE9McUtMMElkbC05bXROTmQycXJ0MWlweXRWTDF4aUdrRlZWVXRheDFpUFlUR2pFQ1NMZDh5YkNF?oc=5"
-    },
-    {
-      "source": "MarketBeat",
-      "published": "2026-09-30T07:14+00:00",
-      "ticker": "QUBT",
-      "title": "Bank of America Corp DE Acquires New Stake in Quantum Computing Inc. $QUBT - MarketBeat",
-      "summary": "Bank of America disclosed a new stake in Quantum Computing Inc., while the stock closed down 1.3%.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeWd4MVBRV0dxei01Z2ZkQTljU3RTT0JFUVFQWmoyTFVaaEE4b3EyU1oyQy1SWWRISTB0QWlmR2xPWWt1QXBwN2k5MGNpdktZWWFoQzk1LXN2SWFzVkQwSktVTkZ6cmRzZzBiZXNhY2tRaWxtUzRaNEo0Z2FFUGlRbExjUnJjQmtIc1F1LUlZLV9zdTgySXNFMjlvMjZkSHVfS0tpQkdIMmNTVDk3WDZ6R2Z0LW9vc3BWazZ6V1Vydm1fRjJ5aFFhZDNXSTM5UQ?oc=5"
+      "title": "D-Wave Quantum Gears Up for Seoul Stage as Legal Review and CFO Transition Test Investor Nerves - ad-hoc-news.de",
+      "summary": "D-Wave heads into a Seoul event while a legal review and a CFO transition give investors reasons for caution.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSERQRmhvZmppdVRxbHpKOEVibXV5R0MxYU5FVFVLeTlMejdNVU1TcXlXWTJEVmdubFlBWjlXMkhUMXF3eTlib2duanEzaTZ5V2pWMnB2ekpWVGRGeUUzUFJ6Tld0NTl3cWtLeXNZTzJUeHNVMlZEb0tWWDhlWDJpWnB2V3hhc0piMzk5eUpDaGZSM2hqN2FFeE4xTEcxampqMGp1aHdwNlBFb2lHNENEd1ZpTEl2WkE0M1ZhUktTTUludW5kRTlLbnZtZ09KQzh3TUhjQTUxT01ld2xhS3RV?oc=5"
     }
   ],
   "science": {
     "featured": {
       "tag": "hw",
-      "title": "A quantum computer works in space for the first time",
-      "summary": "A quantum computer aboard a spacecraft in low Earth orbit was used for the first time, demonstrating technology that could eventually help with a long-standing satellite problem. It is a step forward because it shows quantum hardware can run outside a lab. It is still an early demonstration, and practical satellite uses remain a way off.",
+      "title": "A quantum computer has operated in space for the first time",
+      "summary": "A quantum computer was flown aboard a spacecraft in low Earth orbit and demonstrated technology that could eventually help with a problem that has bothered satellites for years. It is a first, showing quantum hardware can work outside a lab. It is still a demonstration, and practical use on satellites is a long way off.",
       "source": "Phys.org",
       "published": "2026-09-28T18:40+00:00",
       "url": "https://phys.org/news/2026-09-quantum-boldly-space.html"
     },
     "items": [
       {
+        "tag": "ec",
+        "title": "Faster way to stabilise cat qubits",
+        "summary": "Alice & Bob and ENS Lyon showed a new, faster method to stabilise cat qubits using a DC voltage bias, allowing more compact designs that make less heat.",
+        "source": "The Quantum Insider",
+        "published": "2026-10-01T07:23+00:00",
+        "url": "https://thequantuminsider.com/2026/10/01/alice-bob-demonstrates-new-approach-to-stabilising-cat-with-dc-voltage-bias/"
+      },
+      {
+        "tag": "sw",
+        "title": "Software to plan fault-tolerant quantum programs",
+        "summary": "Classiq launched a Fault Tolerance Engine that turns logical quantum programs into execution plans and estimates the physical resources needed to run them.",
+        "source": "The Quantum Insider",
+        "published": "2026-09-30T12:01+00:00",
+        "url": "https://thequantuminsider.com/2026/09/30/classiq-fault-tolerance-engine-quantum-applications-hardware/"
+      },
+      {
         "tag": "hw",
-        "title": "One processor picks among seven quantum storage cells",
-        "summary": "Researchers built a random-access quantum memory that lets a single processor select among seven storage cells.",
+        "title": "Random access memory for a quantum processor",
+        "summary": "Researchers showed one processor selecting among seven quantum storage cells, much like RAM in an ordinary computer.",
         "source": "Phys.org",
         "published": "2026-09-25T12:00+00:00",
         "url": "https://phys.org/news/2026-09-random-access-quantum-memory-processor.html"
       },
       {
-        "tag": "nw",
-        "title": "Quantum memories hold single photons longer",
-        "summary": "A technique called spin rephasing helps quantum memories store single-photon states for longer, which future quantum networks need.",
-        "source": "Phys.org",
-        "published": "2026-09-25T17:10+00:00",
-        "url": "https://phys.org/news/2026-09-rephasing-quantum-memories-photon-states.html"
-      },
-      {
-        "tag": "sw",
-        "title": "New quantum algorithm targets fluid-flow modeling",
-        "summary": "Oak Ridge researchers used the Frontier supercomputer to develop a quantum algorithm aimed at a bottleneck in fluid dynamics models.",
+        "tag": "en",
+        "title": "Building blocks for zinc oxide spin qubits",
+        "summary": "Tohoku University and partners demonstrated charge sensing and a few-electron double quantum dot in zinc oxide, groundwork for semiconductor qubits.",
         "source": "The Quantum Insider",
-        "published": "2026-09-30T08:23+00:00",
-        "url": "https://thequantuminsider.com/2026/09/30/new-quantum-algorithm-targets-bottleneck-in-fluid-flow-modeling/"
-      },
-      {
-        "tag": "sen",
-        "title": "NATO sets deadlines for military quantum trials",
-        "summary": "NATO's new roadmap schedules sea trials of quantum sensors in 2026 and 2027 and sets out steps to defend against quantum threats.",
-        "source": "The Quantum Insider",
-        "published": "2026-09-30T08:57+00:00",
-        "url": "https://thequantuminsider.com/2026/09/30/nato-sets-quantum-roadmap-for-military-trials-and-secure-communications/"
+        "published": "2026-10-01T11:20+00:00",
+        "url": "https://thequantuminsider.com/2026/10/01/researchers-demonstrate-building-blocks-for-zinc-oxide-spin-qubits/"
       }
     ]
   },
   "arxiv": {
-    "total": 279,
+    "total": 345,
     "picked": 0
   },
   "sentiment": {
     "today": {
-      "science": 84,
-      "stock": 14,
+      "science": 54,
+      "stock": 9,
       "nScience": 50,
       "nStock": 30,
-      "headlineScore": 21,
-      "momentumScore": -1,
-      "reasonScience": "Today's science mood is upbeat, led by a quantum computer operating in space alongside progress in quantum memory, algorithms and NATO's sensing roadmap.",
-      "reasonStock": "Quantum stocks mostly slipped at the last close, with IonQ, D-Wave, Rigetti and QUBT all lower and QNC down sharply, despite BofA's bullish IonQ coverage."
+      "headlineScore": 11,
+      "momentumScore": 5,
+      "reasonScience": "Upbeat: a first quantum computer in space, plus progress on cat qubits, quantum memory and fault-tolerance software.",
+      "reasonStock": "Quiet and mixed: most quantum names barely moved, with small gains for QBTS and HQ and a sharp drop for QNC."
     },
     "monthly": [
       {
@@ -921,6 +922,15 @@
         "articlesStock": 299,
         "reasonScience": "September's science news has centered on hardware and networking progress, including error-correction milestones, longer-lived entanglement and memory, precision clocks, and in-orbit quantum hardware.",
         "reasonStock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
+      },
+      {
+        "month": "2026-10",
+        "science": 54,
+        "stock": 9,
+        "articlesScience": 50,
+        "articlesStock": 30,
+        "reasonScience": "October opens with steady hardware and error-correction progress and no setbacks so far.",
+        "reasonStock": "October starts with little movement across the big quantum names, and the market is waiting for a clear catalyst."
       }
     ],
     "method": {
@@ -943,7 +953,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-09-30",
+      "checked": "2026-10-01",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -961,7 +971,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-09-30",
+      "checked": "2026-10-01",
       "source": "https://thequantuminsider.com/2026/09/18/eigenq-secures-45-million-financing-ahead-of-planned-nasdaq-listing/"
     },
     {
@@ -978,7 +988,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-09-30",
+      "checked": "2026-10-01",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -992,7 +1002,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-09-30",
+      "checked": "2026-10-01",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1009,7 +1019,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-09-30",
+      "checked": "2026-10-01",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1023,7 +1033,7 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-09-30",
+      "checked": "2026-10-01",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     }
   ],

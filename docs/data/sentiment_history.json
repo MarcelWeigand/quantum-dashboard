@@ -109,12 +109,26 @@
       "momentumScore": -1,
       "reasonScience": "Today's science mood is upbeat, led by a quantum computer operating in space alongside progress in quantum memory, algorithms and NATO's sensing roadmap.",
       "reasonStock": "Quantum stocks mostly slipped at the last close, with IonQ, D-Wave, Rigetti and QUBT all lower and QNC down sharply, despite BofA's bullish IonQ coverage."
+    },
+    "2026-10-01": {
+      "science": 54,
+      "stock": 9,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 11,
+      "momentumScore": 5,
+      "reasonScience": "Upbeat: a first quantum computer in space, plus progress on cat qubits, quantum memory and fault-tolerance software.",
+      "reasonStock": "Quiet and mixed: most quantum names barely moved, with small gains for QBTS and HQ and a sharp drop for QNC."
     }
   },
   "monthReasons": {
     "2026-09": {
       "science": "September's science news has centered on hardware and networking progress, including error-correction milestones, longer-lived entanglement and memory, precision clocks, and in-orbit quantum hardware.",
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
+    },
+    "2026-10": {
+      "science": "October opens with steady hardware and error-correction progress and no setbacks so far.",
+      "stock": "October starts with little movement across the big quantum names, and the market is waiting for a clear catalyst."
     }
   }
 }

@@ -100,5 +100,12 @@
       "TuringQ: restored truncated expectedListing text to full wording",
       "No other changes: searches found no new listings, filings or funding beyond the current entries, and no new companies to add"
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "changes": [
+      "No substantive changes: searches found no new reliable reports for any listed company and no new quantum company filing to go public. IQM, Infleqtion, Xanadu, Horizon and Quantinuum already appear in…",
+      "Restored truncated text in Naoris latestFunding and TuringQ expectedListing fields without changing their meaning."
+    ]
   }
 ]
