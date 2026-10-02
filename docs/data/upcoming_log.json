@@ -107,5 +107,12 @@
       "No substantive changes: searches found no new reliable reports for any listed company and no new quantum company filing to go public. IQM, Infleqtion, Xanadu, Horizon and Quantinuum already appear in…",
       "Restored truncated text in Naoris latestFunding and TuringQ expectedListing fields without changing their meaning."
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "changes": [
+      "No substantive changes: searches found no new filings, completed listings, or new entrants beyond the already-tracked listed companies (INFQ, HQ, XNDU, IQMX, QNT).",
+      "Restored truncated text in Naoris latestFunding and TuringQ expectedListing fields; no facts altered."
+    ]
   }
 ]

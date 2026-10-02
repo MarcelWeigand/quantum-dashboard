@@ -152,5 +152,35 @@
         "title": "D-Wave Quantum Gears Up for Seoul Stage as Legal Review and CFO Transition Test Investor Nerves - ad-hoc-news.de"
       }
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "marketNews": [
+      {
+        "source": "finance.yahoo.com",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Built A Real Time Quantum Error Correction Decoder - finance.yahoo.com"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "IONQ",
+        "title": "IONQ Stock Is A Buy, BofA Says: Why The Bank Sees Quantum Computing Growth Ahead - Stocktwits"
+      },
+      {
+        "source": "PR Newswire",
+        "ticker": "QUBT",
+        "title": "Quantum Computing Inc. Announces Dirac-3S, Scaling to Nearly 10,000 Variables - PR Newswire"
+      },
+      {
+        "source": "Seeking Alpha",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum unveils gate-model simulator beta program (QBTS:NASDAQ) - Seeking Alpha"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "QTUM",
+        "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
+      }
+    ]
   }
 ]
