@@ -182,5 +182,35 @@
         "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "marketNews": [
+      {
+        "source": "MarketBeat",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 4.8% - Here's Why - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (NASDAQ:RGTI) Shares Down 2.4% - Here's Why - MarketBeat"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Built A Real Time Quantum Error Correction Decoder - Yahoo Finance"
+      },
+      {
+        "source": "PR Newswire",
+        "ticker": "QUBT",
+        "title": "Quantum Computing Inc. Announces Dirac-3S, Scaling to Nearly 10,000 Variables - PR Newswire"
+      },
+      {
+        "source": "The Motley Fool",
+        "ticker": "IONQ",
+        "title": "Why IonQ Stock Rocketed 11.6% Higher in September - The Motley Fool"
+      }
+    ]
   }
 ]

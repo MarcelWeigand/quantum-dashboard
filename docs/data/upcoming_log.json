@@ -114,5 +114,13 @@
       "No substantive changes: searches found no new filings, completed listings, or new entrants beyond the already-tracked listed companies (INFQ, HQ, XNDU, IQMX, QNT).",
       "Restored truncated text in Naoris latestFunding and TuringQ expectedListing fields; no facts altered."
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "changes": [
+      "Naoris Quantum Protocol: restored latestFunding text that was truncated in the prior list",
+      "TuringQ: restored expectedListing text that was truncated in the prior list",
+      "No other changes: searches found no new filings, completed listings, or new companies. IQM, Infleqtion, Xanadu and Quantinuum are already tracked as listed."
+    ]
   }
 ]

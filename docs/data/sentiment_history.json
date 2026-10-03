@@ -129,6 +129,16 @@
       "momentumScore": 14,
       "reasonScience": "Upbeat: faster diamond-qubit entanglement and better photon sources, alongside a steady stream of theory papers.",
       "reasonStock": "Mostly calm, with the sector fund QTUM up 1.1% and IonQ nearly flat, though QNC jumped 17.6% and IBM rose 2.6%."
+    },
+    "2026-10-03": {
+      "science": 67,
+      "stock": 11,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": 7,
+      "momentumScore": 19,
+      "reasonScience": "Upbeat, with faster diamond-qubit entanglement and better photon sources leading a steady flow of progress.",
+      "reasonStock": "Mixed: the sector fund QTUM rose 1.8% and BTQ and HQ gained, but D-Wave, Rigetti and QNC fell, with QNC down 8.6%."
     }
   },
   "monthReasons": {
@@ -137,8 +147,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has started positively, with a first quantum computer in space and progress on qubits, memory and error correction.",
-      "stock": "After a mixed first day with a sharp QNC drop, October's second day was also calm for most names, apart from a big QNC rebound."
+      "science": "October has been consistently upbeat so far, with a first quantum computer in space, faster diamond-qubit entanglement and better photon sources.",
+      "stock": "Early October has been quiet and mixed, with small moves for most names and big swings in the small caps like QNC, while D-Wave slid on Friday."
     }
   }
 }
