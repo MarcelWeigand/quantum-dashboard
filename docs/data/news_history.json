@@ -212,5 +212,35 @@
         "title": "Why IonQ Stock Rocketed 11.6% Higher in September - The Motley Fool"
       }
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "marketNews": [
+      {
+        "source": "The Cryptonomist",
+        "ticker": "IONQ",
+        "title": "IonQ stock slips 0.5% to $43.77, testing the 200-session EMA at $43.78 - The Cryptonomist"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 4.8% - Here's Why - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (NASDAQ:RGTI) Shares Down 2.4% - Here's Why - MarketBeat"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "IONQ",
+        "title": "IONQ Stock Is A Buy, BofA Says: Why The Bank Sees Quantum Computing Growth Ahead - Stocktwits"
+      },
+      {
+        "source": "NewMediaWire",
+        "ticker": "QBTS",
+        "title": "QBTS Notice of Investigation: D-Wave Quantum Inc. Investors are Encouraged to Contact KTMC Law Firm - NewMediaWire"
+      }
+    ]
   }
 ]
