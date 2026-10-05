@@ -242,5 +242,35 @@
         "title": "QBTS Notice of Investigation: D-Wave Quantum Inc. Investors are Encouraged to Contact KTMC Law Firm - NewMediaWire"
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "marketNews": [
+      {
+        "source": "marketscreener.com",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum, University of Arkansas to Collaborate on Quantum Computing's Supply Chain Application - marketscreener.com"
+      },
+      {
+        "source": "Investing.com India",
+        "ticker": "IONQ",
+        "title": "Mizuho reiterates IonQ stock rating on quantum computing growth By Investing.com - Investing.com India"
+      },
+      {
+        "source": "The Motley Fool",
+        "ticker": "XNDU",
+        "title": "Why Quantum Computing Stock Xanadu Quantum Technologies Plummeted 56.2% in September - The Motley Fool"
+      },
+      {
+        "source": "Business Wire",
+        "ticker": "QBTS",
+        "title": "QBTS Investors Have Opportunity to Join D-Wave Quantum Inc. Fraud Investigation with SBS Law - Business Wire"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "IonQ vs. Rigetti: Is the Quantum Rally Backed by Fundamentals, or Just Momentum? - Yahoo Finance"
+      }
+    ]
   }
 ]

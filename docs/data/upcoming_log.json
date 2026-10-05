@@ -129,5 +129,12 @@
       "No substantive changes: searches found no new filings, financings or listings for any entry and no new quantum companies announcing a public listing.",
       "Updated 'checked' dates to 2026-10-04 and restored the truncated 'latestFunding' (Naoris) and 'expectedListing' (TuringQ) text."
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "changes": [
+      "No status changes: searches found no new filings, listings or funding for the tracked companies, and no new quantum company announcing an IPO or SPAC.",
+      "Expanded two fields that were truncated in the input (Naoris latestFunding, TuringQ expectedListing); the underlying facts are unchanged."
+    ]
   }
 ]
