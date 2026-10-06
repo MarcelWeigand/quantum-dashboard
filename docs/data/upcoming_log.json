@@ -136,5 +136,15 @@
       "No status changes: searches found no new filings, listings or funding for the tracked companies, and no new quantum company announcing an IPO or SPAC.",
       "Expanded two fields that were truncated in the input (Naoris latestFunding, TuringQ expectedListing); the underlying facts are unchanged."
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "changes": [
+      "EigenQ: updated status and source — Form S-4 was publicly filed on September 28, 2026 (previously a confidential draft).",
+      "Naoris Quantum Protocol: restored the truncated latestFunding text to its full wording.",
+      "TuringQ: restored the truncated expectedListing text to its full wording.",
+      "No new quantum companies added: the Pasqal (PSQL) and Quantinuum (QNT) listings are already tracked as listed stocks.",
+      "PsiQuantum, Terra Quantum, SeeQC: no new reliable news found, so entries are unchanged."
+    ]
   }
 ]
