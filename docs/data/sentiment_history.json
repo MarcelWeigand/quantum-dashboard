@@ -169,6 +169,16 @@
       "momentumScore": 32,
       "reasonScience": "Upbeat: better on-chip photon storage and error-correction decoding, plus a large German quantum competition and a Xanadu manufacturing partnership.",
       "reasonStock": "Mixed: Xanadu rose 5.1% and QNC 3.1%, while Infleqtion and Arqit fell about 4%, IonQ fell 1.8% and the sector fund QTUM edged up 0.2%."
+    },
+    "2026-10-07": {
+      "science": 53,
+      "stock": 25,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 24,
+      "momentumScore": 29,
+      "reasonScience": "Upbeat, with Cisco's quantum networking software, a simulation shortcut and a new X-ray view of qubit materials, plus a steady stream of theory papers.",
+      "reasonStock": "Mildly positive: the sector fund QTUM rose 0.6%, D-Wave gained 1.0% and IonQ 0.7%, while Xanadu, Horizon Quantum and PSQL jumped sharply."
     }
   },
   "monthReasons": {
@@ -177,8 +187,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been steadily upbeat, with the first quantum computer in space, faster diamond-qubit entanglement, better photon sources and on-chip photon storage.",
-      "stock": "October has been choppy: QTUM gained on several days and QNC swung sharply both ways, while IonQ, Rigetti and D-Wave drifted without a clear trend."
+      "science": "October has been consistently upbeat for science, from a first quantum computer in space and faster diamond-qubit entanglement to better error-correction decoding and now quantum networking software.",
+      "stock": "Stocks have been mixed and choppy, with sharp swings in smaller names like QNC, but the sector fund QTUM has risen on most days, including a 0.6% gain on the last trading day."
     }
   }
 }

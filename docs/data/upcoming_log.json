@@ -146,5 +146,12 @@
       "No new quantum companies added: the Pasqal (PSQL) and Quantinuum (QNT) listings are already tracked as listed stocks.",
       "PsiQuantum, Terra Quantum, SeeQC: no new reliable news found, so entries are unchanged."
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "changes": [
+      "No changes: searches found no new filings, listings or funding for any listed entry, and no new quantum company announcing a go-public plan beyond those already tracked.",
+      "Restored the truncated Naoris latestFunding and TuringQ expectedListing text to full wording."
+    ]
   }
 ]

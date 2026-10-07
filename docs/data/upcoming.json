@@ -13,7 +13,7 @@
     ],
     "expectedListing": "",
     "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-    "checked": "2026-10-06",
+    "checked": "2026-10-07",
     "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
   },
   {
@@ -31,7 +31,7 @@
     ],
     "expectedListing": "Q4 2026 (planned)",
     "latestFunding": "$45M convertible note financing, September 18, 2026",
-    "checked": "2026-10-06",
+    "checked": "2026-10-07",
     "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
   },
   {
@@ -48,7 +48,7 @@
     ],
     "expectedListing": "H2 2026 (planned)",
     "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-    "checked": "2026-10-06",
+    "checked": "2026-10-07",
     "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
   },
   {
@@ -62,7 +62,7 @@
     "part": [],
     "expectedListing": "TBD (2026)",
     "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-    "checked": "2026-10-06",
+    "checked": "2026-10-07",
     "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
   },
   {
@@ -79,7 +79,7 @@
     ],
     "expectedListing": "TBD (2026, pending Nasdaq approval)",
     "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-    "checked": "2026-10-06",
+    "checked": "2026-10-07",
     "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
   },
   {
@@ -93,7 +93,7 @@
     "part": [],
     "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
     "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-    "checked": "2026-10-06",
+    "checked": "2026-10-07",
     "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
   }
 ]

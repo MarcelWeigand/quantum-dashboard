@@ -302,5 +302,35 @@
         "title": "Quantum Computing Inc. execs to attend Maxim Gr... - Pluang"
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "marketNews": [
+      {
+        "source": "Stocktwits",
+        "ticker": "QBTS",
+        "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits"
+      },
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "Faster qLDPC: Up to 74x Speedup for Logical Gates | IonQ - IonQ"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Lands Two Superion Deployments, Does It Look Fully Valued? - Simply Wall Street"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "RGTI",
+        "title": "One $8.4 Million Order Equals Most of Rigetti’s Q4 Revenue Estimate. Here’s What It Means for the Stock - TIKR.com"
+      },
+      {
+        "source": "PR Newswire",
+        "ticker": "QUBT",
+        "title": "Quantum Computing Inc. to Attend the Maxim Growth Summit 2026 - PR Newswire"
+      }
+    ]
   }
 ]
