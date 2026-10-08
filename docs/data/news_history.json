@@ -332,5 +332,35 @@
         "title": "Quantum Computing Inc. to Attend the Maxim Growth Summit 2026 - PR Newswire"
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "marketNews": [
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ Advances to DARPA QBI Stage C in $300M Agreement - IonQ"
+      },
+      {
+        "source": "AD HOC NEWS",
+        "ticker": "IONQ",
+        "title": "Bank of America initiated IonQ coverage with USD 60 target for IonQ stock - AD HOC NEWS"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (NASDAQ:RGTI) Stock Rating Upgraded by Zacks Research - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 3.6% - Should You Sell? - MarketBeat"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IBM",
+        "title": "DARPA Selects Atom Computing, Diraq, IBM, and IonQ for Final Stage C Verification under Quantum Benchmarking Initiative - Quantum Computing Report"
+      }
+    ]
   }
 ]

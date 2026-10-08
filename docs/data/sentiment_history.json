@@ -179,6 +179,16 @@
       "momentumScore": 29,
       "reasonScience": "Upbeat, with Cisco's quantum networking software, a simulation shortcut and a new X-ray view of qubit materials, plus a steady stream of theory papers.",
       "reasonStock": "Mildly positive: the sector fund QTUM rose 0.6%, D-Wave gained 1.0% and IonQ 0.7%, while Xanadu, Horizon Quantum and PSQL jumped sharply."
+    },
+    "2026-10-08": {
+      "science": 53,
+      "stock": 20,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 21,
+      "momentumScore": 19,
+      "reasonScience": "Upbeat: four companies advanced in DARPA's benchmarking program, Universal Quantum raised over $100M, and labs reported better photons and qubit materials.",
+      "reasonStock": "Weak: on Oct 7 nearly every tracked quantum stock fell, with QTUM down 1.9% and IonQ down 4.5% despite its DARPA news, while only PSQL (+6.1%) and Google (+0.8%) rose."
     }
   },
   "monthReasons": {
@@ -187,8 +197,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat for science, from a first quantum computer in space and faster diamond-qubit entanglement to better error-correction decoding and now quantum networking software.",
-      "stock": "Stocks have been mixed and choppy, with sharp swings in smaller names like QNC, but the sector fund QTUM has risen on most days, including a 0.6% gain on the last trading day."
+      "science": "October has been consistently upbeat, with a quantum computer in space, faster diamond-qubit entanglement, better photon sources, error-correction progress and now DARPA's final-stage picks.",
+      "stock": "Stocks have been mixed and choppy through early October, with sector gains of up to 1.8% on some days, wide swings in QNC, and a broad pullback on Oct 7."
     }
   }
 }

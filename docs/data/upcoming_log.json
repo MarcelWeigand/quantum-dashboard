@@ -153,5 +153,11 @@
       "No changes: searches found no new filings, listings or funding for any listed entry, and no new quantum company announcing a go-public plan beyond those already tracked.",
       "Restored the truncated Naoris latestFunding and TuringQ expectedListing text to full wording."
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "changes": [
+      "Restored truncated text in Naoris latestFunding and TuringQ expectedListing fields; no other changes. Searches found no new filings or listings for the tracked companies. Pasqal (PSQL) completed its…"
+    ]
   }
 ]
