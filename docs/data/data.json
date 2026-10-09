@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-10-08T12:49:48+00:00",
-  "date": "2026-10-08",
+  "generatedAt": "2026-10-09T12:35:12+00:00",
+  "date": "2026-10-09",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
-    "price": 154.44,
-    "chgPct": -1.87,
+    "price": 150.89,
+    "chgPct": -2.3,
     "series": [
-      148.78,
       150.96,
       148.23,
       147.94,
@@ -36,9 +35,10 @@
       156.06,
       156.4,
       157.39,
-      154.44
+      154.44,
+      150.89
     ],
-    "asOf": "2026-10-07",
+    "asOf": "2026-10-08",
     "stale": false
   },
   "stocks": [
@@ -57,10 +57,9 @@
         "sec",
         "sen"
       ],
-      "price": 41.34,
-      "chgPct": -4.5,
+      "price": 39.45,
+      "chgPct": -4.57,
       "series": [
-        40.03,
         42.46,
         39.2,
         39.31,
@@ -89,9 +88,10 @@
         43.77,
         42.97,
         43.29,
-        41.34
+        41.34,
+        39.45
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -106,10 +106,9 @@
         "ec",
         "sw"
       ],
-      "price": 14.59,
-      "chgPct": -3.82,
+      "price": 14.14,
+      "chgPct": -3.08,
       "series": [
-        15.94,
         16.44,
         15.59,
         15.66,
@@ -138,9 +137,10 @@
         15.25,
         15.15,
         15.17,
-        14.59
+        14.59,
+        14.14
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -154,10 +154,9 @@
       "part": [
         "sw"
       ],
-      "price": 15.22,
-      "chgPct": -3.61,
+      "price": 14.6,
+      "chgPct": -4.07,
       "series": [
-        17.51,
         17.9,
         16.99,
         17.2,
@@ -186,9 +185,10 @@
         15.77,
         15.64,
         15.79,
-        15.22
+        15.22,
+        14.6
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -203,10 +203,9 @@
         "hw",
         "sen"
       ],
-      "price": 7.62,
-      "chgPct": -3.05,
+      "price": 7.45,
+      "chgPct": -2.23,
       "series": [
-        8.35,
         8.65,
         8.15,
         8.23,
@@ -235,9 +234,10 @@
         8.18,
         7.94,
         7.86,
-        7.62
+        7.62,
+        7.45
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -253,10 +253,9 @@
       "part": [
         "nw"
       ],
-      "price": 220.51,
-      "chgPct": -0.35,
+      "price": 226.61,
+      "chgPct": 2.77,
       "series": [
-        229.87,
         238.79,
         235.59,
         233.87,
@@ -285,9 +284,10 @@
         222.64,
         221.58,
         221.29,
-        220.51
+        220.51,
+        226.61
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -302,10 +302,9 @@
       "part": [
         "sw"
       ],
-      "price": 350.5,
-      "chgPct": 0.81,
+      "price": 348.29,
+      "chgPct": -0.63,
       "series": [
-        342.0,
         340.65,
         346.59,
         339.35,
@@ -334,9 +333,10 @@
         343.5,
         346.47,
         347.68,
-        350.5
+        350.5,
+        348.29
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -348,10 +348,9 @@
         "sec"
       ],
       "part": [],
-      "price": 1.56,
-      "chgPct": -4.29,
+      "price": 1.54,
+      "chgPct": -1.28,
       "series": [
-        2.09,
         2.06,
         2.03,
         2.03,
@@ -380,9 +379,10 @@
         1.59,
         1.64,
         1.63,
-        1.56
+        1.56,
+        1.54
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -396,10 +396,9 @@
       "part": [
         "en"
       ],
-      "price": 2.34,
-      "chgPct": -3.31,
+      "price": 2.25,
+      "chgPct": -3.85,
       "series": [
-        2.48,
         2.61,
         2.48,
         2.49,
@@ -428,9 +427,10 @@
         2.37,
         2.41,
         2.42,
-        2.34
+        2.34,
+        2.25
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -443,10 +443,9 @@
         "sw"
       ],
       "part": [],
-      "price": 22.55,
-      "chgPct": -3.76,
+      "price": 18.43,
+      "chgPct": -18.27,
       "series": [
-        20.36,
         21.46,
         20.04,
         19.88,
@@ -475,9 +474,10 @@
         24.62,
         23.68,
         23.43,
-        22.55
+        22.55,
+        18.43
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -491,10 +491,9 @@
       "part": [
         "sw"
       ],
-      "price": 3.08,
-      "chgPct": -5.52,
+      "price": 2.79,
+      "chgPct": -9.42,
       "series": [
-        3.33,
         3.67,
         3.33,
         3.04,
@@ -523,9 +522,10 @@
         3.17,
         3.15,
         3.26,
-        3.08
+        3.08,
+        2.79
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -539,10 +539,9 @@
         "sw"
       ],
       "part": [],
-      "price": 44.22,
-      "chgPct": -3.01,
+      "price": 41.52,
+      "chgPct": -6.11,
       "series": [
-        53.29,
         54.0,
         49.92,
         50.1,
@@ -571,9 +570,10 @@
         46.08,
         45.53,
         45.59,
-        44.22
+        44.22,
+        41.52
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -588,10 +588,9 @@
       "part": [
         "ec"
       ],
-      "price": 4.49,
-      "chgPct": -11.26,
+      "price": 4.12,
+      "chgPct": -8.24,
       "series": [
-        10.26,
         10.38,
         10.51,
         10.76,
@@ -620,9 +619,10 @@
         4.3,
         4.52,
         5.06,
-        4.49
+        4.49,
+        4.12
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -637,10 +637,9 @@
       "part": [
         "sw"
       ],
-      "price": 11.64,
-      "chgPct": -7.18,
+      "price": 11.16,
+      "chgPct": -4.12,
       "series": [
-        13.53,
         14.32,
         12.8,
         13.07,
@@ -669,9 +668,10 @@
         13.15,
         12.66,
         12.54,
-        11.64
+        11.64,
+        11.16
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -683,10 +683,9 @@
         "sw"
       ],
       "part": [],
-      "price": 16.15,
-      "chgPct": -6.43,
+      "price": 16.31,
+      "chgPct": 0.99,
       "series": [
-        17.65,
         16.47,
         15.18,
         14.81,
@@ -715,9 +714,10 @@
         15.79,
         16.03,
         17.26,
-        16.15
+        16.15,
+        16.31
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -731,8 +731,8 @@
       "part": [
         "sw"
       ],
-      "price": 7.26,
-      "chgPct": 6.14,
+      "price": 7.18,
+      "chgPct": -1.1,
       "series": [
         19.11,
         17.3,
@@ -761,9 +761,10 @@
         6.05,
         6.19,
         6.84,
-        7.26
+        7.26,
+        7.18
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     },
     {
@@ -775,10 +776,9 @@
         "hw"
       ],
       "part": [],
-      "price": 10.45,
-      "chgPct": -3.86,
+      "price": 10.17,
+      "chgPct": -2.68,
       "series": [
-        10.99,
         10.81,
         10.59,
         10.49,
@@ -807,9 +807,10 @@
         10.35,
         10.56,
         10.87,
-        10.45
+        10.45,
+        10.17
       ],
-      "asOf": "2026-10-07",
+      "asOf": "2026-10-08",
       "stale": false
     }
   ],
@@ -958,7 +959,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-08",
+      "checked": "2026-10-09",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -976,7 +977,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-08",
+      "checked": "2026-10-09",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -993,7 +994,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-08",
+      "checked": "2026-10-09",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1007,7 +1008,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-08",
+      "checked": "2026-10-09",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1024,7 +1025,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-08",
+      "checked": "2026-10-09",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1038,9 +1039,11 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-08",
+      "checked": "2026-10-09",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     }
   ],
-  "warnings": []
+  "warnings": [
+    "Claude analysis failed, kept yesterday's stories: Expecting ':' delimiter: line 1 column 1676 (char 1675)"
+  ]
 }
