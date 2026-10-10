@@ -167,5 +167,13 @@
       "Restored the truncated 'latestFunding' text for Naoris and the truncated 'expectedListing' text for TuringQ (wording only).",
       "Did not add Pasqal, Oxford Quantum Circuits, Laris Growth Acquisition or Quantum Leap Acquisition: only secondary reports mention them, and the two SPACs are blank-check shells, not quantum operating…"
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "changes": [
+      "No status changes: searches found no newer news than the existing entries for EigenQ, Terra Quantum or SeeQC, and no new news for the other three entries (PsiQuantum, Naoris, TuringQ) was found, thou…",
+      "Completed truncated text in the Naoris latestFunding and TuringQ expectedListing fields; no facts changed.",
+      "No new companies added: the only new items found were blank-check shells such as Laris Growth Acquisition, and Pasqal, IQM, Xanadu and Quantinuum are already tracked as listed."
+    ]
   }
 ]

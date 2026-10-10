@@ -362,5 +362,35 @@
         "title": "DARPA Selects Atom Computing, Diraq, IBM, and IonQ for Final Stage C Verification under Quantum Benchmarking Initiative - Quantum Computing Report"
       }
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "marketNews": [
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ Achieves Record 1 kHz Quantum Interconnect Speed - IonQ"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "IONQ",
+        "title": "IonQ (NYSE:IONQ) Stock Jumps 1.3% - Here's What Happened - MarketBeat"
+      },
+      {
+        "source": "The Quantum Insider",
+        "ticker": "IONQ",
+        "title": "IonQ Advances to Stage C of DARPA Quantum Benchmarking Initiative - The Quantum Insider"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QBTS",
+        "title": "Why Did D Wave Quantum (QBTS) Stock Drop While Attention Builds? - Yahoo Finance"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (RGTI) Stock Dropped, So What Is Driving Attention Now? - Simply Wall Street"
+      }
+    ]
   }
 ]

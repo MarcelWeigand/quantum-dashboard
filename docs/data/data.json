@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T08:12:23+00:00",
-  "date": "2026-10-09",
+  "generatedAt": "2026-10-10T11:55:37+00:00",
+  "date": "2026-10-10",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,92 +816,92 @@
     }
   ],
   "brief": {
-    "headline": "IonQ, IBM and others reach DARPA's final stage, yet quantum stocks slipped; labs report faster diamond-qubit gates.",
-    "summary": "Quantum stocks fell on Oct 7 (QTUM -1.9%, IonQ -4.5%) even as DARPA moved IonQ, IBM, Atom Computing and Diraq into Stage C of its benchmarking program. In the lab, a faster diamond-qubit gate shows steady hardware progress."
+    "headline": "IonQ rose 1.1% on a record quantum-link result, while D-Wave and Rigetti slipped; labs showed hybrid and photon-storage progress.",
+    "summary": "IonQ announced a record 1,000-per-second entanglement link between a trapped ion and a solid-state memory, and its shares rose 1.1%. In research, Oxford used a hybrid quantum computer to simulate a classic quantum effect, and a chip showed it can store several photons at once."
   },
   "marketNews": [
     {
       "source": "IonQ",
-      "published": "2026-10-07T21:47+00:00",
+      "published": "2026-10-09T13:01+00:00",
       "ticker": "IONQ",
-      "title": "IonQ Advances to DARPA QBI Stage C in $300M Agreement - IonQ",
-      "summary": "IonQ signed a Stage C agreement with DARPA worth up to $300M, though the stock still fell 4.5% on Oct 7.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzVnRmxhV1ZRUEpUNENCZEcyTk1HVWpNbW56WWpDMGFiU1dpTmNlRXllZEpMcXVfVEgyR243V014SGI3X2MxbTFlLVZ0MUtrWHlkcDJmTnVrMWtkWFY0ellSZUMtejV4Zlo4NWFBbjRJMkwtdURVTG9VTVI5azloZjgxeHM0YTAyem1IMG41cHpYazRLcGhJNEhwcHo?oc=5"
-    },
-    {
-      "source": "AD HOC NEWS",
-      "published": "2026-10-08T10:05+00:00",
-      "ticker": "IONQ",
-      "title": "Bank of America initiated IonQ coverage with USD 60 target for IonQ stock - AD HOC NEWS",
-      "summary": "Bank of America started covering IonQ with a $60 price target, a vote of analyst confidence.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0VjYnlpcGF2ZjI4d3EyN0Y1ZkRPRE94MlVqUW16eVFGT2tSNmtrVmo3VXpLLU01dnNoNEdVWnpEWEsyOF9wX05rNjJDc2pLUTNwWWxkekYxUUZlYjBzaWwtWU1mZC1KcGNnOVhFN3F4c2VFclQ5M2ZBTFNLOGI2Q0s2UDgyS1pId1ZGYlc0SkJGLXdOZWNmZWtMZFNXSlhkeFQwcW5kTk94dVVISEhsVlFOZ3BZenJOa1VpalEzQllWXzVqNDYzc3pmRUk?oc=5"
+      "title": "IonQ Achieves Record 1 kHz Quantum Interconnect Speed - IonQ",
+      "summary": "IonQ reported a record 1 kHz quantum interconnect speed, a step toward linking quantum machines, and the stock rose 1.1% on Friday.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUJ5Ykx6RlI2Tk1ZUUV1QTNvaEQyR0JoZ2E4Q2FYdmdzdlAxaDE4U2lnUUpYX2x3WWdHdkE2a1pkX1ZVZXpqNkhKYTFwYWF2ams2VGRKRGdjNmdNbUNoN0NUSXBtdVhrQWFmNjRBX2pySGR6R1U5OVdTZ1NfenFzc2lXTXQ2REcyX0lRZjBkR3J0WGw4SXliVXZxVkFtaVYxeWtOSkJBY3RYOFBId19XQlpxMF8tSTNadlNoWUpyZ0E2RHBvNE1DTw?oc=5"
     },
     {
       "source": "MarketBeat",
-      "published": "2026-10-08T10:27+00:00",
-      "ticker": "RGTI",
-      "title": "Rigetti Computing (NASDAQ:RGTI) Stock Rating Upgraded by Zacks Research - MarketBeat",
-      "summary": "Zacks Research upgraded its rating on Rigetti, although the shares fell 3.8% on Oct 7.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2tRbkYwWENwdlVIaGlFN0RUd1lsLW5GUnNpMVpKOTU2MTE5RXFMMHVOVjlmWDU1V1dHMXBwMDBkVF9Ea29hQzE2cHJqUmM2eEVTWGZxNXVhY2JEZ1JNUlZud2lLVVlGQ2djRzRidlZpZGtNUnBsbnl4LXVja042Z0g5WlVFWTJmZHU4cTdRcFdibDhrNk9GdUZHS0M5WUh2T1BUdThYMGVkMGRhNno4VkFvWDAwa1p5SWZKVGltNFdwV215dzd2S2JyRQ?oc=5"
+      "published": "2026-10-09T21:38+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ (NYSE:IONQ) Stock Jumps 1.3% - Here's What Happened - MarketBeat",
+      "summary": "MarketBeat noted IonQ shares edged higher on Friday, in line with the 1.1% gain in the latest prices.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTE1DZVFNdWxsYlVtYzRnOS1QZ2VNSG5pRjFrR0JMWTJScDQ0T21USGRCeVdPMDhRZV9ScDBtZlpJbnZmaEM2eHhENTVYWWNvdngxTFlHMkFiS0c2cGgwampfQ0dRdkZHVnd2OFI0MjYwUW5ncWd0Y2ZnRXJBa1h5dE8xVVZfczNkdHZHNGZDcF9QSFFDcmF1THliR0Q5TjlBRlJ1U28yT2pfMk1QTlE?oc=5"
     },
     {
-      "source": "MarketBeat",
-      "published": "2026-10-07T21:25+00:00",
+      "source": "The Quantum Insider",
+      "published": "2026-10-08T12:07+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Advances to Stage C of DARPA Quantum Benchmarking Initiative - The Quantum Insider",
+      "summary": "IonQ advanced to Stage C of DARPA's Quantum Benchmarking Initiative on Oct 8, a credibility boost for its roadmap.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVJyVUhEeVE5YTN0YUtvM2hfMHUxdWw4TlRRVjd3elR3QkJRcXg5b3E3dFVIRl9FYzJyelNZZnNWeTZVN0JTQXFYSXJ4dk5wQ2FkVXJWbjE0N0lOUnI2Z0M1NzNRYkEtRHNFaFZSWmFYeW0wWi1Zdmw1ajZGRWx0aHN6SjA2STI4d2sxZ21JaXg1Y0xxUm1LRzNPcVRBS0dVbHVGc2prRzR4U1dfWXBYYg?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "published": "2026-10-09T03:19+00:00",
       "ticker": "QBTS",
-      "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 3.6% - Should You Sell? - MarketBeat",
-      "summary": "D-Wave shares slid 3.6% on Oct 7 as the quantum group broadly weakened.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeURpWmpNTEhJdHExRmRVZDlET0FCQkNIMjRhUG1UeFpQSWVOckk1aFJyXzhaN08zUXRhVE9wXzBKU0FmMVBRSWlCU0ZiNjdobFFuY2U5aXZkYXNjWHQteHJScnZDZFU4SE42dXVRZjh4NWxuOG9odkNMR3dnTk1ZaTdydWpCZ2cxcDhtTGJUU1ZkMkNwYVdjeVFrTUhlSXVnY3IzRTM0MkpoM085c0NJejBmMnZmVEx6RU9PQm92TQ?oc=5"
+      "title": "Why Did D Wave Quantum (QBTS) Stock Drop While Attention Builds? - Yahoo Finance",
+      "summary": "Commentary on D-Wave's recent stock drop points to investor attention, though shares were only down 0.2% on Friday.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcEp3ZE5yczFtYU1VcVhsWm81aWh1SW84X0Z6QjE1VXFsaGV6TWJha21oTE8tZFMxcThxWUgtX2tsdTV2T3JESFFpZUZOUk5uSnZndUY5MGlFS09TZktqelhITDR2Z3VLU2hKVkZSUWo4MWhndXNzVmlnOGJLVXNFSDNDX0IwaDZhRG1BZjB3WE8?oc=5"
     },
     {
-      "source": "Quantum Computing Report",
-      "published": "2026-10-08T01:17+00:00",
-      "ticker": "IBM",
-      "title": "DARPA Selects Atom Computing, Diraq, IBM, and IonQ for Final Stage C Verification under Quantum Benchmarking Initiative - Quantum Computing Report",
-      "summary": "IBM was chosen with Atom Computing, Diraq and IonQ for DARPA's final verification stage, while its shares were nearly flat (-0.3%).",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRU9wMkNKd3YtR2NSaUhCaHNYZzJWN2JGRldJdEszT1g2UkIyOXlsWnlVVnUtYk96M2xLTi11eThXRTFyV2JwZmZHcHFMZWJBR1dRMnBOUDkxQWFBLVZMenFCZmJWcFNhZEZ4dmp6eFg0UGd3b0hHZURfeUpITWlqdkVUWWNjRmJYbGw1R1hiTDlyeWN5cmd6UHV1bXkyb0p0YkVodWF0bGNGeGwtNnJ2c0JRTzI3VFRRTlNXcmdreUlJMTBvRndBV1FJYzJGLWRSUEZvRW04VXJSLTlWMl81YkdTdlBjSUnSAewBQVVfeXFMUDR2NjBYRTBNZ3pTaU9UTTVzbGMweUNXd253UHBocTUzYlpfbUs4WE1WcjAyR0lrdGVFVUNjaU5CM1RkT2ZNUnJXTUM5eHN3UGdzMDBXNU82N3l2MG5ZNU5JaUE1YXVraWVqS2p4THVPcVhSb1VXX3oxM3hNTTJCQlhTVEZ6SXlqVnhDbERXNWNTa2FGZ0F5LWZ2RF9yeTUzWnJESE9PT1lrb0c4cXJuMjN5WktnY2pYbjlSc1c5WTlzd0RNMUNxVGFwTmZlbGw5MnRXd0F0NWFaUUg1akJHSW94QUNDUGwtSkZXWkk?oc=5"
+      "source": "Simply Wall Street",
+      "published": "2026-10-09T04:10+00:00",
+      "ticker": "RGTI",
+      "title": "Rigetti Computing (RGTI) Stock Dropped, So What Is Driving Attention Now? - Simply Wall Street",
+      "summary": "Rigetti shares fell 0.8% on Friday, and commentary is asking what is driving investor attention.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeWRrNm1ZVkowYUZrV1Jqbl9fbmhpcU82aWo5dnVWQU5XN2dsMzZJWDdjX3A2djYxdTdZT3hMMlM4MlpxUDNBNG1NYlhPei1MblVuTXplZjAwbTgyMmExYmNnMVRNM3pkY2YxbjVXSWtBcnIwZldic3EyRjNpVDVOdlpPWGc5NVhtQ0s4N0NmbnJvSFRybFRKbTJqbjNvVXRlMmNtYlc2WFU4TGd4RXpBQXY0c1JnaU81dEZHUTRYQUxaOHFUX2N6QkpUSUpBMVBzeWtWNDVfZm04dmZhMWZB0gHfAUFVX3lxTE95ZGs2bVlWSjBhRmtXUmpuX19uaGlxTzZpajl2dVZBTlc3Z2wzNklYN2NfcDZ2NjF1N1lPeEwyUzgyWnFQM0E0bU1iWE96LUxuVW5NemVmMDBtODIyYTFiY2cxVE0zemRjZjFuNVdJa0FycjBmV2JzcTJGM2lUNU52Wk9YZzk1WG1DSzg3Q2Zucm9IVHJsVEptMmpuM29VdGUyY21iVzZYVThMZ3hFekFBdjRzUmdpTzV0RkdRNFhBTFo4cVRfY3pCSlRJSkExUHN5a1Y0NV9mbTh2ZmExZkE?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "hw",
-      "title": "Diamond qubits entangled ten times faster at room temperature",
-      "summary": "Researchers built a new parallel gate that entangles diamond qubits 10 times faster at room temperature. Entanglement links qubits so they behave as one system, and speed matters because it limits how much a quantum computer can do. This is a lab demonstration, and far larger, reliable machines are still needed before it is practical.",
+      "tag": "sw",
+      "title": "Hybrid quantum computer reproduces a famous quantum effect",
+      "summary": "Oxford physicists used a hybrid quantum computer, built from qubits and quantum oscillators, to simulate the Aharonov–Bohm effect, where a particle picks up a measurable phase going around a magnetic flux it never touches. It shows such mixed hardware can model fundamental physics in a new setting. It is still a demonstration of a known effect, and useful large-scale simulations remain far off.",
       "source": "Phys.org",
-      "published": "2026-10-01T12:40+00:00",
-      "url": "https://phys.org/news/2026-09-parallel-gate-entangles-diamond-qubits.html"
+      "published": "2026-10-10T10:57+00:00",
+      "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html"
     },
     "items": [
       {
+        "tag": "nw",
+        "title": "Chip can hold several photons at once",
+        "summary": "A quantum chip stores multiple photons at the same time, a step toward scalable quantum memory.",
+        "source": "Phys.org",
+        "published": "2026-10-09T17:00+00:00",
+        "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html"
+      },
+      {
+        "tag": "hw",
+        "title": "Superconducting circuit builds bigger entangled photon states",
+        "summary": "A superconducting circuit links smaller groups of photons into larger entangled states.",
+        "source": "Phys.org",
+        "published": "2026-10-09T12:00+00:00",
+        "url": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html"
+      },
+      {
         "tag": "sw",
-        "title": "Quantum shortcut eases simulation of particle collisions",
-        "summary": "A quantum computing shortcut makes it easier to simulate high-energy particle collisions.",
+        "title": "Shortcut eases simulation of particle collisions",
+        "summary": "A new quantum computing shortcut makes high-energy particle collisions easier to simulate.",
         "source": "Phys.org",
         "published": "2026-10-07T12:00+00:00",
         "url": "https://phys.org/news/2026-10-quantum-shortcut-particle-collisions-easier.html"
       },
       {
-        "tag": "nw",
-        "title": "Nearly identical photons for quantum communication",
-        "summary": "Teams from Paderborn, Basel and Bochum used semiconductor nanostructures to make single photons and photon pairs that are almost perfectly identical.",
+        "tag": "sen",
+        "title": "Light reads electron spins in porous crystals",
+        "summary": "Researchers used light to read out electron spins trapped in a porous crystal, a path to quantum chemical sensors.",
         "source": "Phys.org",
-        "published": "2026-10-01T21:40+00:00",
-        "url": "https://phys.org/news/2026-10-method-generates-indistinguishable-photons-quantum.html"
-      },
-      {
-        "tag": "en",
-        "title": "X-rays show how qubit materials react to lasers",
-        "summary": "A new X-ray technique reveals in real time how crystals respond to laser pulses that create the vacancies used as qubits.",
-        "source": "Phys.org",
-        "published": "2026-10-06T21:20+00:00",
-        "url": "https://phys.org/news/2026-10-ray-technique-reveals-quantum-materials.html"
-      },
-      {
-        "tag": "sec",
-        "title": "US agencies not ready for quantum attacks",
-        "summary": "A GAO report found none of 24 major federal agencies fully completed the preparation practices it assessed for protecting systems against future quantum attacks.",
-        "source": "The Quantum Insider",
-        "published": "2026-10-07T13:54+00:00",
-        "url": "https://thequantuminsider.com/2026/10/07/federal-quantum-readiness-falls-short-as-agencies-face-cryptography-skills-gaps/"
+        "published": "2026-10-09T14:40+00:00",
+        "url": "https://phys.org/news/2026-10-electron-porous-crystals-path-quantum.html"
       }
     ]
   },
@@ -911,14 +911,14 @@
   },
   "sentiment": {
     "today": {
-      "science": 53,
-      "stock": 20,
-      "nScience": 50,
+      "science": 75,
+      "stock": 31,
+      "nScience": 25,
       "nStock": 30,
-      "headlineScore": 21,
-      "momentumScore": 19,
-      "reasonScience": "Upbeat: four companies advanced in DARPA's benchmarking program, Universal Quantum raised over $100M, and labs reported better photons and qubit materials.",
-      "reasonStock": "Weak: on Oct 7 nearly every tracked quantum stock fell, with QTUM down 1.9% and IonQ down 4.5% despite its DARPA news, while only PSQL (+6.1%) and Google (+0.8%) rose."
+      "headlineScore": 39,
+      "momentumScore": 13,
+      "reasonScience": "Upbeat, with a hybrid-computer simulation, photon-storage and entanglement advances, and a record IonQ interconnect result.",
+      "reasonStock": "Mixed on Friday: the sector fund QTUM and IonQ edged up, while D-Wave and Rigetti slipped slightly and Arqit, Xanadu and LAES fell 5-6%."
     },
     "monthly": [
       {
@@ -932,12 +932,12 @@
       },
       {
         "month": "2026-10",
-        "science": 58,
-        "stock": 18,
-        "articlesScience": 349,
-        "articlesStock": 239,
-        "reasonScience": "October has been consistently upbeat, with a quantum computer in space, faster diamond-qubit entanglement, better photon sources, error-correction progress and now DARPA's final-stage picks.",
-        "reasonStock": "Stocks have been mixed and choppy through early October, with sector gains of up to 1.8% on some days, wide swings in QNC, and a broad pullback on Oct 7."
+        "science": 59,
+        "stock": 19,
+        "articlesScience": 374,
+        "articlesStock": 269,
+        "reasonScience": "October has been steadily upbeat, with advances in diamond qubits, photon storage, error correction and networking, plus DARPA benchmarking progress.",
+        "reasonStock": "Stocks have been choppy with no clear trend: small gains in some days, a broad drop on Oct 7, and sharp swings in smaller names."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,11 +1040,9 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     }
   ],
-  "warnings": [
-    "Claude analysis failed, kept yesterday's stories: Expecting ':' delimiter: line 1 column 1676 (char 1675)"
-  ]
+  "warnings": []
 }
