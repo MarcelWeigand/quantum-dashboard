@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-09-26",
-    "marketNews": []
-  },
-  {
     "date": "2026-09-27",
     "marketNews": [
       {
@@ -390,6 +386,36 @@
         "source": "Simply Wall Street",
         "ticker": "RGTI",
         "title": "Rigetti Computing (RGTI) Stock Dropped, So What Is Driving Attention Now? - Simply Wall Street"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "marketNews": [
+      {
+        "source": "The Quantum Insider",
+        "ticker": "IONQ",
+        "title": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect - The Quantum Insider"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "QBTS",
+        "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits"
+      },
+      {
+        "source": "TradingKey",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (RGTI) Stock: $2B Quantum Initiative Fuels Rally — Is Rigetti a Buy at $25.50? - TradingKey"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "IONQ",
+        "title": "Nvidia Funding Puts IonQ Stock And Quantum Computing Shares In Focus - Simply Wall Street"
+      },
+      {
+        "source": "Quiver Quantitative",
+        "ticker": "QNC",
+        "title": "Quantum Computing Inc Stock Short Interest Rises to 33.63% - Quiver Quantitative"
       }
     ]
   }

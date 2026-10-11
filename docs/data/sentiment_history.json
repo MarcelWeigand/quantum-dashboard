@@ -199,6 +199,16 @@
       "momentumScore": 13,
       "reasonScience": "Upbeat, with a hybrid-computer simulation, photon-storage and entanglement advances, and a record IonQ interconnect result.",
       "reasonStock": "Mixed on Friday: the sector fund QTUM and IonQ edged up, while D-Wave and Rigetti slipped slightly and Arqit, Xanadu and LAES fell 5-6%."
+    },
+    "2026-10-11": {
+      "science": 93,
+      "stock": 21,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": 25,
+      "momentumScore": 13,
+      "reasonScience": "Upbeat, with a record IonQ interconnect, a hybrid-computer simulation and advances in photon storage and entanglement.",
+      "reasonStock": "Mixed on Friday: the sector fund QTUM and IonQ edged up, while LAES, Arqit and Xanadu fell 5-6%."
     }
   },
   "monthReasons": {
@@ -207,8 +217,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been steadily upbeat, with advances in diamond qubits, photon storage, error correction and networking, plus DARPA benchmarking progress.",
-      "stock": "Stocks have been choppy with no clear trend: small gains in some days, a broad drop on Oct 7, and sharp swings in smaller names."
+      "science": "October has been steadily upbeat so far, with progress in diamond-qubit entanglement, photon sources, quantum memory and error correction, plus new funding and DARPA milestones.",
+      "stock": "Stocks have been choppy this month, with a broad dip on Oct 7 and sharp swings in smaller names, while QTUM and IonQ ended last week slightly higher."
     }
   }
 }

@@ -175,5 +175,14 @@
       "Completed truncated text in the Naoris latestFunding and TuringQ expectedListing fields; no facts changed.",
       "No new companies added: the only new items found were blank-check shells such as Laris Growth Acquisition, and Pasqal, IQM, Xanadu and Quantinuum are already tracked as listed."
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "changes": [
+      "Added Pasqal: SPAC merger with Bleichroeder Acquisition Corp. II (BBCQ), $2B valuation, F-4/DEFM14A filed, closing expected H2 2026",
+      "Naoris Quantum Protocol: restored the truncated latestFunding text",
+      "TuringQ: restored the truncated expectedListing text",
+      "No other changes: searches found no new reliable news on the other entries"
+    ]
   }
 ]
