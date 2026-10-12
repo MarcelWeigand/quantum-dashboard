@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T12:07:15+00:00",
-  "date": "2026-10-11",
+  "generatedAt": "2026-10-12T14:26:59+00:00",
+  "date": "2026-10-12",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,80 +816,80 @@
     }
   ],
   "brief": {
-    "headline": "Quantum stocks were mixed on Friday, with IonQ up 1.1%, while IonQ reported a record 1 kHz link between ion and diamond memories.",
-    "summary": "IonQ edged up 1.1% on Friday, the day it reported 1,000 entanglements per second between a trapped ion and a solid-state memory. Linking separate quantum machines is a key step toward networked quantum computers, though this is still lab work."
+    "headline": "IonQ agrees a $1.3B all-stock buy of Elisity, and in the lab Oxford sees a quantum effect on a hybrid quantum computer.",
+    "summary": "IonQ's up-to-$1.3B all-stock purchase of cybersecurity firm Elisity dominates the markets, with reports of its shares sliding on the news. In the lab, IonQ's fast entanglement link and Oxford's hybrid-computer simulation show steady hardware progress."
   },
   "marketNews": [
     {
-      "source": "The Quantum Insider",
-      "published": "2026-10-09T13:55+00:00",
+      "source": "WSJ",
+      "published": "2026-10-12T11:00+00:00",
       "ticker": "IONQ",
-      "title": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect - The Quantum Insider",
-      "summary": "IonQ's record entanglement rate of 1,000 per second supports its networking story, and the stock rose 1.1% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmYtZllrWDdDZlF5Z3owcUdrZExyZXl3d0wxbE9uUFFFN0wzaUhaVzJzaTk5aFBRWlhGVnloYVB1cnJUeno2WURXaEJteUctdlMzbHhINFhxWEdneWxuRjYxek1VeU9SR0NwOEpSWG0wb3NYT1pINlFTS3d4Y09fSFRHQk9BZklGM2xPSkd1T28yeHl6a0Y3X25RbHY5UWJqYVk3c3B3?oc=5"
+      "title": "Exclusive | Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion - WSJ",
+      "summary": "The Wall Street Journal reports IonQ will buy a cybersecurity company for up to $1.3 billion, a big push beyond quantum hardware.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmk5NnMzd2lyOHZSR1dvNEVleUIzdGg0dTF0X3NkWDVNblZYMXVoQjJFREtXdE10MFYwZkpOZHptN3dYdFV2S1RwMzAyNFFqMkxqX3N3c3lpSVNUU0s4U2hlaTVNNFg1RTJ5RkZpb1JyUGFKTFc3bHFlWkV3S0szdDUtSlE2WV91VmphdUdZc3MyNTM1YTVpVlNnNW04QUIyMmQxTGx2Z2FBcGFFZ3Q0anEzeFJlNHpXNUdheDBXRQ?oc=5"
     },
     {
-      "source": "Stocktwits",
-      "published": "2026-10-11T01:29+00:00",
-      "ticker": "QBTS",
-      "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits",
-      "summary": "Nasdaq Verafin choosing D-Wave's technology for financial crime detection is a customer win, though QBTS slipped 0.2% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWWFFbE9QWTNnTEZzUS1mTHg4Sm5nN01GSlZYSm9tNFVDWGFXaG9ac2JoeDZ1NWFsQ1Y2bUtPUWx4UzFRRWM5NVpobHhoWjNMN1pjWEU2eXdjb21KYmt5Y2RrVVlJMXE1cUd5RXpYVnRGZXprUldsMWoyYUY1SVE3YmZTOW8xU2NSOWZpM2QxUTY3M2c1LXh1bHo1bWcyenJQM2RQLVI1Wm56cVlCRVVqUzhIa0hyUlRneS1fN0pNWl8xZ1RkZHN1VGFOY0VyX09RRUljQUNFZWZLbFE?oc=5"
+      "source": "Seeking Alpha",
+      "published": "2026-10-12T12:14+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ buys cybersecurity firm Elisity in $1.3B all-stock deal (IONQ:NYSE) - Seeking Alpha",
+      "summary": "Paying entirely in stock means no cash outlay, but it adds new IonQ shares, which can weigh on existing holders.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU5KSHdPTzVPLXl6M3hqMTNFMFRlQjdIcE5oNUZkWkxRM0xJTTMzb1FLb0psRFppckRRTTg4T3hEOTlMZHl4bWZKWi1Rc3JfekYtd3JONHJHRzRiXy1talBYdWhuRWxSd1RROFQ1NzI2OWZZVDdzUTdaVUV6ckxyelVvaFhXQ3NId2RNQldnajAwaGRoZGhIVXhhT1M?oc=5"
     },
     {
-      "source": "TradingKey",
-      "published": "2026-10-10T14:30+00:00",
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T14:06+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Shares Slide After Firm Announces $1.3B All-Stock Deal To Acquire Cybersecurity Firm Elisity - Yahoo Finance",
+      "summary": "Reports say IonQ shares slid when the Elisity deal was announced today, even though the stock rose 1.1% on Friday.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeF95U1NSUXVsQ09HQnF4aVdUVEFWcGVxWDYwb2Fqekg3enhaODBUWlpTMGVyTlVjamtDdy05UGxEOURLc054M0pSUTdBbWFaOXo5aUtjLVd0T21MX1lhSENCU3haRlhWTFpYdVdJdmw2M2pKVVFvanN1cTVHUHRDc2N5TWVOc3NuV29Dbm11N2xEdE1aekZPTDBNNGM0Zw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "published": "2026-10-12T11:56+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ's Quantum Interconnect Breakthrough: What It Means for Scaling - Yahoo Finance",
+      "summary": "IonQ's quantum interconnect result is framed as a step toward scaling its machines, supporting the technology story behind the stock.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWhTNUlQeDF4ODJxaVZnTjVqWmNyMWM0Z0wzV2N1RDhlZ3JHRTJ2cHZzZG9UbHMzZGExRlZJdXEwNlFtbklLSXNFRGh6UENuckU4V1pHd3hWN2NQMXVwZmVXQXhOUmtRSjNUSXYxSEI3RWxaZHh2Z1lQSTNGVkFTYm0zWTJwTE9XaVNlUTJ2RlE5bWhTWDZFZ3E0c1dIQ3lxa0ttdEZpTlBPTTlXQWc?oc=5"
+    },
+    {
+      "source": "Quantum Zeitgeist",
+      "published": "2026-10-12T11:18+00:00",
       "ticker": "RGTI",
-      "title": "Rigetti Computing (RGTI) Stock: $2B Quantum Initiative Fuels Rally — Is Rigetti a Buy at $25.50? - TradingKey",
-      "summary": "Coverage ties Rigetti's recent rally to a $2B quantum initiative, but the stock slipped 0.8% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVdESEpsVzZHU3ZZcFRxZF9NSnJZR1N3Q2F6VU9LTklqT3ptY0VmLUxGOG9memlaZXFYUE81Q1RaT0wxYUhkSHJKR3hNb1FTYnp4dkVieFhrVlVaeVFMcnhQUURqN0NTQ3RDRkJuUktqOE9hM05oZ0lEamY0RnlaekRQZ0tFdnZhc2ZxZ3JUZWY2SmVZTlNaVmZRRDZUNkhLWmRpSjBfYjhCQU1YR3hia19ZU09EY0ktTmFFcEdR?oc=5"
-    },
-    {
-      "source": "Simply Wall Street",
-      "published": "2026-10-09T22:52+00:00",
-      "ticker": "IONQ",
-      "title": "Nvidia Funding Puts IonQ Stock And Quantum Computing Shares In Focus - Simply Wall Street",
-      "summary": "Nvidia funding is being cited as a reason to watch IonQ and other US quantum shares.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWmsxcHpUX3hubFJ2eDZxM0lNRjg4VVpPbmxKYUh3YklOY04zVWZnMVpGWUdDRzNBbDF1R01hNFNyRE9YUGNua0s0cXA2bWdhMTRnUlZ0TnFYMk5oU1dOUUlkWXlqVmVqaHNaS0psMGRwakpHTVVyYXpSSHpVOUR0NHJ1eDVDWFVneWgzekUzRS03dWlCeDdmZ1Z3Wi00Zm16WUFBalJTZWFoTjFVQjNBcG1wNnN1UjQyNXVuMzMzRFhoYlZh0gHKAUFVX3lxTE5lTXZPdGJmeFhkS1ZLUnNpaDg3LW9TcW96VEVvdlcwUjR6SFJRWXcycFJ3eWVaQjRJUU9ZNEVjWUhaVXlzNENIZHNyajFzRkhNYVpoNXN5REJxVkNBRjd5dlppQkNfYlRlT25XS0ZTZTIyeTNlQjExZXVFeHBDSFdVTUlpZkVGUjBYcmhqRUUxeXdkMWFjR3BOOTYxNmdMWmZlaEhUWUhDZE1MMDlTaXp3ZllfREc5Qkh1TjdncHhJT0J4enkxSG9SZFE?oc=5"
-    },
-    {
-      "source": "Quiver Quantitative",
-      "published": "2026-10-10T13:32+00:00",
-      "ticker": "QNC",
-      "title": "Quantum Computing Inc Stock Short Interest Rises to 33.63% - Quiver Quantitative",
-      "summary": "Short interest in Quantum Computing Inc has risen to 33.63%, which shows heavy bearish bets against the stock even though it gained 2.6% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTB1Y0FSUWxNdmJKdlJzSXY0UjRmUUVuSF84YnRNSTJWdllmWkVIdXROemFjS0JPT201QTdfN0lyeG01alB0MEhKMXNIbW9mNDhrRFJKM05HUE5yUnU1T253VG8wNTZ2eWI1Q2xYZVNnVElpZkNaRXJGOF9CRkVYeE1UdWIxVVphT0tNZ3ZvOGNKUmlKRkdDZA?oc=5"
+      "title": "Rigetti Says Scaling Quantum Means Complex Tasks, Fast Results - Quantum Zeitgeist",
+      "summary": "Rigetti says scaling quantum computers means handling complex tasks quickly, though the stock slipped 0.8% on Friday.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNmE0MXdKbUxRZDVVQW5JblBVUzlkU090UndFWnlSc1F4QUt3WElEbFoyWEd3a2RVZVhNLXk0aVU4bktwUk1hVFJfamxrbThQOWlVN1NqWGE0NmtjcjNjSWxudEFtVENzZHZKenFBdnYyMEhGNEtObVFYUGhQbnBPR0hwcw?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "nw",
-      "title": "IonQ links an ion qubit to a solid-state memory 1,000 times a second",
-      "summary": "IonQ reports entanglement rates above 1,000 per second between a trapped-ion qubit and a solid-state memory, linked by light. A faster link brings separate quantum machines closer to working together as one larger system. This is a company press release about a lab demonstration, so independent checking and real networks are still some way off.",
-      "source": "The Quantum Insider",
-      "published": "2026-10-09T13:20+00:00",
-      "url": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/"
+      "tag": "hw",
+      "title": "Hybrid quantum computer reproduces a classic quantum effect",
+      "summary": "Oxford physicists used a hybrid machine of qubits and quantum oscillators to simulate the Aharonov–Bohm effect, where a particle picks up a measurable phase going around a magnetic flux it never touches. It shows that mixing two kinds of quantum parts can model physics that is hard for ordinary computers. It remains a lab simulation, and the machines are still far from routine scientific use.",
+      "source": "Phys.org",
+      "published": "2026-10-10T10:57+00:00",
+      "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html"
     },
     "items": [
       {
         "tag": "nw",
-        "title": "Quantum chip can hold several photons at once",
-        "summary": "A centimeter-scale chip stores multiple photons at once, a step toward scalable quantum memory.",
+        "title": "IonQ links ion qubit to solid-state memory over 1,000 times a second",
+        "summary": "IonQ reports entanglement rates above 1 kHz between a trapped-ion qubit and a solid-state memory through a photonic interconnect.",
+        "source": "The Quantum Insider",
+        "published": "2026-10-09T13:20+00:00",
+        "url": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/"
+      },
+      {
+        "tag": "nw",
+        "title": "Quantum chip stores several photons at once",
+        "summary": "A chip about 1 centimeter across can hold multiple photons, a step toward scalable memory for quantum information.",
         "source": "Phys.org",
         "published": "2026-10-09T17:00+00:00",
         "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html"
       },
       {
         "tag": "hw",
-        "title": "Hybrid quantum computer reproduces a classic quantum effect",
-        "summary": "Oxford physicists used qubits plus quantum oscillators to simulate the Aharonov–Bohm effect.",
-        "source": "Phys.org",
-        "published": "2026-10-10T10:57+00:00",
-        "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html"
-      },
-      {
-        "tag": "hw",
-        "title": "Superconducting circuit joins small photon groups into bigger entangled states",
+        "title": "Superconducting circuit builds larger entangled photon states",
         "summary": "A superconducting circuit links smaller groups of photons into larger entangled states.",
         "source": "Phys.org",
         "published": "2026-10-09T12:00+00:00",
@@ -897,28 +897,28 @@
       },
       {
         "tag": "en",
-        "title": "UV laser pulses shape diamond defects without harming qubits",
-        "summary": "Ultraviolet pulses can engineer diamond defects selectively while leaving the quantum qubits intact.",
-        "source": "Phys.org",
-        "published": "2026-10-10T21:20+00:00",
-        "url": "https://phys.org/news/2026-10-ultraviolet-laser-pulses-diamond-defects.html"
+        "title": "Testing a thin insulating film for quantum circuits",
+        "summary": "Researchers measured how much energy niobium resonators lose when built on few-layer hBN, a material that could improve superconducting quantum chips.",
+        "source": "arXiv",
+        "published": "2026-10-12T04:00+00:00",
+        "url": "https://arxiv.org/abs/2610.12556"
       }
     ]
   },
   "arxiv": {
-    "total": 145,
-    "picked": 0
+    "total": 122,
+    "picked": 1
   },
   "sentiment": {
     "today": {
-      "science": 93,
-      "stock": 21,
-      "nScience": 25,
+      "science": 50,
+      "stock": 9,
+      "nScience": 50,
       "nStock": 30,
-      "headlineScore": 25,
+      "headlineScore": 7,
       "momentumScore": 13,
-      "reasonScience": "Upbeat, with a record IonQ interconnect, a hybrid-computer simulation and advances in photon storage and entanglement.",
-      "reasonStock": "Mixed on Friday: the sector fund QTUM and IonQ edged up, while LAES, Arqit and Xanadu fell 5-6%."
+      "reasonScience": "Upbeat: a hybrid-computer simulation, on-chip photon storage and IonQ's fast entanglement link lead a steady flow of progress.",
+      "reasonStock": "Friday was mixed: QTUM rose 0.8% and IonQ 1.1%, while LAES, Arqit and Xanadu fell 5-7%, and today's Elisity deal news reportedly pushed IonQ lower."
     },
     "monthly": [
       {
@@ -932,12 +932,12 @@
       },
       {
         "month": "2026-10",
-        "science": 61,
-        "stock": 20,
-        "articlesScience": 399,
-        "articlesStock": 299,
-        "reasonScience": "October has been steadily upbeat so far, with progress in diamond-qubit entanglement, photon sources, quantum memory and error correction, plus new funding and DARPA milestones.",
-        "reasonStock": "Stocks have been choppy this month, with a broad dip on Oct 7 and sharp swings in smaller names, while QTUM and IonQ ended last week slightly higher."
+        "science": 60,
+        "stock": 19,
+        "articlesScience": 449,
+        "articlesStock": 329,
+        "reasonScience": "October has been consistently upbeat, with a first quantum computer in space, faster diamond-qubit entanglement, better photon storage and error-correction work, and DARPA and funding wins.",
+        "reasonStock": "Stocks have been choppy with no clear trend: small sector gains early on, a sharp sell-off on Oct 7, then mixed days, with big swings in smaller names like QNC and Xanadu."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-11",
+      "checked": "2026-10-12",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-11",
+      "checked": "2026-10-12",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-11",
+      "checked": "2026-10-12",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-11",
+      "checked": "2026-10-12",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-11",
+      "checked": "2026-10-12",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,22 +1040,8 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-11",
+      "checked": "2026-10-12",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
-    },
-    {
-      "name": "Pasqal",
-      "note": "Neutral-atom quantum computing · France",
-      "route": "SPAC merger",
-      "status": "Signed a definitive business combination with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) announced March 4, 2026, at a $2.0B pre-money valuation. A Form F-4 and DEFM14A proxy have been filed; closing is expected in H2 2026, with a planned Euronext Paris dual listing.",
-      "core": [
-        "hw"
-      ],
-      "part": [],
-      "expectedListing": "H2 2026 (planned)",
-      "latestFunding": "$200M committed convertible financing, March 2026",
-      "checked": "2026-10-11",
-      "source": "https://thequantuminsider.com/2026/03/04/pasqal-latest-quantum-company-to-announce-intentions-to-go-public-valued-at-2-billion/"
     }
   ],
   "warnings": []

@@ -184,5 +184,14 @@
       "TuringQ: restored the truncated expectedListing text",
       "No other changes: searches found no new reliable news on the other entries"
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "changes": [
+      "Removed Pasqal: it has listed on Nasdaq as PSQL (Boersen-Zeitung), and PSQL is already tracked as a listed stock.",
+      "Expanded the truncated latestFunding for Naoris and the truncated expectedListing for TuringQ, with no change in substance.",
+      "No new quantum companies found filing for an IPO or SPAC. The SPAC shells Laris Growth and Quantum Leap are blank-check vehicles, not quantum operating companies. The Laris filing is also unverified.",
+      "No new verified news for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris or TuringQ, so those entries are unchanged."
+    ]
   }
 ]

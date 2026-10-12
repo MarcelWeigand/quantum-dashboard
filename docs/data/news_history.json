@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-09-27",
-    "marketNews": [
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Just Landed Nvidia Less Than 2 Years After Jensen Huang’s 30-Year Quantum Warning - Yahoo Finance"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "IONQ",
-        "title": "IONQ Stock Falls Hard As Ballooning Losses Outweigh Record Sales, Raised Outlook — But Retail Bulls See Long-Term Value - Stocktwits"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "RGTI",
-        "title": "RGTI, INFQ Stocks Gain Overnight: Bernstein Thinks Rigetti And Infleqtion Could Be Early Winners In Quantum Race - Stocktwits"
-      },
-      {
-        "source": "NewMediaWire",
-        "ticker": "QBTS",
-        "title": "NASDAQ: QBTS Investigation: D-Wave Quantum Inc. Investors are Encouraged to Contact KTMC Law Firm - NewMediaWire"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "QUBT",
-        "title": "Quantum Computing Stocks Tumble After Stunning Rally - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-09-28",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Quiver Quantitative",
         "ticker": "QNC",
         "title": "Quantum Computing Inc Stock Short Interest Rises to 33.63% - Quiver Quantitative"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12",
+    "marketNews": [
+      {
+        "source": "WSJ",
+        "ticker": "IONQ",
+        "title": "Exclusive | Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion - WSJ"
+      },
+      {
+        "source": "Seeking Alpha",
+        "ticker": "IONQ",
+        "title": "IonQ buys cybersecurity firm Elisity in $1.3B all-stock deal (IONQ:NYSE) - Seeking Alpha"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ Shares Slide After Firm Announces $1.3B All-Stock Deal To Acquire Cybersecurity Firm Elisity - Yahoo Finance"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ's Quantum Interconnect Breakthrough: What It Means for Scaling - Yahoo Finance"
+      },
+      {
+        "source": "Quantum Zeitgeist",
+        "ticker": "RGTI",
+        "title": "Rigetti Says Scaling Quantum Means Complex Tasks, Fast Results - Quantum Zeitgeist"
       }
     ]
   }
