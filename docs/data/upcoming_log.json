@@ -193,5 +193,13 @@
       "No new quantum companies found filing for an IPO or SPAC. The SPAC shells Laris Growth and Quantum Leap are blank-check vehicles, not quantum operating companies. The Laris filing is also unverified.",
       "No new verified news for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris or TuringQ, so those entries are unchanged."
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "changes": [
+      "No substantive changes: searches on EigenQ, Terra Quantum and SeeQC found no news newer than the existing entries. The Naoris and TuringQ searches returned nothing, so those entries are unchanged.",
+      "Restored the truncated latestFunding and expectedListing text for Naoris Quantum Protocol and TuringQ to the full wording the entries already implied.",
+      "No new companies added: the Pasqal, IQM, Xanadu and Quantinuum listings are already in the excluded tickers or listed, and Laris Growth Acquisition is a blank-check SPAC, not a quantum operating comp…"
+    ]
   }
 ]
