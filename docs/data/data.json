@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-10-13T13:35:22+00:00",
-  "date": "2026-10-13",
+  "generatedAt": "2026-10-14T11:12:25+00:00",
+  "date": "2026-10-14",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
-    "price": 148.49,
-    "chgPct": -2.35,
+    "price": 147.61,
+    "chgPct": -0.59,
     "series": [
-      147.94,
       144.56,
       144.72,
       146.12,
@@ -36,9 +35,10 @@
       154.44,
       150.89,
       152.06,
-      148.49
+      148.49,
+      147.61
     ],
-    "asOf": "2026-10-12",
+    "asOf": "2026-10-13",
     "stale": false
   },
   "stocks": [
@@ -57,10 +57,9 @@
         "sec",
         "sen"
       ],
-      "price": 36.27,
-      "chgPct": -9.07,
+      "price": 34.73,
+      "chgPct": -4.25,
       "series": [
-        39.31,
         37.78,
         37.64,
         39.02,
@@ -89,9 +88,10 @@
         41.34,
         39.45,
         39.89,
-        36.27
+        36.27,
+        34.73
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -106,10 +106,9 @@
         "ec",
         "sw"
       ],
-      "price": 13.25,
-      "chgPct": -5.56,
+      "price": 12.78,
+      "chgPct": -3.55,
       "series": [
-        15.66,
         14.99,
         14.87,
         15.18,
@@ -138,9 +137,10 @@
         14.59,
         14.14,
         14.03,
-        13.25
+        13.25,
+        12.78
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -154,10 +154,9 @@
       "part": [
         "sw"
       ],
-      "price": 13.74,
-      "chgPct": -5.7,
+      "price": 13.38,
+      "chgPct": -2.62,
       "series": [
-        17.2,
         16.54,
         16.49,
         16.82,
@@ -186,9 +185,10 @@
         15.22,
         14.6,
         14.57,
-        13.74
+        13.74,
+        13.38
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -203,10 +203,9 @@
         "hw",
         "sen"
       ],
-      "price": 6.93,
-      "chgPct": -6.85,
+      "price": 6.87,
+      "chgPct": -0.87,
       "series": [
-        8.23,
         7.9,
         7.84,
         7.96,
@@ -235,9 +234,10 @@
         7.62,
         7.45,
         7.44,
-        6.93
+        6.93,
+        6.87
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -253,10 +253,9 @@
       "part": [
         "nw"
       ],
-      "price": 227.02,
-      "chgPct": -0.05,
+      "price": 230.78,
+      "chgPct": 1.66,
       "series": [
-        233.87,
         231.4,
         231.7,
         234.71,
@@ -285,9 +284,10 @@
         220.51,
         226.61,
         227.13,
-        227.02
+        227.02,
+        230.78
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -302,10 +302,9 @@
       "part": [
         "sw"
       ],
-      "price": 352.72,
+      "price": 353.78,
       "chgPct": 0.3,
       "series": [
-        339.35,
         335.02,
         337.12,
         342.48,
@@ -334,9 +333,10 @@
         350.5,
         348.29,
         351.66,
-        352.72
+        352.72,
+        353.78
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -348,10 +348,9 @@
         "sec"
       ],
       "part": [],
-      "price": 1.41,
-      "chgPct": -10.76,
+      "price": 1.44,
+      "chgPct": 2.13,
       "series": [
-        2.03,
         1.96,
         1.88,
         1.75,
@@ -380,9 +379,10 @@
         1.56,
         1.54,
         1.58,
-        1.41
+        1.41,
+        1.44
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -396,10 +396,9 @@
       "part": [
         "en"
       ],
-      "price": 2.02,
-      "chgPct": -4.27,
+      "price": 1.93,
+      "chgPct": -4.46,
       "series": [
-        2.49,
         2.39,
         2.36,
         2.4,
@@ -428,9 +427,10 @@
         2.34,
         2.25,
         2.11,
-        2.02
+        2.02,
+        1.93
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -443,10 +443,9 @@
         "sw"
       ],
       "part": [],
-      "price": 16.66,
-      "chgPct": -3.34,
+      "price": 16.84,
+      "chgPct": 1.11,
       "series": [
-        19.88,
         18.9,
         20.54,
         20.62,
@@ -475,9 +474,10 @@
         22.55,
         18.43,
         17.23,
-        16.66
+        16.66,
+        16.84
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -491,10 +491,9 @@
       "part": [
         "sw"
       ],
-      "price": 2.43,
-      "chgPct": -9.33,
+      "price": 2.44,
+      "chgPct": 0.21,
       "series": [
-        3.04,
         2.99,
         3.27,
         2.98,
@@ -523,9 +522,10 @@
         3.08,
         2.79,
         2.68,
-        2.43
+        2.43,
+        2.44
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -539,10 +539,9 @@
         "sw"
       ],
       "part": [],
-      "price": 39.52,
-      "chgPct": -4.31,
+      "price": 36.76,
+      "chgPct": -6.98,
       "series": [
-        50.1,
         47.66,
         48.0,
         48.7,
@@ -571,9 +570,10 @@
         44.22,
         41.52,
         41.3,
-        39.52
+        39.52,
+        36.76
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -588,10 +588,9 @@
       "part": [
         "ec"
       ],
-      "price": 3.49,
-      "chgPct": -10.51,
+      "price": 3.38,
+      "chgPct": -3.3,
       "series": [
-        10.76,
         9.93,
         9.94,
         10.02,
@@ -620,9 +619,10 @@
         4.49,
         4.12,
         3.9,
-        3.49
+        3.49,
+        3.38
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -637,10 +637,9 @@
       "part": [
         "sw"
       ],
-      "price": 10.38,
-      "chgPct": -5.98,
+      "price": 10.1,
+      "chgPct": -2.7,
       "series": [
-        13.07,
         12.69,
         12.65,
         12.66,
@@ -669,9 +668,10 @@
         11.64,
         11.16,
         11.04,
-        10.38
+        10.38,
+        10.1
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -683,10 +683,9 @@
         "sw"
       ],
       "part": [],
-      "price": 15.5,
-      "chgPct": -4.91,
+      "price": 15.18,
+      "chgPct": -2.06,
       "series": [
-        14.81,
         14.59,
         17.5,
         15.79,
@@ -715,9 +714,10 @@
         16.15,
         16.31,
         16.3,
-        15.5
+        15.5,
+        15.18
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -731,10 +731,9 @@
       "part": [
         "sw"
       ],
-      "price": 6.4,
-      "chgPct": -6.57,
+      "price": 6.27,
+      "chgPct": -2.03,
       "series": [
-        17.3,
         15.56,
         12.19,
         9.75,
@@ -763,9 +762,10 @@
         7.26,
         7.18,
         6.85,
-        6.4
+        6.4,
+        6.27
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     },
     {
@@ -777,10 +777,9 @@
         "hw"
       ],
       "part": [],
-      "price": 10.21,
-      "chgPct": -0.2,
+      "price": 9.88,
+      "chgPct": -3.23,
       "series": [
-        10.49,
         10.48,
         10.94,
         10.8,
@@ -809,116 +808,117 @@
         10.45,
         10.17,
         10.23,
-        10.21
+        10.21,
+        9.88
       ],
-      "asOf": "2026-10-12",
+      "asOf": "2026-10-13",
       "stale": false
     }
   ],
   "brief": {
-    "headline": "IonQ agrees a $1.3B all-stock buy of Elisity, and in the lab Oxford sees a quantum effect on a hybrid quantum computer.",
-    "summary": "IonQ's up-to-$1.3B all-stock purchase of cybersecurity firm Elisity dominates the markets, with reports of its shares sliding on the news. In the lab, IonQ's fast entanglement link and Oxford's hybrid-computer simulation show steady hardware progress."
+    "headline": "Quantum stocks slid after IonQ's $1.3B Elisity deal, while Quantinuum showed error-detected arithmetic running on its Helios ion computer.",
+    "summary": "IonQ fell another 4.2% on Oct 13, a day after the all-stock Elisity deal news, and most tracked peers slipped with it. In the lab, Quantinuum's Helios result shows fault-tolerant methods starting to run real arithmetic, though only small circuits so far."
   },
   "marketNews": [
     {
-      "source": "WSJ",
-      "published": "2026-10-12T11:00+00:00",
+      "source": "CNBC",
+      "published": "2026-10-12T18:14+00:00",
       "ticker": "IONQ",
-      "title": "Exclusive | Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion - WSJ",
-      "summary": "The Wall Street Journal reports IonQ will buy a cybersecurity company for up to $1.3 billion, a big push beyond quantum hardware.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmk5NnMzd2lyOHZSR1dvNEVleUIzdGg0dTF0X3NkWDVNblZYMXVoQjJFREtXdE10MFYwZkpOZHptN3dYdFV2S1RwMzAyNFFqMkxqX3N3c3lpSVNUU0s4U2hlaTVNNFg1RTJ5RkZpb1JyUGFKTFc3bHFlWkV3S0szdDUtSlE2WV91VmphdUdZc3MyNTM1YTVpVlNnNW04QUIyMmQxTGx2Z2FBcGFFZ3Q0anEzeFJlNHpXNUdheDBXRQ?oc=5"
+      "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion - CNBC",
+      "summary": "IonQ agreed on Oct 12 to buy cybersecurity firm Elisity in an all-stock deal worth up to $1.3 billion, and the stock fell a further 4.2% on Oct 13.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFFXWWRTLXk1V2ZGM0ppRVVWNzZsS0JNYTlmYmlnbVJMR3d3ZHlQUjdQUXRrVUxXOXpCRHI4Q1J3SkprUFFNY2gwcl9nS3BBU2U0OEllZWJjRXg3emtXbVhudzVOUjUwZl9QRUZHYzlILWNJTmduOU5KMUo0bUMzedIBhgFBVV95cUxPZkpTTEg1WjFEd0pMVnBDVktxc0JxMmdQUWJ2U3RtMTVpLWNQRVZDT1FLMll1R0JmOERnR2VMUUhyRFFqZHc2UzZObWV3ZU96OG9RSWdUUWNhZWtWN21IdjFhNTJLQjlGbzk2bWRDalBqbmYzSXFxVzNQYjJLaFc5ZWxkWXlFdw?oc=5"
     },
     {
-      "source": "Seeking Alpha",
-      "published": "2026-10-12T12:14+00:00",
+      "source": "Stocktwits",
+      "published": "2026-10-13T22:06+00:00",
       "ticker": "IONQ",
-      "title": "IonQ buys cybersecurity firm Elisity in $1.3B all-stock deal (IONQ:NYSE) - Seeking Alpha",
-      "summary": "Paying entirely in stock means no cash outlay, but it adds new IonQ shares, which can weigh on existing holders.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaU5KSHdPTzVPLXl6M3hqMTNFMFRlQjdIcE5oNUZkWkxRM0xJTTMzb1FLb0psRFppckRRTTg4T3hEOTlMZHl4bWZKWi1Rc3JfekYtd3JONHJHRzRiXy1talBYdWhuRWxSd1RROFQ1NzI2OWZZVDdzUTdaVUV6ckxyelVvaFhXQ3NId2RNQldnajAwaGRoZGhIVXhhT1M?oc=5"
+      "title": "IONQ Stock Falls Hard As Ballooning Losses Outweigh Record Sales, Raised Outlook — But Retail Bulls See Long-Term Value - Stocktwits",
+      "summary": "Investors weighed growing losses against record sales and a raised outlook, and the shares slid.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOa2diazJXcmQ4UFE3cE5vSk9qSFduU1FZa2dLRmlzTTZIMXRIV3YxS3ZORFRhSTNvS3NkMV9lb0xyWUlMeFpYZ1pQWnJtTEd4QWJsNzdwOVpLSncxd1BXQzU1aGd3OURFU2N4eUxhMF9DalpwQUJuNE9nNGNvMVpmYmUwcEVMT0tEbllhTUhyVzREa0l5dUZFNEZTeVRhd0FKWnhvMUloeEFMNC0wZG1RR1doemtBWGVib2t2cFRZa2g4cUZ6U3h4SHpnZ01IamRYSGZQQkFWaHNvUFlDdUVYSUFuZGtLeERzN0ZkQXE2SVBTTlVJckxIOHYtVjZKVUwtOXpRN29HUFZsYmlB?oc=5"
     },
     {
-      "source": "Yahoo Finance",
-      "published": "2026-10-12T14:06+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Shares Slide After Firm Announces $1.3B All-Stock Deal To Acquire Cybersecurity Firm Elisity - Yahoo Finance",
-      "summary": "Reports say IonQ shares slid when the Elisity deal was announced today, even though the stock rose 1.1% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeF95U1NSUXVsQ09HQnF4aVdUVEFWcGVxWDYwb2Fqekg3enhaODBUWlpTMGVyTlVjamtDdy05UGxEOURLc054M0pSUTdBbWFaOXo5aUtjLVd0T21MX1lhSENCU3haRlhWTFpYdVdJdmw2M2pKVVFvanN1cTVHUHRDc2N5TWVOc3NuV29Dbm11N2xEdE1aekZPTDBNNGM0Zw?oc=5"
+      "source": "Barron's",
+      "published": "2026-10-13T18:34+00:00",
+      "ticker": "QBTS",
+      "title": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology - Barron's",
+      "summary": "D-Wave deepened its manufacturing partnership with chip foundry SkyWater, though the stock still fell 2.6% on Oct 13.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtcktEWUxsUlFtdWhqc0c0WndhR04tTEM5YlVVSy1Lb1FocjEwX3l2TFVxZEdCYVVfMmdQbjZnaVY0OWtsVHE2X0l6WGhoZ3NCS2p3QTdWYkxmc2JjbGk0SUtjOFlldklDdFA1SzB1XzRXeWRpbW16aVBB?oc=5"
     },
     {
-      "source": "Yahoo Finance",
-      "published": "2026-10-12T11:56+00:00",
+      "source": "Stocktwits",
+      "published": "2026-10-13T21:45+00:00",
       "ticker": "IONQ",
-      "title": "IonQ's Quantum Interconnect Breakthrough: What It Means for Scaling - Yahoo Finance",
-      "summary": "IonQ's quantum interconnect result is framed as a step toward scaling its machines, supporting the technology story behind the stock.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWhTNUlQeDF4ODJxaVZnTjVqWmNyMWM0Z0wzV2N1RDhlZ3JHRTJ2cHZzZG9UbHMzZGExRlZJdXEwNlFtbklLSXNFRGh6UENuckU4V1pHd3hWN2NQMXVwZmVXQXhOUmtRSjNUSXYxSEI3RWxaZHh2Z1lQSTNGVkFTYm0zWTJwTE9XaVNlUTJ2RlE5bWhTWDZFZ3E0c1dIQ3lxa0ttdEZpTlBPTTlXQWc?oc=5"
+      "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits",
+      "summary": "Benchmark gave IonQ, D-Wave and Rigetti 'Buy' ratings, arguing the sector has no single winner, but that did not stop the day's declines.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakRFbHdYNFVqLVFJUmpkOUNGRkFQN3JZa1RXZ3ZLdkRBSWZNOVNsMUg1NUpyOHlDWmJBY2pvUGM2c2ZYbHdoS2VabmxFdXB6VzloQ2RNcE0zaGVBVVVONjY2LUo4czZLaXVxUmxNaUxERHhyZEk3OXFVOGtvZkNONzZOUjhUbHBRUTN0cGVGTGdhUmF5OHgtTG82aTlWZWhOT0I3V0lZdHoyZkk5ekw3T0FjN1dpeWgybngzMzZuSFQ?oc=5"
     },
     {
-      "source": "Quantum Zeitgeist",
-      "published": "2026-10-12T11:18+00:00",
+      "source": "Yahoo Finance Australia",
+      "published": "2026-10-13T21:00+00:00",
       "ticker": "RGTI",
-      "title": "Rigetti Says Scaling Quantum Means Complex Tasks, Fast Results - Quantum Zeitgeist",
-      "summary": "Rigetti says scaling quantum computers means handling complex tasks quickly, though the stock slipped 0.8% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNmE0MXdKbUxRZDVVQW5JblBVUzlkU090UndFWnlSc1F4QUt3WElEbFoyWEd3a2RVZVhNLXk0aVU4bktwUk1hVFJfamxrbThQOWlVN1NqWGE0NmtjcjNjSWxudEFtVENzZHZKenFBdnYyMEhGNEtObVFYUGhQbnBPR0hwcw?oc=5"
+      "title": "Rigetti Computing, Inc. (RGTI) Declines More Than Market: Some Information for Investors - Yahoo Finance Australia",
+      "summary": "Rigetti fell 3.5% on Oct 13, more than the broader market, as the whole quantum group weakened.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmZmTk9DOTJQd205LVpjWEtHaVhHNDh2bHhxTzNObjhncUZQdnNkVHhLa3duQ1F2eWJfNkhsQ0JSTUVhM2xmZFFxTm84cldGTXR1MFA3MTctdFBFUmpObVN4cjZQOWVtN3ZVYmo1dlNTemU0QVVxNFRXRzN6WmhGRldRVkM0WHd0ZWVpNw?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "hw",
-      "title": "Hybrid quantum computer reproduces a classic quantum effect",
-      "summary": "Oxford physicists used a hybrid machine of qubits and quantum oscillators to simulate the Aharonov–Bohm effect, where a particle picks up a measurable phase going around a magnetic flux it never touches. It shows that mixing two kinds of quantum parts can model physics that is hard for ordinary computers. It remains a lab simulation, and the machines are still far from routine scientific use.",
-      "source": "Phys.org",
-      "published": "2026-10-10T10:57+00:00",
-      "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html"
+      "tag": "ec",
+      "title": "Error-detecting codes run real arithmetic on a trapped-ion computer",
+      "summary": "Researchers ran ripple-carry addition circuits on inputs of up to five bits on Quantinuum's Helios-1 trapped-ion computer. They used error-detecting codes and report running below the threshold at which the protection starts to pay off. This is an early demonstration of fault-tolerant design on real hardware, but the circuits are tiny and far from the scale useful problems need.",
+      "source": "arXiv",
+      "published": "2026-10-14T04:00+00:00",
+      "url": "https://arxiv.org/abs/2610.14202"
     },
     "items": [
       {
-        "tag": "nw",
-        "title": "IonQ links ion qubit to solid-state memory over 1,000 times a second",
-        "summary": "IonQ reports entanglement rates above 1 kHz between a trapped-ion qubit and a solid-state memory through a photonic interconnect.",
-        "source": "The Quantum Insider",
-        "published": "2026-10-09T13:20+00:00",
-        "url": "https://thequantuminsider.com/2026/10/09/ionq-1000-entanglement-events-per-second-quantum-interconnect/"
+        "tag": "ec",
+        "title": "Quantum computer checks itself and resets while running",
+        "summary": "Rutgers, IBM and partners showed a quantum computer can monitor its own state mid-run and reset parts of the system to tame chaotic behaviour.",
+        "source": "Phys.org",
+        "published": "2026-10-12T15:20+00:00",
+        "url": "https://phys.org/news/2026-10-closer-quantum.html"
       },
       {
-        "tag": "nw",
-        "title": "Quantum chip stores several photons at once",
-        "summary": "A chip about 1 centimeter across can hold multiple photons, a step toward scalable memory for quantum information.",
-        "source": "Phys.org",
-        "published": "2026-10-09T17:00+00:00",
-        "url": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html"
+        "tag": "ec",
+        "title": "Google proposes using error records to clean up results afterwards",
+        "summary": "A Google Quantum AI preprint suggests saving error records during a calculation and using them later to correct small leftover errors.",
+        "source": "The Quantum Insider",
+        "published": "2026-10-13T13:05+00:00",
+        "url": "https://thequantuminsider.com/2026/10/13/google-researchers-propose-using-error-records-to-improve-quantum-results-after-computation/"
       },
       {
         "tag": "hw",
-        "title": "Superconducting circuit builds larger entangled photon states",
-        "summary": "A superconducting circuit links smaller groups of photons into larger entangled states.",
+        "title": "Hybrid quantum computer reproduces the Aharonov–Bohm effect",
+        "summary": "Oxford physicists used qubits plus quantum oscillators to simulate a particle picking up a phase around a magnetic flux it never touches.",
         "source": "Phys.org",
-        "published": "2026-10-09T12:00+00:00",
-        "url": "https://phys.org/news/2026-10-superconducting-circuit-links-smaller-photon.html"
+        "published": "2026-10-10T10:57+00:00",
+        "url": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html"
       },
       {
-        "tag": "en",
-        "title": "Testing a thin insulating film for quantum circuits",
-        "summary": "Researchers measured how much energy niobium resonators lose when built on few-layer hBN, a material that could improve superconducting quantum chips.",
-        "source": "arXiv",
-        "published": "2026-10-12T04:00+00:00",
-        "url": "https://arxiv.org/abs/2610.12556"
+        "tag": "nw",
+        "title": "Quantum network test verifies entanglement without trusting the detectors",
+        "summary": "A new test checks that entanglement is really present in a quantum network without needing to trust the measuring devices.",
+        "source": "Phys.org",
+        "published": "2026-10-14T11:00+00:00",
+        "url": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html"
       }
     ]
   },
   "arxiv": {
-    "total": 122,
+    "total": 356,
     "picked": 1
   },
   "sentiment": {
     "today": {
-      "science": 50,
-      "stock": 9,
+      "science": 59,
+      "stock": -18,
       "nScience": 50,
       "nStock": 30,
-      "headlineScore": 7,
-      "momentumScore": 13,
-      "reasonScience": "Upbeat: a hybrid-computer simulation, on-chip photon storage and IonQ's fast entanglement link lead a steady flow of progress.",
-      "reasonStock": "Friday was mixed: QTUM rose 0.8% and IonQ 1.1%, while LAES, Arqit and Xanadu fell 5-7%, and today's Elisity deal news reportedly pushed IonQ lower."
+      "headlineScore": -31,
+      "momentumScore": 11,
+      "reasonScience": "Upbeat: error-correction progress on trapped-ion and superconducting machines leads a steady flow of papers, alongside new UK and European funding.",
+      "reasonStock": "Weak: IonQ fell 4.2% after its Elisity deal news and QNT dropped 7.0%, while IBM, QNC and Arqit were among the few gainers."
     },
     "monthly": [
       {
@@ -933,11 +933,11 @@
       {
         "month": "2026-10",
         "science": 60,
-        "stock": 19,
-        "articlesScience": 449,
-        "articlesStock": 329,
-        "reasonScience": "October has been consistently upbeat, with a first quantum computer in space, faster diamond-qubit entanglement, better photon storage and error-correction work, and DARPA and funding wins.",
-        "reasonStock": "Stocks have been choppy with no clear trend: small sector gains early on, a sharp sell-off on Oct 7, then mixed days, with big swings in smaller names like QNC and Xanadu."
+        "stock": 16,
+        "articlesScience": 499,
+        "articlesStock": 359,
+        "reasonScience": "October has been consistently upbeat, with advances in diamond qubits, photon storage, error correction and hybrid machines, plus a DARPA benchmarking milestone and sizeable funding rounds.",
+        "reasonStock": "Stocks have been choppy and mostly mixed with a weaker tilt lately, as broad declines on Oct 7 and Oct 13 and IonQ's Elisity deal outweighed small early-month gains."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-13",
+      "checked": "2026-10-14",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-13",
+      "checked": "2026-10-14",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-13",
+      "checked": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-13",
+      "checked": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-13",
+      "checked": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,11 +1040,9 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-13",
+      "checked": "2026-10-14",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     }
   ],
-  "warnings": [
-    "Claude analysis failed, kept yesterday's stories: Expecting ',' delimiter: line 1 column 1708 (char 1707)"
-  ]
+  "warnings": []
 }

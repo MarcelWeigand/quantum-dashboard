@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-09-28",
-    "marketNews": [
-      {
-        "source": "Seeking Alpha",
-        "ticker": "IONQ",
-        "title": "IonQ in focus as BofA starts with Buy rating (IONQ:NYSE) - Seeking Alpha"
-      },
-      {
-        "source": "AD HOC NEWS",
-        "ticker": "IONQ",
-        "title": "IonQ's Error-Correction Decoder Holds the Line on Plain Silicon as Superion 256 Lands Two New Homes - AD HOC NEWS"
-      },
-      {
-        "source": "TradingKey",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing (RGTI) Stock: $2B Quantum Initiative Fuels Rally — Is Rigetti a Buy at $25.50? - TradingKey"
-      },
-      {
-        "source": "AD HOC NEWS",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum's Seoul Push Meets a $100 Million Share Overhang - AD HOC NEWS"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "QUBT",
-        "title": "Engineers Gate Manager LP Cuts Stake in Quantum Computing Inc. $QUBT - MarketBeat"
-      }
-    ]
-  },
-  {
     "date": "2026-09-29",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Quantum Zeitgeist",
         "ticker": "RGTI",
         "title": "Rigetti Says Scaling Quantum Means Complex Tasks, Fast Results - Quantum Zeitgeist"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "marketNews": [
+      {
+        "source": "CNBC",
+        "ticker": "IONQ",
+        "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion - CNBC"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "IONQ",
+        "title": "IONQ Stock Falls Hard As Ballooning Losses Outweigh Record Sales, Raised Outlook — But Retail Bulls See Long-Term Value - Stocktwits"
+      },
+      {
+        "source": "Barron's",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology - Barron's"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "IONQ",
+        "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
+      },
+      {
+        "source": "Yahoo Finance Australia",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing, Inc. (RGTI) Declines More Than Market: Some Information for Investors - Yahoo Finance Australia"
       }
     ]
   }

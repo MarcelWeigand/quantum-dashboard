@@ -201,5 +201,11 @@
       "Restored the truncated latestFunding and expectedListing text for Naoris Quantum Protocol and TuringQ to the full wording the entries already implied.",
       "No new companies added: the Pasqal, IQM, Xanadu and Quantinuum listings are already in the excluded tickers or listed, and Laris Growth Acquisition is a blank-check SPAC, not a quantum operating comp…"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "changes": [
+      "No substantive changes: searches found no new reliable reports on the listed companies or any new quantum company filing to go public. Entries are unchanged, except that the truncated 'latestFunding'…"
+    ]
   }
 ]
