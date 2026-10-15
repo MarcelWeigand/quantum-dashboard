@@ -207,5 +207,14 @@
     "changes": [
       "No substantive changes: searches found no new reliable reports on the listed companies or any new quantum company filing to go public. Entries are unchanged, except that the truncated 'latestFunding'…"
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "changes": [
+      "Added Pasqal: SPAC merger with Bleichroeder Acquisition Corp. II ($2.0B), proxy/F-4 filed, closing expected H2 2026",
+      "Naoris Quantum Protocol: restored truncated latestFunding text (Amendment No. 2 filed September 22, 2026)",
+      "TuringQ: restored truncated expectedListing text",
+      "No news found changing the other entries; kept unchanged"
+    ]
   }
 ]

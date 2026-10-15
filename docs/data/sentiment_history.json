@@ -229,6 +229,16 @@
       "momentumScore": 11,
       "reasonScience": "Upbeat: error-correction progress on trapped-ion and superconducting machines leads a steady flow of papers, alongside new UK and European funding.",
       "reasonStock": "Weak: IonQ fell 4.2% after its Elisity deal news and QNT dropped 7.0%, while IBM, QNC and Arqit were among the few gainers."
+    },
+    "2026-10-15": {
+      "science": 65,
+      "stock": -39,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": -52,
+      "momentumScore": -10,
+      "reasonScience": "Upbeat: error-correction progress, a software shortcut for simulations and new network tests lead a steady flow of results.",
+      "reasonStock": "Sharply weak: IonQ fell 9.5% on its $2 billion share offering, and D-Wave, Rigetti and QNC dropped 8-10% with the sector fund QTUM down 3.9%."
     }
   },
   "monthReasons": {
@@ -237,8 +247,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat, with advances in diamond qubits, photon storage, error correction and hybrid machines, plus a DARPA benchmarking milestone and sizeable funding rounds.",
-      "stock": "Stocks have been choppy and mostly mixed with a weaker tilt lately, as broad declines on Oct 7 and Oct 13 and IonQ's Elisity deal outweighed small early-month gains."
+      "science": "October has been consistently upbeat for science, with advances in error correction, photon storage, diamond qubits and quantum networking, plus new funding.",
+      "stock": "Stocks started the month mixed and quiet but turned weak from Oct 7, with IonQ's Elisity deal and share offering driving a broad selloff on Oct 14."
     }
   }
 }
