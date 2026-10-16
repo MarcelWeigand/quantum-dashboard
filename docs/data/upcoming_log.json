@@ -216,5 +216,14 @@
       "TuringQ: restored truncated expectedListing text",
       "No news found changing the other entries; kept unchanged"
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "changes": [
+      "Removed Pasqal: completed its SPAC merger with Bleichroeder and began trading on Nasdaq as PSQL on about August 28, 2026. PSQL is already tracked as a listed stock.",
+      "Added KQC Quantum: SPAC merger with Charlton Aria Acquisition Corp (CHAR) at an $80M pre-money valuation, with closing expected in H1 2027.",
+      "Fixed truncated text in the Naoris Quantum Protocol latestFunding and the TuringQ expectedListing.",
+      "No new news found for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris or TuringQ, so those entries are unchanged."
+    ]
   }
 ]
