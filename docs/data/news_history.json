@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "marketNews": [
-      {
-        "source": "Seeking Alpha",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum unveils gate-model simulator beta program (QBTS:NASDAQ) - Seeking Alpha"
-      },
-      {
-        "source": "qz.com",
-        "ticker": "RGTI",
-        "title": "Rigetti Secures $100 Million CHIPS Award to Advance Quantum Scaling - qz.com"
-      },
-      {
-        "source": "stocktitan.net",
-        "ticker": "IONQ",
-        "title": "NYSE submits notice to delist IonQ (NYSE: IONQ) warrants exercisable at $11.50 per share. - stocktitan.net"
-      },
-      {
-        "source": "TIKR.com",
-        "ticker": "IONQ",
-        "title": "BofA Rated IonQ a Buy at $60 but Valued Its Foundry at 2 Times Sales. Here’s Why That Split Matters - TIKR.com"
-      },
-      {
-        "source": "ad-hoc-news.de",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum Gears Up for Seoul Stage as Legal Review and CFO Transition Test Investor Nerves - ad-hoc-news.de"
-      }
-    ]
-  },
-  {
     "date": "2026-10-02",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Quiver Quantitative",
         "ticker": "RGTI",
         "title": "Rigetti Computing Rises as Government-Funding Story and Quantum Sector Bounce Support Shares - Quiver Quantitative"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "marketNews": [
+      {
+        "source": "TradingView",
+        "ticker": "IONQ",
+        "title": "IonQ prices $40 per unit offering with 20.5M shares, 29.5M pre-funded warrants and 100M Series C warrants - TradingView"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "IONQ",
+        "title": "IonQ (NYSE:IONQ) Stock Price Down 9.1% - Should You Sell? - MarketBeat"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (NASDAQ:QBTS) Shares Down 8% - What's Next? - MarketBeat"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing, Inc. (RGTI) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance"
+      },
+      {
+        "source": "Business Wire",
+        "ticker": "QBTS",
+        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - Business Wire"
       }
     ]
   }

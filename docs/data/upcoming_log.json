@@ -225,5 +225,13 @@
       "Fixed truncated text in the Naoris Quantum Protocol latestFunding and the TuringQ expectedListing.",
       "No new news found for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris or TuringQ, so those entries are unchanged."
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "changes": [
+      "Added Pasqal: SPAC merger with Bleichroeder Acquisition Corp. II ($2B pre-money), F-4 and proxy filed, closing expected H2 2026",
+      "Completed truncated fields for Naoris (latestFunding) and TuringQ (expectedListing) from the original wording",
+      "Updated checked date to 2026-10-17 for existing entries; no other news found, so their status text is unchanged"
+    ]
   }
 ]
