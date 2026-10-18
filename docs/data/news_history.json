@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-02",
-    "marketNews": [
-      {
-        "source": "finance.yahoo.com",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Built A Real Time Quantum Error Correction Decoder - finance.yahoo.com"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "IONQ",
-        "title": "IONQ Stock Is A Buy, BofA Says: Why The Bank Sees Quantum Computing Growth Ahead - Stocktwits"
-      },
-      {
-        "source": "PR Newswire",
-        "ticker": "QUBT",
-        "title": "Quantum Computing Inc. Announces Dirac-3S, Scaling to Nearly 10,000 Variables - PR Newswire"
-      },
-      {
-        "source": "Seeking Alpha",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum unveils gate-model simulator beta program (QBTS:NASDAQ) - Seeking Alpha"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "QTUM",
-        "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
-      }
-    ]
-  },
-  {
     "date": "2026-10-03",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Business Wire",
         "ticker": "QBTS",
         "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - Business Wire"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "marketNews": [
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Opens 256 Qubit Quantum Centre In UK Research Push - Yahoo Finance"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing, Inc. (RGTI) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "RGTI",
+        "title": "Rigetti Falls 21% in the Past Month: Hold or Fold the Stock Now? - TradingView"
+      },
+      {
+        "source": "Business Wire",
+        "ticker": "QBTS",
+        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - Business Wire"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum (QBTS) Expands In Italy, Is The Stock Still Cheap? - Simply Wall Street"
       }
     ]
   }

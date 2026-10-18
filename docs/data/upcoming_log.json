@@ -233,5 +233,13 @@
       "Completed truncated fields for Naoris (latestFunding) and TuringQ (expectedListing) from the original wording",
       "Updated checked date to 2026-10-17 for existing entries; no other news found, so their status text is unchanged"
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "changes": [
+      "Removed Pasqal: its SPAC merger with Bleichroeder Acquisition Corp. II closed and it began trading on Nasdaq as PSQL on August 28, 2026. PSQL is already tracked as a listed stock.",
+      "Completed the truncated latestFunding and expectedListing text for Naoris Quantum Protocol and TuringQ. The facts are unchanged.",
+      "Found no new quantum-computing IPO or SPAC filings or announcements. IQM, Xanadu and Quantinuum are already tracked as listed. The other entries are unchanged, since searches turned up no newer relia…"
+    ]
   }
 ]
