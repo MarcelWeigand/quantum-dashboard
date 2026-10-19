@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-03",
-    "marketNews": [
-      {
-        "source": "MarketBeat",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 4.8% - Here's Why - MarketBeat"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing (NASDAQ:RGTI) Shares Down 2.4% - Here's Why - MarketBeat"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Built A Real Time Quantum Error Correction Decoder - Yahoo Finance"
-      },
-      {
-        "source": "PR Newswire",
-        "ticker": "QUBT",
-        "title": "Quantum Computing Inc. Announces Dirac-3S, Scaling to Nearly 10,000 Variables - PR Newswire"
-      },
-      {
-        "source": "The Motley Fool",
-        "ticker": "IONQ",
-        "title": "Why IonQ Stock Rocketed 11.6% Higher in September - The Motley Fool"
-      }
-    ]
-  },
-  {
     "date": "2026-10-04",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Simply Wall Street",
         "ticker": "QBTS",
         "title": "D-Wave Quantum (QBTS) Expands In Italy, Is The Stock Still Cheap? - Simply Wall Street"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-19",
+    "marketNews": [
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's $2 Billion Is Banked — the Fine Print on DARPA and Dilution Isn't - ad-hoc-news.de"
+      },
+      {
+        "source": "mykxlg.com",
+        "ticker": "QBTS",
+        "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against D-Wave Quantum Inc. (NASDAQ: QBTS) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - mykxlg.com"
+      },
+      {
+        "source": "AOL.com",
+        "ticker": "QNC",
+        "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet - AOL.com"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (RGTI) Could Be 26% Undervalued On EPS Concerns Despite Revenue Growth - Simply Wall Street"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's Cambridge Lab Opens as the Balance Sheet Tells a More Complicated Story - ad-hoc-news.de"
       }
     ]
   }

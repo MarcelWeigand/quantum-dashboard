@@ -269,6 +269,16 @@
       "momentumScore": -36,
       "reasonScience": "Upbeat: Google's 40-fold cut in magic-state errors leads steady progress in qubits, AI-designed circuits, networking and security guidance.",
       "reasonStock": "Sharply negative on Oct 16: every tracked quantum stock fell, with IonQ down 8.9%, Horizon Quantum down 10.4% and the sector fund QTUM down 3.4%."
+    },
+    "2026-10-19": {
+      "science": 50,
+      "stock": -38,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": -39,
+      "momentumScore": -36,
+      "reasonScience": "Upbeat: a 40-fold cut in magic-state errors leads steady progress in silicon qubits, AI-designed circuits, fiber networking and security guidance.",
+      "reasonStock": "Sharply negative on Oct 16: every tracked quantum stock fell, with IonQ down 8.9%, Horizon Quantum down 10.4% and the sector fund QTUM down 3.4%."
     }
   },
   "monthReasons": {
@@ -277,8 +287,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has brought a steady run of progress, from a first quantum computer in space and better photon storage to error-correction advances and Google's 40-fold magic-state result.",
-      "stock": "The month has been choppy and leaning weak: calm early on, then sharp falls around IonQ's $2 billion share offering, a one-day rebound on Oct 15, and a broad sell-off on Oct 16."
+      "science": "October has brought steady progress in error correction, photon storage, qubit materials and networking, culminating in a 40-fold cut in magic-state errors.",
+      "stock": "October started calm and mixed but turned weak mid-month, with IonQ's $2 billion offering helping drive sharp sector-wide drops on Oct 15 and Oct 16."
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T10:24:55+00:00",
-  "date": "2026-10-18",
+  "generatedAt": "2026-10-19T12:09:23+00:00",
+  "date": "2026-10-19",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,65 +816,65 @@
     }
   ],
   "brief": {
-    "headline": "Quantum stocks all fell on Friday, with IonQ down 8.9%, while Google cut quantum errors 40-fold in the lab.",
-    "summary": "Every tracked quantum stock fell on Oct 16, with the sector fund QTUM down 3.4%. In the lab, Google's 40-fold cut in 'magic state' errors points to cheaper, more reliable quantum machines."
+    "headline": "Quantum stocks fell hard on Oct 16, led by IonQ after its offering, while a 40-fold cut in qubit errors headlined the lab news.",
+    "summary": "Every tracked quantum stock fell on Oct 16, with IonQ down 8.9% as its $2 billion raise stoked dilution worries. In the lab, cutting error rates 40-fold on real hardware addresses the reliability problem that holds the field back."
   },
   "marketNews": [
     {
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T21:14+00:00",
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-19T11:40+00:00",
       "ticker": "IONQ",
-      "title": "IonQ (IONQ) Opens 256 Qubit Quantum Centre In UK Research Push - Yahoo Finance",
-      "summary": "IonQ opened a 256-qubit research centre in the UK, a business step, though the shares still fell 8.9% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkhhaGprRlNwTEpkTUY0c2FEaXpVYVVWUkpTN1dlRlNsYkZabjg1UF9MeWxWamRVc0JpVms4dTh3TlRGMXZybEROOXVPeks5VVVEcG1BZjJ2VS1jbVpiZjZtNUxCRHhDc3hSMldwaTl6RlhBUGJSODFIWUx0VWFlTWllYjhxRFUzZFg0b2d5ZFZpcms?oc=5"
+      "title": "IonQ's $2 Billion Is Banked — the Fine Print on DARPA and Dilution Isn't - ad-hoc-news.de",
+      "summary": "IonQ has the $2 billion from its offering, but commentators flag dilution and the fine print on DARPA, and the stock fell 8.9% on Oct 16.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcWQzbWhfc2NoTXA1OEZyLXBSMUhoZTNBYkxDS3FSal9CcEJ2TVhBc1RyVmVLQ3F4S0swZnVZZ0w1Q2tmRk85OFhhbEJfOV9fWld5SzNPcW14VjB3TlVqMkxVYmpmd0NrU0FPMTd1SzdhejA5azhxRWVLUXFpNkpHT0o3SWZCZzZkYzNRb2Rsa0lJMHJIOWY2OC1UcDBCRlA0NWhnZHhWc2RNZTBraFkwSDJWR1VkbE9VUmZHcUN6Sk5rcUFZT193amRZNjFMRUxHOHlLTDZucFA?oc=5"
     },
     {
-      "source": "Yahoo Finance",
-      "published": "2026-10-16T20:50+00:00",
-      "ticker": "RGTI",
-      "title": "Rigetti Computing, Inc. (RGTI) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance",
-      "summary": "Rigetti fell more than the wider market on Oct 16, and the latest prices show a 6.6% drop.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFR6Z0psdVlvWjlybDJkUkxOcU1YdmZqMGg2cTV4aDVHSER3akJleGoxUGd3Vl9NZkU5b0c3d0xTWVhNQmI1SXhqbTM5LVJGVlVaWElDZDlybG02aFVIb3RNTGlBTjNaanIyb2h3NHo1dTQtRWJCUmdKc0M1UFphejZTQi1MenAtMXJMV3QwNEpnRDRLZnMyejNyaU4wYkdD?oc=5"
-    },
-    {
-      "source": "TradingView",
-      "published": "2026-10-16T12:45+00:00",
-      "ticker": "RGTI",
-      "title": "Rigetti Falls 21% in the Past Month: Hold or Fold the Stock Now? - TradingView",
-      "summary": "Rigetti has lost about 21% over the past month, which leaves investors asking whether to hold or sell.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNTN4M0VVNUlQVTBPSXozN09vWnRaVXpXZHBtRlVSM3QyTU00RTE2WjdFaEZjYzBPTnJPVHdwY0pPYnA2NVlmRjRhU213MGNqREpDWDJsRkxxbml3dXhxaUZzSXd4dGRIeGl4MmpqbVRrQjkzYVFoeVBjV0p3UGM0VzVwQkZFT09tRkV6d2djNHNhemNVeGRrNVdvNENHaU1uTExDRkg0dVZKaDAtRlJlay1ydGk2TkRZ?oc=5"
-    },
-    {
-      "source": "Business Wire",
-      "published": "2026-10-16T19:19+00:00",
+      "source": "mykxlg.com",
+      "published": "2026-10-18T14:00+00:00",
       "ticker": "QBTS",
-      "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - Business Wire",
-      "summary": "Law firms are inviting D-Wave investors to lead a securities fraud lawsuit, a legal overhang as the stock fell 8.1%.",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNX2hKOGRJM0dRdEtoS3prcTNELVMzYUFIX0k3cGhlNVhuVUJXSDZobWVXVXlRSjdZdlN4dy05ZjBDdzYwNWY4U2ZBX0pWVEg0c2ZWQ3lEN0RqMC0waDJBYTl0eEhMcjRUODNickpOUHZHb2ZHcXZCaF9GcGhFVHRUNHdPZFp4VXg1YTdOS2NEbG05SkVxMjFaM0dKdVF0WlVOMi1YdjMxZ21LS0dkUjlsaTc3OVdMcWlSWEdxbnJralFfYjNjUVE5QzVuX08yV3FmU29QbzF3Y1htUl9hMWFDNHNtakxxbnRGS1E?oc=5"
+      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against D-Wave Quantum Inc. (NASDAQ: QBTS) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - mykxlg.com",
+      "summary": "A law firm announced a securities class action against D-Wave, adding legal overhang to a stock that fell 8.1% on Oct 16.",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNU8tajZxVVpxb3RJMXIwTHB2aHdJenpaUlB2cENjWWJOSkl0ZEV2WTNMV0JXQk00U05JWlhiNDNJVlFPQkpteE9NdlQyeEZDNEJmTFBkd290MVNIcG5ERnRiaGg5RVB6WFVwVG11X1lYOHlCRkpPNjBVQUxCM3E3ZzlkYWhkYmpicWo2LWszbGl6TkpyLVFrVXlnQTQxZUN2dHJ2MEhIUlNiV0ZBUmFpR25tRzBGMXV6VHQtVTBPeTN3UEJKbnR6RFo3NHR5SHQyRklwWTVNQXN4TzVxNHRNcVpiT2wxNXFzRDh1X21xTnBFOVlISHZlSjg5Rlo5Y0RUSGpZNXFNVVFzb2U3VDVFczA5cnpBdVloMVo2Z2QyazZLNFkyWGZiMVE4UmgwNUVVM21V?oc=5"
+    },
+    {
+      "source": "AOL.com",
+      "published": "2026-10-18T12:50+00:00",
+      "ticker": "QNC",
+      "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet - AOL.com",
+      "summary": "A Wall Street firm reportedly prefers Quantinuum over IonQ as the better bet, though QNC still fell 6.2% on Oct 16.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SdkVFVXJiZFExWDVScnItMGtCb0dTRFNVcVdubC15eG1aSkpnaEcyOUFJWUNKb05Ual9EOW1aWW14NGVIbWU4TDZFYlZPRnd1UXJGanJkMEJqYS1jRUF6bkp1ZmNOWDBucjJxUEQ1RUlTTXJOSENHNlpR?oc=5"
     },
     {
       "source": "Simply Wall Street",
-      "published": "2026-10-17T11:33+00:00",
-      "ticker": "QBTS",
-      "title": "D-Wave Quantum (QBTS) Expands In Italy, Is The Stock Still Cheap? - Simply Wall Street",
-      "summary": "D-Wave is expanding in Italy, which supports its commercial story even though the shares dropped 8.1% on Friday.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ09qdkE2ZHBRRlhpSG1BampoT01ETk9YM1VfRXRvR0pWeEhZVV9vNW5xMk1yTXh2aWpJMWU5TW1wTzBtby1kNlQyRnBOQTdhQjZad0hkcVUyaE5qbi1wVTJKcm9zREVYWEhmUU9wNjZlQjlEcGZER2dCaEhmaFhWVHBVNDJVOFMwNFlQV21DTjltQ19Tam5aN2RKdWtHOVhQZ29Pb3R0VzBNQVQyLWdfbUI5eGZaZTB2bHpqWVRCZDgwTG5lUUNYQ0IzTVR6QdIB0wFBVV95cUxPbDBDdFNqdnRVeE1zcHRlcVVXdDNYdVY3ZEdRT1A4cUJzbnhlX2N0X3FVbE41VlBsUFJlSXNEQ3BvVGVJOVdEXzRSQ0hId1ZzQW5WUXY2b0xPbnQ4WDVrbkUtSGxvZ0dIdEw3dlo3TVFvcGFDV2NYU0l2NFp4Q0lEcFMwS2d0NFdJRjM2eF9vWjQwT1NvSmxpcTRxTUFMOWVFRVhxVUxBU3h3RHlJWWdMSU9CdUNUNzE5YnRfa25RUW1jZ28zcnp5dE9JQlZpckRVMmlV?oc=5"
+      "published": "2026-10-17T23:45+00:00",
+      "ticker": "RGTI",
+      "title": "Rigetti Computing (RGTI) Could Be 26% Undervalued On EPS Concerns Despite Revenue Growth - Simply Wall Street",
+      "summary": "An analysis suggests Rigetti may be undervalued despite revenue growth and EPS concerns, but the stock fell 6.6% on Oct 16.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkh5cXlBTDlQTldwd29iRFNycmtNMzRKRkdLWUhEb2lnZVRidVp1YlRuNDNOekNGNWJaeThIaFZBNlhsbW9XTmNtTm5LMk9PbzNJcHQ0aXU0YWliMDZyU29hdndnbWJlc1JjaWlDZkJ0SVRvOV9BMndXTXp2NWJnVDUyYk56bkpkUzZXS0JmT1p2TDNhaUI5X05SWVJaSFBBdlFua1IzUVp6ZmtORUtEN3VGRXFoZzJwSjJJdXV0M1h6Ri0xREhfejNMY1JPcHJ1NWpEZlJHMWdmQdIB3wFBVV95cUxQNklxTldVVjBFZ1hjTFJyeDJEMGdrVXlaTW4zck1qTmNQeWRsaWVwSFVkSy1xdWdNOVBfOUxET1VhU0JHSVNIcGdFcGxQc3R6SWptRDFMWDMyVTdWQUprWnNUZTZ4TFhsQlUxbXhkUVU3c1JMMzBmejItVlJieF9yVW9WWndVR1FsTjd0ZkJMdzdGTFlYWVBIb01iaGhJQkxPM29XUW81MUVaRmxpR19YRC1SdVk4STdoVFR5VW8zZklQVjBPX2gxLXlaUWpocWdrZEIybVVXaDIwZTNhUGFj?oc=5"
+    },
+    {
+      "source": "ad-hoc-news.de",
+      "published": "2026-10-19T04:11+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ's Cambridge Lab Opens as the Balance Sheet Tells a More Complicated Story - ad-hoc-news.de",
+      "summary": "IonQ's new Cambridge lab opens, but the balance sheet picture is more complicated after the share offering.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTWhXZ1ozQUpwc0ZfQjV4UlZaSC00OUFMRXNjbHgtdEZNbDFjN0QwX0loaV9ib0lvRUJ5d05wN1ZUOU9aSk8zUy00UDZFd0I4RGNtel9aSWZmcGF1QjJmbHN3Tkk5cDRURFJZLVgxNzdhQ0tyd2lnR3hNMmZVbmk3LU5RdmVZdmxiMXFSTzlEeU9pcVg5YjBKMTQ3WVVkNmgtVTRHQnVzdS03UUdEQjlfRE9JenZlVU5KTF9BZ3dIMGo5SnE0SDM2MzNLeEg0RHpzTTVCVjRMUVh0YUcw?oc=5"
     }
   ],
   "science": {
     "featured": {
       "tag": "ec",
-      "title": "Google cuts errors in a key quantum ingredient 40-fold",
-      "summary": "Google researchers ran a technique called magic-state cultivation on their Willow processor and cut errors in these special quantum resources about 40-fold. This matters because magic states are needed for useful error-corrected machines, and the usual way of cleaning them up is very resource-hungry. It is a first hardware test, so full-scale, fault-tolerant quantum computers are still a long way off.",
-      "source": "The Quantum Insider",
-      "published": "2026-10-16T07:55+00:00",
-      "url": "https://thequantuminsider.com/2026/10/16/google-demonstrates-method-to-cut-errors-in-quantum-computings-magic-states/"
+      "title": "Cleaning up 'magic' quantum states cuts errors 40-fold",
+      "summary": "Researchers ran a more efficient version of magic state distillation, a filtering step that removes flaws from special quantum resources, on real hardware for the first time and cut errors 40-fold. This matters because the traditional method needs huge numbers of qubits, and error-prone qubits are the main obstacle to useful quantum computers. It is still a first hardware test, and machines will need far lower overall error rates and many more qubits before this pays off at scale.",
+      "source": "Phys.org",
+      "published": "2026-10-17T18:00+00:00",
+      "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html"
     },
     "items": [
       {
         "tag": "hw",
-        "title": "Silicon qubits top 99.99% accuracy while running three at once",
-        "summary": "Silicon spin qubits kept very high gate accuracy even when operated in parallel, which tackles a known weakness of this chip-friendly platform.",
+        "title": "Silicon qubits stay above 99.99% accurate when run together",
+        "summary": "Silicon spin qubits kept gate fidelity above 99.99% while three were operated at once, tackling a known weakness of this chip-friendly platform.",
         "source": "Phys.org",
         "published": "2026-10-15T21:20+00:00",
         "url": "https://phys.org/news/2026-10-silicon-qubits-surpass-gate-fidelity.html"
@@ -882,42 +882,42 @@
       {
         "tag": "sw",
         "title": "AI designs leaner quantum circuits",
-        "summary": "Anthropic and Harvard researchers used an AI system to design circuits needing fewer operations and qubits for eight key building-block calculations.",
+        "summary": "Anthropic and Harvard researchers used an AI system to design quantum circuits needing fewer operations and qubits, which could lower hardware demands.",
         "source": "The Quantum Insider",
         "published": "2026-10-17T08:11+00:00",
         "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/"
       },
       {
+        "tag": "nw",
+        "title": "Light and sound strongly coupled in an optical fiber",
+        "summary": "Scientists achieved strong coupling between light and long-lived acoustic vibrations in a fiber, a step toward fibers acting as quantum links or even processors.",
+        "source": "Phys.org",
+        "published": "2026-10-16T21:20+00:00",
+        "url": "https://phys.org/news/2026-10-highway-racetrack-strong-coupling-optical.html"
+      },
+      {
         "tag": "sec",
-        "title": "Germany publishes plan for quantum-safe encryption",
-        "summary": "German authorities released a national guideline for moving to cryptography that quantum computers cannot break.",
+        "title": "Germany issues guide for moving to quantum-safe encryption",
+        "summary": "German authorities published a national guideline for migrating to post-quantum cryptography, as quantum computers increasingly threaten current security methods.",
         "source": "The Quantum Insider",
         "published": "2026-10-16T12:43+00:00",
         "url": "https://thequantuminsider.com/2026/10/16/transition-post-quantum-cryptography-national-eu-roadmap-guideline/"
-      },
-      {
-        "tag": "nw",
-        "title": "Quantum network test checks entanglement without trusting detectors",
-        "summary": "A new test can verify entanglement in a quantum network without having to trust the measuring devices, which could make future secure communication safer.",
-        "source": "Phys.org",
-        "published": "2026-10-14T11:00+00:00",
-        "url": "https://phys.org/news/2026-10-quantum-network-entanglement-detectors.html"
       }
     ]
   },
   "arxiv": {
-    "total": 155,
+    "total": 134,
     "picked": 0
   },
   "sentiment": {
     "today": {
-      "science": 75,
-      "stock": -3,
-      "nScience": 25,
+      "science": 50,
+      "stock": -38,
+      "nScience": 50,
       "nStock": 30,
-      "headlineScore": 11,
+      "headlineScore": -39,
       "momentumScore": -36,
-      "reasonScience": "Upbeat: Google's 40-fold cut in magic-state errors leads steady progress in qubits, AI-designed circuits, networking and security guidance.",
+      "reasonScience": "Upbeat: a 40-fold cut in magic-state errors leads steady progress in silicon qubits, AI-designed circuits, fiber networking and security guidance.",
       "reasonStock": "Sharply negative on Oct 16: every tracked quantum stock fell, with IonQ down 8.9%, Horizon Quantum down 10.4% and the sector fund QTUM down 3.4%."
     },
     "monthly": [
@@ -933,11 +933,11 @@
       {
         "month": "2026-10",
         "science": 61,
-        "stock": 8,
-        "articlesScience": 649,
-        "articlesStock": 479,
-        "reasonScience": "October has brought a steady run of progress, from a first quantum computer in space and better photon storage to error-correction advances and Google's 40-fold magic-state result.",
-        "reasonStock": "The month has been choppy and leaning weak: calm early on, then sharp falls around IonQ's $2 billion share offering, a one-day rebound on Oct 15, and a broad sell-off on Oct 16."
+        "stock": 5,
+        "articlesScience": 699,
+        "articlesStock": 509,
+        "reasonScience": "October has brought steady progress in error correction, photon storage, qubit materials and networking, culminating in a 40-fold cut in magic-state errors.",
+        "reasonStock": "October started calm and mixed but turned weak mid-month, with IonQ's $2 billion offering helping drive sharp sector-wide drops on Oct 15 and Oct 16."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,7 +1040,7 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     },
     {
@@ -1054,8 +1054,22 @@
       "part": [],
       "expectedListing": "H1 2027 (planned)",
       "latestFunding": "SPAC deal at $80M pre-money valuation",
-      "checked": "2026-10-18",
+      "checked": "2026-10-19",
       "source": "https://quantumcomputingreport.com/korea-quantum-computing-kqc-to-go-public-on-nasdaq-via-80-million-spac-merger-with-charlton-aria/amp/"
+    },
+    {
+      "name": "Pasqal",
+      "note": "Neutral-atom quantum computing · France",
+      "route": "SPAC merger",
+      "status": "Signed a definitive business combination agreement with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) in March 2026 at a $2.0B pre-money valuation with $200M committed convertible financing. SEC filings (Form F-4, 424B3, DEFM14A) show the deal advancing toward shareholder approval; a Nasdaq list…",
+      "core": [
+        "hw"
+      ],
+      "part": [],
+      "expectedListing": "H2 2026 (planned)",
+      "latestFunding": "$200M committed convertible financing with SPAC deal at $2.…",
+      "checked": "2026-10-19",
+      "source": "https://thequantuminsider.com/2026/03/04/pasqal-latest-quantum-company-to-announce-intentions-to-go-public-valued-at-2-billion/"
     }
   ],
   "warnings": []

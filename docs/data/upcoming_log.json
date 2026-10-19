@@ -241,5 +241,13 @@
       "Completed the truncated latestFunding and expectedListing text for Naoris Quantum Protocol and TuringQ. The facts are unchanged.",
       "Found no new quantum-computing IPO or SPAC filings or announcements. IQM, Xanadu and Quantinuum are already tracked as listed. The other entries are unchanged, since searches turned up no newer relia…"
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "changes": [
+      "Added Pasqal: SPAC merger with Bleichroeder Acquisition Corp. II ($2.0B pre-money), F-4/DEFM14A filed, close expected H2 2026",
+      "Fixed truncated text in Naoris latestFunding and TuringQ expectedListing",
+      "No new news found for the other entries; kept their statuses unchanged"
+    ]
   }
 ]
