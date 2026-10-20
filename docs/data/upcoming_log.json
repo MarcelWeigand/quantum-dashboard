@@ -249,5 +249,13 @@
       "Fixed truncated text in Naoris latestFunding and TuringQ expectedListing",
       "No new news found for the other entries; kept their statuses unchanged"
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "changes": [
+      "Removed Pasqal: its SPAC deal with Bleichroeder (BBCQ) was approved by shareholders on August 25, 2026, and its ticker PSQL is already tracked as a listed stock.",
+      "Expanded the truncated latestFunding text for Naoris and the truncated expectedListing text for TuringQ without changing the facts.",
+      "No other changes: searches found no new filings or listings for the other entries, and no new quantum IPO or SPAC announcements dated October 2026."
+    ]
   }
 ]

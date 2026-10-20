@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-04",
-    "marketNews": [
-      {
-        "source": "The Cryptonomist",
-        "ticker": "IONQ",
-        "title": "IonQ stock slips 0.5% to $43.77, testing the 200-session EMA at $43.78 - The Cryptonomist"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum (NASDAQ:QBTS) Stock Price Down 4.8% - Here's Why - MarketBeat"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing (NASDAQ:RGTI) Shares Down 2.4% - Here's Why - MarketBeat"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "IONQ",
-        "title": "IONQ Stock Is A Buy, BofA Says: Why The Bank Sees Quantum Computing Growth Ahead - Stocktwits"
-      },
-      {
-        "source": "NewMediaWire",
-        "ticker": "QBTS",
-        "title": "QBTS Notice of Investigation: D-Wave Quantum Inc. Investors are Encouraged to Contact KTMC Law Firm - NewMediaWire"
-      }
-    ]
-  },
-  {
     "date": "2026-10-05",
     "marketNews": [
       {
@@ -416,6 +386,31 @@
         "source": "ad-hoc-news.de",
         "ticker": "IONQ",
         "title": "IonQ's Cambridge Lab Opens as the Balance Sheet Tells a More Complicated Story - ad-hoc-news.de"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-20",
+    "marketNews": [
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ, Inc. (IONQ) Stock Dips While Market Gains: Key Facts - Yahoo Finance"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's $2 Billion Is Banked — the Fine Print on DARPA and Dilution Isn't - ad-hoc-news.de"
+      },
+      {
+        "source": "Stocktwits",
+        "ticker": "QBTS",
+        "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Rigetti's Quantum Growth Faces Revenue Swings and Rising Costs - Yahoo Finance"
       }
     ]
   }
