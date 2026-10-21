@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-05",
-    "marketNews": [
-      {
-        "source": "marketscreener.com",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum, University of Arkansas to Collaborate on Quantum Computing's Supply Chain Application - marketscreener.com"
-      },
-      {
-        "source": "Investing.com India",
-        "ticker": "IONQ",
-        "title": "Mizuho reiterates IonQ stock rating on quantum computing growth By Investing.com - Investing.com India"
-      },
-      {
-        "source": "The Motley Fool",
-        "ticker": "XNDU",
-        "title": "Why Quantum Computing Stock Xanadu Quantum Technologies Plummeted 56.2% in September - The Motley Fool"
-      },
-      {
-        "source": "Business Wire",
-        "ticker": "QBTS",
-        "title": "QBTS Investors Have Opportunity to Join D-Wave Quantum Inc. Fraud Investigation with SBS Law - Business Wire"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "IonQ vs. Rigetti: Is the Quantum Rally Backed by Fundamentals, or Just Momentum? - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-06",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Yahoo Finance",
         "ticker": "RGTI",
         "title": "Rigetti's Quantum Growth Faces Revenue Swings and Rising Costs - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-21",
+    "marketNews": [
+      {
+        "source": "Barron's",
+        "ticker": "QTUM",
+        "title": "Why IBM and Rigetti Warn of a Coming Shakeout in Quantum Stocks - Barron's"
+      },
+      {
+        "source": "AD HOC NEWS",
+        "ticker": "IONQ",
+        "title": "IonQ Builds Its War Chest, but the Per-Share Question Remains Unanswered - AD HOC NEWS"
+      },
+      {
+        "source": "GlobeNewswire",
+        "ticker": "QBTS",
+        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - GlobeNewswire"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QBTS",
+        "title": "Is Italy System Deployment Altering The Investment Case For D Wave Quantum (QBTS)? - Yahoo Finance"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Gets Native Open Source Programming Support On Its Quantum Computers - Yahoo Finance"
       }
     ]
   }
