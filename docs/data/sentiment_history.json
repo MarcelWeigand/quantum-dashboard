@@ -299,6 +299,16 @@
       "momentumScore": -28,
       "reasonScience": "Upbeat: IBM and Rutgers' real-time 100-qubit control leads steady progress in readout, networking and quantum-safe security, with one caution on photonic advantage.",
       "reasonStock": "Mildly positive on Oct 20: QTUM rose 0.8%, IBM 2.3% and IonQ 1.6%, though headlines carried shakeout warnings and D-Wave lawsuit notices."
+    },
+    "2026-10-22": {
+      "science": 60,
+      "stock": 2,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 9,
+      "momentumScore": -13,
+      "reasonScience": "Upbeat: longer-lived entanglement between distant ions and much faster error decoding lead a steady flow of hardware, networking and theory results.",
+      "reasonStock": "Positive on Oct 21: QTUM rose 1.7%, IonQ and Rigetti 3.3% and IBM 3.9%, with Quantinuum, Horizon Quantum and Infleqtion up 7-10%, though QNC fell 4.7%."
     }
   },
   "monthReasons": {
@@ -307,8 +317,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat for science, with error-correction milestones, Google's 40-fold magic-state error cut, better photon sources and qubit materials, and today's real-time control result.",
-      "stock": "October has been volatile and mostly weak: sharp falls around IonQ's $2 billion offering on Oct 15-16 followed by a rebound on Oct 15, and only small, mixed gains in recent days."
+      "science": "October has been consistently upbeat, with error-correction records, Google's 40-fold cut in magic-state errors, IBM's 100-qubit control, better photon storage and growing quantum networking and security work.",
+      "stock": "October has been volatile: sharp falls around IonQ's $2 billion share offering on Oct 15-16 were followed by modest recoveries, with shakeout warnings and D-Wave lawsuit notices in the headlines."
     }
   }
 }

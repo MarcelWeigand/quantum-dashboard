@@ -257,5 +257,12 @@
       "Expanded the truncated latestFunding text for Naoris and the truncated expectedListing text for TuringQ without changing the facts.",
       "No other changes: searches found no new filings or listings for the other entries, and no new quantum IPO or SPAC announcements dated October 2026."
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "changes": [
+      "No changes: searches found no new filings, completed listings, or newly announced quantum IPO/SPAC companies beyond those already tracked or excluded.",
+      "Restored truncated text in the Naoris latestFunding and TuringQ expectedListing fields (wording only, no new facts)."
+    ]
   }
 ]

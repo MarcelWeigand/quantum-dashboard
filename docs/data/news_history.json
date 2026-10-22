@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-06",
-    "marketNews": [
-      {
-        "source": "Stocktwits",
-        "ticker": "RGTI",
-        "title": "RGTI, INFQ Stocks Gain Overnight: Bernstein Thinks Rigetti And Infleqtion Could Be Early Winners In Quantum Race - Stocktwits"
-      },
-      {
-        "source": "The Globe and Mail",
-        "ticker": "IONQ",
-        "title": "Mizuho Securities Sticks to Their Buy Rating for IonQ (IONQ) - The Globe and Mail"
-      },
-      {
-        "source": "AD HOC NEWS",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum Opens Gate-Model Simulator to BBVA and Jülich as Shares Sit 66% Below Their Peak - AD HOC NEWS"
-      },
-      {
-        "source": "The Motley Fool",
-        "ticker": "XNDU",
-        "title": "Why Quantum Computing Stock Xanadu Quantum Technologies Plummeted 56.2% in September - The Motley Fool"
-      },
-      {
-        "source": "Pluang",
-        "ticker": "QNC",
-        "title": "Quantum Computing Inc. execs to attend Maxim Gr... - Pluang"
-      }
-    ]
-  },
-  {
     "date": "2026-10-07",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Yahoo Finance",
         "ticker": "IONQ",
         "title": "IonQ (IONQ) Gets Native Open Source Programming Support On Its Quantum Computers - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "marketNews": [
+      {
+        "source": "Stocktwits",
+        "ticker": "QBTS",
+        "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits"
+      },
+      {
+        "source": "Barron's",
+        "ticker": "RGTI",
+        "title": "Why IBM and Rigetti Warn of a Coming Shakeout in Quantum Stocks - Barron's"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Gets Native Open Source Programming Support On Its Quantum Computers - Yahoo Finance"
+      },
+      {
+        "source": "FinancialContent",
+        "ticker": "QBTS",
+        "title": "Lost Money on D-Wave Quantum, Inc. Shares? The Law Offices of Frank R. Cruz Investigates Potential Securities Fraud After 9.51% Stock Decline - FinancialContent"
+      },
+      {
+        "source": "StreetInsider",
+        "ticker": "QTUM",
+        "title": "BofA Securities names top quantum computing stocks to watch - StreetInsider"
       }
     ]
   }
