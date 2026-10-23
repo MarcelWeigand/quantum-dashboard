@@ -309,6 +309,16 @@
       "momentumScore": -13,
       "reasonScience": "Upbeat: longer-lived entanglement between distant ions and much faster error decoding lead a steady flow of hardware, networking and theory results.",
       "reasonStock": "Positive on Oct 21: QTUM rose 1.7%, IonQ and Rigetti 3.3% and IBM 3.9%, with Quantinuum, Horizon Quantum and Infleqtion up 7-10%, though QNC fell 4.7%."
+    },
+    "2026-10-23": {
+      "science": 74,
+      "stock": -39,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": -38,
+      "momentumScore": -40,
+      "reasonScience": "Upbeat: a sharper diamond quantum sensor, longer-lived entanglement between distant ions and AI-assisted error correction lead a steady flow of results.",
+      "reasonStock": "Sharply negative on Oct 22: every tracked quantum stock except IBM fell, with the sector fund QTUM down 4.4%, IonQ down 3.5% and BTQ down 9.3%."
     }
   },
   "monthReasons": {
@@ -317,8 +327,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat, with error-correction records, Google's 40-fold cut in magic-state errors, IBM's 100-qubit control, better photon storage and growing quantum networking and security work.",
-      "stock": "October has been volatile: sharp falls around IonQ's $2 billion share offering on Oct 15-16 were followed by modest recoveries, with shakeout warnings and D-Wave lawsuit notices in the headlines."
+      "science": "October has been consistently upbeat for science, with advances in error correction, photon storage, entanglement links and qubit materials, including Google's 40-fold cut in magic-state errors and Quantinuum's record result.",
+      "stock": "October has been choppy and leaning weak for stocks, with IonQ's $2 billion offering driving sharp sell-offs mid-month, a brief rebound on Oct 21, and a broad drop again on Oct 22."
     }
   }
 }

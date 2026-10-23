@@ -264,5 +264,11 @@
       "No changes: searches found no new filings, completed listings, or newly announced quantum IPO/SPAC companies beyond those already tracked or excluded.",
       "Restored truncated text in the Naoris latestFunding and TuringQ expectedListing fields (wording only, no new facts)."
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "changes": [
+      "No changes: searches found no new reliable news; entries kept as-is (restored truncated expectedListing/latestFunding text for TuringQ and Naoris from prior wording)"
+    ]
   }
 ]

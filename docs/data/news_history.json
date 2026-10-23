@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-07",
-    "marketNews": [
-      {
-        "source": "Stocktwits",
-        "ticker": "QBTS",
-        "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits"
-      },
-      {
-        "source": "IonQ",
-        "ticker": "IONQ",
-        "title": "Faster qLDPC: Up to 74x Speedup for Logical Gates | IonQ - IonQ"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Lands Two Superion Deployments, Does It Look Fully Valued? - Simply Wall Street"
-      },
-      {
-        "source": "TIKR.com",
-        "ticker": "RGTI",
-        "title": "One $8.4 Million Order Equals Most of Rigetti’s Q4 Revenue Estimate. Here’s What It Means for the Stock - TIKR.com"
-      },
-      {
-        "source": "PR Newswire",
-        "ticker": "QUBT",
-        "title": "Quantum Computing Inc. to Attend the Maxim Growth Summit 2026 - PR Newswire"
-      }
-    ]
-  },
-  {
     "date": "2026-10-08",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "StreetInsider",
         "ticker": "QTUM",
         "title": "BofA Securities names top quantum computing stocks to watch - StreetInsider"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-23",
+    "marketNews": [
+      {
+        "source": "24/7 Wall St.",
+        "ticker": "IONQ",
+        "title": "IonQ Is Now Down 24% in a Month: Is IONQ a Toxic Stock or Ready for a Recovery? - 24/7 Wall St."
+      },
+      {
+        "source": "Trefis",
+        "ticker": "RGTI",
+        "title": "Why Is Rigetti Computing Stock Falling? - Trefis"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QBTS",
+        "title": "Is D Wave Quantum (QBTS) A Bargain After Its Lawsuit And Expansion Updates? - Yahoo Finance"
+      },
+      {
+        "source": "www.marketscreener.com",
+        "ticker": "IONQ",
+        "title": "IonQ to Report Third Quarter 2026 Financial Results on November 5, 2026 - www.marketscreener.com"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Raises $2.0b, Is It Still 33% Below Fair Value? - Yahoo Finance"
       }
     ]
   }
