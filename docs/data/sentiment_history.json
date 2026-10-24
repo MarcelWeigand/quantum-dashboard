@@ -319,6 +319,16 @@
       "momentumScore": -40,
       "reasonScience": "Upbeat: a sharper diamond quantum sensor, longer-lived entanglement between distant ions and AI-assisted error correction lead a steady flow of results.",
       "reasonStock": "Sharply negative on Oct 22: every tracked quantum stock except IBM fell, with the sector fund QTUM down 4.4%, IonQ down 3.5% and BTQ down 9.3%."
+    },
+    "2026-10-24": {
+      "science": 79,
+      "stock": -18,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": -16,
+      "momentumScore": -23,
+      "reasonScience": "Upbeat: longer-lived entanglement between distant ions and a sharper diamond sensor lead steady progress, plus new quantum computer deployments in Madrid and Vietnam.",
+      "reasonStock": "Mildly positive on Oct 23: QTUM rose 0.5% and IonQ and Rigetti 0.3%, though QNC fell 8.6% and Google 1.2%."
     }
   },
   "monthReasons": {
@@ -327,8 +337,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat for science, with advances in error correction, photon storage, entanglement links and qubit materials, including Google's 40-fold cut in magic-state errors and Quantinuum's record result.",
-      "stock": "October has been choppy and leaning weak for stocks, with IonQ's $2 billion offering driving sharp sell-offs mid-month, a brief rebound on Oct 21, and a broad drop again on Oct 22."
+      "science": "October has been consistently upbeat, with error-correction advances, Google's 40-fold cut in magic-state errors, record interconnect results and growing funding and deployments.",
+      "stock": "October has been volatile and mostly weak, with sharp falls around IonQ's $2 billion offering and on Oct 16 and Oct 22, partly offset by rebounds and a small gain on Oct 23."
     }
   }
 }

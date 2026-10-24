@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T06:57:49+00:00",
-  "date": "2026-10-23",
+  "generatedAt": "2026-10-24T10:18:11+00:00",
+  "date": "2026-10-24",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,92 +816,92 @@
     }
   ],
   "brief": {
-    "headline": "Quantum stocks fell broadly on Oct 22, with IonQ down 3.5%, while labs reported a sharper diamond magnetic sensor and longer-lived ion entanglement.",
-    "summary": "The sector fund QTUM fell 4.4% as IonQ's month-long slide and D-Wave lawsuit notices kept investors cautious. In the lab, a diamond laser sensor and a 10-second ion memory showed steady progress on the technologies these firms depend on."
+    "headline": "Quantum stocks edged up on Friday, with the sector fund QTUM +0.5%, while labs reported longer-lived entanglement and sharper sensors.",
+    "summary": "IonQ and Rigetti each rose 0.3% on Oct 23, but IonQ is still digesting its $2 billion share offering. In the lab, ions held entanglement over long distances for about 10 seconds, a step toward quantum networks."
   },
   "marketNews": [
-    {
-      "source": "24/7 Wall St.",
-      "published": "2026-10-22T18:33+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Is Now Down 24% in a Month: Is IONQ a Toxic Stock or Ready for a Recovery? - 24/7 Wall St.",
-      "summary": "IonQ is reported down 24% in a month, and it fell another 3.5% on Oct 22, so investors are weighing whether the slide is a buying chance or a warning.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZkNpWS1GZ3Z1X3JNenVWZENJTHVwanYwa01XZ0cwLXRQX0gySnZwVDFqZndaalhVSkM0TG9CNUJlZXVESTZXVzhWVU9ERUVGUzZGUjRadzV6Z3I5MnRtYW9vdUMxREVHWTNObjFpYXF2RTZ3OHNxNmdJY2hwMFBkd0Vua1lzZjN0LWlfMUZJbTVFU1lZaXBSVks0NE1WQWd6Vm1FNVI0NzN1SlNoOG1pM0hGX05NMjBBS056eQ?oc=5"
-    },
-    {
-      "source": "Trefis",
-      "published": "2026-10-23T09:01+00:00",
-      "ticker": "RGTI",
-      "title": "Why Is Rigetti Computing Stock Falling? - Trefis",
-      "summary": "Rigetti dropped 4.7% on Oct 22, and this piece looks at why the stock keeps sliding.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkVTNkNOWl9fTFJ6U3J5ZFhHTURKaGhOTF9aSGI0UDU3eGtZWlBtUlNNbEVvM2FHdXhoVnRCckN1M3hvU2tWSXJrWHotV1A4VkFmel9ZQnBpOEpkOE1oMmhzdjQzcVZ2RG81dDZDMWpJeGR4SDlKckhZa3pXQjNCNFdfdG5HTFd3dFpXcFROQ0k1ZnNJVXdTdEFCZGJFNFR6?oc=5"
-    },
-    {
-      "source": "Yahoo Finance",
-      "published": "2026-10-23T07:10+00:00",
-      "ticker": "QBTS",
-      "title": "Is D Wave Quantum (QBTS) A Bargain After Its Lawsuit And Expansion Updates? - Yahoo Finance",
-      "summary": "D-Wave fell 3.9% as investors weigh lawsuit news against its expansion updates when judging whether the shares are cheap.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjdwWDRfd0xGeHV0U2V5Q1hfdy1tTldNa3FEaHd3VVZkbXU3X3BpUVBBTVhoU2NFSG9GbHdfNE5kRlNlcHRZTjRHak1iazQyMXgwOEJmWXdZVU5ocVhGQl9mQVBOUTBZbmdSY1lQOWVSeUZGZ2szZXZmdjFpQjNtY2llYzNaUnZZckNfLWJTRElqZ3F3bXQw?oc=5"
-    },
-    {
-      "source": "www.marketscreener.com",
-      "published": "2026-10-22T21:01+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ to Report Third Quarter 2026 Financial Results on November 5, 2026 - www.marketscreener.com",
-      "summary": "IonQ will report third-quarter results on November 5, 2026, the next big test for a stock under pressure.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVNkVkdDbGM4NnVoWjB5SEpVZURRUVVnTy1lLU9ucVZzdWdOVVJJM0w2bFgta1RnZ1R5a1lhZDFIcUx1ak9ZU2JZMXNxUjNfOEZLVWNnaGNjbHdHNXdyMDVhaGE2ejdTcUM3dUFtM1JPQWRROTRaYjlxX29NR09yZzB4RHV5UHZPQTdQdWZzNGZGcE42cEwzVmFWaU5zeVBQMUN6YUk1Y1F3Y1FBOGZ5WWRhajdhOV9EVGpRakxOSFQ?oc=5"
-    },
     {
       "source": "Yahoo Finance",
       "published": "2026-10-22T18:16+00:00",
       "ticker": "IONQ",
       "title": "IonQ (IONQ) Raises $2.0b, Is It Still 33% Below Fair Value? - Yahoo Finance",
-      "summary": "IonQ's $2.0 billion raise strengthens its finances but dilutes existing shareholders, which weighed on the shares earlier this month.",
+      "summary": "IonQ's $2.0 billion raise strengthens its finances but dilutes existing shareholders, and the item discusses whether the stock still trades below fair value.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXBwbVZ5cXpQMW1sSDU2UlpqWEtWQjN6c0p0NktrVmFxYmpkNXcxVzRUZENCNzRRRktvTTRvamhtYXFKZTBVWUwyT2VzVGh3YVhjN0FLYnRnOEtlaEo2VG14X0owZ2piaU5YaDdETzRCQ1p4YTFVcmk3dDNqNEYzV3h3UDhaSnE1clRtQjlCaw?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "published": "2026-10-22T18:33+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Is Now Down 24% in a Month: Is IONQ a Toxic Stock or Ready for a Recovery? - Yahoo Finance",
+      "summary": "The article notes IonQ has fallen 24% over a month and asks whether it is a recovery candidate, which shows how much sentiment has soured.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOREpyRUFvQ0Z0R2s3eE5QN0tfRWlqZFpQeEhWTHdGa3FUOHpONkUxRUpSUGk3QWh3RlhkRC1qdTFDLWQ1MnJMQTNXLWI4UkxtMGlQNWlkR241M0NmMldkdkxpTVJSZENYVW0tLXNueGJBTndLMmVmYmhldlNSZ1YyUWdhMjVBMkUxanFHNVZPQTE?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "published": "2026-10-22T19:12+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ (IONQ) Stock Looks Hard To Call As Its Cybersecurity Deal Lands - Yahoo Finance",
+      "summary": "IonQ's cybersecurity deal adds a commercial contract, though the article calls the stock hard to call.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVHdlQ1ZjWWtWb0pfR01Sd1J4SkFXczRMNGJoZEtzM193QlJkcWJFbExmQVo0OGlpRmFIOG5FeTIxUVlNaS1vTjdhallhMHV4LVprSGlFVzNtZThsVzQ0Tk8zbGRLVm42TmlqdEZHakV2ZGU0S0FJMnRsMTZZOHJicjFVWmRDQmVoZlhwbXRGUHlsODJ5VlE?oc=5"
+    },
+    {
+      "source": "Yahoo Finance",
+      "published": "2026-10-22T19:12+00:00",
+      "ticker": "RGTI",
+      "title": "Rigetti (RGTI) Stock Still Looks Stretched On Fresh Commerce Funding News - Yahoo Finance",
+      "summary": "Fresh funding news tied to the Commerce Department supports Rigetti, but the article still sees the stock as stretched in price.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEJmbVJnQV9SdnNZelJQdDFubmdRNDRHcGtoRC00WkUzNFJJWDc5MzAxYklyRDZ6YnhMejFSa0RodjNTVkEtNWVtdy1PR0ZIeUx1QWwwSXcyS2p2MTZUdHJRRnZFNjNYSnRzZE0xSXk3RTMwUV8xREV4am82cGhlSlNlT1ZWOE93SW5BUzlvc2JzZk5jMlBHMnBVSQ?oc=5"
+    },
+    {
+      "source": "FinancialContent",
+      "published": "2026-10-23T16:00+00:00",
+      "ticker": "QBTS",
+      "title": "Securities Fraud Lawsuit Filed Against D-Wave Quantum, Inc.: The Law Offices of Frank R. Cruz Outlines Lead Plaintiff Deadline - FinancialContent",
+      "summary": "A securities fraud lawsuit notice against D-Wave, with a lead-plaintiff deadline, adds legal risk for the stock.",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMnh5NURUWFpoMkdpTHFQZDZ3cEdOc2dBY3RUVmVjWkJFS1QwajZLTjdITHgta0lya0NWNXJkMkxlVFRZbXl6RmFQbnQwQWR2YmxqVWxxSEMxTzJsRktEREp5WTVrS2ozWmRlZ0pSU01QbmVRVjBkTWl5YTNjREgwZlhNVFVyMXJuOWZhTTNNVGhMTE5zTmZYSlFEZFdEdHEtaDdkVXoxcXR3YkxFVloxU0ZNMHh1OVVUNW4tUWQ4QW1MUlJCRFpWb0tXUWZUTHNLNnFEcGY2MTBUMW12bU9CNUZENUwtMXR2MnJRMmh3Sy10RmlXRDAzZHJJZmlmTzJCRjdsbTdMV1FVMm9xWmYw?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "sen",
-      "title": "Diamond laser sensor reads magnetic fields far more precisely",
-      "summary": "Fraunhofer IAF researchers built a laser-enhanced diamond quantum sensor that reaches 100% optical contrast, improving the balance between sensitivity and measurable range by up to 590 times versus the best earlier approaches. That matters because sensors have usually had to trade fine sensitivity against the range of fields they can read. It is still a lab demonstration, and it needs engineering work before it can be used in real instruments.",
+      "tag": "nw",
+      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
+      "summary": "Physicists used an atomic memory to keep distant ions entangled for about 10 seconds. Entanglement that lasts longer gives quantum networks time to run calculations or secure communications between devices. This is still a lab demonstration, and real networks would need many such links working reliably.",
       "source": "Phys.org",
-      "published": "2026-10-22T18:20+00:00",
-      "url": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html"
+      "published": "2026-10-21T11:40+00:00",
+      "url": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html"
     },
     "items": [
       {
-        "tag": "nw",
-        "title": "Distant ions stay entangled for about 10 seconds",
-        "summary": "An atomic memory kept far-apart ions entangled for roughly 10 seconds, a step toward practical quantum networks.",
+        "tag": "sen",
+        "title": "Diamond laser sensor reads magnetic fields with full contrast",
+        "summary": "Fraunhofer IAF researchers reached 100% optical contrast in a diamond laser magnetometer, improving the balance of sensitivity and range by up to 590 times.",
         "source": "Phys.org",
-        "published": "2026-10-21T11:40+00:00",
-        "url": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html"
+        "published": "2026-10-22T18:20+00:00",
+        "url": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html"
       },
       {
         "tag": "ec",
-        "title": "Chip-based decoder teams up with NVIDIA AI to fix quantum errors",
-        "summary": "SEEQC reports better error-correction decoding by pairing its chip-based pre-decoder with NVIDIA's Ising AI models.",
-        "source": "The Quantum Insider",
-        "published": "2026-10-22T12:05+00:00",
-        "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/"
-      },
-      {
-        "tag": "sw",
-        "title": "Google offers $150,000 for AI-shrunk quantum circuits",
-        "summary": "Google Quantum AI launched a Kaggle competition to use AI to cut the steps and qubits that useful quantum programs need.",
+        "title": "Google offers $150,000 for AI that shrinks quantum circuits",
+        "summary": "Google Quantum AI launched a Kaggle competition for AI methods that cut the steps and qubits useful quantum tasks need.",
         "source": "The Quantum Insider",
         "published": "2026-10-23T08:12+00:00",
         "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/"
       },
       {
-        "tag": "sec",
-        "title": "Florida's first quantum-safe network segment goes live",
-        "summary": "The first segment of Florida's statewide quantum-safe network now links Palm Beach State College to Florida Atlantic University.",
+        "tag": "en",
+        "title": "Qblox links quantum controller to NVIDIA hardware at low delay",
+        "summary": "Qblox reported round-trip latency below 4.0 microseconds with NVIDIA NVQLink, supporting real-time hybrid quantum-classical computing.",
         "source": "The Quantum Insider",
-        "published": "2026-10-22T11:05+00:00",
-        "url": "https://thequantuminsider.com/2026/10/22/palm-beach-colleges-connect-as-florida-launches-quantum-safe-network/"
+        "published": "2026-10-22T13:40+00:00",
+        "url": "https://thequantuminsider.com/2026/10/22/qblox-hybrid-quantum-computing-nvidia-dgx-spark-nvqlink/"
+      },
+      {
+        "tag": "hw",
+        "title": "IQM and Telefónica plan Madrid's first quantum computer",
+        "summary": "The two companies will deploy a quantum computer at a Madrid university to support research and business use cases.",
+        "source": "The Quantum Insider",
+        "published": "2026-10-23T10:40+00:00",
+        "url": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/"
       }
     ]
   },
@@ -911,14 +911,14 @@
   },
   "sentiment": {
     "today": {
-      "science": 74,
-      "stock": -39,
-      "nScience": 50,
+      "science": 79,
+      "stock": -18,
+      "nScience": 25,
       "nStock": 30,
-      "headlineScore": -38,
-      "momentumScore": -40,
-      "reasonScience": "Upbeat: a sharper diamond quantum sensor, longer-lived entanglement between distant ions and AI-assisted error correction lead a steady flow of results.",
-      "reasonStock": "Sharply negative on Oct 22: every tracked quantum stock except IBM fell, with the sector fund QTUM down 4.4%, IonQ down 3.5% and BTQ down 9.3%."
+      "headlineScore": -16,
+      "momentumScore": -23,
+      "reasonScience": "Upbeat: longer-lived entanglement between distant ions and a sharper diamond sensor lead steady progress, plus new quantum computer deployments in Madrid and Vietnam.",
+      "reasonStock": "Mildly positive on Oct 23: QTUM rose 0.5% and IonQ and Rigetti 0.3%, though QNC fell 8.6% and Google 1.2%."
     },
     "monthly": [
       {
@@ -932,12 +932,12 @@
       },
       {
         "month": "2026-10",
-        "science": 62,
-        "stock": 1,
-        "articlesScience": 899,
-        "articlesStock": 629,
-        "reasonScience": "October has been consistently upbeat for science, with advances in error correction, photon storage, entanglement links and qubit materials, including Google's 40-fold cut in magic-state errors and Quantinuum's record result.",
-        "reasonStock": "October has been choppy and leaning weak for stocks, with IonQ's $2 billion offering driving sharp sell-offs mid-month, a brief rebound on Oct 21, and a broad drop again on Oct 22."
+        "science": 63,
+        "stock": 0,
+        "articlesScience": 924,
+        "articlesStock": 659,
+        "reasonScience": "October has been consistently upbeat, with error-correction advances, Google's 40-fold cut in magic-state errors, record interconnect results and growing funding and deployments.",
+        "reasonStock": "October has been volatile and mostly weak, with sharp falls around IonQ's $2 billion offering and on Oct 16 and Oct 22, partly offset by rebounds and a small gain on Oct 23."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,7 +1040,7 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     },
     {
@@ -1054,8 +1054,22 @@
       "part": [],
       "expectedListing": "H1 2027 (planned)",
       "latestFunding": "SPAC deal at $80M pre-money valuation",
-      "checked": "2026-10-23",
+      "checked": "2026-10-24",
       "source": "https://quantumcomputingreport.com/korea-quantum-computing-kqc-to-go-public-on-nasdaq-via-80-million-spac-merger-with-charlton-aria/amp/"
+    },
+    {
+      "name": "Pasqal",
+      "note": "Neutral-atom quantum computing · France",
+      "route": "SPAC merger",
+      "status": "Pasqal signed a definitive business combination agreement with Bleichroeder Acquisition Corp. II (Nasdaq: BBCQ) in March 2026 at a $2.0B pre-money valuation, with an SEC-filed F-4/proxy (DEFM14A) in place. It plans a Nasdaq listing with a dual listing on Euronext Paris, and closing was expected in…",
+      "core": [
+        "hw"
+      ],
+      "part": [],
+      "expectedListing": "H2 2026 (planned)",
+      "latestFunding": "$200M convertible financing (pre-PIPE), March 2026",
+      "checked": "2026-10-24",
+      "source": "https://thequantuminsider.com/2026/03/04/pasqal-latest-quantum-company-to-announce-intentions-to-go-public-valued-at-2-billion/"
     }
   ],
   "warnings": []
