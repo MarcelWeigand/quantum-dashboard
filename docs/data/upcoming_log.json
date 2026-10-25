@@ -278,5 +278,14 @@
       "Naoris Quantum Protocol, TuringQ: restored the truncated latestFunding and expectedListing text from the previous entries, with no new facts",
       "No other changes: searches found no newer reliable news for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris, TuringQ or KQC, so their entries are unchanged"
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "changes": [
+      "Removed Pasqal: its SPAC merger with Bleichroeder closed August 27, 2026 and it trades on Nasdaq as PSQL, which is already tracked as a listed stock.",
+      "Completed the truncated Naoris latestFunding and TuringQ expectedListing text with no change in substance.",
+      "No other changes: searches found no newer filings or news for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris, TuringQ or KQC.",
+      "No new companies added: Xanadu, Infleqtion and IQM surfaced but are listed or already tracked."
+    ]
   }
 ]

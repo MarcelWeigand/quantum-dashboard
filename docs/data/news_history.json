@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-10",
-    "marketNews": [
-      {
-        "source": "IonQ",
-        "ticker": "IONQ",
-        "title": "IonQ Achieves Record 1 kHz Quantum Interconnect Speed - IonQ"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "IONQ",
-        "title": "IonQ (NYSE:IONQ) Stock Jumps 1.3% - Here's What Happened - MarketBeat"
-      },
-      {
-        "source": "The Quantum Insider",
-        "ticker": "IONQ",
-        "title": "IonQ Advances to Stage C of DARPA Quantum Benchmarking Initiative - The Quantum Insider"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "QBTS",
-        "title": "Why Did D Wave Quantum (QBTS) Stock Drop While Attention Builds? - Yahoo Finance"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing (RGTI) Stock Dropped, So What Is Driving Attention Now? - Simply Wall Street"
-      }
-    ]
-  },
-  {
     "date": "2026-10-11",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "FinancialContent",
         "ticker": "QBTS",
         "title": "Securities Fraud Lawsuit Filed Against D-Wave Quantum, Inc.: The Law Offices of Frank R. Cruz Outlines Lead Plaintiff Deadline - FinancialContent"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-25",
+    "marketNews": [
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "What Could IonQ (IONQ) Gain From Its First University Based Quantum Centre? - Yahoo Finance"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "QBTS",
+        "title": "D-Wave Just Hit a New 52-Week Low, Down 62% in a Year. Is the Selling Overdone? - TIKR.com"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "RGTI",
+        "title": "Funding Deal Might Change The Case For Investing In Rigetti Computing Stock (RGTI) - Simply Wall Street"
+      },
+      {
+        "source": "Simply Wall Street",
+        "ticker": "QBTS",
+        "title": "Why D Wave Quantum (QBTS) Could Be 67% Undervalued On Lawsuit Fallout - Simply Wall Street"
       }
     ]
   }
