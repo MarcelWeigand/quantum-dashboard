@@ -287,5 +287,13 @@
       "No other changes: searches found no newer filings or news for PsiQuantum, EigenQ, Terra Quantum, SeeQC, Naoris, TuringQ or KQC.",
       "No new companies added: Xanadu, Infleqtion and IQM surfaced but are listed or already tracked."
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "changes": [
+      "Fixed truncated text in Naoris and TuringQ fields (latestFunding / expectedListing) without changing facts",
+      "KQC Quantum: added closing conditions to status and switched source to The Quantum Insider's October 7, 2026 report",
+      "No other reliable new news found for the remaining entries; no new quantum company IPO/SPAC filings identified (Laris Growth Acquisition is a blank-check shell, not a quantum operating company)"
+    ]
   }
 ]

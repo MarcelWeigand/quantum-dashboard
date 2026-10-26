@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-11",
-    "marketNews": [
-      {
-        "source": "The Quantum Insider",
-        "ticker": "IONQ",
-        "title": "IonQ Demonstrates 1,000 Entanglement Events per Second in Quantum Interconnect - The Quantum Insider"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "QBTS",
-        "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits"
-      },
-      {
-        "source": "TradingKey",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing (RGTI) Stock: $2B Quantum Initiative Fuels Rally — Is Rigetti a Buy at $25.50? - TradingKey"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "IONQ",
-        "title": "Nvidia Funding Puts IonQ Stock And Quantum Computing Shares In Focus - Simply Wall Street"
-      },
-      {
-        "source": "Quiver Quantitative",
-        "ticker": "QNC",
-        "title": "Quantum Computing Inc Stock Short Interest Rises to 33.63% - Quiver Quantitative"
-      }
-    ]
-  },
-  {
     "date": "2026-10-12",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Simply Wall Street",
         "ticker": "QBTS",
         "title": "Why D Wave Quantum (QBTS) Could Be 67% Undervalued On Lawsuit Fallout - Simply Wall Street"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-26",
+    "marketNews": [
+      {
+        "source": "GuruFocus",
+        "ticker": "IONQ",
+        "title": "IonQ Q3 earnings on deck: What to expect - GuruFocus"
+      },
+      {
+        "source": "PR Newswire",
+        "ticker": "QBTS",
+        "title": "INVESTOR DEADLINE: D-Wave Quantum Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit Before December 15, 2026 Deadline - GIL - PR Newswire"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "What Could IonQ (IONQ) Gain From Its First University Based Quantum Centre? - Yahoo Finance"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum to Participate in Upcoming Investor Conferences - Yahoo Finance"
       }
     ]
   }

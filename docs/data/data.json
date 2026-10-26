@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T10:44:30+00:00",
-  "date": "2026-10-25",
+  "generatedAt": "2026-10-26T12:16:16+00:00",
+  "date": "2026-10-26",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,16 +816,32 @@
     }
   ],
   "brief": {
-    "headline": "Quantum stocks were mostly flat on Friday, with Quantinuum down 8.6%; in the lab, distant ions stayed entangled for about 10 seconds.",
-    "summary": "The sector fund QTUM edged up 0.5% on Friday, while D-Wave stayed in the headlines for its share-price slump and lawsuit notices. In the lab, an atomic memory kept distant ions entangled for about 10 seconds, a step toward quantum networks."
+    "headline": "Quantum stocks were quiet at Friday's close, with IonQ earnings and D-Wave lawsuit notices ahead; labs reported a gentler qubit readout.",
+    "summary": "IonQ's Q3 earnings are on deck while D-Wave faces lawsuit notices, so sentiment is cautious. In the lab, a supercurrent trick could read a qubit without destroying its state, a basic need for reliable machines."
   },
   "marketNews": [
+    {
+      "source": "GuruFocus",
+      "published": "2026-10-26T12:00+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Q3 earnings on deck: What to expect - GuruFocus",
+      "summary": "IonQ's Q3 earnings report is coming up, a key test after the recent share offering.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3F5S3FISEU0ZS14Q3ZFR2FnRzJXZjlsOXhQeVpWeGwxWjNmd3pTWUtQSmp1SDJfbFNMTk1NYUVLZjB3WUp4cWZQNGRhbHNaaHM1dlpvTHRMdGVMdzFkal80ZHg4cmtzS241TnF0OGRFdGdnTHYwZVhBTHdDSWtSc0t0aFU?oc=5"
+    },
+    {
+      "source": "PR Newswire",
+      "published": "2026-10-25T21:00+00:00",
+      "ticker": "QBTS",
+      "title": "INVESTOR DEADLINE: D-Wave Quantum Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit Before December 15, 2026 Deadline - GIL - PR Newswire",
+      "summary": "Law firms are telling D-Wave investors to apply by December 15, 2026 to lead a class action, which keeps legal risk in the headlines.",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcGh1OUlwRHI2aFZlZUpKUWtxcElGSnVzdnE0UE1tZnJnRkFBWFdxVFZNR3VpdFFvMFR0cnVzRkxzOThVcXpMbzlLY2ZjWTJFRkdyT2tLazVjYkJmOVJtTDFJNlFkdGw0cG1FT3NrOUlVOWtFU2dzSUFsbU9DWkk3elVsbkNSNkhOYVNCT1hXaGNkbWlUYWN5a3laXzNsSk1jQnNPMVZnajRfU1FEdEpGT3FWY2FjQnhsTEhMMTdNZWg5WE5ITWNPTDgtTDBCdXlLa0ZVWUhVYnZ2WnNSb2UzMWtXX3llYmFVTWp6V1VUdEhNb0hXLWZIeWNMODdaZVlKR1hXbHVqY2lubU5OWmNuaG5NaDhmNmNLVlhja2VIbGVMVmw0bFh5dWotNA?oc=5"
+    },
     {
       "source": "Quantum Computing Report",
       "published": "2026-10-25T01:25+00:00",
       "ticker": "IONQ",
       "title": "New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report",
-      "summary": "New Mexico job-training grants support IonQ's quantum hardware hiring, which could help it grow its local workforce.",
+      "summary": "New Mexico workforce grants will help IonQ and Bandelier Technologies hire for quantum hardware.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMXYteWw3Y1YtcE1YWkVGT2pLMC1QNVZjcGI1b2NCQWZUaXJmdkc2RW5Walk5TlpLU19ybE9JeFdHYWh2cTRfcTBEZUllMFNqdUs3Z1M2N2ZoTThhYlkyUVpwUnVtQzRwVVZQdEtoamtqSnprUy1lcXZ3eFRlUU5LS3BCem05dzNmXzBodEk4VmVGM3ZIU2l0SjNJV3RScW1POGstZnR0N3B5eGphdEFXUlB0V1BUWHIwT0NHMU9ab2lQbm9sbjhudFI4Z3NSclRVMU9ZVkxKcXdDNVBMRVF30gHkAUFVX3lxTFBscktIOHpIS1NiTlBzb3had2JXYUEzdm5aQ0ozanpxREFwRW1xUXV1bWstb09pX3ZjbHJBZml1OC1RcHU2eC1WMjRqNWpvYVVzWXV1S2JuUGJ5QnAzOXlIY19BSVhiZ2lmS3o4YUxWOFB0Y0czZElqMUdhRzl2TzdYZWc3bnR0S3JVaU5GOU5zZTlYVUJNUDRYTVAyWllZclNEV1ZyQ3lvVHN2aEtKd1ZmdEFHYXBUOUhyLXllOGJ0bk01cHZQLTU3SFRUSGx3blowdFVNSmRldXdod05KaFpTdUtTUw?oc=5"
     },
     {
@@ -833,92 +849,76 @@
       "published": "2026-10-24T23:14+00:00",
       "ticker": "IONQ",
       "title": "What Could IonQ (IONQ) Gain From Its First University Based Quantum Centre? - Yahoo Finance",
-      "summary": "Coverage asks what IonQ could gain from its first university-based quantum centre, which may deepen research ties and talent supply.",
+      "summary": "IonQ's first university-based quantum centre could widen its research ties and talent pipeline.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa01kTVMwUS1KcGpmaEZHcmV3Vm92UnlTMC1XT1hyanFHdGZBVzFQZ0phWkhfUjFxY2JMZXZBcHpfdWxzVnIzTkJEQkpPdzlwSHhHNENOV1lCQ2taRFlySEJwWDlfRnlTaFFWY25QMTFoVVU3ZUs2d19xUF8zYlYtWXA0TFhTMXBFQmFpMi1EM1FPS3p2?oc=5"
     },
     {
-      "source": "TIKR.com",
-      "published": "2026-10-24T17:44+00:00",
+      "source": "Yahoo Finance",
+      "published": "2026-10-26T11:00+00:00",
       "ticker": "QBTS",
-      "title": "D-Wave Just Hit a New 52-Week Low, Down 62% in a Year. Is the Selling Overdone? - TIKR.com",
-      "summary": "D-Wave was reported at a new 52-week low, down 62% over a year, which raises the question of whether the selling has gone too far.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ3FGdXFyWWFjZWhvd1l4QlozTG9vMlFkU1AyZUlMdS1xMy1fMjVyWnhQbE9XbmVKTC11MGtHeXZ4VHJMQm9QMHQ2MG92OWxRd3R4OWhuNmZnSVZDWnBnS0lPZUY0Sm5wdnVqNTBzRXp0Y05pcHc2SVBodnpaVEY2ZnFCSy1hMDBHRVQ1Nm82d2U2Y3Zvek1CNlhzdXNEaXFTdGhB?oc=5"
-    },
-    {
-      "source": "Simply Wall Street",
-      "published": "2026-10-24T01:18+00:00",
-      "ticker": "RGTI",
-      "title": "Funding Deal Might Change The Case For Investing In Rigetti Computing Stock (RGTI) - Simply Wall Street",
-      "summary": "A funding deal is being discussed as a possible change to the investment case for Rigetti.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSE5zaGxwcU1NYlh3V1dkcWh5TjY2ZDFsTXJnNjVHdjNPTExybE5ST1hWdmNHMWNhaVJRcFZPZkNoeV82c1hEeklvYjRjVmNudnk0Y1dCMk1ydmVSZmRPTlZGWVpRQ2lidHAtVTJoRWNBeXFZeGNTWDllR3BwbmZiQUhlNzB1c21JRzJaWTRYejVGWlZRem1kSzd6UlV6ZGNwX05SVENnekRUazlGM2FjTzlINGwxd0VWdm9ZQk1wSFhnVFFWS2dPZG5DN0xHWFByd3BVck92M2jSAd4BQVVfeXFMUEhpTnpGRmd6MnRfWnFOdU5Xem1DTGJBampZa3FyTEo3Qjd5eTlJbThTS2xTeEpOdWtKSkYzUnp2YVBya3J1WnhUUXNfbDNSd2MtcHJMNGVVanhaOXJfUXpuMkVCaHBmSkZIYWxsSTd0Z3MyTEJJcWRxTWVfZkZ5RVlXdERadFNfY1BGRTVKeTdwT1ZoMU9pd191N1Y3Q2dlZXpIU1JNekx3N1NZX0ZidlFhWjhFZHhRaTRrQ2NOMzZROFg4OWdVVjhPUjRESmplRDlFVjlvU0RwVE95SDh3?oc=5"
-    },
-    {
-      "source": "Simply Wall Street",
-      "published": "2026-10-24T22:59+00:00",
-      "ticker": "QBTS",
-      "title": "Why D Wave Quantum (QBTS) Could Be 67% Undervalued On Lawsuit Fallout - Simply Wall Street",
-      "summary": "An analysis argues D-Wave could be undervalued despite the fallout from lawsuit notices, though the legal overhang remains a risk.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejNpN2V0ZFNZRVdQM1JzR1lud2N5aXZ5cTBxbkttZ1oyay1ZRlMtUWZhbFQwUWFZcnVxV3pKZ0tRc09QQjJ6RlJBWHRxSk56U3RnTHI3Ni1RYzlycTFDa3B3N0N5RjhUaVlLbm9xa1FJUzFWc0ZUWmdoM0lQT1BxaVFjZVlGUWpxSnZISTJzU0g1UlU5cEdkLUJOSV9yMF9xOHkyQkU2Z0FaeUJLRjcxeHBleEFubW8wT3YyUXRMMllyelA3dDNkeXFIQ3YzQdIB0wFBVV95cUxOcTYyU1dpMUcyVVVDVjY2bXBUeXhqTDRuWW1qLVlXR2dEZWFvcGtNMzhQd1BHVnVlZzZacHpxTU1fMlZQYUM0NkxWcndwRnRrUmFwbzhpTzRPNE50SFNaMlFUaTJ4R1V4dndIa0t0NF9UWVNGYk5EbGs4b05IODczZlpQbkhraUNYWWhHNFpuUFlUS2lreGFBYmFVSWFSUWFFeWxzU0VtRUdRMnlSOFBnaTczcmxxeEs2cEU2d1lHeTJmVU11amNjS09La19mUlZ4SDY4?oc=5"
+      "title": "D-Wave Quantum to Participate in Upcoming Investor Conferences - Yahoo Finance",
+      "summary": "D-Wave will present at upcoming investor conferences, a chance to answer questions amid the lawsuit notices.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHZoaDFnb2tHN0xrYlA4bFB1YWh0ZG1SdC1naEU2Zlk1Y0FzNER3bGJON1lEZWlfZXFUTERBZmhpZzlSTkxaQ285Y2diSzRHNFhJNktrRy1MMzl1OGZYTFZHQ1Y3bXRJbFI5Sm1NTGxZS1VyVG9PSjVKdnJ2eGFfZ3FJbjZoSV9SRlpvQy1UVEd1NngyRDI4RG9ZMHFsWU1v?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "nw",
-      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
-      "summary": "Physicists used an atomic memory to keep two distant ions sharing a quantum link for about 10 seconds. Longer-lived entanglement is needed for quantum networks that link devices and run calculations or secure communication across distances. The result is a lab demonstration, and networks that work reliably at scale are still far off.",
+      "tag": "hw",
+      "title": "A qubit's own current could let us read it without wrecking it",
+      "summary": "Researchers showed that a supercurrent can be used to read out quantum information without destroying it, which is normally hard because measuring a qubit collapses its state. This could make readout simpler and gentler on the fragile data inside a quantum computer. It is still a lab-stage result, and it must be shown to work reliably in larger, real machines.",
       "source": "Phys.org",
-      "published": "2026-10-21T11:40+00:00",
-      "url": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html"
+      "published": "2026-10-25T19:00+00:00",
+      "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html"
     },
     "items": [
       {
+        "tag": "nw",
+        "title": "Distant ions stay entangled for about 10 seconds",
+        "summary": "An atomic memory kept far-apart ions entangled for roughly 10 seconds, a step toward quantum networks.",
+        "source": "Phys.org",
+        "published": "2026-10-21T11:40+00:00",
+        "url": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html"
+      },
+      {
         "tag": "sen",
-        "title": "Diamond laser sensor reads magnetic fields with full optical contrast",
-        "summary": "Fraunhofer IAF researchers reported a laser-enhanced diamond magnetometer that improved the ratio of sensitivity to dynamic range by up to 590 times.",
+        "title": "Diamond laser sensor reaches 100% optical contrast",
+        "summary": "A Fraunhofer IAF diamond sensor improved the balance of sensitivity and range by up to 590 times over earlier approaches.",
         "source": "Phys.org",
         "published": "2026-10-22T18:20+00:00",
         "url": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html"
       },
       {
-        "tag": "hw",
-        "title": "Experiment shows when quantum cat states stop bouncing back",
-        "summary": "A microwave-field experiment explores when superpositions of an empty and a filled state lose their ability to recover.",
-        "source": "Phys.org",
-        "published": "2026-10-23T12:40+00:00",
-        "url": "https://phys.org/news/2026-10-quantum-cat-states.html"
-      },
-      {
-        "tag": "sen",
-        "title": "Counting flux quanta offers a new way to count photons",
-        "summary": "AIST researchers observed magnetic flux quanta in a superconductor and used them to identify how many photons were absorbed.",
-        "source": "Phys.org",
-        "published": "2026-10-23T21:20+00:00",
-        "url": "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html"
-      },
-      {
         "tag": "ec",
-        "title": "Google launches AI contest to shrink quantum circuits",
-        "summary": "Google Quantum AI is offering $150,000 in prizes for AI methods that cut the steps and qubits needed for useful quantum tasks.",
+        "title": "Google offers $150,000 for AI-shrunk quantum circuits",
+        "summary": "Google Quantum AI launched a Kaggle competition to use AI to cut the steps and qubits that useful quantum tasks need.",
         "source": "The Quantum Insider",
         "published": "2026-10-23T08:12+00:00",
         "url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/"
+      },
+      {
+        "tag": "hw",
+        "title": "Study shows when quantum 'cat' states stop bouncing back",
+        "summary": "An experiment probed the limits of microwave superposition states, which matters for building stable qubits.",
+        "source": "Phys.org",
+        "published": "2026-10-23T12:40+00:00",
+        "url": "https://phys.org/news/2026-10-quantum-cat-states.html"
       }
     ]
   },
   "arxiv": {
-    "total": 120,
+    "total": 113,
     "picked": 0
   },
   "sentiment": {
     "today": {
-      "science": 55,
-      "stock": -3,
-      "nScience": 25,
+      "science": 53,
+      "stock": -22,
+      "nScience": 50,
       "nStock": 30,
-      "headlineScore": 6,
+      "headlineScore": -21,
       "momentumScore": -23,
-      "reasonScience": "Upbeat: longer-lived entanglement between distant ions and a sharper diamond sensor lead a steady flow of results.",
-      "reasonStock": "Mildly positive on Friday, Oct 23: QTUM rose 0.5% and IonQ, Rigetti and D-Wave 0.3%, though Quantinuum fell 8.6% and Google 1.2%."
+      "reasonScience": "Upbeat: a gentler qubit readout method leads a steady flow of results in networking, sensing and error correction.",
+      "reasonStock": "Mildly positive at Friday's close, with QTUM up 0.5% and IonQ up 0.3%, though QNC fell 8.6% and D-Wave lawsuit notices and IonQ earnings loom."
     },
     "monthly": [
       {
@@ -933,11 +933,11 @@
       {
         "month": "2026-10",
         "science": 62,
-        "stock": 0,
-        "articlesScience": 949,
-        "articlesStock": 689,
-        "reasonScience": "October has been consistently upbeat, with error-correction gains, Google's 40-fold cut in magic-state errors, better entanglement and photon storage, and new quantum computer deployments.",
-        "reasonStock": "October has been volatile and mostly weak, with sharp drops around IonQ's $2 billion share offering and on Oct 16 and Oct 22, partly offset by rebounds on Oct 15 and Oct 21."
+        "stock": -1,
+        "articlesScience": 999,
+        "articlesStock": 719,
+        "reasonScience": "October has been consistently upbeat, with error-correction records, longer-lived entanglement, sharper sensors and new quantum computer deployments around the world.",
+        "reasonStock": "October has been volatile: IonQ's $2 billion share offering drove sharp mid-month falls, followed by rebounds and a sharp sell-off on Oct 22, and Friday's close was mildly positive."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-25",
+      "checked": "2026-10-26",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-25",
+      "checked": "2026-10-26",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-25",
+      "checked": "2026-10-26",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-25",
+      "checked": "2026-10-26",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-25",
+      "checked": "2026-10-26",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,22 +1040,22 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-25",
+      "checked": "2026-10-26",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     },
     {
       "name": "KQC Quantum",
       "note": "Quantum computing · South Korea",
       "route": "SPAC merger",
-      "status": "KQC Quantum entered a definitive business combination agreement with Charlton Aria Acquisition Corp (Nasdaq: CHAR) at an $80M pre-money equity valuation (~$215M pro forma). Closing is expected in the first half of 2027, with a planned Nasdaq listing as \"KQC\".",
+      "status": "KQC Quantum entered a definitive business combination agreement with Charlton Aria Acquisition Corp (Nasdaq: CHAR) at an $80M pre-money equity valuation (~$215M pro forma). Closing is expected in the first half of 2027, with a planned Nasdaq listing as \"KQC\", subject to shareholder, SEC, Nasdaq and…",
       "core": [
         "hw"
       ],
       "part": [],
       "expectedListing": "H1 2027 (planned)",
       "latestFunding": "SPAC deal at $80M pre-money valuation",
-      "checked": "2026-10-25",
-      "source": "https://quantumcomputingreport.com/korea-quantum-computing-kqc-to-go-public-on-nasdaq-via-80-million-spac-merger-with-charlton-aria/amp/"
+      "checked": "2026-10-26",
+      "source": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/"
     }
   ],
   "warnings": []
