@@ -295,5 +295,12 @@
       "KQC Quantum: added closing conditions to status and switched source to The Quantum Insider's October 7, 2026 report",
       "No other reliable new news found for the remaining entries; no new quantum company IPO/SPAC filings identified (Laris Growth Acquisition is a blank-check shell, not a quantum operating company)"
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "changes": [
+      "No substantive changes: searches found no new filings, completed listings or new quantum IPO/SPAC announcements beyond the existing entries.",
+      "Restored full text for entries that were truncated in the input (Naoris latestFunding, TuringQ expectedListing, KQC status), using only details already in the list."
+    ]
   }
 ]

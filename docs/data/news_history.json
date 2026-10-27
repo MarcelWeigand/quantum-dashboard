@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-12",
-    "marketNews": [
-      {
-        "source": "WSJ",
-        "ticker": "IONQ",
-        "title": "Exclusive | Quantum-Computing Company IonQ to Buy Cybersecurity Firm for Up to $1.3 Billion - WSJ"
-      },
-      {
-        "source": "Seeking Alpha",
-        "ticker": "IONQ",
-        "title": "IonQ buys cybersecurity firm Elisity in $1.3B all-stock deal (IONQ:NYSE) - Seeking Alpha"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ Shares Slide After Firm Announces $1.3B All-Stock Deal To Acquire Cybersecurity Firm Elisity - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ's Quantum Interconnect Breakthrough: What It Means for Scaling - Yahoo Finance"
-      },
-      {
-        "source": "Quantum Zeitgeist",
-        "ticker": "RGTI",
-        "title": "Rigetti Says Scaling Quantum Means Complex Tasks, Fast Results - Quantum Zeitgeist"
-      }
-    ]
-  },
-  {
     "date": "2026-10-14",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Yahoo Finance",
         "ticker": "QBTS",
         "title": "D-Wave Quantum to Participate in Upcoming Investor Conferences - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27",
+    "marketNews": [
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion - IonQ"
+      },
+      {
+        "source": "ForkLog",
+        "ticker": "QTUM",
+        "title": "Intel to acquire Classiq to build full quantum stack - ForkLog"
+      },
+      {
+        "source": "Morningstar",
+        "ticker": "QBTS",
+        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit - Morningstar"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "IONQ",
+        "title": "IonQ Q3 earnings on deck: What to expect - TradingView"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QNC",
+        "title": "Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026 - Yahoo Finance"
       }
     ]
   }

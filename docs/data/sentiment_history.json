@@ -349,6 +349,16 @@
       "momentumScore": -23,
       "reasonScience": "Upbeat: a gentler qubit readout method leads a steady flow of results in networking, sensing and error correction.",
       "reasonStock": "Mildly positive at Friday's close, with QTUM up 0.5% and IonQ up 0.3%, though QNC fell 8.6% and D-Wave lawsuit notices and IonQ earnings loom."
+    },
+    "2026-10-27": {
+      "science": 49,
+      "stock": -18,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": -19,
+      "momentumScore": -15,
+      "reasonScience": "Upbeat, led by IBM's link between two 120-qubit chips and a steady flow of readout, networking and sensing results.",
+      "reasonStock": "Mixed on Monday: the sector fund QTUM rose 1.7%, while IonQ, D-Wave and Rigetti slipped 0.7-1.6% and Quantum eMotion's PSQL fell 3.8%."
     }
   },
   "monthReasons": {
@@ -357,8 +367,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat, with error-correction records, longer-lived entanglement, sharper sensors and new quantum computer deployments around the world.",
-      "stock": "October has been volatile: IonQ's $2 billion share offering drove sharp mid-month falls, followed by rebounds and a sharp sell-off on Oct 22, and Friday's close was mildly positive."
+      "science": "October has been upbeat for science, with Google's magic-state error cut, Quantinuum's error-correction record, longer-lived ion entanglement and now IBM's chip-to-chip link.",
+      "stock": "October has been volatile, with sharp falls around IonQ's $2 billion offering and on Oct 16 and Oct 22, partial rebounds, and D-Wave lawsuit notices and earnings now ahead."
     }
   }
 }
