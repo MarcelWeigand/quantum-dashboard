@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-14",
-    "marketNews": [
-      {
-        "source": "CNBC",
-        "ticker": "IONQ",
-        "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion - CNBC"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "IONQ",
-        "title": "IONQ Stock Falls Hard As Ballooning Losses Outweigh Record Sales, Raised Outlook — But Retail Bulls See Long-Term Value - Stocktwits"
-      },
-      {
-        "source": "Barron's",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum Deepens Partnership With IonQ’s SkyWater Technology - Barron's"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "IONQ",
-        "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
-      },
-      {
-        "source": "Yahoo Finance Australia",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing, Inc. (RGTI) Declines More Than Market: Some Information for Investors - Yahoo Finance Australia"
-      }
-    ]
-  },
-  {
     "date": "2026-10-15",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Yahoo Finance",
         "ticker": "QNC",
         "title": "Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026 - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-28",
+    "marketNews": [
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion - IonQ"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "RGTI",
+        "title": "IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business” - TIKR.com"
+      },
+      {
+        "source": "Quantum Zeitgeist",
+        "ticker": "QBTS",
+        "title": "LG CNS Will Use D-Wave's Quantum Tech In South Korea And Beyond - Quantum Zeitgeist"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Rigetti Stock In Focus Ahead Of Earnings And CHIPS Act Backing - Yahoo Finance"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "IonQ Deploys Intercontinental Hybrid QKD and PQC Architecture Securing Enterprise Links Between Geneva and Seoul - Quantum Computing Report"
       }
     ]
   }

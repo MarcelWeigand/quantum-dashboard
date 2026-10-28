@@ -302,5 +302,12 @@
       "No substantive changes: searches found no new filings, completed listings or new quantum IPO/SPAC announcements beyond the existing entries.",
       "Restored full text for entries that were truncated in the input (Naoris latestFunding, TuringQ expectedListing, KQC status), using only details already in the list."
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "changes": [
+      "No substantive changes: searches found no new reliable reports on any listed entry or any new quantum company filing to go public.",
+      "Restored the truncated text in Naoris's latestFunding and TuringQ's expectedListing; the facts are unchanged."
+    ]
   }
 ]
