@@ -309,5 +309,13 @@
       "No substantive changes: searches found no new reliable reports on any listed entry or any new quantum company filing to go public.",
       "Restored the truncated text in Naoris's latestFunding and TuringQ's expectedListing; the facts are unchanged."
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "changes": [
+      "No substantive changes: searches found no new filings, completed listings or new IPO/SPAC announcements for the tracked companies.",
+      "Restored truncated text in the Naoris latestFunding, TuringQ expectedListing and KQC status fields.",
+      "Skipped Pasqal (PSQL), IQM (IQMX), Xanadu (XNDU) and Infleqtion (INFQ) because they are already tracked as listed."
+    ]
   }
 ]
