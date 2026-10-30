@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-10-29T12:18:45+00:00",
-  "date": "2026-10-29",
+  "generatedAt": "2026-10-30T12:09:09+00:00",
+  "date": "2026-10-30",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
-    "price": 143.87,
-    "chgPct": 1.27,
+    "price": 141.14,
+    "chgPct": -1.9,
     "series": [
-      146.75,
       147.79,
       153.04,
       154.43,
@@ -36,9 +35,10 @@
       136.2,
       138.5,
       142.07,
-      143.87
+      143.87,
+      141.14
     ],
-    "asOf": "2026-10-28",
+    "asOf": "2026-10-29",
     "stale": false
   },
   "stocks": [
@@ -57,10 +57,9 @@
         "sec",
         "sen"
       ],
-      "price": 32.43,
-      "chgPct": -1.58,
+      "price": 31.72,
+      "chgPct": -2.19,
       "series": [
-        40.34,
         39.13,
         40.51,
         40.74,
@@ -89,9 +88,10 @@
         31.27,
         30.76,
         32.95,
-        32.43
+        32.43,
+        31.72
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -106,10 +106,9 @@
         "ec",
         "sw"
       ],
-      "price": 12.4,
-      "chgPct": -0.32,
+      "price": 12.06,
+      "chgPct": -2.74,
       "series": [
-        15.99,
         15.76,
         16.53,
         16.52,
@@ -138,9 +137,10 @@
         11.52,
         11.44,
         12.44,
-        12.4
+        12.4,
+        12.06
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -154,10 +154,9 @@
       "part": [
         "sw"
       ],
-      "price": 11.77,
-      "chgPct": -2.97,
+      "price": 11.56,
+      "chgPct": -1.78,
       "series": [
-        17.69,
         17.11,
         17.7,
         17.56,
@@ -186,9 +185,10 @@
         11.66,
         11.54,
         12.13,
-        11.77
+        11.77,
+        11.56
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -203,10 +203,9 @@
         "hw",
         "sen"
       ],
-      "price": 6.91,
-      "chgPct": 0.58,
+      "price": 6.82,
+      "chgPct": -1.3,
       "series": [
-        8.44,
         8.7,
         8.96,
         9.08,
@@ -235,9 +234,10 @@
         6.56,
         6.41,
         6.87,
-        6.91
+        6.91,
+        6.82
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -253,10 +253,9 @@
       "part": [
         "nw"
       ],
-      "price": 253.22,
-      "chgPct": 1.19,
+      "price": 258.28,
+      "chgPct": 2.0,
       "series": [
-        237.75,
         229.55,
         231.93,
         231.38,
@@ -285,9 +284,10 @@
         253.56,
         253.44,
         250.25,
-        253.22
+        253.22,
+        258.28
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -302,10 +302,9 @@
       "part": [
         "sw"
       ],
-      "price": 324.89,
-      "chgPct": 1.34,
+      "price": 283.82,
+      "chgPct": -12.64,
       "series": [
-        347.33,
         349.54,
         354.97,
         351.16,
@@ -334,9 +333,10 @@
         320.21,
         316.8,
         320.58,
-        324.89
+        324.89,
+        283.82
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -348,10 +348,9 @@
         "sec"
       ],
       "part": [],
-      "price": 1.1,
-      "chgPct": 0.92,
+      "price": 1.11,
+      "chgPct": 0.91,
       "series": [
-        1.7,
         1.67,
         1.77,
         1.76,
@@ -380,9 +379,10 @@
         1.06,
         1.07,
         1.09,
-        1.1
+        1.1,
+        1.11
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -396,10 +396,9 @@
       "part": [
         "en"
       ],
-      "price": 1.62,
-      "chgPct": -0.61,
+      "price": 1.57,
+      "chgPct": -3.09,
       "series": [
-        2.3,
         2.24,
         2.36,
         2.35,
@@ -428,9 +427,10 @@
         1.55,
         1.52,
         1.63,
-        1.62
+        1.62,
+        1.57
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -443,10 +443,9 @@
         "sw"
       ],
       "part": [],
-      "price": 18.47,
-      "chgPct": 2.38,
+      "price": 17.6,
+      "chgPct": -4.71,
       "series": [
-        19.52,
         20.13,
         23.53,
         23.04,
@@ -475,9 +474,10 @@
         16.41,
         16.3,
         18.04,
-        18.47
+        18.47,
+        17.6
       ],
-      "asOf": "2026-10-28",
+      "asOf": "2026-10-29",
       "stale": false
     },
     {
@@ -526,7 +526,7 @@
         2.25
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     },
     {
       "sym": "QNT",
@@ -574,7 +574,7 @@
         38.33
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     },
     {
       "sym": "XNDU",
@@ -623,7 +623,7 @@
         3.21
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     },
     {
       "sym": "INFQ",
@@ -672,7 +672,7 @@
         9.63
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     },
     {
       "sym": "HQ",
@@ -718,7 +718,7 @@
         15.31
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     },
     {
       "sym": "PSQL",
@@ -766,7 +766,7 @@
         5.52
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     },
     {
       "sym": "IQMX",
@@ -812,113 +812,113 @@
         9.63
       ],
       "asOf": "2026-10-28",
-      "stale": false
+      "stale": true
     }
   ],
   "brief": {
-    "headline": "Quantum stocks rallied on Oct 27, led by IonQ and Rigetti, while IBM linked two 120-qubit chips with 99% fidelity.",
-    "summary": "Quantum stocks rose broadly, helped by Intel's Classiq deal and IonQ's $7.5M Air Force award. In the lab, IBM showed that separate chips can be joined into one larger machine, a route to scaling up."
+    "headline": "Quantum stocks slipped on Oct 29, with IonQ down 2.2%, while the lab saw a lower qubit estimate for breaking RSA-2048 and a full 54-qubit entanglement result.",
+    "summary": "Most tracked quantum stocks fell ahead of IonQ's earnings next week, though IonQ kept landing contracts and grid-optimization work. In the lab, Alice & Bob estimated that about 22,593 cat qubits could break RSA-2048, a reminder of why quantum-safe security matters."
   },
   "marketNews": [
     {
-      "source": "IonQ",
-      "published": "2026-10-27T11:04+00:00",
+      "source": "Yahoo Finance",
+      "published": "2026-10-29T18:00+00:00",
       "ticker": "IONQ",
-      "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion - IonQ",
-      "summary": "A $7.5M Air Force Research Laboratory award to expand its quantum network is a concrete government contract for IonQ.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzY5d196cnhfdklxZy1PQmZfbUd6N3ZKN2N3MThRb0UxcUNTMFVhMkN1eE9hRDhtbW51ekdRV0tKNVIzeVFKNnhzRFdoVjdaM1pzejkwMXYtVl9vVUx5RXpFWUV4dWdJcU1qMjFlTDVYX1J2aDhhazZOazJMeTVMSENqVHVaZVRpSXFCMWZra3RBelJqZWZwbVZqdjY5X2w1TUoxUS1Sbm1LTnBJQlN5QktkWUk5cVlUQ1lR?oc=5"
+      "title": "IONQ Below Key Moving Averages: Buy, Hold or Sell Before Q3 Earnings? - Yahoo Finance",
+      "summary": "IonQ trades below key moving averages ahead of its Q3 earnings, and it fell 2.2% on Oct 29 as investors wait for the report.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNfYWlsT1VmUl9HS1Fid3RfVWdlTFBadUVXa3hWcFBxVHcyQ0ozR09YX0JlRG96a09wRXU3MXBHY182N0F2c05GWU1MMko4TUlWaGNDdkZRSEZtY3VLQ3BBMDBRc0JKTlYyc1EwSFNkVkhBcm9Namlhc2c0YXV2cHIzakV2VVJMTHRQYVZQNnlQZXVnRldDMXZEdw?oc=5"
     },
     {
-      "source": "TIKR.com",
-      "published": "2026-10-27T19:42+00:00",
-      "ticker": "RGTI",
-      "title": "IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business” - TIKR.com",
-      "summary": "Intel's $2.3 billion quantum purchase lifted IonQ about 7% and Rigetti about 8% on Oct 27, as investors treated it as validation for the sector.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbW9qelRVVTVibmctdDBxeE5xRkxLeWUycEFydDFTTzlrS2hvVl9aRnNQdEJtUmtMa2xvQ2h5WjM5aTJ5NWx0NjNycnh0ZmhuRjJRVDFQOUVDd0tzNnlrQkstZUREeGh0VlR3b1FURm1Kd2wzTkI4WUdINHh0RWVtYVUyeHZJVXB3U2tDaWZ5N3BPR2IwMW9NcnRueFhMSzR0akNaX2R2ZkxTLUlaWk9LTEJlMFJGY0Q2U3B4YXNJR1hZQQ?oc=5"
+      "source": "The Quantum Insider",
+      "published": "2026-10-28T13:01+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ Receives $7.5 Million from AFRL for Quantum Networking - The Quantum Insider",
+      "summary": "A $7.5 million Air Force Research Laboratory award for quantum networking adds government revenue and validation, reported Oct 28.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTJhS1I2SW96cjNJRURBbEYxdGhhQmNhcE8tejBhdzdYNUNWY2pMa2FKSmFOMnF3blMxVF9XY2NXdGFrejF4dmNRWnZSLWM2QXZ4ZndqeXBiMzBPNjVITFhuVWtfdmx3RWRkSlZBZ05kME9sVXRJV0NWWURicjFpOExPeGxWdGtqMEFXS1N3X3pNdGlfampxdw?oc=5"
+    },
+    {
+      "source": "Quantum Computing Report",
+      "published": "2026-10-29T01:23+00:00",
+      "ticker": "IONQ",
+      "title": "EPB and IonQ Deploy Hybrid Trapped-Ion Algorithms on Forte Enterprise to Optimize Power Grid Topology - Quantum Computing Report",
+      "summary": "Running hybrid trapped-ion algorithms on power grid layout with EPB is a concrete real-world use case for IonQ's Forte Enterprise system.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajByTDJyc1haU1VVb2Z1Uk9jd09IZkdPaThhSWRoNG8wajZZbDZWZzd0RXVTSmVUSVJaeFJtOFVXYUVLMEs4X19lYnY2M3hJWXFSSkJpSlhDaHE4NU4zbVU2cGJ6TkxmX3hneVZzZU5KTElxeXltb2g4RTFEb0FYTjhXSDJzVzZ0Q3lJN1BBT25YYWlEa3ByUlNKcFRkLURJaEJCellqa0xadFRxVzJfYnhMRmtqaWhHUHM4T1drMkxhU1ZEcm8wWEhueXkwUXdFc3M40gHYAUFVX3lxTE44VkxlalJENGFNYXVjX2t1clE4T1RMbF90ejRYajFjRHNYbnZnUkhtbE1idmpWS0tkQ0NXRDJESVFwdW1yVm9FQUJkV2RZVGtIVDJvWHduVmFHN0QtaVJiM19SbjF0U3hlTXFFUF9rYzNYMlFjeENQUGJRT1BIZFJYdk80QUYySXlMaV82VjBqWnRqWXJFYlFqM2MzX2VnNVRxT1VoODMxUkxuRktTR1diQ3dWOVE5QlRwX1hQY3VYa1BZaGdZdnJDdVVHTlB6V0RJU2d0cko1WQ?oc=5"
     },
     {
       "source": "Quantum Zeitgeist",
-      "published": "2026-10-28T11:57+00:00",
+      "published": "2026-10-29T09:27+00:00",
       "ticker": "QBTS",
       "title": "LG CNS Will Use D-Wave's Quantum Tech In South Korea And Beyond - Quantum Zeitgeist",
-      "summary": "LG CNS plans to use D-Wave's technology for business operations in South Korea and beyond, which points to new customers.",
+      "summary": "LG CNS plans to use D-Wave's technology in South Korea and beyond, widening its customer base, although the stock slipped 1.8%.",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wbFRFRm1ERlZPaXVBenc4YTNsOUlpM0Q1RUQ1ZzN5enJ4REEyeFNUSi1MamRtQjczM0lZSEkzWWM0N0FEYTN1enlIV1pmYnFaMVoydmMtQ2I1ZnRTY292X0ZXSDFienM?oc=5"
     },
     {
       "source": "Yahoo Finance",
-      "published": "2026-10-28T05:11+00:00",
+      "published": "2026-10-29T20:50+00:00",
       "ticker": "RGTI",
-      "title": "Rigetti Stock In Focus Ahead Of Earnings And CHIPS Act Backing - Yahoo Finance",
-      "summary": "Rigetti is in focus ahead of its earnings and CHIPS Act backing, which could shape sentiment going into the report.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTVuNm51SWktMWhWdkd2amVlYzJMandjdHl0aEdFMGR2elI1SHpTeFY4S0taVUlEcWRXU0VPUGdNTERmTHJHY1diYUEybU5ET0owcy1wMEx0ODlYYkhrOGhxZlNYTlMzSm1XOEtxVllVZENZRXNpRDRaajhzTHo1UHJvNEd4a2k4bUtfejVid3Z4d29RR1Iwak5tcDBiY1dw?oc=5"
-    },
-    {
-      "source": "Quantum Computing Report",
-      "published": "2026-10-28T04:03+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Deploys Intercontinental Hybrid QKD and PQC Architecture Securing Enterprise Links Between Geneva and Seoul - Quantum Computing Report",
-      "summary": "IonQ deployed a hybrid quantum-key and post-quantum encryption link between Geneva and Seoul, showing commercial security work.",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWFpMVjhkMTZEM0x1N3NFNloydlZvdlJMcTc5bXlNc3BLcGNGb1ZpN1JyTGZRc1U2T00tUkt0UFI5T3JZWW95TGl3Nk92N2hmQlRKU2ZINE5vN3R5MTZyVHNWMUFpaEY0THB2Wm9HNXpMd1hUVVlQOEdmZkE5cW1YWGZvZzNOOG9pWk5yRDRFejlBUlZGdDRfZGYySHdSdGVRd1FVNFFtMlNXUjdOcmhMVXFfcXN1YVN4YTFZaUNVMm5vN2VhaHF5ZGZtTlpMc2paSHpmRTRJblZ5RUtVWWY3YXdB0gHnAUFVX3lxTE9NMkpGYmtvTVhTMTN6bVFKZ0RSNDNhZGMwQ0tCWXd3S3FnVnZpOUpfVnZWQjVwVElNVm90WXRSWC1oRVhXYkcxcE9tZTFHVVRKN2xxMkVGaTFTT3ktYUx1TkhOSWw5amlnT0JPTzVyX3NIREQ5OGxnLXNJdnFBZ2QtekxKMEJmdjhuRzFOdmRTQlBhb3JwYk9rNGZnV3lqSGVja21xVllxZ0lRaXZTU0QzbkExbjBxYTVFazZTbzR6TUx4UTNGOHRBSUMyLW5nX25kVWQyNVVrb3BEemQycEktcWxzUjdUYw?oc=5"
+      "title": "Here's Why Rigetti Computing, Inc. (RGTI) Fell More Than Broader Market - Yahoo Finance",
+      "summary": "Rigetti fell 2.7%, more than the broader market, ahead of its upcoming Q3 earnings.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbE5VOWRNa04zMFJSSE5sbGNKQzNlVVI0eGZHWVg2anR2ZjNzOWwtd0FoNXVDUDNfWlRPSzZWMlQ4R29VN3VkSjNOSnlCTDVkRm83cEYxRkZSTVRranhRMkh0cG9Qbi13c0pOcUVsTUdYQ0YweS1jUHFmWjItMGRGZ3g4MmE4aUs0QXNONTRDZWI5S2Z5Zmtmb1pZZmY?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "hw",
-      "title": "IBM links two 120-qubit chips together",
-      "summary": "IBM researchers connected two quantum processors with four superconducting cables. Quantum states moved between them with an average fidelity of 99%, and operations worked across the two chips. Building big machines from linked chips is a promising route to scale, but this is a preprint and far from a full-size, error-corrected computer.",
-      "source": "The Quantum Insider",
-      "published": "2026-10-27T08:01+00:00",
-      "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/"
+      "tag": "sec",
+      "title": "Cat-qubit machine could crack RSA-2048 with about 22,600 qubits",
+      "summary": "Researchers compiled Shor's algorithm for superconducting cat qubits and estimated that about 22,593 qubits could break RSA-2048 encryption in roughly 3.14 days. The company behind it says this needs far fewer physical qubits than Google's 2025 estimate, which tightens the timeline for quantum-safe security planning. It is still a paper estimate, because no machine today has anywhere near that many error-corrected qubits.",
+      "source": "arXiv",
+      "published": "2026-10-30T04:00+00:00",
+      "url": "https://arxiv.org/abs/2610.37839"
     },
     "items": [
       {
         "tag": "hw",
-        "title": "Record-fast quantum gate",
-        "summary": "German researchers performed a qubit operation in 6.8 nanoseconds with more than 99.98% accuracy, far faster than the usual tens of nanoseconds.",
+        "title": "IQM entangles all 54 qubits at once",
+        "summary": "IQM says its Emerald cloud system kept its quality while every qubit on the 54-qubit chip was entangled simultaneously.",
+        "source": "The Quantum Insider",
+        "published": "2026-10-29T09:58+00:00",
+        "url": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/"
+      },
+      {
+        "tag": "hw",
+        "title": "Radio waves steer a single atom's nucleus",
+        "summary": "Delft researchers controlled the nuclear spin of a single atom with radio waves, which physicists had thought was not directly possible, and this could help store and read quantum information.",
         "source": "Phys.org",
-        "published": "2026-10-27T18:40+00:00",
-        "url": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html"
+        "published": "2026-10-28T14:20+00:00",
+        "url": "https://phys.org/news/2026-10-magnetic-core-atom.html"
       },
       {
         "tag": "hw",
         "title": "Reading a qubit without destroying it",
-        "summary": "A supercurrent-based approach allows quantum information to be read out without collapsing the qubit's state.",
+        "summary": "A supercurrent-based approach lets quantum information be read out without collapsing the qubit's state.",
         "source": "Phys.org",
         "published": "2026-10-25T19:00+00:00",
         "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html"
       },
       {
-        "tag": "sen",
-        "title": "Laser-boosted diamond magnetic sensor",
-        "summary": "Fraunhofer researchers reached 100% optical contrast and improved the ratio of sensitivity to dynamic range by up to 590 times.",
+        "tag": "nw",
+        "title": "Converter bridges light wavelengths for quantum networks",
+        "summary": "A new converter could help link stationary qubits to the photons that carry information through optical fibers.",
         "source": "Phys.org",
-        "published": "2026-10-22T18:20+00:00",
-        "url": "https://phys.org/news/2026-10-diamond-laser-optical-contrast-magnetic.html"
-      },
-      {
-        "tag": "sec",
-        "title": "NIST maps the move to quantum-safe encryption",
-        "summary": "NIST's new report gives organisations a road map for switching to post-quantum cryptography, including how they buy software and cloud services.",
-        "source": "The Quantum Insider",
-        "published": "2026-10-28T11:44+00:00",
-        "url": "https://thequantuminsider.com/2026/10/28/what-nists-post-quantum-cryptography-plan-means-for-companies-and-their-suppliers/"
+        "published": "2026-10-27T12:40+00:00",
+        "url": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html"
       }
     ]
   },
   "arxiv": {
-    "total": 228,
-    "picked": 0
+    "total": 289,
+    "picked": 1
   },
   "sentiment": {
     "today": {
-      "science": 36,
-      "stock": 24,
+      "science": 64,
+      "stock": -10,
       "nScience": 50,
       "nStock": 30,
-      "headlineScore": 36,
-      "momentumScore": -4,
-      "reasonScience": "Upbeat: IBM's chip-to-chip link and a record-fast quantum gate lead a steady flow of hardware, sensing and security results.",
-      "reasonStock": "Strongly positive on Oct 27: QTUM rose 2.6%, IonQ 7.1% and Rigetti 8.7%, with Xanadu up 14.8% and Infleqtion up 12.9%, and only IBM fell (1.3%)."
+      "headlineScore": -5,
+      "momentumScore": -22,
+      "reasonScience": "Upbeat: a lower qubit estimate for breaking RSA-2048 and IQM's full 54-qubit entanglement lead a steady flow of hardware, networking and theory results.",
+      "reasonStock": "Mildly negative on Oct 29: QTUM fell 1.9% and IonQ 2.2%, Google dropped 12.6%, and only IBM, Xanadu and a few smaller names rose."
     },
     "monthly": [
       {
@@ -934,10 +934,10 @@
         "month": "2026-10",
         "science": 60,
         "stock": -1,
-        "articlesScience": 1099,
-        "articlesStock": 779,
-        "reasonScience": "October has been consistently upbeat, with advances in error correction, entanglement between distant ions, quantum sensors and now IBM's chip-to-chip links.",
-        "reasonStock": "October has been volatile: IonQ's share offering drove sharp mid-month falls, with partial rebounds since and a strong rally on Oct 27."
+        "articlesScience": 1149,
+        "articlesStock": 809,
+        "reasonScience": "October has been consistently upbeat, with advances in error correction, IBM's chip-to-chip link, record-fast gates, longer-lived entanglement and now smaller resource estimates for cryptographically relevant machines.",
+        "reasonStock": "October has been volatile and mostly choppy, with IonQ's $2 billion share offering driving sharp mid-month falls, a partial rebound on Oct 27, and a softer Oct 29 ahead of earnings."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,7 +1040,7 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     },
     {
@@ -1054,11 +1054,17 @@
       "part": [],
       "expectedListing": "H1 2027 (planned)",
       "latestFunding": "SPAC deal at $80M pre-money valuation",
-      "checked": "2026-10-29",
+      "checked": "2026-10-30",
       "source": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/"
     }
   ],
   "warnings": [
-    "Claude analysis failed, kept yesterday's stories: Expecting ':' delimiter: line 1 column 1692 (char 1691)"
+    "stale price for BTQ",
+    "stale price for QNT",
+    "stale price for XNDU",
+    "stale price for INFQ",
+    "stale price for HQ",
+    "stale price for PSQL",
+    "stale price for IQMX"
   ]
 }

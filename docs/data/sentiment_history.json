@@ -369,6 +369,16 @@
       "momentumScore": -4,
       "reasonScience": "Upbeat: IBM's chip-to-chip link and a record-fast quantum gate lead a steady flow of hardware, sensing and security results.",
       "reasonStock": "Strongly positive on Oct 27: QTUM rose 2.6%, IonQ 7.1% and Rigetti 8.7%, with Xanadu up 14.8% and Infleqtion up 12.9%, and only IBM fell (1.3%)."
+    },
+    "2026-10-30": {
+      "science": 64,
+      "stock": -10,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": -5,
+      "momentumScore": -22,
+      "reasonScience": "Upbeat: a lower qubit estimate for breaking RSA-2048 and IQM's full 54-qubit entanglement lead a steady flow of hardware, networking and theory results.",
+      "reasonStock": "Mildly negative on Oct 29: QTUM fell 1.9% and IonQ 2.2%, Google dropped 12.6%, and only IBM, Xanadu and a few smaller names rose."
     }
   },
   "monthReasons": {
@@ -377,8 +387,8 @@
       "stock": "September's quantum stocks have been driven by IonQ's deals, error-correction news and BofA's Buy rating, while D-Wave and other names faced dilution, governance and cash-burn concerns."
     },
     "2026-10": {
-      "science": "October has been consistently upbeat, with advances in error correction, entanglement between distant ions, quantum sensors and now IBM's chip-to-chip links.",
-      "stock": "October has been volatile: IonQ's share offering drove sharp mid-month falls, with partial rebounds since and a strong rally on Oct 27."
+      "science": "October has been consistently upbeat, with advances in error correction, IBM's chip-to-chip link, record-fast gates, longer-lived entanglement and now smaller resource estimates for cryptographically relevant machines.",
+      "stock": "October has been volatile and mostly choppy, with IonQ's $2 billion share offering driving sharp mid-month falls, a partial rebound on Oct 27, and a softer Oct 29 ahead of earnings."
     }
   }
 }

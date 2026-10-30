@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-15",
-    "marketNews": [
-      {
-        "source": "Investor's Business Daily",
-        "ticker": "IONQ",
-        "title": "IonQ Stock Falls Amid Quantum Firm's $2 Billion Equity Offering - Investor's Business Daily"
-      },
-      {
-        "source": "Barron's",
-        "ticker": "QTUM",
-        "title": "IonQ Stock Tumbles on $2 Billion Equity Offering. Why Other Quantum Names Are Falling Just as Hard. - Barron's"
-      },
-      {
-        "source": "Dallas Innovates",
-        "ticker": "IONQ",
-        "title": "Dallas Cybersecurity Company Elisity Agrees to $1.3B Acquisition by Quantum Computing Company IonQ - Dallas Innovates"
-      },
-      {
-        "source": "Quantum Zeitgeist",
-        "ticker": "QNC",
-        "title": "Quantum Computing Inc Expands Into Pharma With INmune Bio Deal - Quantum Zeitgeist"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum (QBTS) Extends Multi Year Manufacturing Deal Behind Its Next Generation Chips - Simply Wall Street"
-      }
-    ]
-  },
-  {
     "date": "2026-10-16",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Quantum Computing Report",
         "ticker": "IONQ",
         "title": "IonQ Deploys Intercontinental Hybrid QKD and PQC Architecture Securing Enterprise Links Between Geneva and Seoul - Quantum Computing Report"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30",
+    "marketNews": [
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IONQ Below Key Moving Averages: Buy, Hold or Sell Before Q3 Earnings? - Yahoo Finance"
+      },
+      {
+        "source": "The Quantum Insider",
+        "ticker": "IONQ",
+        "title": "IonQ Receives $7.5 Million from AFRL for Quantum Networking - The Quantum Insider"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "EPB and IonQ Deploy Hybrid Trapped-Ion Algorithms on Forte Enterprise to Optimize Power Grid Topology - Quantum Computing Report"
+      },
+      {
+        "source": "Quantum Zeitgeist",
+        "ticker": "QBTS",
+        "title": "LG CNS Will Use D-Wave's Quantum Tech In South Korea And Beyond - Quantum Zeitgeist"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Here's Why Rigetti Computing, Inc. (RGTI) Fell More Than Broader Market - Yahoo Finance"
       }
     ]
   }
