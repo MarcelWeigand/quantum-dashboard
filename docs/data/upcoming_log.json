@@ -317,5 +317,14 @@
       "Restored truncated text in the Naoris latestFunding, TuringQ expectedListing and KQC status fields.",
       "Skipped Pasqal (PSQL), IQM (IQMX), Xanadu (XNDU) and Infleqtion (INFQ) because they are already tracked as listed."
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "changes": [
+      "Updated the checked date to 2026-10-31 for all entries; searches found no new filings, pricings or listings for the existing companies.",
+      "KQC Quantum: completed the truncated status text and added the October 5, 2026 signing date and the $30M minimum cash condition.",
+      "TuringQ and Naoris: restored fields that had been cut off in the previous list (expectedListing, latestFunding).",
+      "No new companies added: Pasqal (PSQL), Xanadu (XNDU), IQM (IQMX) and Infleqtion (INFQ) turned up but are already tracked as listed."
+    ]
   }
 ]

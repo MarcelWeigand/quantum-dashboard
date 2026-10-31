@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T08:06:28+00:00",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T11:42:13+00:00",
+  "date": "2026-10-31",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,92 +816,92 @@
     }
   ],
   "brief": {
-    "headline": "Quantum stocks slipped on Oct 29, with IonQ down 2.2%, while the lab saw a lower qubit estimate for breaking RSA-2048 and a full 54-qubit entanglement result.",
-    "summary": "Most tracked quantum stocks fell ahead of IonQ's earnings next week, though IonQ kept landing contracts and grid-optimization work. In the lab, Alice & Bob estimated that about 22,593 cat qubits could break RSA-2048, a reminder of why quantum-safe security matters."
+    "headline": "Quantum stocks fell sharply on Oct 30, with D-Wave down 7.9% and Rigetti at a low, while a lab hit a record-fast quantum gate.",
+    "summary": "Every tracked quantum stock fell on Friday, with the sector fund QTUM down 5.2% in a wider tech selloff. In the lab, a team ran a qubit operation in just 6.8 nanoseconds at over 99.98% accuracy."
   },
   "marketNews": [
     {
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T18:00+00:00",
-      "ticker": "IONQ",
-      "title": "IONQ Below Key Moving Averages: Buy, Hold or Sell Before Q3 Earnings? - Yahoo Finance",
-      "summary": "IonQ trades below key moving averages ahead of its Q3 earnings, and it fell 2.2% on Oct 29 as investors wait for the report.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDNfYWlsT1VmUl9HS1Fid3RfVWdlTFBadUVXa3hWcFBxVHcyQ0ozR09YX0JlRG96a09wRXU3MXBHY182N0F2c05GWU1MMko4TUlWaGNDdkZRSEZtY3VLQ3BBMDBRc0JKTlYyc1EwSFNkVkhBcm9Namlhc2c0YXV2cHIzakV2VVJMTHRQYVZQNnlQZXVnRldDMXZEdw?oc=5"
+      "source": "TIKR.com",
+      "published": "2026-10-30T22:05+00:00",
+      "ticker": "QTUM",
+      "title": "IonQ Sinks 8%, D-Wave Down 7%, Rigetti Down 7% as Intel and Amazon Earnings Extend Tech Selloff - TIKR.com",
+      "summary": "Quantum shares fell together as weak tech earnings extended a broader selloff, and QTUM closed down 5.2%.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGtqemlBTE9OVmcwbEdmM1VxVVdLUmxMdkhZeGlGZFVPSTFyLVRybVNQYjhveldNNmtveXdzeEs4cHBCVUtDUWFUVUtOQm9ua01PbGxjSklwcS1Jb1BOWHRVa0pra0dqS0FoaWRWYXdfdFIwNkJXeUh2VHNwVC1XdmxGOWppdzNMUnV4bldQcENmbGFRN25HT05McXpQbGQtZndkMDBmMy1Fay1IbDEwZTl0RFY1Nm8?oc=5"
     },
     {
-      "source": "The Quantum Insider",
-      "published": "2026-10-28T13:01+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Receives $7.5 Million from AFRL for Quantum Networking - The Quantum Insider",
-      "summary": "A $7.5 million Air Force Research Laboratory award for quantum networking adds government revenue and validation, reported Oct 28.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTJhS1I2SW96cjNJRURBbEYxdGhhQmNhcE8tejBhdzdYNUNWY2pMa2FKSmFOMnF3blMxVF9XY2NXdGFrejF4dmNRWnZSLWM2QXZ4ZndqeXBiMzBPNjVITFhuVWtfdmx3RWRkSlZBZ05kME9sVXRJV0NWWURicjFpOExPeGxWdGtqMEFXS1N3X3pNdGlfampxdw?oc=5"
-    },
-    {
-      "source": "Quantum Computing Report",
-      "published": "2026-10-29T01:23+00:00",
-      "ticker": "IONQ",
-      "title": "EPB and IonQ Deploy Hybrid Trapped-Ion Algorithms on Forte Enterprise to Optimize Power Grid Topology - Quantum Computing Report",
-      "summary": "Running hybrid trapped-ion algorithms on power grid layout with EPB is a concrete real-world use case for IonQ's Forte Enterprise system.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajByTDJyc1haU1VVb2Z1Uk9jd09IZkdPaThhSWRoNG8wajZZbDZWZzd0RXVTSmVUSVJaeFJtOFVXYUVLMEs4X19lYnY2M3hJWXFSSkJpSlhDaHE4NU4zbVU2cGJ6TkxmX3hneVZzZU5KTElxeXltb2g4RTFEb0FYTjhXSDJzVzZ0Q3lJN1BBT25YYWlEa3ByUlNKcFRkLURJaEJCellqa0xadFRxVzJfYnhMRmtqaWhHUHM4T1drMkxhU1ZEcm8wWEhueXkwUXdFc3M40gHYAUFVX3lxTE44VkxlalJENGFNYXVjX2t1clE4T1RMbF90ejRYajFjRHNYbnZnUkhtbE1idmpWS0tkQ0NXRDJESVFwdW1yVm9FQUJkV2RZVGtIVDJvWHduVmFHN0QtaVJiM19SbjF0U3hlTXFFUF9rYzNYMlFjeENQUGJRT1BIZFJYdk80QUYySXlMaV82VjBqWnRqWXJFYlFqM2MzX2VnNVRxT1VoODMxUkxuRktTR1diQ3dWOVE5QlRwX1hQY3VYa1BZaGdZdnJDdVVHTlB6V0RJU2d0cko1WQ?oc=5"
-    },
-    {
-      "source": "Quantum Zeitgeist",
-      "published": "2026-10-29T09:27+00:00",
-      "ticker": "QBTS",
-      "title": "LG CNS Will Use D-Wave's Quantum Tech In South Korea And Beyond - Quantum Zeitgeist",
-      "summary": "LG CNS plans to use D-Wave's technology in South Korea and beyond, widening its customer base, although the stock slipped 1.8%.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wbFRFRm1ERlZPaXVBenc4YTNsOUlpM0Q1RUQ1ZzN5enJ4REEyeFNUSi1MamRtQjczM0lZSEkzWWM0N0FEYTN1enlIV1pmYnFaMVoydmMtQ2I1ZnRTY292X0ZXSDFienM?oc=5"
-    },
-    {
-      "source": "Yahoo Finance",
-      "published": "2026-10-29T20:50+00:00",
+      "source": "Investing.com",
+      "published": "2026-10-30T15:53+00:00",
       "ticker": "RGTI",
-      "title": "Here's Why Rigetti Computing, Inc. (RGTI) Fell More Than Broader Market - Yahoo Finance",
-      "summary": "Rigetti fell 2.7%, more than the broader market, ahead of its upcoming Q3 earnings.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbE5VOWRNa04zMFJSSE5sbGNKQzNlVVI0eGZHWVg2anR2ZjNzOWwtd0FoNXVDUDNfWlRPSzZWMlQ4R29VN3VkSjNOSnlCTDVkRm83cEYxRkZSTVRranhRMkh0cG9Qbi13c0pOcUVsTUdYQ0YweS1jUHFmWjItMGRGZ3g4MmE4aUs0QXNONTRDZWI5S2Z5Zmtmb1pZZmY?oc=5"
+      "title": "Rigetti Computing stock hits 52-week low at $11.11 - Investing.com",
+      "summary": "Rigetti hit a 52-week low of $11.11, and the stock closed the day down 6.7%.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0JFbkdvM2V3UnhkSkM2OUhybHJpcHYwM0d0Y3pBYUlMYTF1V2V1NDBtRDIxMzBkNExVNERmczV4QXB3RFB0Qnd3VnJpSDhwVnBhRmwzNF9kaENzc1ZBMlN4N3ZCSFVxVlJvd253aGhnNGY2eHp1LVNlajZLN21ZTjJJNWd6dm5qSzV3d0lWb1AzajN4ZXhpeHZxNzAyc0lLM0NLb1UwZw?oc=5"
+    },
+    {
+      "source": "Investing.com",
+      "published": "2026-10-30T13:55+00:00",
+      "ticker": "QBTS",
+      "title": "D Wave Quantum stock hits 52-week low at $10.82 - Investing.com",
+      "summary": "D-Wave touched a 52-week low of $10.82 and ended the day down 7.9%.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEp4NG9Pd3hlS3BmZFVhei1EZk5BTlNWekRBNkxmOFhUWUh1cDRsbkhrcHZ5alY5amtIWlJzSUdKN2VkMGZuTzNuVmtfczFqR3RjOTU0Nk1fRnh4VURlSWlSd1ZxZEJhd1FPa2NFZFBOWWt6V1pjN2dueHFnbDdHMjBoS05oQzk5bHNmWUhBbmNiUXBTczg4Q3dUYzJyWnhrS3FV?oc=5"
+    },
+    {
+      "source": "MarketBeat",
+      "published": "2026-10-30T21:49+00:00",
+      "ticker": "IONQ",
+      "title": "IonQ (NYSE:IONQ) Stock Falls 5.1% - Here's Why - MarketBeat",
+      "summary": "IonQ fell about 5% ahead of its third-quarter earnings report, which investors are watching closely.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzhWaXZvYTJmZHQzLU03MDRWOGEtZEFmUXY3Rl9VTHMtd3JNT1VjMmhFdHYtVWRMaFAzQy15VkVabkhxOGRQQmdSS3p5aDAxSG1QUWhhem5LV3kxQlNHeS13SHg0Y1hWdWNGX2loZmdUeXBGamdkOE5lMG9CaTdVY3lKN3VxQ3JMWlpFajJfS1lfR256bEMyQzVnemlhMXBP?oc=5"
+    },
+    {
+      "source": "Simply Wall St",
+      "published": "2026-10-30T17:36+00:00",
+      "ticker": "RGTI",
+      "title": "CHIPS Award And Earnings Watch Put Rigetti Stock In Focus - Simply Wall St",
+      "summary": "A CHIPS award and upcoming earnings keep Rigetti in focus, though the shares still fell on the day.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUk1JTTJPbHA0ekxvblhhbDBGQU0wamdKSktJa0xKUlAxNU5WeGZ6d0VhZWRvdzgwV0RpRDBYZExWV1pLc1dOS1U0emtabDBYTXI2SkVicEFiVmV3dXZTTlpLdnFPMlgtWkNQZkpuc2xTLVhxWkdMS2pLUGV6eFpZQTJ2ajRrSjgxcERlWmZ3NWViT3hTeHpvUGQxT0NvUGdEckd2SFI4a2VrbV80a3FEak0xa1F6SDdEVWFzcmhEV2dmYy13eHVYY0Y5MFYzdU5oZkNsWmFn0gHbAUFVX3lxTE1kWVlpMGhFSWdqQWxFcmZYc3RROFU2RHY4eTRIbmw2bUhob0hqVFRHWXBjdWxMclVDUnhCTm5Jb0NHZWpWQW5CM3k1RlRqYWN3bnh1RkUtVlpqaEVYUGZJUXViVnprZjlwSTlSeGk5OTFVeGUtZ2kwZnFiOG1IRDhzMHphTTEwakdFZURYNE9xVWFRRllfd1hmSmNCUkZQNEc3TlJNaWRmdlVEQVE3Sy1pWHZ6RmQ2ZE52STZqWDVaTXVPaVZRUkR2STVZWmE3Y0ExYXE2V1QzTlJCaw?oc=5"
     }
   ],
   "science": {
     "featured": {
-      "tag": "sec",
-      "title": "Cat-qubit machine could crack RSA-2048 with about 22,600 qubits",
-      "summary": "Researchers compiled Shor's algorithm for superconducting cat qubits and estimated that about 22,593 qubits could break RSA-2048 encryption in roughly 3.14 days. The company behind it says this needs far fewer physical qubits than Google's 2025 estimate, which tightens the timeline for quantum-safe security planning. It is still a paper estimate, because no machine today has anywhere near that many error-corrected qubits.",
-      "source": "arXiv",
-      "published": "2026-10-30T04:00+00:00",
-      "url": "https://arxiv.org/abs/2610.37839"
+      "tag": "hw",
+      "title": "Quantum gate sets a speed record of 6.8 nanoseconds",
+      "summary": "Researchers from Jülich, Aachen and Cologne performed an operation on a single qubit in 6.8 nanoseconds with more than 99.98% accuracy. Such operations usually take several tens of nanoseconds on superconducting machines, so faster gates leave more operations before errors creep in. This is a result on one qubit, and it still has to be shown across large, full-scale quantum computers.",
+      "source": "Phys.org",
+      "published": "2026-10-27T18:40+00:00",
+      "url": "https://phys.org/news/2026-10-quantum-gates-nanoseconds-accuracy.html"
     },
     "items": [
       {
-        "tag": "hw",
-        "title": "IQM entangles all 54 qubits at once",
-        "summary": "IQM says its Emerald cloud system kept its quality while every qubit on the 54-qubit chip was entangled simultaneously.",
+        "tag": "ec",
+        "title": "Nord Quantique aims for one error-corrected qubit per cavity",
+        "summary": "Its CEO describes using microwave photons in superconducting cavities to correct errors without needing large numbers of extra qubits.",
         "source": "The Quantum Insider",
-        "published": "2026-10-29T09:58+00:00",
-        "url": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/"
+        "published": "2026-10-31T08:00+00:00",
+        "url": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/"
+      },
+      {
+        "tag": "nw",
+        "title": "Quantum skyrmions outlast entanglement",
+        "summary": "Researchers report that these light patterns survive longer than fragile entanglement, hinting at more resilient quantum networks.",
+        "source": "Phys.org",
+        "published": "2026-10-30T15:40+00:00",
+        "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html"
       },
       {
         "tag": "hw",
-        "title": "Radio waves steer a single atom's nucleus",
-        "summary": "Delft researchers controlled the nuclear spin of a single atom with radio waves, which physicists had thought was not directly possible, and this could help store and read quantum information.",
+        "title": "Scientists control the magnetism of a single atom's nucleus",
+        "summary": "Delft researchers used radio waves to manipulate nuclear spin, which was thought impossible and could help store and read quantum information.",
         "source": "Phys.org",
         "published": "2026-10-28T14:20+00:00",
         "url": "https://phys.org/news/2026-10-magnetic-core-atom.html"
       },
       {
-        "tag": "hw",
-        "title": "Reading a qubit without destroying it",
-        "summary": "A supercurrent-based approach lets quantum information be read out without collapsing the qubit's state.",
+        "tag": "sen",
+        "title": "New sensor loop design could sharpen magnetic measurements",
+        "summary": "Adelaide engineers found a way to improve very sensitive field sensors, which could help brain imaging and medical diagnostics.",
         "source": "Phys.org",
-        "published": "2026-10-25T19:00+00:00",
-        "url": "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html"
-      },
-      {
-        "tag": "nw",
-        "title": "Converter bridges light wavelengths for quantum networks",
-        "summary": "A new converter could help link stationary qubits to the photons that carry information through optical fibers.",
-        "source": "Phys.org",
-        "published": "2026-10-27T12:40+00:00",
-        "url": "https://phys.org/news/2026-10-bridge-wavelength-gap-quantum-communications.html"
+        "published": "2026-10-27T17:40+00:00",
+        "url": "https://phys.org/news/2026-10-quantum-sensor-loop-magnetic-medicine.html"
       }
     ]
   },
@@ -911,14 +911,14 @@
   },
   "sentiment": {
     "today": {
-      "science": 64,
-      "stock": -10,
-      "nScience": 50,
+      "science": 83,
+      "stock": -51,
+      "nScience": 25,
       "nStock": 30,
-      "headlineScore": -5,
-      "momentumScore": -22,
-      "reasonScience": "Upbeat: a lower qubit estimate for breaking RSA-2048 and IQM's full 54-qubit entanglement lead a steady flow of hardware, networking and theory results.",
-      "reasonStock": "Mildly negative on Oct 29: QTUM fell 1.9% and IonQ 2.2%, Google dropped 12.6%, and only IBM, Xanadu and a few smaller names rose."
+      "headlineScore": -46,
+      "momentumScore": -63,
+      "reasonScience": "Upbeat: a record-fast quantum gate leads a steady flow of error-correction, networking and sensing results.",
+      "reasonStock": "Sharply weak: every tracked quantum stock fell on Oct 30, with QTUM down 5.2% and Rigetti and D-Wave hitting 52-week lows."
     },
     "monthly": [
       {
@@ -932,12 +932,12 @@
       },
       {
         "month": "2026-10",
-        "science": 60,
-        "stock": -1,
-        "articlesScience": 1149,
-        "articlesStock": 809,
-        "reasonScience": "October has been consistently upbeat, with advances in error correction, IBM's chip-to-chip link, record-fast gates, longer-lived entanglement and now smaller resource estimates for cryptographically relevant machines.",
-        "reasonStock": "October has been volatile and mostly choppy, with IonQ's $2 billion share offering driving sharp mid-month falls, a partial rebound on Oct 27, and a softer Oct 29 ahead of earnings."
+        "science": 61,
+        "stock": -3,
+        "articlesScience": 1174,
+        "articlesStock": 839,
+        "reasonScience": "October has been consistently upbeat, with error-correction records, IBM's chip-to-chip link, longer-lived entanglement and now a record-fast gate.",
+        "reasonStock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
       }
     ],
     "method": {
@@ -960,7 +960,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -978,7 +978,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -995,7 +995,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1009,7 +1009,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1040,31 +1040,23 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     },
     {
       "name": "KQC Quantum",
       "note": "Quantum computing · South Korea",
       "route": "SPAC merger",
-      "status": "KQC Quantum entered a definitive business combination agreement with Charlton Aria Acquisition Corp (Nasdaq: CHAR) at an $80M pre-money equity valuation (~$215M pro forma). Closing is expected in the first half of 2027, with a planned Nasdaq listing as \"KQC\", subject to shareholder, SEC, Nasdaq and…",
+      "status": "KQC Quantum signed a definitive business combination agreement on October 5, 2026 (announced October 7) with Charlton Aria Acquisition Corp (Nasdaq: CHAR) at an $80M pre-money equity valuation (~$215M pro forma). Closing is expected in the first half of 2027, with a planned Nasdaq listing as \"KQC\",…",
       "core": [
         "hw"
       ],
       "part": [],
       "expectedListing": "H1 2027 (planned)",
       "latestFunding": "SPAC deal at $80M pre-money valuation",
-      "checked": "2026-10-30",
+      "checked": "2026-10-31",
       "source": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/"
     }
   ],
-  "warnings": [
-    "stale price for BTQ",
-    "stale price for QNT",
-    "stale price for XNDU",
-    "stale price for INFQ",
-    "stale price for HQ",
-    "stale price for PSQL",
-    "stale price for IQMX"
-  ]
+  "warnings": []
 }

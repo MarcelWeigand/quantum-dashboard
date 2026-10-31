@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-16",
-    "marketNews": [
-      {
-        "source": "IonQ",
-        "ticker": "IONQ",
-        "title": "IonQ Opens First Quantum Innovation Centre at Cambridge - IonQ"
-      },
-      {
-        "source": "Investor's Business Daily",
-        "ticker": "IONQ",
-        "title": "IonQ Stock Falls Amid Quantum Firm's $2 Billion Equity Offering - Investor's Business Daily"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "QBTS",
-        "title": "Why D Wave Quantum Stock Is In Focus After Italy Quantum Computer Delivery - Simply Wall Street"
-      },
-      {
-        "source": "Barron's",
-        "ticker": "QNT",
-        "title": "Why Quantinuum Stock Is a ‘Top Quantum Play’ While IonQ and Infleqtion Fall Short - Barron's"
-      },
-      {
-        "source": "Quiver Quantitative",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing Rises as Government-Funding Story and Quantum Sector Bounce Support Shares - Quiver Quantitative"
-      }
-    ]
-  },
-  {
     "date": "2026-10-17",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Yahoo Finance",
         "ticker": "RGTI",
         "title": "Here's Why Rigetti Computing, Inc. (RGTI) Fell More Than Broader Market - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-31",
+    "marketNews": [
+      {
+        "source": "TIKR.com",
+        "ticker": "QTUM",
+        "title": "IonQ Sinks 8%, D-Wave Down 7%, Rigetti Down 7% as Intel and Amazon Earnings Extend Tech Selloff - TIKR.com"
+      },
+      {
+        "source": "Investing.com",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing stock hits 52-week low at $11.11 - Investing.com"
+      },
+      {
+        "source": "Investing.com",
+        "ticker": "QBTS",
+        "title": "D Wave Quantum stock hits 52-week low at $10.82 - Investing.com"
+      },
+      {
+        "source": "MarketBeat",
+        "ticker": "IONQ",
+        "title": "IonQ (NYSE:IONQ) Stock Falls 5.1% - Here's Why - MarketBeat"
+      },
+      {
+        "source": "Simply Wall St",
+        "ticker": "RGTI",
+        "title": "CHIPS Award And Earnings Watch Put Rigetti Stock In Focus - Simply Wall St"
       }
     ]
   }
