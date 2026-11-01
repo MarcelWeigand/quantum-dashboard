@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-17",
-    "marketNews": [
-      {
-        "source": "TradingView",
-        "ticker": "IONQ",
-        "title": "IonQ prices $40 per unit offering with 20.5M shares, 29.5M pre-funded warrants and 100M Series C warrants - TradingView"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "IONQ",
-        "title": "IonQ (NYSE:IONQ) Stock Price Down 9.1% - Should You Sell? - MarketBeat"
-      },
-      {
-        "source": "MarketBeat",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum (NASDAQ:QBTS) Shares Down 8% - What's Next? - MarketBeat"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing, Inc. (RGTI) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance"
-      },
-      {
-        "source": "Business Wire",
-        "ticker": "QBTS",
-        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - Business Wire"
-      }
-    ]
-  },
-  {
     "date": "2026-10-18",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "Simply Wall St",
         "ticker": "RGTI",
         "title": "CHIPS Award And Earnings Watch Put Rigetti Stock In Focus - Simply Wall St"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-01",
+    "marketNews": [
+      {
+        "source": "TIKR.com",
+        "ticker": "QTUM",
+        "title": "IonQ Sinks 8%, D-Wave Down 7%, Rigetti Down 7% as Intel and Amazon Earnings Extend Tech Selloff - TIKR.com"
+      },
+      {
+        "source": "Investing.com",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing stock hits 52-week low at $11.11 - Investing.com"
+      },
+      {
+        "source": "Investing.com South Africa",
+        "ticker": "QBTS",
+        "title": "D Wave Quantum stock hits 52-week low at $10.82 By Investing.com - Investing.com South Africa"
+      },
+      {
+        "source": "GlobeNewswire",
+        "ticker": "QBTS",
+        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - GlobeNewswire"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's Friday Slump Traces Back to AI Spending Fears, While Rome Project Enters Phase Two - ad-hoc-news.de"
       }
     ]
   }

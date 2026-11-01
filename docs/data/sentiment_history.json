@@ -389,6 +389,16 @@
       "momentumScore": -63,
       "reasonScience": "Upbeat: a record-fast quantum gate leads a steady flow of error-correction, networking and sensing results.",
       "reasonStock": "Sharply weak: every tracked quantum stock fell on Oct 30, with QTUM down 5.2% and Rigetti and D-Wave hitting 52-week lows."
+    },
+    "2026-11-01": {
+      "science": 76,
+      "stock": -63,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": -63,
+      "momentumScore": -63,
+      "reasonScience": "Science news was steadily positive, with advances in linking processors, faster gates and error correction.",
+      "reasonStock": "Quantum stocks sold off hard on Friday, with every tracked ticker lower and several names at 52-week lows amid AI spending fears."
     }
   },
   "monthReasons": {
@@ -399,6 +409,10 @@
     "2026-10": {
       "science": "October has been consistently upbeat, with error-correction records, IBM's chip-to-chip link, longer-lived entanglement and now a record-fast gate.",
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
+    },
+    "2026-11": {
+      "science": "With only today's data so far this month, science has shown steady progress in hardware scaling and error correction.",
+      "stock": "With only today's data so far this month, stocks start November under pressure after a broad Friday selloff."
     }
   }
 }
