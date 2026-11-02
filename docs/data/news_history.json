@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-18",
-    "marketNews": [
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Opens 256 Qubit Quantum Centre In UK Research Push - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing, Inc. (RGTI) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo Finance"
-      },
-      {
-        "source": "TradingView",
-        "ticker": "RGTI",
-        "title": "Rigetti Falls 21% in the Past Month: Hold or Fold the Stock Now? - TradingView"
-      },
-      {
-        "source": "Business Wire",
-        "ticker": "QBTS",
-        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - Business Wire"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum (QBTS) Expands In Italy, Is The Stock Still Cheap? - Simply Wall Street"
-      }
-    ]
-  },
-  {
     "date": "2026-10-19",
     "marketNews": [
       {
@@ -406,6 +376,36 @@
         "source": "GlobeNewswire",
         "ticker": "QBTS",
         "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - GlobeNewswire"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's Friday Slump Traces Back to AI Spending Fears, While Rome Project Enters Phase Two - ad-hoc-news.de"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-02",
+    "marketNews": [
+      {
+        "source": "www.marketscreener.com",
+        "ticker": "RGTI",
+        "title": "B. Riley Adjusts Rigetti Computing Price Target to $25 From $35, Maintains Buy Rating - www.marketscreener.com"
+      },
+      {
+        "source": "Kalkine",
+        "ticker": "IONQ",
+        "title": "Archer Materials Limited (ASX:AXE) Partners With Global Quantum Leader IonQ to Advance Sovereign Australian Quantum Computing - Kalkine"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's Friday Dip Was Market Weather — the Real Catalysts Are a $7.5 Million Air Force Check and a - ad-hoc-news.de"
+      },
+      {
+        "source": "GlobeNewswire",
+        "ticker": "QBTS",
+        "title": "INVESTOR NOTICE: D-Wave Quantum Inc. Investors with - GlobeNewswire"
       },
       {
         "source": "ad-hoc-news.de",
