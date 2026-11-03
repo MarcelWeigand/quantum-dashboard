@@ -409,6 +409,16 @@
       "momentumScore": -63,
       "reasonScience": "Research news was steadily positive, led by linked processors, a record-fast quantum gate and new ways to control single atoms.",
       "reasonStock": "Quantum stocks were weak, since the latest prices (Friday's close) show every tracked ticker down, with QTUM off 5.2% and several small caps down by 8% or more."
+    },
+    "2026-11-03": {
+      "science": 59,
+      "stock": -46,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": -38,
+      "momentumScore": -63,
+      "reasonScience": "Research news was steadily positive, led by linked processors, progress toward error-resistant qubits and new chip designs.",
+      "reasonStock": "Quantum stocks looked weak, since Friday's close showed every tracked ticker down and analyst target cuts and a lawsuit added to the pressure."
     }
   },
   "monthReasons": {
@@ -421,8 +431,8 @@
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
     },
     "2026-11": {
-      "science": "November has started with steady progress in science, with advances in linking processors, faster gates and error correction continuing through today.",
-      "stock": "Stocks started November on the back foot, with Friday's sector-wide sell-off driven by AI spending fears and nothing so far to reverse it."
+      "science": "November's science news has been steadily positive so far, with advances in linking processors, faster gates, error correction and today's modular-processor result.",
+      "stock": "Quantum stocks have started November weak, with a hard selloff on Friday across every tracked ticker, several small caps down 8% or more, and no recovery yet."
     }
   }
 }

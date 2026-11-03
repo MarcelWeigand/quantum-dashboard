@@ -333,5 +333,12 @@
       "Completed truncated text in Naoris latestFunding and TuringQ expectedListing fields (no new facts).",
       "No other changes: searches found no new filings, effectiveness notices, or listings for the tracked companies, and no new quantum companies beyond those already tracked or excluded."
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "changes": [
+      "Restored the full text of two entries that had been cut off with '…': Naoris Quantum Protocol (latestFunding) and TuringQ (expectedListing); no facts changed.",
+      "No other changes. Searches found no new funding, filings, effectiveness notices or completed listings for any listed company. The S-4 for EigenQ, the F-4 for Terra Quantum and the pricing of SeeQC's…"
+    ]
   }
 ]

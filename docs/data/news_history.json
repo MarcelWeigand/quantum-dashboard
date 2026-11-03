@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-19",
-    "marketNews": [
-      {
-        "source": "ad-hoc-news.de",
-        "ticker": "IONQ",
-        "title": "IonQ's $2 Billion Is Banked — the Fine Print on DARPA and Dilution Isn't - ad-hoc-news.de"
-      },
-      {
-        "source": "mykxlg.com",
-        "ticker": "QBTS",
-        "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against D-Wave Quantum Inc. (NASDAQ: QBTS) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - mykxlg.com"
-      },
-      {
-        "source": "AOL.com",
-        "ticker": "QNC",
-        "title": "Quantinuum vs. IonQ: Why One Major Wall Street Firm Says This Stock Is the Better Bet - AOL.com"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "RGTI",
-        "title": "Rigetti Computing (RGTI) Could Be 26% Undervalued On EPS Concerns Despite Revenue Growth - Simply Wall Street"
-      },
-      {
-        "source": "ad-hoc-news.de",
-        "ticker": "IONQ",
-        "title": "IonQ's Cambridge Lab Opens as the Balance Sheet Tells a More Complicated Story - ad-hoc-news.de"
-      }
-    ]
-  },
-  {
     "date": "2026-10-20",
     "marketNews": [
       {
@@ -411,6 +381,36 @@
         "source": "ad-hoc-news.de",
         "ticker": "IONQ",
         "title": "IonQ's Friday Slump Traces Back to AI Spending Fears, While Rome Project Enters Phase Two - ad-hoc-news.de"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "marketNews": [
+      {
+        "source": "TradingView",
+        "ticker": "QTUM",
+        "title": "Quantum Stocks Plunge in October: Can Q3 Earnings Halt the Slide? - TradingView"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "RGTI",
+        "title": "B. Riley Securities maintains Rigetti Computing at Buy, lowers price target to $25 from $35 - TradingView"
+      },
+      {
+        "source": "ForkLog",
+        "ticker": "IONQ",
+        "title": "South Korea to Integrate National Supercomputer with IonQ Quantum System - ForkLog"
+      },
+      {
+        "source": "PR Newswire",
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum Inc. (QBTS) Securities Fraud Class Action Lawsuit Filed; December 15, 2026, Lead Plaintiff Deadline - Kessler Topaz Meltzer & Check, LLP - PR Newswire"
+      },
+      {
+        "source": "ad-hoc-news.de",
+        "ticker": "IONQ",
+        "title": "IonQ's B. Riley Cut and a $7.5 Million Air Force Check: What Actually Matters Before November 5 - ad-hoc-news.de"
       }
     ]
   }
