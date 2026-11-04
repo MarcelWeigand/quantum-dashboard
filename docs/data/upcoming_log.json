@@ -340,5 +340,12 @@
       "Restored the full text of two entries that had been cut off with '…': Naoris Quantum Protocol (latestFunding) and TuringQ (expectedListing); no facts changed.",
       "No other changes. Searches found no new funding, filings, effectiveness notices or completed listings for any listed company. The S-4 for EigenQ, the F-4 for Terra Quantum and the pricing of SeeQC's…"
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "changes": [
+      "Restored full text of truncated fields: Naoris latestFunding ('...Amendment No. 2 filed September 22, 2026') and TuringQ expectedListing ('...pending CSRC/STAR Market approval').",
+      "No other changes: searches found no new November 2026 news on the listed companies and no new unlisted quantum company filing to go public. IQM, Pasqal (PSQL) and Quantinuum (QNT) are already tracked…"
+    ]
   }
 ]

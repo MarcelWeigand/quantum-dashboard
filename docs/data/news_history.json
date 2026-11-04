@@ -1,30 +1,5 @@
 [
   {
-    "date": "2026-10-20",
-    "marketNews": [
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ, Inc. (IONQ) Stock Dips While Market Gains: Key Facts - Yahoo Finance"
-      },
-      {
-        "source": "ad-hoc-news.de",
-        "ticker": "IONQ",
-        "title": "IonQ's $2 Billion Is Banked — the Fine Print on DARPA and Dilution Isn't - ad-hoc-news.de"
-      },
-      {
-        "source": "Stocktwits",
-        "ticker": "QBTS",
-        "title": "IONQ, QBTS, RGTI Stocks Win ‘Buy’ Ratings In Benchmark's 'No-Winner-Takes-All' Sector Outlook - Stocktwits"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "Rigetti's Quantum Growth Faces Revenue Swings and Rising Costs - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-21",
     "marketNews": [
       {
@@ -411,6 +386,36 @@
         "source": "ad-hoc-news.de",
         "ticker": "IONQ",
         "title": "IonQ's B. Riley Cut and a $7.5 Million Air Force Check: What Actually Matters Before November 5 - ad-hoc-news.de"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "marketNews": [
+      {
+        "source": "GuruFocus",
+        "ticker": "IONQ",
+        "title": "Is It Too Late to Buy IonQ Inc (IONQ) After 6.5% Rally? GF Value Says Undervalued - GuruFocus"
+      },
+      {
+        "source": "StockStory",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Q3 earnings: what to expect - StockStory"
+      },
+      {
+        "source": "GuruFocus",
+        "ticker": "RGTI",
+        "title": "A Look at Rigetti Computing Inc (RGTI) After 3.9% Gain -- GF Value $9.48 vs Price $11.09 - GuruFocus"
+      },
+      {
+        "source": "FinancialContent",
+        "ticker": "QBTS",
+        "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against D-Wave Quantum Inc. and Certain Officers – QBTS - FinancialContent"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QTUM",
+        "title": "Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32% - Yahoo Finance"
       }
     ]
   }
