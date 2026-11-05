@@ -347,5 +347,13 @@
       "Restored full text of truncated fields: Naoris latestFunding ('...Amendment No. 2 filed September 22, 2026') and TuringQ expectedListing ('...pending CSRC/STAR Market approval').",
       "No other changes: searches found no new November 2026 news on the listed companies and no new unlisted quantum company filing to go public. IQM, Pasqal (PSQL) and Quantinuum (QNT) are already tracked…"
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "changes": [
+      "No changes to deal status: searches found no new reliable reports (company releases, SEC filings, major news) for any listed entry.",
+      "Restored truncated text in the Naoris latestFunding and TuringQ expectedListing fields (wording only).",
+      "Did not add Pasqal, Laris Growth Acquisition (SPAC blank check) or Quantinuum: the search results were secondhand or unverified and I could not confirm them against primary sources."
+    ]
   }
 ]

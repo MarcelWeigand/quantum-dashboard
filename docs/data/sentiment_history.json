@@ -429,6 +429,16 @@
       "momentumScore": -66,
       "reasonScience": "Research news was steadily positive, led by a simple error-cutting measurement, linked processors and progress toward error-resistant qubits.",
       "reasonStock": "Quantum stocks bounced on the last trading day, with every tracked ticker except IBM and BTQ higher, though analyst target cuts and a lawsuit still weigh on sentiment."
+    },
+    "2026-11-05": {
+      "science": 75,
+      "stock": 6,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 39,
+      "momentumScore": -72,
+      "reasonScience": "Research news stayed positive, led by a simple error-cutting measurement and a new error-correction platform from IBM, Oak Ridge and AMD.",
+      "reasonStock": "Quantum stocks were mixed on the last trading day: IBM, Google and several small caps rose, while IonQ, Arqit, Xanadu and others fell."
     }
   },
   "monthReasons": {
@@ -441,8 +451,8 @@
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
     },
     "2026-11": {
-      "science": "November so far has brought steady progress in linking processors, faster gates, error correction and error-resistant qubit designs.",
-      "stock": "After a hard sell-off to start the month with several names at 52-week lows, stocks gained on Tuesday, while target cuts and a lawsuit keep the mood fragile."
+      "science": "November science news has been steadily positive so far, with advances in linking processors, faster gates and, today, error correction.",
+      "stock": "November began with a hard selloff and a partial bounce, and prices are still choppy while analyst target cuts and a lawsuit weigh on sentiment."
     }
   }
 }

@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-21",
-    "marketNews": [
-      {
-        "source": "Barron's",
-        "ticker": "QTUM",
-        "title": "Why IBM and Rigetti Warn of a Coming Shakeout in Quantum Stocks - Barron's"
-      },
-      {
-        "source": "AD HOC NEWS",
-        "ticker": "IONQ",
-        "title": "IonQ Builds Its War Chest, but the Per-Share Question Remains Unanswered - AD HOC NEWS"
-      },
-      {
-        "source": "GlobeNewswire",
-        "ticker": "QBTS",
-        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit with SBS Law - GlobeNewswire"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "QBTS",
-        "title": "Is Italy System Deployment Altering The Investment Case For D Wave Quantum (QBTS)? - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Gets Native Open Source Programming Support On Its Quantum Computers - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-22",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Yahoo Finance",
         "ticker": "QTUM",
         "title": "Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32% - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "marketNews": [
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "IonQ Completes $1.15B Acquisition of Elisity to Integrate Zero Trust with Quantum Security - Quantum Computing Report"
+      },
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ & QuantumCT Partner to Expand Quantum Computing in CT - IonQ"
+      },
+      {
+        "source": "Startup Fortune",
+        "ticker": "XNDU",
+        "title": "Xanadu's US listing news triggered a selloff across quantum computing stocks - Startup Fortune"
+      },
+      {
+        "source": "The Motley Fool",
+        "ticker": "QBTS",
+        "title": "Why D-Wave Quantum Stock Led a Quantum Computing Crash in October - The Motley Fool"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Why Rigetti Computing Slipped 23.4% Last Month - Yahoo Finance"
       }
     ]
   }
