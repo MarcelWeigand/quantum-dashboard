@@ -439,6 +439,16 @@
       "momentumScore": -72,
       "reasonScience": "Research news stayed positive, led by a simple error-cutting measurement and a new error-correction platform from IBM, Oak Ridge and AMD.",
       "reasonStock": "Quantum stocks were mixed on the last trading day: IBM, Google and several small caps rose, while IonQ, Arqit, Xanadu and others fell."
+    },
+    "2026-11-06": {
+      "science": 69,
+      "stock": -9,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 30,
+      "momentumScore": -100,
+      "reasonScience": "Research news was positive, led by a quantum circuit part made in a standard silicon chip, a photon counter and a simple error-cutting measurement.",
+      "reasonStock": "Quantum stocks fell hard on the last trading day, with every tracked ticker lower and IonQ down 10.5% despite record results and a raised outlook."
     }
   },
   "monthReasons": {
@@ -451,8 +461,8 @@
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
     },
     "2026-11": {
-      "science": "November science news has been steadily positive so far, with advances in linking processors, faster gates and, today, error correction.",
-      "stock": "November began with a hard selloff and a partial bounce, and prices are still choppy while analyst target cuts and a lawsuit weigh on sentiment."
+      "science": "November science news has been steadily positive, with progress on linked processors, faster gates, error correction and now silicon-chip components.",
+      "stock": "November has been rough for quantum stocks, with a hard sell-off at the start, a brief bounce on Nov 3, and another broad drop on Nov 5 despite strong IonQ earnings."
     }
   }
 }

@@ -355,5 +355,13 @@
       "Restored truncated text in the Naoris latestFunding and TuringQ expectedListing fields (wording only).",
       "Did not add Pasqal, Laris Growth Acquisition (SPAC blank check) or Quantinuum: the search results were secondhand or unverified and I could not confirm them against primary sources."
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "changes": [
+      "No substantive changes: searches found no new filings, funding rounds or completed listings for the tracked entries, so all entries are kept unchanged.",
+      "Restored the truncated latestFunding and expectedListing text for Naoris Quantum Protocol and TuringQ using the wording already in their status lines.",
+      "Did not add Pasqal, Quantinuum or Oxford Quantum Circuits: the search results only gave secondhand or vague mentions of their plans and no filings or confirmed announcements."
+    ]
   }
 ]

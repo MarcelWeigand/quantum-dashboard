@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "marketNews": [
-      {
-        "source": "Stocktwits",
-        "ticker": "QBTS",
-        "title": "QBTS Stock Gains Premarket: Nasdaq Verafin Picks D-Wave’s Quantum Technology For Financial Crime Detection - Stocktwits"
-      },
-      {
-        "source": "Barron's",
-        "ticker": "RGTI",
-        "title": "Why IBM and Rigetti Warn of a Coming Shakeout in Quantum Stocks - Barron's"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Gets Native Open Source Programming Support On Its Quantum Computers - Yahoo Finance"
-      },
-      {
-        "source": "FinancialContent",
-        "ticker": "QBTS",
-        "title": "Lost Money on D-Wave Quantum, Inc. Shares? The Law Offices of Frank R. Cruz Investigates Potential Securities Fraud After 9.51% Stock Decline - FinancialContent"
-      },
-      {
-        "source": "StreetInsider",
-        "ticker": "QTUM",
-        "title": "BofA Securities names top quantum computing stocks to watch - StreetInsider"
-      }
-    ]
-  },
-  {
     "date": "2026-10-23",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Yahoo Finance",
         "ticker": "RGTI",
         "title": "Why Rigetti Computing Slipped 23.4% Last Month - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "marketNews": [
+      {
+        "source": "The Motley Fool",
+        "ticker": "IONQ",
+        "title": "Why IonQ Stock Just Fell 10.5% Today - The Motley Fool"
+      },
+      {
+        "source": "The Quantum Insider",
+        "ticker": "IONQ",
+        "title": "IonQ Raises Revenue Forecast as Quarterly Sales Climb to $173.8 Million - The Quantum Insider"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "Wedbush Just Slashed Its Price Target on IONQ Stock. Here's Why. - Yahoo Finance"
+      },
+      {
+        "source": "XTB.com",
+        "ticker": "IONQ",
+        "title": "Quantum Computers are becoming a scarce commodity. IonQ has sold out its entire 2027 capacity - XTB.com"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Rigetti Q3 Earnings: Will Commercial Progress Translate Into Growth? - Yahoo Finance"
       }
     ]
   }
