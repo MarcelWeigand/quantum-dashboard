@@ -363,5 +363,13 @@
       "Restored the truncated latestFunding and expectedListing text for Naoris Quantum Protocol and TuringQ using the wording already in their status lines.",
       "Did not add Pasqal, Quantinuum or Oxford Quantum Circuits: the search results only gave secondhand or vague mentions of their plans and no filings or confirmed announcements."
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "changes": [
+      "No changes: searches for EigenQ, Terra Quantum, SeeQC and sector-wide IPO/SPAC news found nothing newer than the existing entries, so all seven were left as they were.",
+      "Restored the full text of two truncated fields (Naoris latestFunding, TuringQ expectedListing) using the dates and wording already in the entries.",
+      "Not added: Pasqal, Quantinuum and Oxford Quantum Circuits appeared in search results, but I found no reliable primary source confirming a filing or announcement, so I left them out."
+    ]
   }
 ]

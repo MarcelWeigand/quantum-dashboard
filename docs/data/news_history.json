@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-23",
-    "marketNews": [
-      {
-        "source": "24/7 Wall St.",
-        "ticker": "IONQ",
-        "title": "IonQ Is Now Down 24% in a Month: Is IONQ a Toxic Stock or Ready for a Recovery? - 24/7 Wall St."
-      },
-      {
-        "source": "Trefis",
-        "ticker": "RGTI",
-        "title": "Why Is Rigetti Computing Stock Falling? - Trefis"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "QBTS",
-        "title": "Is D Wave Quantum (QBTS) A Bargain After Its Lawsuit And Expansion Updates? - Yahoo Finance"
-      },
-      {
-        "source": "www.marketscreener.com",
-        "ticker": "IONQ",
-        "title": "IonQ to Report Third Quarter 2026 Financial Results on November 5, 2026 - www.marketscreener.com"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Raises $2.0b, Is It Still 33% Below Fair Value? - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-24",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Yahoo Finance",
         "ticker": "RGTI",
         "title": "Rigetti Q3 Earnings: Will Commercial Progress Translate Into Growth? - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "marketNews": [
+      {
+        "source": "Investor's Business Daily",
+        "ticker": "QTUM",
+        "title": "Quantum Computing Stocks Rally On IonQ, Quantinuum Q3 Results, Guidance - Investor's Business Daily"
+      },
+      {
+        "source": "MarketScale",
+        "ticker": "IONQ",
+        "title": "IonQ raises its 2026 revenue forecast to $505-$515 million - MarketScale"
+      },
+      {
+        "source": "Bloomberg.com",
+        "ticker": "IONQ",
+        "title": "IonQ Sees Revenue Quadrupling on Quantum Computing Demand - Bloomberg.com"
+      },
+      {
+        "source": "24/7 Wall St.",
+        "ticker": "RGTI",
+        "title": "IonQ Surges 18% on Beat and Raised Guidance; Rigetti Computing Jumps 18%, D-Wave Quantum Surges 16% - 24/7 Wall St."
+      },
+      {
+        "source": "Benzinga",
+        "ticker": "QBTS",
+        "title": "Why Is D-Wave Quantum Stock Surging on Friday? - Benzinga"
       }
     ]
   }
