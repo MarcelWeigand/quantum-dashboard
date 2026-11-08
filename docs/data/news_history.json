@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-24",
-    "marketNews": [
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Raises $2.0b, Is It Still 33% Below Fair Value? - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ Is Now Down 24% in a Month: Is IONQ a Toxic Stock or Ready for a Recovery? - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IonQ (IONQ) Stock Looks Hard To Call As Its Cybersecurity Deal Lands - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "Rigetti (RGTI) Stock Still Looks Stretched On Fresh Commerce Funding News - Yahoo Finance"
-      },
-      {
-        "source": "FinancialContent",
-        "ticker": "QBTS",
-        "title": "Securities Fraud Lawsuit Filed Against D-Wave Quantum, Inc.: The Law Offices of Frank R. Cruz Outlines Lead Plaintiff Deadline - FinancialContent"
-      }
-    ]
-  },
-  {
     "date": "2026-10-25",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Benzinga",
         "ticker": "QBTS",
         "title": "Why Is D-Wave Quantum Stock Surging on Friday? - Benzinga"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "marketNews": [
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "Why IonQ Inc. (IONQ) Shares Climbed 23% on Friday - Yahoo Finance"
+      },
+      {
+        "source": "MarketScale",
+        "ticker": "IONQ",
+        "title": "IonQ raises its 2026 revenue forecast to $505-$515 million - MarketScale"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing (RGTI) Q3 Earnings Loom, Shares Surge 19% - Yahoo Finance"
+      },
+      {
+        "source": "Benzinga",
+        "ticker": "QBTS",
+        "title": "Why Is D-Wave Quantum Stock Surging on Friday? - Benzinga"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "South Korea Launches 614 PFLOPS Hangang Supercomputer Ahead of May 2027 IonQ Quantum Link - Quantum Computing Report"
       }
     ]
   }

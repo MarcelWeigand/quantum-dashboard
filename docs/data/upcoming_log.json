@@ -371,5 +371,14 @@
       "Restored the full text of two truncated fields (Naoris latestFunding, TuringQ expectedListing) using the dates and wording already in the entries.",
       "Not added: Pasqal, Quantinuum and Oxford Quantum Circuits appeared in search results, but I found no reliable primary source confirming a filing or announcement, so I left them out."
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "changes": [
+      "No substantive changes: searches found no new filings, closings or announcements for any listed entry.",
+      "Terra Quantum: a Reuters-based snippet suggests a possible change of SPAC partner, but the replacement vehicle is unconfirmed, so the Axiom/AXIN entry is kept as is.",
+      "No new companies added: Quantinuum (QNT) and Pasqal (PSQL) are already tracked as listed. Generic SPACs such as Laris Growth are blank checks, not quantum operating companies.",
+      "Restored the truncated text in the Naoris latestFunding field and the TuringQ expectedListing field."
+    ]
   }
 ]

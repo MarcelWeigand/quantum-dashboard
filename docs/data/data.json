@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T12:28:28+00:00",
-  "date": "2026-11-07",
+  "generatedAt": "2026-11-08T12:46:06+00:00",
+  "date": "2026-11-08",
   "etf": {
     "sym": "QTUM",
     "name": "Defiance Quantum ETF",
@@ -816,65 +816,73 @@
     }
   ],
   "brief": {
-    "headline": "Quantum stocks rallied hard after IonQ's results and raised outlook, while labs reported a new proof on the limits of quantum speedups.",
-    "summary": "IonQ's strong quarter and higher 2026 forecast lifted the whole group, with IONQ up 23.4% on Friday. In the lab, a new proof clarifies when quantum computers can truly beat classical ones, which is the question investors are betting on."
+    "headline": "Quantum stocks rallied Friday on IonQ's raised outlook, while labs showed a proof on quantum speedup limits and error-cutting advances.",
+    "summary": "IonQ jumped 23.4% on Friday after results and a raised 2026 forecast, lifting the whole sector. In the lab, a proof settled a long-open question on when quantum computers can beat classical ones, tempering hype with clearer limits."
   },
   "marketNews": [
     {
-      "source": "Investor's Business Daily",
-      "published": "2026-11-06T13:07+00:00",
-      "ticker": "QTUM",
-      "title": "Quantum Computing Stocks Rally On IonQ, Quantinuum Q3 Results, Guidance - Investor's Business Daily",
-      "summary": "Strong quarterly results and guidance from IonQ and Quantinuum set off a sector-wide rally in quantum stocks.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLXVJaVVhU3ZrM09HTkpwRW9ZWDUxRS1mS3RyT3BRZFIxMmVBaFpGNFVIYjNjUWJ6NUdFdVNRQVZYbTY0Sy1hT1NDak1tMVdfY1Y3ek1DSVBfbWJlMDdYT2phSHRsbEpEbHR2c2t6V192VVhQUkRDajB0eGV6N3FhZXYzMUdRaHFTNkRtRl9qY1RmejFsanR1VFRKYndLSnF0?oc=5"
+      "source": "Yahoo Finance",
+      "published": "2026-11-07T01:53+00:00",
+      "ticker": "IONQ",
+      "title": "Why IonQ Inc. (IONQ) Shares Climbed 23% on Friday - Yahoo Finance",
+      "summary": "IonQ shares climbed 23% on Friday after its third-quarter results and raised guidance.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdkQtaFVpLWpSMEtXeXA4YXpKUm5FSTgtbHcxUjdtTXpoR3Z0M0wzVWNjTHBaTU5QelhEa1E3MVUxRUxubC1NVEtmaUgtRU8xTnQyUy1mSGVvUGU5UUxZeE1vaUxfeUo1a3pnZDZnVFliZGhRWHJaTVpkREdpSzliOGU1YW1UMlpOREhWbUtrdS15RGdpMFdr?oc=5"
     },
     {
       "source": "MarketScale",
       "published": "2026-11-07T12:04+00:00",
       "ticker": "IONQ",
       "title": "IonQ raises its 2026 revenue forecast to $505-$515 million - MarketScale",
-      "summary": "IonQ raised its 2026 revenue forecast to $505-$515 million, which gave investors a reason to buy.",
+      "summary": "IonQ raised its 2026 revenue forecast to $505-$515 million, signalling stronger demand.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTlF1aG1BTmk1LXRUMFpMSlJaeGRNd3cwU3pnWGQ5MVBiMzBxRXB2Z3NHaERoaVd3VHBfZjBJVVIwUTlMcy1jR3Q1eE92WkNWdUZxU1B0QnJlVXYwd05CWTNLVVFTSVFDMksyWENDY01xTGV3R082RTRwZnNpcjNHTmtXM3ZSOGFVcklOLTVJRExmZUZRZHQtT3Y2ZGtUWWY1RVJEZlNiSjZWY0lXWlhXemxzTjJfNUZISko0?oc=5"
     },
     {
-      "source": "Bloomberg.com",
-      "published": "2026-11-05T21:08+00:00",
-      "ticker": "IONQ",
-      "title": "IonQ Sees Revenue Quadrupling on Quantum Computing Demand - Bloomberg.com",
-      "summary": "Bloomberg reports IonQ expects its revenue to roughly quadruple on demand for quantum computing.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWUVRODlmSEFLVWt3WHMxZXJWWTVNUjZHcGpqMC11d09OMHB3M0c3a3J2ci1oSGtoVjVUTV9UWTN5a2p5RGdaTmI1NnVKUDJvVFlVU29FMjdnX0N0NXNqWU51TW1BZHZGV2tlVXFHREpvamxxZ25zZmNfZ1JJeEIzYU16SzNlYTUySE1ORlRkZmZMMGpETWl6TEQ3WGxUOTZhOEtQckxzMUlGM2JU?oc=5"
-    },
-    {
-      "source": "24/7 Wall St.",
-      "published": "2026-11-06T18:05+00:00",
+      "source": "Yahoo Finance",
+      "published": "2026-11-07T01:46+00:00",
       "ticker": "RGTI",
-      "title": "IonQ Surges 18% on Beat and Raised Guidance; Rigetti Computing Jumps 18%, D-Wave Quantum Surges 16% - 24/7 Wall St.",
-      "summary": "Rigetti jumped along with IonQ as the results lifted its smaller rivals.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdkxrQVVGdWhpTFRCZ2xtVUpJS0NjME1uTDdQVllsMDctNlhGSHpydFp1T3oyT1dpUENmeWh2TnJEdDFDQWVOZkRTdEhJVXkzWGhkZ2c5ckVXZXM1VWxBOTl1M1FzdkFFOEJUQ21DSnJsd1o1dkpyUFIxMjV0TVM5NHpCMXFBaTd2Y3lMcFgzclE0ZFdLSnNTdWRIVVg1dUVmaW1aYVNWUUxlTGotcWJEbUh5amdEcXVKNzJjanFaNl82NTVHLUdqUlRNdlN3TXU4dXlwSQ?oc=5"
+      "title": "Rigetti Computing (RGTI) Q3 Earnings Loom, Shares Surge 19% - Yahoo Finance",
+      "summary": "Rigetti surged 19% ahead of its upcoming third-quarter earnings report.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONzZSRlJHMi1lOVdkVnlzSkMxUzlxeDhtWTlrbXZaSG52dkF1VkcyX3UyUXZjcXR3TS1RSTJTaGNRUWxBdDVUckJob095WThKUlIzVUhxQU1vTTY3RGZkWV9fVy1qV0NySmx3T1l0VXdnLTk3cmh5a3ppaHZFc3I2bmJYT2oyaDBtSGVhc0ktRUlnRFFJMzQyblgxT1J3cEEz?oc=5"
     },
     {
       "source": "Benzinga",
       "published": "2026-11-06T18:18+00:00",
       "ticker": "QBTS",
       "title": "Why Is D-Wave Quantum Stock Surging on Friday? - Benzinga",
-      "summary": "D-Wave shares surged on Friday as the sector rallied after IonQ's beat.",
+      "summary": "D-Wave rose sharply on Friday as the sector rallied on IonQ's results.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmQxMFY0ZFQxUjgtU1psSUJNU0oycmEzYlVoLWRnYmFfNGhfMUcwczdWcmN4d3hlY0RsTmEyVEVEM1ZlT2p0US1UVF9Ha2dWbHdLbXd3ZjY1Ry1KQTZlWlNQYjg5QXFNMUVlVzA5LUlEYkxjSEhjcXZ4UE9ZdnJ3bUdNRXdMUGhYOURtbE5MTl9iQjdrcDdob3ZSV0N3U1RtdkkyWmJjbVkxZw?oc=5"
+    },
+    {
+      "source": "Quantum Computing Report",
+      "published": "2026-11-07T20:35+00:00",
+      "ticker": "IONQ",
+      "title": "South Korea Launches 614 PFLOPS Hangang Supercomputer Ahead of May 2027 IonQ Quantum Link - Quantum Computing Report",
+      "summary": "South Korea launched a supercomputer ahead of a May 2027 quantum link with IonQ, pointing to future business.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaDBTU09uTEZpZWMyLVBXNVY1UWdlY3lBc3o5Q3lUOFNRX1EwMVRiSUIzNHJFby1FNVVQNDhpeGRRMVlyWlJ0YTUxZmxSTFBvZzVaWE1ncFExVloybzEwd01DUGxQT2tTVVhKbGs0aXFBR2Z1ZUpGOExUWkt3VHBHMXQ4Q1V1WHF1eGNjRTN4Nng0V2twakttOV9rWDZmelF1OHE0eWVnWEhYbEtvVE5ocVdfbHFiV25wSnV0SWQwTGtSc2PSAcgBQVVfeXFMT04xV1VYdDBTTkhKaWdCQXdXa0p1YXYyWmZ5alFuVEhLQWVPRjYyVEU0ejRzY0E1OHpKaFlITzVSV2RWY04zVUF1V2hIbmVhSVpmcXlkd2Y4VkF5SHZIQ2JjTEtXYUZpSHpCQldYXzJ0MWF3dGRYVWtHRXZVSlFCWGRGZUFtVzZnM2p5NlZaSWxoN21nU2tOR2dKMHplMWlSeXBqY1hBSmk2ak05OWJRR212anRPNkt6VE1UWTVpSEl4OXZjZUcteWk?oc=5"
     }
   ],
   "science": {
     "featured": {
       "tag": "sw",
-      "title": "AI-assisted proof sets a limit on quantum speedups",
-      "summary": "A mathematical proof, helped by AI, settles the Aaronson-Ambainis conjecture, a question open since 2008. It shows a limit on how far quantum computers can outperform classical algorithms on unstructured inputs, which helps pin down where dramatic speedups are possible. It is a theoretical result, so it guides which problems to pursue and does not build a faster machine.",
+      "title": "AI-assisted proof settles when quantum computers can truly win",
+      "summary": "A mathematical proof resolved a conjecture open since 2008 about when quantum computers can achieve huge advantages over classical ones. It sets a limit on their ability to outperform classical algorithms on unstructured inputs, helping separate realistic goals from hype. It is theory, so it guides where to look for useful quantum speedups rather than building any hardware.",
       "source": "The Quantum Insider",
       "published": "2026-11-06T21:28+00:00",
       "url": "https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/"
     },
     "items": [
       {
-        "tag": "hw",
-        "title": "Quantum circuit part built in a standard silicon chip",
-        "summary": "Researchers created a superinductor inside a silicon chip made with a commercial manufacturing process.",
+        "tag": "sw",
+        "title": "Study maps 24 problems where quantum computers could help",
+        "summary": "Researchers from industry and academia compiled a guide to 24 problems with possible quantum speedups and the conditions needed to make them useful.",
+        "source": "The Quantum Insider",
+        "published": "2026-11-06T15:23+00:00",
+        "url": "https://thequantuminsider.com/2026/11/06/study-maps-24-problems-where-quantum-computers-could-gain-an-edge/"
+      },
+      {
+        "tag": "en",
+        "title": "Quantum-ready circuit part built in a standard silicon chip",
+        "summary": "A superinductor was created inside a silicon chip made with a commercial manufacturing process.",
         "source": "Phys.org",
         "published": "2026-11-04T22:40+00:00",
         "url": "https://phys.org/news/2026-11-superinductor-silicon-circuit.html"
@@ -889,19 +897,11 @@
       },
       {
         "tag": "hw",
-        "title": "A detector that counts photons",
-        "summary": "A physicist is developing light detectors that can count exactly how many photons arrive at once, a key part for optical quantum computers.",
+        "title": "Detector that counts photons for optical quantum computers",
+        "summary": "A physicist is developing light detectors that can count exactly how many photons arrive together, a building block for optical quantum computers.",
         "source": "Phys.org",
         "published": "2026-11-05T21:20+00:00",
         "url": "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html"
-      },
-      {
-        "tag": "nw",
-        "title": "Single molecules as quantum network building blocks",
-        "summary": "Single molecules could help send quantum information as light between qubits across long distances.",
-        "source": "Phys.org",
-        "published": "2026-11-02T17:00+00:00",
-        "url": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html"
       }
     ]
   },
@@ -911,14 +911,14 @@
   },
   "sentiment": {
     "today": {
-      "science": 73,
-      "stock": 19,
+      "science": 83,
+      "stock": 24,
       "nScience": 25,
       "nStock": 30,
-      "headlineScore": 66,
+      "headlineScore": 74,
       "momentumScore": -92,
-      "reasonScience": "Research news was positive, with a proof clarifying the limits of quantum speedups, a silicon chip component and a simple error-cutting measurement.",
-      "reasonStock": "Quantum stocks rallied on the last trading day, with IonQ up 23.4% after record results and a raised outlook, and nearly every tracked ticker higher."
+      "reasonScience": "Research news was positive, led by a proof clarifying the limits of quantum speedups, a silicon chip component and a simple error-cutting measurement.",
+      "reasonStock": "Quantum stocks rallied on the last trading day, with IonQ up 23.4% after results and a raised outlook, and nearly every tracked ticker higher."
     },
     "monthly": [
       {
@@ -941,12 +941,12 @@
       },
       {
         "month": "2026-11",
-        "science": 64,
-        "stock": -25,
-        "articlesScience": 300,
-        "articlesStock": 210,
-        "reasonScience": "November science news has been steadily positive, with progress on linked processors, error correction and chip components, plus today's theory result on speedup limits.",
-        "reasonStock": "Quantum stocks started November with a hard selloff and weak days, then recovered, and today's IonQ-led rally was the strongest move of the month so far."
+        "science": 65,
+        "stock": -19,
+        "articlesScience": 325,
+        "articlesStock": 240,
+        "reasonScience": "November's science news has been steadily positive, with progress in linked processors, faster gates, error correction and a proof clarifying quantum speedup limits.",
+        "reasonStock": "November began with a hard sell-off to yearly lows, followed by mixed days and then a sharp rally on Friday as IonQ's raised outlook lifted the sector."
       }
     ],
     "method": {
@@ -969,7 +969,7 @@
       ],
       "expectedListing": "",
       "latestFunding": "$1.5B Series E, May 2026 ($10.5B valuation)",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://www.nist.gov/news-events/news/2026/09/department-commerce-announces-finalization-chips-rd-award-psiquantum"
     },
     {
@@ -987,7 +987,7 @@
       ],
       "expectedListing": "Q4 2026 (planned)",
       "latestFunding": "$45M convertible note financing, September 18, 2026",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://thequantuminsider.com/2026/09/29/eigenq-svaq-nasdaq-business-combination/"
     },
     {
@@ -1004,7 +1004,7 @@
       ],
       "expectedListing": "H2 2026 (planned)",
       "latestFunding": "SPAC deal at $3.5B equity valuation, announced May 2026",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://www.sec.gov/Archives/edgar/data/0002057030/000121390026072174/ea029601702-425_axiom1.htm"
     },
     {
@@ -1018,7 +1018,7 @@
       "part": [],
       "expectedListing": "TBD (2026)",
       "latestFunding": "S-1 Amendment No. 2 filed September 11, 2026",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm"
     },
     {
@@ -1035,7 +1035,7 @@
       ],
       "expectedListing": "TBD (2026, pending Nasdaq approval)",
       "latestFunding": "Reg A+ offering, up to $24M, Amendment No. 2 filed Septembe…",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://www.sec.gov/Archives/edgar/data/0002145466/000121390026102289/ea0305892-1aa2_naoris.htm"
     },
     {
@@ -1049,7 +1049,7 @@
       "part": [],
       "expectedListing": "TBD (2026, pending CSRC/STAR Market app…",
       "latestFunding": "Series C, April 2026 (~7B yuan / $1.04B valuation)",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://thequantuminsider.com/2026/08/07/turingq-joins-chinas-ipo-pipeline-as-quantum-firms-push-toward-commercialization/"
     },
     {
@@ -1063,7 +1063,7 @@
       "part": [],
       "expectedListing": "H1 2027 (planned)",
       "latestFunding": "SPAC deal at $80M pre-money valuation",
-      "checked": "2026-11-07",
+      "checked": "2026-11-08",
       "source": "https://thequantuminsider.com/2026/10/07/kqc-quantum-nasdaq-charlton-aria-merger/"
     }
   ],

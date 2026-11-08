@@ -459,6 +459,16 @@
       "momentumScore": -92,
       "reasonScience": "Research news was positive, with a proof clarifying the limits of quantum speedups, a silicon chip component and a simple error-cutting measurement.",
       "reasonStock": "Quantum stocks rallied on the last trading day, with IonQ up 23.4% after record results and a raised outlook, and nearly every tracked ticker higher."
+    },
+    "2026-11-08": {
+      "science": 83,
+      "stock": 24,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": 74,
+      "momentumScore": -92,
+      "reasonScience": "Research news was positive, led by a proof clarifying the limits of quantum speedups, a silicon chip component and a simple error-cutting measurement.",
+      "reasonStock": "Quantum stocks rallied on the last trading day, with IonQ up 23.4% after results and a raised outlook, and nearly every tracked ticker higher."
     }
   },
   "monthReasons": {
@@ -471,8 +481,8 @@
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
     },
     "2026-11": {
-      "science": "November science news has been steadily positive, with progress on linked processors, error correction and chip components, plus today's theory result on speedup limits.",
-      "stock": "Quantum stocks started November with a hard selloff and weak days, then recovered, and today's IonQ-led rally was the strongest move of the month so far."
+      "science": "November's science news has been steadily positive, with progress in linked processors, faster gates, error correction and a proof clarifying quantum speedup limits.",
+      "stock": "November began with a hard sell-off to yearly lows, followed by mixed days and then a sharp rally on Friday as IonQ's raised outlook lifted the sector."
     }
   }
 }
