@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-25",
-    "marketNews": [
-      {
-        "source": "Quantum Computing Report",
-        "ticker": "IONQ",
-        "title": "New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "What Could IonQ (IONQ) Gain From Its First University Based Quantum Centre? - Yahoo Finance"
-      },
-      {
-        "source": "TIKR.com",
-        "ticker": "QBTS",
-        "title": "D-Wave Just Hit a New 52-Week Low, Down 62% in a Year. Is the Selling Overdone? - TIKR.com"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "RGTI",
-        "title": "Funding Deal Might Change The Case For Investing In Rigetti Computing Stock (RGTI) - Simply Wall Street"
-      },
-      {
-        "source": "Simply Wall Street",
-        "ticker": "QBTS",
-        "title": "Why D Wave Quantum (QBTS) Could Be 67% Undervalued On Lawsuit Fallout - Simply Wall Street"
-      }
-    ]
-  },
-  {
     "date": "2026-10-26",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Quantum Computing Report",
         "ticker": "IONQ",
         "title": "South Korea Launches 614 PFLOPS Hangang Supercomputer Ahead of May 2027 IonQ Quantum Link - Quantum Computing Report"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "marketNews": [
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "IONQ",
+        "title": "IonQ Announces Record Q3 2026 Revenues of $173.8M and Raises FY 2026 Guidance to Over $505M as Backlog Reaches $1.2B - Quantum Computing Report"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "RGTI",
+        "title": "Rigetti Gained 19% Friday. Its $100 Million CHIPS Award Hasn’t Reached Revenue Yet - TIKR.com"
+      },
+      {
+        "source": "TIKR.com",
+        "ticker": "QBTS",
+        "title": "D-Wave Rallied 18% on IonQ’s Guidance. Its Own November 10 Report Has to Earn It - TIKR.com"
+      },
+      {
+        "source": "Evertiq",
+        "ticker": "IONQ",
+        "title": "IonQ completes acquisition of Zero Trust security firm Elisity - Evertiq"
+      },
+      {
+        "source": "GuruFocus",
+        "ticker": "QUBT",
+        "title": "Quantum Computing Inc (QUBT) Set to Report Q3 Earnings Amid Mixed Valuation Signals - GuruFocus"
       }
     ]
   }
