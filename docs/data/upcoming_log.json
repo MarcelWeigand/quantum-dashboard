@@ -380,5 +380,13 @@
       "No new companies added: Quantinuum (QNT) and Pasqal (PSQL) are already tracked as listed. Generic SPACs such as Laris Growth are blank checks, not quantum operating companies.",
       "Restored the truncated text in the Naoris latestFunding field and the TuringQ expectedListing field."
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "changes": [
+      "No substantive changes: searches found no new news on the tracked entries.",
+      "Restored the truncated text in Naoris's latestFunding and TuringQ's expectedListing (original wording was cut off); no facts changed.",
+      "No new companies added: the other quantum listings and filings that surfaced (Pasqal/PSQL, Quantinuum/QNT, IQM/IQMX, Xanadu/XNDU, Horizon Quantum/HQ) are already tracked as listed stocks."
+    ]
   }
 ]

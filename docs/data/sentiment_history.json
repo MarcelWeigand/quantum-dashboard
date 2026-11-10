@@ -479,6 +479,16 @@
       "momentumScore": -92,
       "reasonScience": "Research news was positive, led by a proof on the limits of quantum speedups, IBM's new Chicago system and a silicon chip component.",
       "reasonStock": "Quantum stocks rallied on the last trading day, with IonQ up 23.4% on record results and every tracked ticker flat or higher except IBM."
+    },
+    "2026-11-10": {
+      "science": 77,
+      "stock": -6,
+      "nScience": 50,
+      "nStock": 30,
+      "headlineScore": 22,
+      "momentumScore": -70,
+      "reasonScience": "Research news was positive, led by Google's AI-designed leaner quantum programs, a low-loss photonic switch and new trapped-ion and superconducting simulations.",
+      "reasonStock": "Quantum stocks all closed higher or flat on Monday, led by Horizon Quantum up 20.7%, though D-Wave's mixed quarter had reports of its shares falling on Tuesday."
     }
   },
   "monthReasons": {
@@ -491,8 +501,8 @@
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
     },
     "2026-11": {
-      "science": "November science news has been steadily positive, with progress in linked processors, faster gates, error correction and chip-compatible parts, and now a proof clarifying quantum speedup limits.",
-      "stock": "Stocks started November with a hard sell-off, bounced and wobbled midweek, then rallied sharply on Friday as IonQ's record results and raised outlook lifted the sector."
+      "science": "November's research news has been steadily positive, with advances in linked processors, faster gates, error correction, silicon chip parts and now AI-optimised quantum programs.",
+      "stock": "November began with a hard sell-off to 52-week lows, then turned volatile with a sharp IonQ-led rally after earnings, and Monday's broad gains were followed by D-Wave earnings jitters."
     }
   }
 }

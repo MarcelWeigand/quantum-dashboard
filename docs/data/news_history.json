@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-26",
-    "marketNews": [
-      {
-        "source": "GuruFocus",
-        "ticker": "IONQ",
-        "title": "IonQ Q3 earnings on deck: What to expect - GuruFocus"
-      },
-      {
-        "source": "PR Newswire",
-        "ticker": "QBTS",
-        "title": "INVESTOR DEADLINE: D-Wave Quantum Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit Before December 15, 2026 Deadline - GIL - PR Newswire"
-      },
-      {
-        "source": "Quantum Computing Report",
-        "ticker": "IONQ",
-        "title": "New Mexico Deploys JTIP Workforce Grants to Support Quantum Hardware Hiring at IonQ and Bandelier Technologies - Quantum Computing Report"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "What Could IonQ (IONQ) Gain From Its First University Based Quantum Centre? - Yahoo Finance"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "QBTS",
-        "title": "D-Wave Quantum to Participate in Upcoming Investor Conferences - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-27",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "GuruFocus",
         "ticker": "QUBT",
         "title": "Quantum Computing Inc (QUBT) Set to Report Q3 Earnings Amid Mixed Valuation Signals - GuruFocus"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "marketNews": [
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ Positioned as Market Shaper in Gartner Quantum Report - IonQ"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Enters Federal Market Through New Public Sector Distribution Deal - Yahoo Finance"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "QBTS",
+        "title": "Earnings Snapshot: D-Wave Quantum posts mixed Q3: Revenue beats estimates, EPS misses, bookings fall 19% - TradingView"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QUBT",
+        "title": "Quantum Computing Inc. (QUBT) Reports Q3 Loss, Beats Revenue Estimates - Yahoo Finance"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "IONQ",
+        "title": "Cantor Fitzgerald Cut Its IonQ Target to $60. It Still Sees 84% Upside - Yahoo Finance"
       }
     ]
   }
