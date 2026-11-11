@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-27",
-    "marketNews": [
-      {
-        "source": "IonQ",
-        "ticker": "IONQ",
-        "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion - IonQ"
-      },
-      {
-        "source": "ForkLog",
-        "ticker": "QTUM",
-        "title": "Intel to acquire Classiq to build full quantum stack - ForkLog"
-      },
-      {
-        "source": "Morningstar",
-        "ticker": "QBTS",
-        "title": "QBTS Investors Have Opportunity to Lead D-Wave Quantum Inc. Securities Fraud Lawsuit - Morningstar"
-      },
-      {
-        "source": "TradingView",
-        "ticker": "IONQ",
-        "title": "IonQ Q3 earnings on deck: What to expect - TradingView"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "QNC",
-        "title": "Quantum Computing Inc. to Host Third Quarter 2026 Financial Results and Company Update Call on Monday, November 9, 2026 - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-28",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "Yahoo Finance",
         "ticker": "IONQ",
         "title": "Cantor Fitzgerald Cut Its IonQ Target to $60. It Still Sees 84% Upside - Yahoo Finance"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "marketNews": [
+      {
+        "source": "marketscreener.com",
+        "ticker": "RGTI",
+        "title": "Earnings Flash (RGTI) Rigetti Computing, Inc. Reports Q3 Revenue $1.4M, vs. FactSet Est of $3.5M - marketscreener.com"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing Stock Sinks Nearly 7% After Hours as CFO Signals Another Year of Heavy Spending: CapEx Won’t Return to 2025 Levels - TradingView"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QBTS",
+        "title": "Why D-Wave Quantum Stock Crashed Today - Yahoo Finance"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "QBTS",
+        "title": "Needham maintains D-Wave Quantum at Buy, lowers price target to $20 from $40 - TradingView"
+      },
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "IonQ Positioned as Market Shaper in Gartner Quantum Report - IonQ"
       }
     ]
   }

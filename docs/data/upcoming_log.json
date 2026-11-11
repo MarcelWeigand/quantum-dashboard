@@ -388,5 +388,12 @@
       "Restored the truncated text in Naoris's latestFunding and TuringQ's expectedListing (original wording was cut off); no facts changed.",
       "No new companies added: the other quantum listings and filings that surfaced (Pasqal/PSQL, Quantinuum/QNT, IQM/IQMX, Xanadu/XNDU, Horizon Quantum/HQ) are already tracked as listed stocks."
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "changes": [
+      "No changes: searches found no new reliably sourced announcements, filings or completed listings; Classiq and Quantum Art SPAC exploration is unconfirmed so not added",
+      "Restored two truncated fields (Naoris latestFunding, TuringQ expectedListing) to their full wording"
+    ]
   }
 ]
