@@ -1,8 +1,10 @@
-name: Daily data update
+name: Weekly data update
 
 on:
   schedule:
-    - cron: "0 6 * * *" # 06:00 UTC every day; GitHub may start it a few minutes late
+    # 01:00 UTC Saturday = Friday evening US time, after the market close. Runs just before
+    # weekly.yml (02:00 UTC), so the weekly summary sees this week's fresh headlines.
+    - cron: "0 1 * * 6"
   workflow_dispatch: # lets you run it by hand from the Actions tab
 
 permissions:
@@ -44,6 +46,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Daily data update $(date -u +%F)"
+            git commit -m "Weekly data update $(date -u +%F)"
             git push
           fi

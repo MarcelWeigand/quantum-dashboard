@@ -1,5 +1,5 @@
 'use strict';
-/* Quantum Daily front end: renders the four pages from data/data.json.
+/* Quantum Weekly front end: renders the four pages from data/data.json.
    All text that comes from feeds or Claude goes through esc(); links go through safeUrl(). */
 
 const SEG = {
@@ -78,7 +78,7 @@ function masthead(active, d) {
           <ellipse cx="20" cy="20" rx="17" ry="6.5" fill="none" stroke="#7fd1c7" stroke-width="1.5" transform="rotate(-60 20 20)"/>
           <circle cx="20" cy="20" r="2.6" fill="#7fd1c7"/>
         </svg>
-        <div class="brand-name">Quantum Daily</div>
+        <div class="brand-name">Quantum Weekly</div>
       </div>
       <div class="meta"><span>${esc(fmtLong(d.date))}</span><span>Updated ${esc(fmtStamp(d.generatedAt))}${asOf}</span></div>
     </div>
@@ -123,7 +123,7 @@ function sentInfo(d, key) {
 function fixedSpark(series, w, h, color) {
   const pts = [];
   series.forEach((v, i) => { if (num(v)) pts.push(`${(series.length > 1 ? i * w / (series.length - 1) : w / 2).toFixed(1)},${(h / 2 - (v / 100) * (h / 2 - 3)).toFixed(1)}`); });
-  if (pts.length < 2) return `<span class="small" style="max-width:180px;text-align:right">Trend builds up as the daily job collects data</span>`;
+  if (pts.length < 2) return `<span class="small" style="max-width:180px;text-align:right">Trend builds up as the weekly job collects data</span>`;
   return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true"><line x1="0" y1="${h / 2}" x2="${w}" y2="${h / 2}" stroke="#2f3846" stroke-dasharray="3 4"/><polyline points="${pts.join(' ')}" fill="none" stroke="${color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/></svg>`;
 }
 
@@ -203,8 +203,8 @@ function renderOverview(d, weekly) {
   const arxiv = d.arxiv && d.arxiv.total ? d.arxiv : null;
 
   const brief = d.brief && d.brief.headline
-    ? `<div class="col gap14 s8"><div class="eyebrow">Today in quantum</div><h1 class="h1">${esc(d.brief.headline)}</h1></div><div class="lead s4">${esc(d.brief.summary)}</div>`
-    : `<div class="col gap14 s8"><div class="eyebrow">Today in quantum</div><h1 class="h1">The first daily brief is on its way.</h1></div><div class="lead s4">It appears after the next scheduled update.</div>`;
+    ? `<div class="col gap14 s8"><div class="eyebrow">This week in quantum</div><h1 class="h1">${esc(d.brief.headline)}</h1></div><div class="lead s4">${esc(d.brief.summary)}</div>`
+    : `<div class="col gap14 s8"><div class="eyebrow">This week in quantum</div><h1 class="h1">The first weekly brief is on its way.</h1></div><div class="lead s4">It appears after the next scheduled update.</div>`;
 
   const watch = est.map((s) => `<div class="trow t-watch">
       <div class="col gap8"><div class="row baseline gap10"><span class="sym">${esc(s.sym)}</span><span class="small">${esc(s.name)} · ${esc(s.approach)}</span></div>
@@ -251,7 +251,7 @@ function renderOverview(d, weekly) {
         <div class="row between wrap gap12" style="padding:18px 0"><span class="body">Smaller listed companies and upcoming listings</span><a class="link-arrow" href="markets.html">Open Markets →</a></div>
       </section>
       <section class="card-lg s5 col" style="padding-bottom:12px">
-        <div class="card-head"><h2 class="h2">Market news</h2><span class="small">Top stories today</span></div>${news}
+        <div class="card-head"><h2 class="h2">Market news</h2><span class="small">Top stories this week</span></div>${news}
       </section>
     </div>
     ${science}`);
@@ -300,7 +300,7 @@ function renderMarkets(d) {
     ${table(est, 'Established', 'the main names in the industry', 'No established companies match this focus area.')}
     ${table(emg, 'Emerging &amp; smaller listed', 'newer or smaller companies, higher risk and volatility', 'No smaller listed companies match this focus area.')}
     <section class="col gap20">
-      <div class="card-head" style="margin:0"><h2 class="h2-lg">Upcoming &amp; going public</h2><span class="small">${count(upc.length)} · status refreshed daily from filings and news</span></div>
+      <div class="card-head" style="margin:0"><h2 class="h2-lg">Upcoming &amp; going public</h2><span class="small">${count(upc.length)} · status refreshed weekly from filings and news</span></div>
       <div class="grid g3">${cards}</div>${upc.length ? '' : '<div class="empty" style="padding:8px 0">No upcoming listings match this focus area.</div>'}
     </section>`, 'Market data is delayed and for information only, not investment advice. Smaller and newly listed stocks can be very volatile.');
 }
@@ -353,8 +353,8 @@ function renderSentiment(d) {
   const steps = [
     ['01', 'Collect', 'Every day the job gathers headlines and abstracts: science feeds for the technology lens, financial news for the stock lens.'],
     ['02', 'Classify', 'Claude labels each item positive (+1), neutral (0) or negative (−1), with a confidence level.'],
-    ['03', 'Daily score', 'The confidence-weighted average label times 100, giving a score from −100 to +100.'],
-    ['04', 'Monthly score', 'The average of the daily scores, weighted by article count. The most common reasons become the summary sentence.'],
+    ['03', 'Weekly score', 'The confidence-weighted average label times 100, giving a score from −100 to +100.'],
+    ['04', 'Monthly score', 'The average of the weekly scores, weighted by article count. The most common reasons become the summary sentence.'],
   ].map(([n, t, b]) => `<div class="col gap10"><span class="mono" style="font-size:13px;color:var(--accent)">${n}</span><div style="font-size:17px;font-weight:500">${t}</div><div class="body" style="line-height:1.55">${b}</div></div>`).join('');
 
   const barW = (v) => Math.round(Math.abs(v) / 100 * 56);
@@ -370,7 +370,7 @@ function renderSentiment(d) {
         <div class="card-head" style="margin:0"><h2 class="h2">12-month trend</h2>
           <div class="row gap24 soft" style="font-size:13px"><span class="row gap8"><span class="swatch" style="background:${SCI};width:20px"></span>Science &amp; technology</span><span class="row gap8"><span class="swatch" style="background:${STK};width:20px"></span>Stock market</span></div></div>
         ${chart}
-        <div class="small">Monthly average of daily scores, from −100 (very negative) to +100 (very positive). History builds up one day at a time, starting from the first run.</div>
+        <div class="small">Monthly average of weekly scores, from −100 (very negative) to +100 (very positive). History builds up one week at a time, starting from the first run.</div>
       </section>
       <section class="card-lg col gap20 s4"><div class="card-head" style="margin:0"><h2 class="h2">Why this month</h2><span class="mono small">${esc(monthLabel)}</span></div>
         ${lens('Science &amp; technology', SCI, sci)}${lens('Stock market', STK, stk)}</section>
@@ -387,7 +387,7 @@ function renderSentiment(d) {
       <div class="small" style="line-height:1.5">The score is an AI-assisted estimate, not a measurement. Months with few articles are noisy, so every month shows how many articles it is based on.</div>
     </section>
     <section class="card-lg col" style="padding-bottom:8px"><div class="card-head"><h2 class="h2">Monthly log</h2><span class="small">Latest first</span></div>
-      <div class="scroll-x"><div class="trow thead t-log"><span>Month</span><span>Science</span><span>Stocks</span><span>Reason: science</span><span>Reason: stocks</span></div>${log || '<div class="empty">The first month appears after the first daily run.</div>'}</div></section>`,
+      <div class="scroll-x"><div class="trow thead t-log"><span>Month</span><span>Science</span><span>Stocks</span><span>Reason: science</span><span>Reason: stocks</span></div>${log || '<div class="empty">The first month appears after the first weekly run.</div>'}</div></section>`,
   'Sentiment is for information only, not investment advice.');
 }
 
@@ -470,7 +470,7 @@ async function boot() {
     const weekly = page === 'overview' ? await fetchJsonSafe('data/weekly.json') : null;
     const draw = () => { root.innerHTML = page === 'overview' ? renderOverview(data, weekly) : RENDER[page](data); };
     draw();
-    document.title = 'Quantum Daily · ' + TITLES[page];
+    document.title = 'Quantum Weekly · ' + TITLES[page];
     if (page === 'markets') {
       root.addEventListener('click', (e) => {
         const b = e.target.closest('[data-filter]');
