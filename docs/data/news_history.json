@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-28",
-    "marketNews": [
-      {
-        "source": "IonQ",
-        "ticker": "IONQ",
-        "title": "IonQ Secures $7.5M AFRL Award for Quantum Network Expansion - IonQ"
-      },
-      {
-        "source": "TIKR.com",
-        "ticker": "RGTI",
-        "title": "IonQ Jumped 7%, Rigetti Up 8% on Intel’s $2.3 Billion Quantum Buy: “Full-Stack Quantum Computing Business” - TIKR.com"
-      },
-      {
-        "source": "Quantum Zeitgeist",
-        "ticker": "QBTS",
-        "title": "LG CNS Will Use D-Wave's Quantum Tech In South Korea And Beyond - Quantum Zeitgeist"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "Rigetti Stock In Focus Ahead Of Earnings And CHIPS Act Backing - Yahoo Finance"
-      },
-      {
-        "source": "Quantum Computing Report",
-        "ticker": "IONQ",
-        "title": "IonQ Deploys Intercontinental Hybrid QKD and PQC Architecture Securing Enterprise Links Between Geneva and Seoul - Quantum Computing Report"
-      }
-    ]
-  },
-  {
     "date": "2026-10-30",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "IonQ",
         "ticker": "IONQ",
         "title": "IonQ Positioned as Market Shaper in Gartner Quantum Report - IonQ"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "marketNews": [
+      {
+        "source": "Benzinga",
+        "ticker": "RGTI",
+        "title": "Rigetti Stock Slips After Q3 Earnings Miss - Benzinga"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "QNC",
+        "title": "Quantum Computing Inc. Reports Q3 2026 Financial Results: Revenue Reaches $9.5M, Surpassing First-Half Total on Acquired Photonics and Semiconductor Integration - Quantum Computing Report"
+      },
+      {
+        "source": "IonQ",
+        "ticker": "IONQ",
+        "title": "The “Prove It” Stage: What DARPA’s Stage C Means for IonQ - IonQ"
+      },
+      {
+        "source": "Yahoo Finance",
+        "ticker": "QBTS",
+        "title": "D Wave Quantum (QBTS) Stock Price Sinks As Q3 Results Expose Cash Burn - Yahoo Finance"
+      },
+      {
+        "source": "EIN News",
+        "ticker": "RGTI",
+        "title": "Quantum Elements’ Constellation Platform Leveraged by Rigetti to Project System Performance at Scale - EIN News"
       }
     ]
   }

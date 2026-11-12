@@ -499,6 +499,16 @@
       "momentumScore": -71,
       "reasonScience": "Research news was positive, led by a trapped-ion simulation of a quantum interference effect and AI-designed leaner quantum circuits.",
       "reasonStock": "Quantum stocks were weak after Rigetti's revenue miss and D-Wave's mixed quarter, with RGTI down 6.4% and QBTS down 8.6% on the last trading day."
+    },
+    "2026-11-12": {
+      "science": 87,
+      "stock": -25,
+      "nScience": 25,
+      "nStock": 30,
+      "headlineScore": -9,
+      "momentumScore": -62,
+      "reasonScience": "Research news was positive, led by Qunova's 80-qubit chemistry result, a $290 million raise for Q-CTRL and new trapped-ion and qubit experiments.",
+      "reasonStock": "Quantum stocks were mixed on the last trading day: QTUM rose 3.1% and QNC 3.3%, but Rigetti fell 8.6% and IonQ 2.7%."
     }
   },
   "monthReasons": {
@@ -511,8 +521,8 @@
       "stock": "October has been choppy and mostly weak, with IonQ's $2 billion offering, repeated sharp sell-offs and a few rebounds, ending the month with another steep drop."
     },
     "2026-11": {
-      "science": "November research news has been steadily positive, with advances in linked processors, faster gates, error correction and silicon components, and today added AI-designed circuits and a trapped-ion simulation.",
-      "stock": "November has been volatile: early losses and a bounce, then IonQ's 23.4% jump on its results, followed by earnings-driven falls in Rigetti and D-Wave."
+      "science": "November research news has been steadily positive, with linked processors, faster gates, error-correction advances, AI-designed leaner circuits and now an 80-qubit chemistry result.",
+      "stock": "November began with a hard selloff, then swung to a sharp IonQ-led rally after its results, and turned weaker again this week on Rigetti's miss and D-Wave's mixed quarter."
     }
   }
 }
