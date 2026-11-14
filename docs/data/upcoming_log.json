@@ -403,5 +403,13 @@
       "Not added: Pasqal (reported as listed on Nasdaq on Aug 28 and no ticker confirmed), Classiq and Quantum Art (only reported as exploring SPACs). None could be confirmed from a reliable primary source.",
       "Shortened two truncated fields: Naoris latestFunding and TuringQ expectedListing."
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "changes": [
+      "No status changes: searches found no new reliable reports on any listed entry (EigenQ S-4 effectiveness, Terra Quantum F-4, and SeeQC IPO pricing are all still unconfirmed).",
+      "Completed the truncated latestFunding text for Naoris Quantum Protocol and the truncated expectedListing text for TuringQ, using the dates and wording already in their entries.",
+      "No new companies added: Classiq and Quantum Art were only reported as exploring US listings, with no announcement or filing. Xanadu, IQM, Pasqal, Infleqtion, Horizon Quantum and Quantinuum are alread…"
+    ]
   }
 ]

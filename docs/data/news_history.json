@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-10-30",
-    "marketNews": [
-      {
-        "source": "Yahoo Finance",
-        "ticker": "IONQ",
-        "title": "IONQ Below Key Moving Averages: Buy, Hold or Sell Before Q3 Earnings? - Yahoo Finance"
-      },
-      {
-        "source": "The Quantum Insider",
-        "ticker": "IONQ",
-        "title": "IonQ Receives $7.5 Million from AFRL for Quantum Networking - The Quantum Insider"
-      },
-      {
-        "source": "Quantum Computing Report",
-        "ticker": "IONQ",
-        "title": "EPB and IonQ Deploy Hybrid Trapped-Ion Algorithms on Forte Enterprise to Optimize Power Grid Topology - Quantum Computing Report"
-      },
-      {
-        "source": "Quantum Zeitgeist",
-        "ticker": "QBTS",
-        "title": "LG CNS Will Use D-Wave's Quantum Tech In South Korea And Beyond - Quantum Zeitgeist"
-      },
-      {
-        "source": "Yahoo Finance",
-        "ticker": "RGTI",
-        "title": "Here's Why Rigetti Computing, Inc. (RGTI) Fell More Than Broader Market - Yahoo Finance"
-      }
-    ]
-  },
-  {
     "date": "2026-10-31",
     "marketNews": [
       {
@@ -416,6 +386,36 @@
         "source": "EIN News",
         "ticker": "RGTI",
         "title": "Quantum Elements’ Constellation Platform Leveraged by Rigetti to Project System Performance at Scale - EIN News"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "marketNews": [
+      {
+        "source": "Benzinga",
+        "ticker": "IONQ",
+        "title": "IonQ Shares Drop on Sudden Leadership Shake-Up - Benzinga"
+      },
+      {
+        "source": "Quantum Computing Report",
+        "ticker": "RGTI",
+        "title": "Rigetti Computing Integrates Quantum Elements Constellation Platform into Error Correction Pipeline - Quantum Computing Report"
+      },
+      {
+        "source": "TradingView",
+        "ticker": "QBTS",
+        "title": "Can D-Wave's Liquidity Position Mitigate Rising Cash Burn? - TradingView"
+      },
+      {
+        "source": "Yahoo Finance Singapore",
+        "ticker": "IONQ",
+        "title": "IonQ (IONQ) Reaches DARPA Stage C With Its Walking Cat Quantum Design - Yahoo Finance Singapore"
+      },
+      {
+        "source": "Data Center Dynamics",
+        "ticker": "QTUM",
+        "title": "Quantum earnings Q3 2026: D-Wave, IonQ, IQM, Quantinuum, Rigetti, and Xanadu publish third-quarter results alongside newly public Pasqal - Data Center Dynamics"
       }
     ]
   }
