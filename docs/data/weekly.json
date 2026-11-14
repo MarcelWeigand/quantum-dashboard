@@ -1,95 +1,95 @@
 {
-  "weekEnding": "2026-11-06",
-  "generatedAt": "2026-11-07T08:28:45+00:00",
+  "weekEnding": "2026-11-13",
+  "generatedAt": "2026-11-14T08:43:07+00:00",
   "summary": {
-    "headline": "Quantum stocks slid hard as AI-spending fears, price-target cuts and Xanadu's US listing hit the sector; QTUM fell 12.6%.",
-    "body": "The quantum ETF QTUM dropped 12.6% as a broader tech selloff, analyst price-target cuts (B. Riley on Rigetti, Wedbush on IonQ) and Xanadu's US listing news weighed on the group. Smaller names fell hardest: HQ -25.3%, QNC -22.5%, PSQL -17.0%. IonQ gained 2.8% despite a 10.5% one-day drop, after raising its revenue forecast on $173.8M quarterly sales; D-Wave faced lawsuit notices."
+    "headline": "Quantum stocks mostly rallied on IonQ's record Q3 and raised guidance, though Rigetti and D-Wave sold off after weak earnings.",
+    "body": "IonQ posted record Q3 revenue of $173.8M, raised FY2026 guidance above $505M and reached DARPA Stage C, lifting the QTUM ETF 9.1% and IONQ 9.3%, though IonQ fell Saturday on a leadership shake-up. Rigetti (-2.3%) missed Q3 revenue estimates ($1.4M vs. $3.5M) and flagged heavy spending. D-Wave (+5.6%) sank after earnings on cash burn and falling bookings, with Needham cutting its target to $20. Standouts: ARQQ +20.2% and QNT +18.7%; BTQ fell 14.4%."
   },
   "movers": [
     {
       "sym": "QTUM",
       "name": "Defiance Quantum ETF",
-      "weekChgPct": -12.6
+      "weekChgPct": 9.1
     },
     {
       "sym": "IONQ",
       "name": "IonQ",
-      "weekChgPct": 2.8
+      "weekChgPct": 9.3
     },
     {
       "sym": "RGTI",
       "name": "Rigetti",
-      "weekChgPct": -2.6
+      "weekChgPct": -2.3
     },
     {
       "sym": "QBTS",
       "name": "D-Wave",
-      "weekChgPct": -7.6
+      "weekChgPct": 5.6
     },
     {
       "sym": "QUBT",
       "name": "Quantum Computing Inc.",
-      "weekChgPct": -7.2
+      "weekChgPct": -1.2
     },
     {
       "sym": "IBM",
       "name": "IBM",
-      "weekChgPct": -5.1
+      "weekChgPct": 0.0
     },
     {
       "sym": "GOOGL",
       "name": "Alphabet",
-      "weekChgPct": 0.3
+      "weekChgPct": 4.7
     },
     {
       "sym": "QNC",
       "name": "Quantum eMotion",
-      "weekChgPct": -22.5
+      "weekChgPct": 4.7
     },
     {
       "sym": "LAES",
       "name": "SEALSQ",
-      "weekChgPct": -15.9
+      "weekChgPct": 1.6
     },
     {
       "sym": "ARQQ",
       "name": "Arqit",
-      "weekChgPct": -9.3
+      "weekChgPct": 20.2
     },
     {
       "sym": "BTQ",
       "name": "BTQ Technologies",
-      "weekChgPct": -13.9
+      "weekChgPct": -14.4
     },
     {
       "sym": "QNT",
       "name": "Quantinuum",
-      "weekChgPct": 0.2
+      "weekChgPct": 18.7
     },
     {
       "sym": "XNDU",
       "name": "Xanadu",
-      "weekChgPct": -14.1
+      "weekChgPct": -3.8
     },
     {
       "sym": "INFQ",
       "name": "Infleqtion",
-      "weekChgPct": -5.7
+      "weekChgPct": 14.0
     },
     {
       "sym": "HQ",
       "name": "Horizon Quantum",
-      "weekChgPct": -25.3
+      "weekChgPct": 13.0
     },
     {
       "sym": "PSQL",
       "name": "Pasqal",
-      "weekChgPct": -17.0
+      "weekChgPct": -9.0
     },
     {
       "sym": "IQMX",
       "name": "IQM Quantum Computers",
-      "weekChgPct": -14.4
+      "weekChgPct": -10.3
     }
   ],
   "warnings": []
